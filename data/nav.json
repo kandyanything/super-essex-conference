@@ -1,0 +1,71 @@
+{
+  "_comment": "Super Essex Conference top navigation. Built fresh on every page by js/nav-render.js. A top-level item with 'children' becomes a dropdown; one without is a plain link.",
+  "items": [
+    {
+      "label": "Home",
+      "href": "index.html"
+    },
+    {
+      "label": "Member Schools",
+      "href": "index.html#member-schools",
+      "children": [
+        {
+          "label": "All Schools",
+          "href": "schools.html"
+        },
+        {
+          "label": "Conference Calendar",
+          "href": "calendar.html"
+        },
+        {
+          "label": "School Websites",
+          "href": "websites.html"
+        }
+      ]
+    },
+    {
+      "label": "Conference Schedule",
+      "href": "calendar.html"
+    },
+    {
+      "label": "Media",
+      "href": "index.html#sec-vision",
+      "children": [
+        {
+          "label": "SEC Vision",
+          "href": "index.html#sec-vision"
+        },
+        {
+          "label": "All Videos",
+          "href": "videos.html"
+        },
+        {
+          "label": "SEC News",
+          "href": "index.html#sec-news"
+        }
+      ]
+    },
+    {
+      "label": "Conference",
+      "href": "info.html",
+      "children": [
+        {
+          "label": "Athletic Directors",
+          "href": "index.html#directory"
+        },
+        {
+          "label": "About the SEC",
+          "href": "info.html"
+        },
+        {
+          "label": "School Websites",
+          "href": "websites.html"
+        },
+        {
+          "label": "External Links",
+          "href": "links.html"
+        }
+      ]
+    }
+  ]
+}

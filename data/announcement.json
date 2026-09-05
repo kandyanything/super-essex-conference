@@ -1,0 +1,12 @@
+{
+  "_comment": "Site-wide pop-up shown when someone opens the site. active:true shows it, false hides it. Change 'id' whenever you post a NEW message so people who dismissed the last one see it. mode: 'once' = one time per visitor; 'acknowledge' = returns every visit until they click 'Don't show again'; 'untilDate' = shows until 'endDate' (YYYY-MM-DD) passes, then comes down on its own. eyebrow/linkUrl/linkLabel are optional; leave linkUrl empty for no button. endDate is only used by the 'untilDate' mode.",
+  "active": false,
+  "id": "welcome-2026",
+  "eyebrow": "Announcement",
+  "title": "Welcome to the New Super Essex Site",
+  "body": "Browse every school's schedule, follow standings, and watch SEC Vision — all season long.",
+  "linkUrl": "#member-schools",
+  "linkLabel": "View Schedules",
+  "mode": "once",
+  "endDate": ""
+}

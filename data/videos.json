@@ -1,0 +1,4 @@
+{
+  "_comment": "SEC Vision. Only entries in 'videos' are rendered. 'id' is the YouTube video id - the part after youtube.com/watch?v= , /live/ or /embed/ . The first video runs large as the feature; the rest fill the grid beneath it (homepage shows up to 7 = 1 feature + 6 grid; videos.html shows all). Optional 'thumb' picks the preview image: omit it for the uploader's graphic, or use 'hq1'/'hq2'/'hq3' for an auto-captured frame, or a full image URL. Order here is the order shown.",
+  "videos": []
+}
