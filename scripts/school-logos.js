@@ -16,7 +16,7 @@ function norm(s) {
         .replace(/&/g, ' and ')
         .replace(/\bsaint\b/g, 'st')
         .replace(/[^a-z0-9]+/g, ' ')
-        .replace(/\b(high|school|schools|regional|senior|hs|the)\b/g, ' ')
+        .replace(/\b(high|school|schools|regional|senior|hs|the|charter)\b/g, ' ')
         .replace(/\s+/g, ' ').trim();
 }
 
