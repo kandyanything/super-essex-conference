@@ -1,5 +1,5 @@
 {
-  "_comment": "Conference standings are published by NJ.com. Each sport link is built from baseUrl + slug + season + conference, where 'season' falls back to defaultSeason and 'conference' to defaultConference (SEC). Verified 2026-09: boys/girls soccer, girls tennis and girls volleyball all use conference=SEC; football groups under the Super Football Conference so it carries a 'SFC' override. NJ.com has no SEC table for field hockey or ice hockey, so those are listed but not clickable (revisit later). Off-season sports default to SEC and populate once NJ.com posts their tables. Update defaultSeason each year.",
+  "_comment": "Conference standings are published by NJ.com. A sport with a 'slug' is a live link built from baseUrl + slug + season + conference (falling back to defaultSeason / defaultConference = SEC). A sport with NO 'slug'/'url' shows 'Link coming soon' and is not clickable. Verified 2026-09: boys/girls soccer, girls tennis, girls volleyball use conference=SEC; football groups under the Super Football Conference so it carries a 'SFC' override. Field hockey/ice hockey have no SEC table. Out-of-season winter and spring sports are parked as 'coming soon' with their intended link kept in 'pendingSlug' - to activate one when its season opens, rename 'pendingSlug' to 'slug'. Update defaultSeason each year.",
   "defaultSeason": "2026-2027",
   "baseUrl": "https://highschoolsports.nj.com",
   "defaultConference": "SEC",
@@ -18,27 +18,27 @@
     {
       "name": "Winter",
       "sports": [
-        { "label": "Boys Basketball", "slug": "boysbasketball" },
-        { "label": "Girls Basketball", "slug": "girlsbasketball" },
+        { "label": "Boys Basketball", "pendingSlug": "boysbasketball" },
+        { "label": "Girls Basketball", "pendingSlug": "girlsbasketball" },
         { "label": "Ice Hockey" },
-        { "label": "Wrestling", "slug": "wrestling" },
-        { "label": "Boys Swimming", "slug": "boysswimming" },
-        { "label": "Girls Swimming", "slug": "girlsswimming" },
-        { "label": "Boys Bowling", "slug": "boysbowling" },
-        { "label": "Girls Bowling", "slug": "girlsbowling" }
+        { "label": "Wrestling", "pendingSlug": "wrestling" },
+        { "label": "Boys Swimming", "pendingSlug": "boysswimming" },
+        { "label": "Girls Swimming", "pendingSlug": "girlsswimming" },
+        { "label": "Boys Bowling", "pendingSlug": "boysbowling" },
+        { "label": "Girls Bowling", "pendingSlug": "girlsbowling" }
       ]
     },
     {
       "name": "Spring",
       "sports": [
-        { "label": "Baseball", "slug": "baseball" },
-        { "label": "Softball", "slug": "softball" },
-        { "label": "Boys Lacrosse", "slug": "boyslacrosse" },
-        { "label": "Girls Lacrosse", "slug": "girlslacrosse" },
-        { "label": "Boys Tennis", "slug": "boystennis" },
-        { "label": "Boys Volleyball", "slug": "boysvolleyball" },
-        { "label": "Boys Golf", "slug": "boysgolf" },
-        { "label": "Girls Golf", "slug": "girlsgolf" }
+        { "label": "Baseball", "pendingSlug": "baseball" },
+        { "label": "Softball", "pendingSlug": "softball" },
+        { "label": "Boys Lacrosse", "pendingSlug": "boyslacrosse" },
+        { "label": "Girls Lacrosse", "pendingSlug": "girlslacrosse" },
+        { "label": "Boys Tennis", "pendingSlug": "boystennis" },
+        { "label": "Boys Volleyball", "pendingSlug": "boysvolleyball" },
+        { "label": "Boys Golf", "pendingSlug": "boysgolf" },
+        { "label": "Girls Golf", "pendingSlug": "girlsgolf" }
       ]
     }
   ]
