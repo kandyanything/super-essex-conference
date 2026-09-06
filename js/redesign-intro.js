@@ -38,7 +38,7 @@
 
     function img(src) { var i = new Image(); i.src = src; return i; }
     var balls = ['basketball', 'soccer', 'tennis', 'lacrosse', 'volleyball'].map(function (n) { return img('images/balls/' + n + '.png'); });
-    var logo = img('images/sec-mark.svg');
+    var logo = img('images/sec-mark.png');
     var assets = balls.concat([logo]);
     function ready() { for (var i = 0; i < assets.length; i++) { if (!assets[i].complete || !assets[i].naturalWidth) return false; } return true; }
 
