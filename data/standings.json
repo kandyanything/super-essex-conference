@@ -1,15 +1,15 @@
 {
-  "_comment": "Conference standings are published by NJ.com. An entry's URL is built from baseUrl + slug + season + conference, where 'season' falls back to defaultSeason and 'conference' to defaultConference (Super Essex). NJ.com is inconsistent about the conference id per sport: most use 'Super Essex' but girls soccer uses 'Big-North' (hyphen), so it carries a conference override. Football groups at the Super Football Conference (SFC) and lacrosse at NJILL/NJIGLL. A sport with neither 'slug' nor 'url' is listed but not clickable - NJ.com has no Super Essex table for field hockey or ice hockey (revisit later). Update defaultSeason each year.",
+  "_comment": "Conference standings are published by NJ.com. Each sport link is built from baseUrl + slug + season + conference, where 'season' falls back to defaultSeason and 'conference' to defaultConference (SEC). Verified 2026-09: boys/girls soccer, girls tennis and girls volleyball all use conference=SEC; football groups under the Super Football Conference so it carries a 'SFC' override. NJ.com has no SEC table for field hockey or ice hockey, so those are listed but not clickable (revisit later). Off-season sports default to SEC and populate once NJ.com posts their tables. Update defaultSeason each year.",
   "defaultSeason": "2026-2027",
   "baseUrl": "https://highschoolsports.nj.com",
-  "defaultConference": "Super Essex",
+  "defaultConference": "SEC",
   "seasons": [
     {
       "name": "Fall",
       "sports": [
         { "label": "Football", "slug": "football", "conference": "SFC" },
         { "label": "Boys Soccer", "slug": "boyssoccer" },
-        { "label": "Girls Soccer", "slug": "girlssoccer", "conference": "Big-North" },
+        { "label": "Girls Soccer", "slug": "girlssoccer" },
         { "label": "Field Hockey" },
         { "label": "Girls Tennis", "slug": "girlstennis" },
         { "label": "Girls Volleyball", "slug": "girlsvolleyball" }
@@ -33,8 +33,8 @@
       "sports": [
         { "label": "Baseball", "slug": "baseball" },
         { "label": "Softball", "slug": "softball" },
-        { "label": "Boys Lacrosse", "slug": "boyslacrosse", "conference": "NJILL" },
-        { "label": "Girls Lacrosse", "slug": "girlslacrosse", "conference": "NJIGLL" },
+        { "label": "Boys Lacrosse", "slug": "boyslacrosse" },
+        { "label": "Girls Lacrosse", "slug": "girlslacrosse" },
         { "label": "Boys Tennis", "slug": "boystennis" },
         { "label": "Boys Volleyball", "slug": "boysvolleyball" },
         { "label": "Boys Golf", "slug": "boysgolf" },
