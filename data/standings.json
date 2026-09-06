@@ -10,9 +10,11 @@
         { "label": "Football", "slug": "football", "conference": "SFC" },
         { "label": "Boys Soccer", "slug": "boyssoccer" },
         { "label": "Girls Soccer", "slug": "girlssoccer" },
-        { "label": "Field Hockey" },
+        { "label": "Field Hockey", "slug": "fieldhockey", "conference": "Essex/Union" },
         { "label": "Girls Tennis", "slug": "girlstennis" },
-        { "label": "Girls Volleyball", "slug": "girlsvolleyball" }
+        { "label": "Girls Volleyball", "slug": "girlsvolleyball" },
+        { "label": "Boys Cross Country", "url": "https://nj.milesplit.com/" },
+        { "label": "Girls Cross Country", "url": "https://nj.milesplit.com/" }
       ]
     },
     {
