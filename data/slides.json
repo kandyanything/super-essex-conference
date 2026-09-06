@@ -1,5 +1,7 @@
 {
-  "_comment": "Hero photo slides for the Ken Burns slider on the homepage. Add images under images/photos/ then list them here. Empty = static hero.",
+  "_comment": "Hero photo slides for the Ken Burns slider on the homepage. intervalMs sets the rotation speed. Each slide: image (path under images/photos/), alt, and optional heading/text/link for an overlaid caption. Add more entries as photos come in.",
   "intervalMs": 5000,
-  "slides": []
+  "slides": [
+    { "image": "images/photos/cheer.jpg", "alt": "Super Essex Conference cheerleading" }
+  ]
 }
