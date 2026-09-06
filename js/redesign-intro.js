@@ -13,8 +13,8 @@
     var force = /[?&#]intro\b/i.test(location.search + location.hash);
     if (!force) {
         try {
-            if (sessionStorage.getItem('bncIntroPlayed')) return;
-            sessionStorage.setItem('bncIntroPlayed', '1');
+            if (sessionStorage.getItem('secIntroPlayed')) return;
+            sessionStorage.setItem('secIntroPlayed', '1');
         } catch (e) { /* storage blocked - still fine to play once */ }
         if (window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches) return;
     }
@@ -38,7 +38,7 @@
 
     function img(src) { var i = new Image(); i.src = src; return i; }
     var balls = ['basketball', 'soccer', 'tennis', 'lacrosse', 'volleyball'].map(function (n) { return img('images/balls/' + n + '.png'); });
-    var logo = img('images/sec-logo.svg');
+    var logo = img('images/sec-mark.svg');
     var assets = balls.concat([logo]);
     function ready() { for (var i = 0; i < assets.length; i++) { if (!assets[i].complete || !assets[i].naturalWidth) return false; } return true; }
 
@@ -113,7 +113,7 @@
         ctx.beginPath(); ctx.moveTo(cx - R * 1.05, cy + R * 1.5); ctx.lineTo(cx + R * 1.05, cy + R * 1.5); ctx.stroke();
         ctx.font = '700 ' + Math.min(W * 0.052, 50) + 'px "Oswald","Arial Narrow",system-ui,sans-serif';
         ctx.fillStyle = '#fff'; ctx.shadowColor = 'rgba(195,201,209,.5)'; ctx.shadowBlur = 18;
-        ctx.fillText('BIG NORTH CONFERENCE', cx, cy + R * 1.92);
+        ctx.fillText('SUPER ESSEX CONFERENCE', cx, cy + R * 1.92);
         ctx.shadowBlur = 0;
         ctx.font = '600 ' + Math.min(W * 0.022, 20) + 'px "Oswald","Arial Narrow",system-ui,sans-serif';
         ctx.fillStyle = '#c3c9d1';
