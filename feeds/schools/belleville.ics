@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:arb:101784950@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260819T170000
 DTEND;TZID=America/New_York:20260819T190000
 SUMMARY:Belleville High School at Wallington High School (Varsity Boys Fo
@@ -33,7 +33,7 @@ DESCRIPTION:Varsity Boys Football - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100695000@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260822T110000
 DTEND;TZID=America/New_York:20260822T130000
 SUMMARY:Belleville High School vs Kearny High School (Varsity Boys Footba
@@ -42,7 +42,7 @@ DESCRIPTION:Varsity Boys Football - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102430157@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260824T160000
 DTEND;TZID=America/New_York:20260824T180000
 SUMMARY:Belleville High School at West Essex High School (Junior Varsity 
@@ -51,7 +51,7 @@ DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102430094@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260824T161500
 DTEND;TZID=America/New_York:20260824T181500
 SUMMARY:Belleville High School at West Essex High School (Varsity Boys Bo
@@ -60,7 +60,7 @@ DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102559122@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260825T100000
 DTEND;TZID=America/New_York:20260825T120000
 SUMMARY:Belleville High School vs Nutley High School (Varsity Girls Girls
@@ -69,7 +69,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102127454@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260825T100000
 DTEND;TZID=America/New_York:20260825T120000
 SUMMARY:Belleville High School at Nutley High School (Freshman Girls Girl
@@ -78,7 +78,7 @@ DESCRIPTION:Freshman Girls Girls Volleyball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102559301@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260825T113000
 DTEND;TZID=America/New_York:20260825T133000
 SUMMARY:Belleville High School vs Nutley High School (Junior Varsity Girl
@@ -87,7 +87,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103030388@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260826T100000
 DTEND;TZID=America/New_York:20260826T120000
 SUMMARY:[Canceled] Belleville High School at Hoboken High School (Varsity
@@ -97,7 +97,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102863835@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260826T111500
 DTEND;TZID=America/New_York:20260826T131500
 SUMMARY:[Canceled] Belleville High School at Hoboken High School (Junior 
@@ -107,7 +107,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101528371@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260828T090000
 DTEND;TZID=America/New_York:20260828T110000
 SUMMARY:Belleville High School at Harrison High School (Varsity Girls Gir
@@ -116,7 +116,7 @@ DESCRIPTION:Varsity Girls Girls Soccer - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103224725@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260828T100000
 DTEND;TZID=America/New_York:20260828T120000
 SUMMARY:Belleville High School at TBD (Varsity Girls Girls Volleyball)
@@ -124,7 +124,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103226097@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260828T100000
 DTEND;TZID=America/New_York:20260828T120000
 SUMMARY:Belleville High School at Bloomfield High School (Junior Varsity 
@@ -133,7 +133,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103226021@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260828T100000
 DTEND;TZID=America/New_York:20260828T120000
 SUMMARY:Belleville High School at Bloomfield High School (Freshman Girls 
@@ -142,7 +142,7 @@ DESCRIPTION:Freshman Girls Girls Volleyball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102549751@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260828T100000
 DTEND;TZID=America/New_York:20260828T120000
 SUMMARY:Belleville High School vs Oratory Prep School (Varsity Boys Boys 
@@ -151,7 +151,7 @@ DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100805732@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260828T100000
 DTEND;TZID=America/New_York:20260828T120000
 SUMMARY:[Canceled] Belleville High School at Oratory Prep School (Freshma
@@ -161,7 +161,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103226131@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260828T110000
 DTEND;TZID=America/New_York:20260828T130000
 SUMMARY:Belleville High School at Union City High School (Junior Varsity 
@@ -170,7 +170,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103226053@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260828T110000
 DTEND;TZID=America/New_York:20260828T130000
 SUMMARY:Belleville High School at Union City High School (Freshman Girls 
@@ -179,7 +179,7 @@ DESCRIPTION:Freshman Girls Girls Volleyball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103224760@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260828T110000
 DTEND;TZID=America/New_York:20260828T130000
 SUMMARY:Belleville High School at Union City High School (Varsity Girls G
@@ -188,7 +188,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103226066@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260828T120000
 DTEND;TZID=America/New_York:20260828T140000
 SUMMARY:Belleville High School at Bloomfield High School (Freshman Girls 
@@ -197,7 +197,7 @@ DESCRIPTION:Freshman Girls Girls Volleyball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101453424@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260828T120000
 DTEND;TZID=America/New_York:20260828T140000
 SUMMARY:Belleville High School vs Oratory Prep School (Junior Varsity Boy
@@ -206,7 +206,7 @@ DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102864378@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260831T160000
 DTEND;TZID=America/New_York:20260831T180000
 SUMMARY:Belleville High School vs Saint Benedict's Preparatory School (Va
@@ -215,7 +215,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102864360@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260831T171500
 DTEND;TZID=America/New_York:20260831T191500
 SUMMARY:Belleville High School vs Saint Benedict's Preparatory School (Ju
@@ -224,7 +224,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102914675@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T160000
 DTEND;TZID=America/New_York:20260901T180000
 SUMMARY:[Canceled] Belleville High School at Cedar Grove High School (Fre
@@ -234,7 +234,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101452384@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T160000
 DTEND;TZID=America/New_York:20260901T180000
 SUMMARY:Belleville High School vs Verona High School (Junior Varsity Boys
@@ -243,7 +243,7 @@ DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101431434@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T160000
 DTEND;TZID=America/New_York:20260901T180000
 SUMMARY:[Canceled] Belleville High School at Verona High School (Freshman
@@ -253,7 +253,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100661493@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T160000
 DTEND;TZID=America/New_York:20260901T180000
 SUMMARY:Belleville High School vs Verona High School (Varsity Boys Boys S
@@ -262,7 +262,7 @@ DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100113483@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T160000
 DTEND;TZID=America/New_York:20260901T180000
 SUMMARY:Belleville High School vs Cedar Grove High School (Varsity Girls 
@@ -271,7 +271,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100113492@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T173000
 DTEND;TZID=America/New_York:20260901T193000
 SUMMARY:Belleville High School vs Cedar Grove High School (Junior Varsity
@@ -280,7 +280,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101534510@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260902T160000
 DTEND;TZID=America/New_York:20260902T180000
 SUMMARY:[Canceled] Belleville High School vs Central High School (Varsity
@@ -290,7 +290,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101503445@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260902T160000
 DTEND;TZID=America/New_York:20260902T180000
 SUMMARY:[Canceled] Belleville High School vs Millburn High School (Junior
@@ -300,7 +300,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664807@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260902T160000
 DTEND;TZID=America/New_York:20260902T180000
 SUMMARY:Belleville High School vs Millburn High School (Varsity Girls Gir
@@ -309,7 +309,7 @@ DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101445370@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260903T160000
 DTEND;TZID=America/New_York:20260903T180000
 SUMMARY:Belleville High School at Cedar Grove High School (Junior Varsity
@@ -318,7 +318,7 @@ DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100661613@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260903T160000
 DTEND;TZID=America/New_York:20260903T180000
 SUMMARY:Belleville High School at Cedar Grove High School (Varsity Boys B
@@ -327,7 +327,7 @@ DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664809@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260904T160000
 DTEND;TZID=America/New_York:20260904T180000
 SUMMARY:Belleville High School vs Essex County-Newark Tech High School (V
@@ -336,7 +336,7 @@ DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99665631@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260904T190000
 DTEND;TZID=America/New_York:20260904T210000
 SUMMARY:Belleville High School at Pascack Hills High School (Varsity Boys
@@ -345,7 +345,7 @@ DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99704393@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260907T163000
 DTEND;TZID=America/New_York:20260907T183000
 SUMMARY:[Canceled] Belleville High School vs Pascack Hills High School (J
@@ -355,7 +355,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102901349@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260908T150000
 DTEND;TZID=America/New_York:20260908T170000
 SUMMARY:Belleville High School at East Side High School - Newark (Varsity
@@ -364,7 +364,7 @@ DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102683205@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260908T150000
 DTEND;TZID=America/New_York:20260908T170000
 SUMMARY:Belleville High School at Cedar Grove High School (Varsity Girls 
@@ -373,7 +373,7 @@ DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102554570@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260909T160000
 DTEND;TZID=America/New_York:20260909T180000
 SUMMARY:[Canceled] Belleville High School vs Essex County-Newark Tech Hig
@@ -383,7 +383,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100661522@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260909T160000
 DTEND;TZID=America/New_York:20260909T180000
 SUMMARY:Belleville High School vs Essex County-Newark Tech High School (V
@@ -392,7 +392,7 @@ DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99058349@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260909T160000
 DTEND;TZID=America/New_York:20260909T180000
 SUMMARY:Belleville High School vs Central High School (Varsity Girls Girl
@@ -401,7 +401,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99058359@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260909T171500
 DTEND;TZID=America/New_York:20260909T191500
 SUMMARY:Belleville High School vs Central High School (Junior Varsity Gir
@@ -410,7 +410,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103525997@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T160000
 DTEND;TZID=America/New_York:20260910T180000
 SUMMARY:Belleville High School vs Columbia High School (Freshman Girls Gi
@@ -419,7 +419,7 @@ DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102982582@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T160000
 DTEND;TZID=America/New_York:20260910T180000
 SUMMARY:Belleville High School vs American History High School (Varsity G
@@ -428,7 +428,7 @@ DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664810@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T160000
 DTEND;TZID=America/New_York:20260910T180000
 SUMMARY:[Canceled] Belleville High School vs Golda Och Academy (Varsity G
@@ -438,7 +438,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99051535@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T160000
 DTEND;TZID=America/New_York:20260910T180000
 SUMMARY:Belleville High School at Columbia High School (Varsity Girls Gir
@@ -447,7 +447,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99051556@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T171500
 DTEND;TZID=America/New_York:20260910T191500
 SUMMARY:Belleville High School at Columbia High School (Junior Varsity Gi
@@ -456,7 +456,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102561880@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260911T160000
 DTEND;TZID=America/New_York:20260911T180000
 SUMMARY:Belleville High School at Abundant Life Academy (Varsity Girls Gi
@@ -465,7 +465,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102561903@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260911T171500
 DTEND;TZID=America/New_York:20260911T191500
 SUMMARY:Belleville High School at Abundant Life Academy (Junior Varsity G
@@ -474,7 +474,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99704359@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260911T190000
 DTEND;TZID=America/New_York:20260911T210000
 SUMMARY:Belleville High School vs Bergenfield High School (Varsity Boys F
@@ -483,7 +483,7 @@ DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99065983@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T160000
 DTEND;TZID=America/New_York:20260914T180000
 SUMMARY:Barringer High School vs Belleville High School (Varsity Girls Gi
@@ -492,7 +492,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100662145@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T160000
 DTEND;TZID=America/New_York:20260914T180000
 SUMMARY:Belleville High School at Orange High School (Varsity Boys Boys S
@@ -501,7 +501,7 @@ DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101527400@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T160000
 DTEND;TZID=America/New_York:20260914T180000
 SUMMARY:Bloomfield High School vs Belleville High School (Varsity Girls G
@@ -510,7 +510,7 @@ DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101495096@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T160000
 DTEND;TZID=America/New_York:20260914T180000
 SUMMARY:Bloomfield High School at Belleville High School (Junior Varsity 
@@ -519,7 +519,7 @@ DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100120924@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T161500
 DTEND;TZID=America/New_York:20260914T181500
 SUMMARY:Belleville High School at Bergenfield High School (Junior Varsity
@@ -528,7 +528,7 @@ DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99065989@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T171500
 DTEND;TZID=America/New_York:20260914T191500
 SUMMARY:Barringer High School vs Belleville High School (Junior Varsity G
@@ -537,7 +537,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103330368@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T030000
 DTEND;TZID=America/New_York:20260915T050000
 SUMMARY:Belleville High School at West Side High School (Varsity Girls Gi
@@ -546,7 +546,7 @@ DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102823364@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T080000
 DTEND;TZID=America/New_York:20260915T100000
 SUMMARY:Belleville High School at TBD (Varsity Girls Girls Tennis)
@@ -554,7 +554,7 @@ DESCRIPTION:Varsity Girls Girls Tennis - Away - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103222490@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T160000
 DTEND;TZID=America/New_York:20260915T180000
 SUMMARY:Belleville High School at West Orange High School (Varsity Boys B
@@ -563,7 +563,7 @@ DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101611781@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T160000
 DTEND;TZID=America/New_York:20260915T180000
 SUMMARY:Belleville High School at Bloomfield High School (Junior Varsity 
@@ -572,7 +572,7 @@ DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100666586@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T160000
 DTEND;TZID=America/New_York:20260915T180000
 SUMMARY:Belleville High School at Bloomfield High School (Varsity Girls G
@@ -581,7 +581,7 @@ DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102986045@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T160000
 DTEND;TZID=America/New_York:20260916T180000
 SUMMARY:Belleville High School at West Caldwell Tech (Freshman Girls Girl
@@ -590,7 +590,7 @@ DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102928083@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T160000
 DTEND;TZID=America/New_York:20260916T180000
 SUMMARY:Belleville High School vs Irvington High School (Varsity Girls Gi
@@ -599,7 +599,7 @@ DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100661738@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T160000
 DTEND;TZID=America/New_York:20260916T180000
 SUMMARY:Belleville High School at Central High School (Varsity Boys Boys 
@@ -608,7 +608,7 @@ DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99058503@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T160000
 DTEND;TZID=America/New_York:20260916T180000
 SUMMARY:Belleville High School vs West Caldwell Tech (Varsity Girls Girls
@@ -617,7 +617,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99058492@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T171500
 DTEND;TZID=America/New_York:20260916T191500
 SUMMARY:Belleville High School vs West Caldwell Tech (Junior Varsity Girl
@@ -626,7 +626,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102559773@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260917T160000
 DTEND;TZID=America/New_York:20260917T180000
 SUMMARY:Belleville High School vs Nutley High School (Freshman Girls Girl
@@ -635,7 +635,7 @@ DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102127518@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260917T160000
 DTEND;TZID=America/New_York:20260917T180000
 SUMMARY:Belleville High School at Nutley High School (Varsity Girls Girls
@@ -644,7 +644,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664812@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260917T160000
 DTEND;TZID=America/New_York:20260917T180000
 SUMMARY:Belleville High School vs East Orange Campus High School (Varsity
@@ -653,7 +653,7 @@ DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102127653@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260917T173000
 DTEND;TZID=America/New_York:20260917T193000
 SUMMARY:Belleville High School at Nutley High School (Junior Varsity Girl
@@ -662,7 +662,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99696425@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260917T180000
 DTEND;TZID=America/New_York:20260917T200000
 SUMMARY:Belleville High School at Bergen County Technical High School (Va
@@ -671,7 +671,7 @@ DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102169162@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T080000
 DTEND;TZID=America/New_York:20260919T100000
 SUMMARY:Belleville High School vs TBD (Varsity Girls Girls Volleyball)
@@ -679,7 +679,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Home - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102928599@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260921T160000
 DTEND;TZID=America/New_York:20260921T180000
 SUMMARY:Belleville High School at University High School (Varsity Girls G
@@ -688,7 +688,7 @@ DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99062541@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260921T160000
 DTEND;TZID=America/New_York:20260921T180000
 SUMMARY:Belleville High School at Technology High School (Newark) (Varsit
@@ -697,7 +697,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99704405@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260921T163000
 DTEND;TZID=America/New_York:20260921T183000
 SUMMARY:Belleville High School vs Bergen County Technical High School (Ju
@@ -706,7 +706,7 @@ DESCRIPTION:Junior Varsity Boys Football - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99062532@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260921T171500
 DTEND;TZID=America/New_York:20260921T191500
 SUMMARY:Belleville High School at Technology High School (Newark) (Junior
@@ -715,7 +715,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102565613@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T160000
 DTEND;TZID=America/New_York:20260922T180000
 SUMMARY:Belleville High School vs Golda Och Academy (Varsity Girls Girls 
@@ -724,7 +724,7 @@ DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102554590@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T160000
 DTEND;TZID=America/New_York:20260923T180000
 SUMMARY:Belleville High School vs Malcolm X Shabazz High School (Junior V
@@ -733,7 +733,7 @@ DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100661528@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T160000
 DTEND;TZID=America/New_York:20260923T180000
 SUMMARY:Belleville High School vs Malcolm X Shabazz High School (Varsity 
@@ -742,7 +742,7 @@ DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99058551@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T160000
 DTEND;TZID=America/New_York:20260923T180000
 SUMMARY:Belleville High School vs East Side High School - Newark (Varsity
@@ -751,7 +751,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99058558@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T171500
 DTEND;TZID=America/New_York:20260923T191500
 SUMMARY:Belleville High School vs East Side High School - Newark (Junior 
@@ -760,7 +760,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103140555@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T160000
 DTEND;TZID=America/New_York:20260924T180000
 SUMMARY:Belleville High School vs Essex County-Newark Tech High School (F
@@ -769,7 +769,7 @@ DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102584030@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T160000
 DTEND;TZID=America/New_York:20260924T180000
 SUMMARY:Belleville High School at Essex County-Newark Tech High School (V
@@ -778,7 +778,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664956@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T160000
 DTEND;TZID=America/New_York:20260924T180000
 SUMMARY:Belleville High School at Technology High School (Newark) (Varsit
@@ -787,7 +787,7 @@ DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102584019@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T171500
 DTEND;TZID=America/New_York:20260924T191500
 SUMMARY:Belleville High School at Essex County-Newark Tech High School (J
@@ -796,7 +796,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101536882@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T160000
 DTEND;TZID=America/New_York:20260925T180000
 SUMMARY:Cedar Grove High School vs Belleville High School (Varsity Girls 
@@ -805,7 +805,7 @@ DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101514016@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T160000
 DTEND;TZID=America/New_York:20260925T180000
 SUMMARY:Cedar Grove High School at Belleville High School (Junior Varsity
@@ -814,7 +814,7 @@ DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99704368@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T190000
 DTEND;TZID=America/New_York:20260925T210000
 SUMMARY:Belleville High School vs Dover High School (Varsity Boys Footbal
@@ -823,7 +823,7 @@ DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99058589@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
 SUMMARY:Arts High School at Belleville High School (Varsity Girls Girls V
@@ -832,7 +832,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100194745@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T161500
 DTEND;TZID=America/New_York:20260928T181500
 SUMMARY:Belleville High School at Dover High School (Junior Varsity Boys 
@@ -841,7 +841,7 @@ DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99058575@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T171500
 DTEND;TZID=America/New_York:20260928T191500
 SUMMARY:Arts High School at Belleville High School (Junior Varsity Girls 
@@ -850,7 +850,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103330601@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T150000
 DTEND;TZID=America/New_York:20260929T170000
 SUMMARY:Belleville High School at East Side High School - Newark (Varsity
@@ -859,7 +859,7 @@ DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103330486@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T150000
 DTEND;TZID=America/New_York:20260929T170000
 SUMMARY:Belleville High School at Eagle Academy of Newark (Varsity Boys B
@@ -868,7 +868,7 @@ DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102549845@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T160000
 DTEND;TZID=America/New_York:20260929T180000
 SUMMARY:Belleville High School vs West Essex High School (Freshman Boys B
@@ -877,7 +877,7 @@ DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102566022@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T040000
 DTEND;TZID=America/New_York:20260930T060000
 SUMMARY:Belleville High School vs American History High School (Varsity G
@@ -886,7 +886,7 @@ DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102863955@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T160000
 DTEND;TZID=America/New_York:20260930T180000
 SUMMARY:Belleville High School at Saint Benedict's Preparatory School (Va
@@ -895,7 +895,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100661667@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T160000
 DTEND;TZID=America/New_York:20260930T180000
 SUMMARY:Belleville High School at East Orange Campus High School (Varsity
@@ -904,7 +904,7 @@ DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102863999@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T171500
 DTEND;TZID=America/New_York:20260930T191500
 SUMMARY:Belleville High School at Saint Benedict's Preparatory School (Ju
@@ -913,7 +913,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102661592@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:Belleville High School at Verona High School (Varsity Girls Girls
@@ -922,7 +922,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664814@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:Belleville High School vs Orange High School (Varsity Girls Girls
@@ -931,7 +931,7 @@ DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102661637@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T171500
 DTEND;TZID=America/New_York:20261001T191500
 SUMMARY:Belleville High School at Verona High School (Junior Varsity Girl
@@ -940,7 +940,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100155892@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Belleville High School at John F. Kennedy High School - Paterson 
@@ -949,7 +949,7 @@ DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101611966@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
 SUMMARY:Belleville High School at Bloomfield High School (Junior Varsity 
@@ -958,7 +958,7 @@ DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100660589@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
 SUMMARY:Belleville High School at Bloomfield High School (Varsity Boys Bo
@@ -967,7 +967,7 @@ DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101427632@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
 SUMMARY:Bloomfield High School at Belleville High School (Freshman Boys B
@@ -976,7 +976,7 @@ DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99704410@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T163000
 DTEND;TZID=America/New_York:20261005T183000
 SUMMARY:Belleville High School vs John F. Kennedy High School - Paterson 
@@ -985,7 +985,7 @@ DESCRIPTION:Junior Varsity Boys Football - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102568481@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T160000
 DTEND;TZID=America/New_York:20261006T180000
 SUMMARY:Belleville High School at Nutley High School (Freshman Girls Girl
@@ -994,7 +994,7 @@ DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102559367@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T160000
 DTEND;TZID=America/New_York:20261006T180000
 SUMMARY:Belleville High School vs Nutley High School (Varsity Girls Girls
@@ -1003,7 +1003,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102559377@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T171500
 DTEND;TZID=America/New_York:20261006T191500
 SUMMARY:Belleville High School vs Nutley High School (Junior Varsity Girl
@@ -1012,7 +1012,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99072267@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
 DTEND;TZID=America/New_York:20261007T180000
 SUMMARY:Belleville High School at Central High School (Varsity Girls Girl
@@ -1021,7 +1021,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99072259@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T171500
 DTEND;TZID=America/New_York:20261007T191500
 SUMMARY:Belleville High School at Central High School (Junior Varsity Gir
@@ -1030,7 +1030,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103331086@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T150000
 DTEND;TZID=America/New_York:20261008T170000
 SUMMARY:Belleville High School at Mount Saint Dominic Academy (Varsity Gi
@@ -1039,7 +1039,7 @@ DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103330759@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T150000
 DTEND;TZID=America/New_York:20261008T170000
 SUMMARY:Belleville High School at Caldwell High School (Varsity Boys Boys
@@ -1048,7 +1048,7 @@ DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664876@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
 DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Barringer High School vs Belleville High School (Varsity Girls Gi
@@ -1057,7 +1057,7 @@ DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102864627@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
 DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Belleville High School vs Hoboken High School (Varsity Girls Girl
@@ -1066,7 +1066,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102127844@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
 DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Belleville High School at Nutley High School (Freshman Girls Girl
@@ -1075,7 +1075,7 @@ DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101380325@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
 DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Belleville High School vs American History High School (Varsity B
@@ -1084,7 +1084,7 @@ DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102864639@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T171500
 DTEND;TZID=America/New_York:20261008T191500
 SUMMARY:Belleville High School vs Hoboken High School (Junior Varsity Gir
@@ -1093,7 +1093,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99704379@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Belleville High School vs Millburn High School (Varsity Boys Foot
@@ -1102,7 +1102,7 @@ DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101266836@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T160000
 DTEND;TZID=America/New_York:20261009T180000
 SUMMARY:Belleville High School vs Beloved Community Charter School (Varsi
@@ -1111,7 +1111,7 @@ DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664902@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T100000
 DTEND;TZID=America/New_York:20261010T120000
 SUMMARY:Belleville High School at Irvington High School (Varsity Girls Gi
@@ -1120,7 +1120,7 @@ DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99058727@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T160000
 DTEND;TZID=America/New_York:20261012T180000
 SUMMARY:Barringer High School at Belleville High School (Varsity Girls Gi
@@ -1129,7 +1129,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99707065@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T163000
 DTEND;TZID=America/New_York:20261012T183000
 SUMMARY:Belleville High School at Millburn High School (Junior Varsity Bo
@@ -1138,7 +1138,7 @@ DESCRIPTION:Junior Varsity Boys Football - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99058705@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T171500
 DTEND;TZID=America/New_York:20261012T191500
 SUMMARY:Barringer High School at Belleville High School (Junior Varsity G
@@ -1147,7 +1147,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102639464@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T160000
 DTEND;TZID=America/New_York:20261013T180000
 SUMMARY:Belleville High School at Livingston High School (Freshman Girls 
@@ -1156,7 +1156,7 @@ DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102639370@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T160000
 DTEND;TZID=America/New_York:20261013T180000
 SUMMARY:Belleville High School at Livingston High School (Varsity Girls G
@@ -1165,7 +1165,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102639352@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T173000
 DTEND;TZID=America/New_York:20261013T193000
 SUMMARY:Belleville High School at Livingston High School (Junior Varsity 
@@ -1174,7 +1174,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102578794@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Belleville High School vs TBD (Varsity Girls Girls Cross Country)
@@ -1182,7 +1182,7 @@ DESCRIPTION:Varsity Girls Girls Cross Country - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102578777@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Belleville High School vs TBD (Varsity Boys Boys Cross Country)
@@ -1190,7 +1190,7 @@ DESCRIPTION:Varsity Boys Boys Cross Country - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102073017@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T180000
 SUMMARY:Belleville High School at West Orange High School (Junior Varsity
@@ -1199,7 +1199,7 @@ DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101364254@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T180000
 SUMMARY:Belleville High School vs West Orange High School (Freshman Boys 
@@ -1208,7 +1208,7 @@ DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99065778@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T180000
 SUMMARY:Belleville High School at West Caldwell Tech (Varsity Girls Girls
@@ -1217,7 +1217,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99065790@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T171500
 DTEND;TZID=America/New_York:20261014T191500
 SUMMARY:Belleville High School at West Caldwell Tech (Junior Varsity Girl
@@ -1226,7 +1226,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102068657@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T180000
 DTEND;TZID=America/New_York:20261014T200000
 SUMMARY:Belleville High School at West Orange High School (Varsity Boys B
@@ -1235,7 +1235,7 @@ DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99058759@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T160000
 DTEND;TZID=America/New_York:20261015T180000
 SUMMARY:Belleville High School vs Technology High School (Newark) (Varsit
@@ -1244,7 +1244,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99058777@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T171500
 DTEND;TZID=America/New_York:20261015T191500
 SUMMARY:Belleville High School vs Technology High School (Newark) (Junior
@@ -1253,7 +1253,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102979423@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Belleville High School at Essex County-Payne Tech High School (Ju
@@ -1262,7 +1262,7 @@ DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102910218@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Belleville High School at Essex County-Payne Tech High School (Va
@@ -1271,7 +1271,7 @@ DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102554620@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Belleville High School vs Science Park High School (Junior Varsit
@@ -1280,7 +1280,7 @@ DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102554532@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Belleville High School vs Science Park High School (Varsity Boys 
@@ -1289,7 +1289,7 @@ DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102556625@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T160000
 DTEND;TZID=America/New_York:20261020T180000
 SUMMARY:Belleville High School at West Essex High School (Freshman Boys B
@@ -1298,7 +1298,7 @@ DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101238556@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T163000
 DTEND;TZID=America/New_York:20261020T183000
 SUMMARY:[Canceled] Belleville High School at Roselle Park High School (Ju
@@ -1308,7 +1308,7 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101238516@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T163000
 DTEND;TZID=America/New_York:20261020T183000
 SUMMARY:Belleville High School at Roselle Park High School (Varsity Girls
@@ -1317,7 +1317,7 @@ DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99062249@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T161500
 DTEND;TZID=America/New_York:20261021T181500
 SUMMARY:Belleville High School at East Side High School - Newark (Varsity
@@ -1326,7 +1326,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99062259@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T171500
 DTEND;TZID=America/New_York:20261021T191500
 SUMMARY:Belleville High School at East Side High School - Newark (Junior 
@@ -1335,7 +1335,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103140606@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T160000
 DTEND;TZID=America/New_York:20261022T180000
 SUMMARY:Belleville High School at Essex County-Newark Tech High School (F
@@ -1344,7 +1344,7 @@ DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103140419@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T160000
 DTEND;TZID=America/New_York:20261022T180000
 SUMMARY:Belleville High School vs Essex County-Newark Tech High School (V
@@ -1353,7 +1353,7 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103140280@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T171500
 DTEND;TZID=America/New_York:20261022T191500
 SUMMARY:Belleville High School vs Essex County-Newark Tech High School (J
@@ -1362,7 +1362,7 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103520489@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T163000
 DTEND;TZID=America/New_York:20261023T183000
 SUMMARY:Belleville High School vs William L. Dickinson High School (Varsi
@@ -1371,7 +1371,7 @@ DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102549912@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T160000
 DTEND;TZID=America/New_York:20261026T180000
 SUMMARY:Belleville High School vs West Essex High School (Junior Varsity 
@@ -1380,7 +1380,7 @@ DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102549891@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T180000
 DTEND;TZID=America/New_York:20261026T200000
 SUMMARY:Belleville High School vs West Essex High School (Varsity Boys Bo
@@ -1389,7 +1389,7 @@ DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102611420@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T043000
 DTEND;TZID=America/New_York:20261209T063000
 SUMMARY:Belleville High School at Memorial High School (Freshman Boys Boy
@@ -1398,7 +1398,7 @@ DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103711782@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T161500
 DTEND;TZID=America/New_York:20261209T181500
 SUMMARY:Belleville High School vs Passaic High School (Varsity Girls Girl
@@ -1407,7 +1407,7 @@ DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102611419@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T163000
 DTEND;TZID=America/New_York:20261209T183000
 SUMMARY:Belleville High School at Memorial High School (Junior Varsity Bo
@@ -1416,7 +1416,7 @@ DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102611413@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T163000
 DTEND;TZID=America/New_York:20261209T183000
 SUMMARY:Belleville High School at Memorial High School (Varsity Boys Boys
@@ -1425,7 +1425,7 @@ DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102557943@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T180000
 DTEND;TZID=America/New_York:20261211T200000
 SUMMARY:Belleville High School at Montclair High School (Varsity Boys Boy
@@ -1434,7 +1434,7 @@ DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103069163@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T160000
 DTEND;TZID=America/New_York:20261214T180000
 SUMMARY:Belleville High School vs Harrison High School (Varsity Boys Boys
@@ -1443,7 +1443,7 @@ DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103069167@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T173000
 DTEND;TZID=America/New_York:20261214T193000
 SUMMARY:Belleville High School vs Harrison High School (Junior Varsity Bo
@@ -1452,7 +1452,7 @@ DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568590@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T160000
 DTEND;TZID=America/New_York:20261215T180000
 SUMMARY:Belleville High School vs Technology High School (Newark) (Varsit
@@ -1461,7 +1461,7 @@ DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100552023@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T160000
 DTEND;TZID=America/New_York:20261215T180000
 SUMMARY:Belleville High School at Essex County-West Caldwell Tech High Sc
@@ -1470,7 +1470,7 @@ DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100586008@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T173000
 DTEND;TZID=America/New_York:20261215T193000
 SUMMARY:Belleville High School vs Technology High School (Newark) (Junior
@@ -1479,7 +1479,7 @@ DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100552307@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T173000
 DTEND;TZID=America/New_York:20261215T193000
 SUMMARY:Belleville High School at Essex County-West Caldwell Tech High Sc
@@ -1488,7 +1488,7 @@ DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102611601@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Belleville High School at Newark Collegiate Academy (Varsity Boys
@@ -1497,7 +1497,7 @@ DESCRIPTION:Varsity Boys Boys Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568593@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T160000
 DTEND;TZID=America/New_York:20261217T180000
 SUMMARY:Belleville High School vs Irvington High School (Varsity Girls Gi
@@ -1506,7 +1506,7 @@ DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553914@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T163000
 DTEND;TZID=America/New_York:20261217T183000
 SUMMARY:Belleville High School at Eagle Academy of Newark (Varsity Boys B
@@ -1515,7 +1515,7 @@ DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568798@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T173000
 DTEND;TZID=America/New_York:20261217T193000
 SUMMARY:Belleville High School vs Irvington High School (Junior Varsity G
@@ -1524,7 +1524,7 @@ DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553931@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T180000
 DTEND;TZID=America/New_York:20261217T200000
 SUMMARY:Belleville High School at Eagle Academy of Newark (Junior Varsity
@@ -1533,7 +1533,7 @@ DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100906645@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T170000
 DTEND;TZID=America/New_York:20261218T190000
 SUMMARY:Belleville High School vs East Orange Campus High School (Varsity
@@ -1542,7 +1542,7 @@ DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553368@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T100000
 DTEND;TZID=America/New_York:20261219T120000
 SUMMARY:Bard Early College at Belleville High School (Freshman Boys Boys 
@@ -1551,7 +1551,7 @@ DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553341@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T113000
 DTEND;TZID=America/New_York:20261219T133000
 SUMMARY:Bard Early College at Belleville High School (Junior Varsity Boys
@@ -1560,7 +1560,7 @@ DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553292@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T130000
 DTEND;TZID=America/New_York:20261219T150000
 SUMMARY:Bard Early College at Belleville High School (Varsity Boys Boys B
@@ -1569,7 +1569,7 @@ DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102037698@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261220T090000
 DTEND;TZID=America/New_York:20261220T110000
 SUMMARY:Belleville High School at Bloomfield High School (Varsity Girls G
@@ -1578,7 +1578,7 @@ DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568596@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T160000
 DTEND;TZID=America/New_York:20261222T180000
 SUMMARY:Belleville High School vs American History High School (Varsity G
@@ -1587,7 +1587,7 @@ DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100586023@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T173000
 DTEND;TZID=America/New_York:20261222T193000
 SUMMARY:Belleville High School vs American History High School (Junior Va
@@ -1596,7 +1596,7 @@ DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102899934@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T190000
 DTEND;TZID=America/New_York:20261222T210000
 SUMMARY:Belleville High School vs College Achieve Central Charter School 
@@ -1605,7 +1605,7 @@ DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568601@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T160000
 DTEND;TZID=America/New_York:20270105T180000
 SUMMARY:Belleville High School vs Orange High School (Varsity Girls Girls
@@ -1614,7 +1614,7 @@ DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100586031@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T173000
 DTEND;TZID=America/New_York:20270105T193000
 SUMMARY:Belleville High School vs Orange High School (Junior Varsity Girl
@@ -1623,7 +1623,7 @@ DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553214@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T174500
 DTEND;TZID=America/New_York:20270105T194500
 SUMMARY:Belleville High School at American History High School (Junior Va
@@ -1632,7 +1632,7 @@ DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102611593@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Belleville High School at Irvington High School (Varsity Boys Boy
@@ -1641,7 +1641,7 @@ DESCRIPTION:Varsity Boys Boys Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100569366@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T160000
 DTEND;TZID=America/New_York:20270107T180000
 SUMMARY:Belleville High School at Essex County-West Caldwell Tech High Sc
@@ -1650,7 +1650,7 @@ DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553382@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T160000
 DTEND;TZID=America/New_York:20270107T180000
 SUMMARY:Belleville High School vs Weequahic High School (Freshman Boys Bo
@@ -1659,7 +1659,7 @@ DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553346@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T173000
 DTEND;TZID=America/New_York:20270107T193000
 SUMMARY:Belleville High School vs Weequahic High School (Junior Varsity B
@@ -1668,7 +1668,7 @@ DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553297@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T190000
 DTEND;TZID=America/New_York:20270107T210000
 SUMMARY:Belleville High School vs Weequahic High School (Varsity Boys Boy
@@ -1677,7 +1677,7 @@ DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100906650@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T170000
 DTEND;TZID=America/New_York:20270108T190000
 SUMMARY:Belleville High School vs Bloomfield High School (Varsity Boys Bo
@@ -1686,7 +1686,7 @@ DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102742045@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T180000
 DTEND;TZID=America/New_York:20270108T200000
 SUMMARY:Belleville High School vs Bloomfield High School (Varsity Girls G
@@ -1695,7 +1695,7 @@ DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553349@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T100000
 DTEND;TZID=America/New_York:20270109T120000
 SUMMARY:Belleville High School vs Newark Academy (Junior Varsity Boys Boy
@@ -1704,7 +1704,7 @@ DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553301@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T113000
 DTEND;TZID=America/New_York:20270109T133000
 SUMMARY:Belleville High School vs Newark Academy (Varsity Boys Boys Baske
@@ -1713,7 +1713,7 @@ DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102611630@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T210000
 DTEND;TZID=America/New_York:20270109T230000
 SUMMARY:Belleville High School at Passaic Valley High School (Varsity Boy
@@ -1722,7 +1722,7 @@ DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100569143@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T160000
 DTEND;TZID=America/New_York:20270112T180000
 SUMMARY:Belleville High School at West Side High School (Varsity Girls Gi
@@ -1731,7 +1731,7 @@ DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553310@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T160000
 DTEND;TZID=America/New_York:20270112T180000
 SUMMARY:Belleville High School vs Essex County-West Caldwell Tech High Sc
@@ -1740,7 +1740,7 @@ DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100569311@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T173000
 DTEND;TZID=America/New_York:20270112T193000
 SUMMARY:Belleville High School at West Side High School (Junior Varsity G
@@ -1749,7 +1749,7 @@ DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553354@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T173000
 DTEND;TZID=America/New_York:20270112T193000
 SUMMARY:Belleville High School vs Essex County-West Caldwell Tech High Sc
@@ -1758,7 +1758,7 @@ DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100906657@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T170000
 DTEND;TZID=America/New_York:20270113T190000
 SUMMARY:Belleville High School vs Orange High School (Varsity Boys Boys W
@@ -1767,7 +1767,7 @@ DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568606@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T160000
 DTEND;TZID=America/New_York:20270114T180000
 SUMMARY:Barringer High School at Belleville High School (Varsity Girls Gi
@@ -1776,7 +1776,7 @@ DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553035@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T160000
 DTEND;TZID=America/New_York:20270114T180000
 SUMMARY:Belleville High School at Nutley High School (Freshman Boys Boys 
@@ -1785,7 +1785,7 @@ DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568823@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T173000
 DTEND;TZID=America/New_York:20270114T193000
 SUMMARY:Barringer High School at Belleville High School (Junior Varsity G
@@ -1794,7 +1794,7 @@ DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100552984@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T173000
 DTEND;TZID=America/New_York:20270114T193000
 SUMMARY:Belleville High School at Nutley High School (Junior Varsity Boys
@@ -1803,7 +1803,7 @@ DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100552959@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T190000
 DTEND;TZID=America/New_York:20270114T210000
 SUMMARY:Belleville High School at Nutley High School (Varsity Boys Boys B
@@ -1812,7 +1812,7 @@ DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100906663@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T170000
 DTEND;TZID=America/New_York:20270115T190000
 SUMMARY:Belleville High School vs Plainfield High School (Varsity Boys Bo
@@ -1821,7 +1821,7 @@ DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100906726@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T090000
 DTEND;TZID=America/New_York:20270116T110000
 SUMMARY:Belleville High School vs TBD (Varsity Boys Boys Wrestling)
@@ -1829,7 +1829,7 @@ DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553526@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T160000
 DTEND;TZID=America/New_York:20270119T180000
 SUMMARY:Bard Early College vs Belleville High School (Freshman Boys Boys 
@@ -1838,7 +1838,7 @@ DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100569566@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T160000
 DTEND;TZID=America/New_York:20270119T180000
 SUMMARY:Belleville High School at Irvington High School (Varsity Girls Gi
@@ -1847,7 +1847,7 @@ DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102862688@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T163000
 DTEND;TZID=America/New_York:20270119T183000
 SUMMARY:Belleville High School at Golda Och Academy (7/8th Girls Volleyba
@@ -1856,7 +1856,7 @@ DESCRIPTION:7/8th Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553477@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T173000
 DTEND;TZID=America/New_York:20270119T193000
 SUMMARY:Bard Early College vs Belleville High School (Junior Varsity Boys
@@ -1865,7 +1865,7 @@ DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100569606@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T173000
 DTEND;TZID=America/New_York:20270119T193000
 SUMMARY:Belleville High School at Irvington High School (Junior Varsity G
@@ -1874,7 +1874,7 @@ DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553439@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T190000
 DTEND;TZID=America/New_York:20270119T210000
 SUMMARY:Bard Early College vs Belleville High School (Varsity Boys Boys B
@@ -1883,7 +1883,7 @@ DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100569483@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T160000
 DTEND;TZID=America/New_York:20270121T180000
 SUMMARY:Belleville High School at Orange High School (Varsity Girls Girls
@@ -1892,7 +1892,7 @@ DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553355@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T173000
 DTEND;TZID=America/New_York:20270121T193000
 SUMMARY:Belleville High School vs American History High School (Junior Va
@@ -1901,7 +1901,7 @@ DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553314@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T190000
 DTEND;TZID=America/New_York:20270121T210000
 SUMMARY:Belleville High School vs American History High School (Varsity B
@@ -1910,7 +1910,7 @@ DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551959@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T083000
 DTEND;TZID=America/New_York:20270123T103000
 SUMMARY:Belleville High School at Cedar Grove High School (Freshman Boys 
@@ -1919,7 +1919,7 @@ DESCRIPTION:Freshman Boys Boys Basketball - Away - 8:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100906739@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T090000
 DTEND;TZID=America/New_York:20270123T110000
 SUMMARY:Belleville High School vs Cliffside Park High School (Varsity Boy
@@ -1928,7 +1928,7 @@ DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551932@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T100000
 DTEND;TZID=America/New_York:20270123T120000
 SUMMARY:Belleville High School at Cedar Grove High School (Junior Varsity
@@ -1937,7 +1937,7 @@ DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100567913@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T113000
 DTEND;TZID=America/New_York:20270123T133000
 SUMMARY:Belleville High School at Newark School of Global Studies (Varsit
@@ -1946,7 +1946,7 @@ DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551834@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T113000
 DTEND;TZID=America/New_York:20270123T133000
 SUMMARY:Belleville High School at Cedar Grove High School (Varsity Boys B
@@ -1955,7 +1955,7 @@ DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568611@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T160000
 DTEND;TZID=America/New_York:20270126T180000
 SUMMARY:Belleville High School vs Essex County-West Caldwell Tech High Sc
@@ -1964,7 +1964,7 @@ DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102616814@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T173000
 DTEND;TZID=America/New_York:20270126T193000
 SUMMARY:Belleville High School at West Caldwell Tech (Junior Varsity Girl
@@ -1973,7 +1973,7 @@ DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100906671@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T170000
 DTEND;TZID=America/New_York:20270127T190000
 SUMMARY:Belleville High School vs Columbia High School (Varsity Boys Boys
@@ -1982,7 +1982,7 @@ DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102616911@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270129T170000
 DTEND;TZID=America/New_York:20270129T190000
 SUMMARY:Belleville High School at East Side High School - Newark (Varsity
@@ -1991,7 +1991,7 @@ DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100906818@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T090000
 DTEND;TZID=America/New_York:20270130T110000
 SUMMARY:Belleville High School vs Lodi-Saddle Brook Wrestling (Varsity Bo
@@ -2000,7 +2000,7 @@ DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102732406@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T160000
 DTEND;TZID=America/New_York:20270202T180000
 SUMMARY:Belleville High School at Livingston High School (7/8th Girls Vol
@@ -2009,7 +2009,7 @@ DESCRIPTION:7/8th Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100552435@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T160000
 DTEND;TZID=America/New_York:20270202T180000
 SUMMARY:Belleville High School at Weequahic High School (Freshman Boys Bo
@@ -2018,7 +2018,7 @@ DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100569701@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T163000
 DTEND;TZID=America/New_York:20270202T183000
 SUMMARY:Belleville High School at Malcolm X Shabazz High School (Varsity 
@@ -2027,7 +2027,7 @@ DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100552411@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T173000
 DTEND;TZID=America/New_York:20270202T193000
 SUMMARY:Belleville High School at Weequahic High School (Junior Varsity B
@@ -2036,7 +2036,7 @@ DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102617054@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T180000
 DTEND;TZID=America/New_York:20270202T200000
 SUMMARY:Belleville High School at Malcolm X Shabazz High School (Junior V
@@ -2045,7 +2045,7 @@ DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100552386@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T190000
 DTEND;TZID=America/New_York:20270202T210000
 SUMMARY:Belleville High School at Weequahic High School (Varsity Boys Boy
@@ -2054,7 +2054,7 @@ DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100906690@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T170000
 DTEND;TZID=America/New_York:20270203T190000
 SUMMARY:Belleville High School vs Coop - Henry P. Becton Regional High Sc
@@ -2063,7 +2063,7 @@ DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103554228@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T160000
 DTEND;TZID=America/New_York:20270204T180000
 SUMMARY:Belleville High School vs Livingston High School (Middle School B
@@ -2072,7 +2072,7 @@ DESCRIPTION:Middle School Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102617113@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T170000
 DTEND;TZID=America/New_York:20270205T190000
 SUMMARY:Belleville High School at Secaucus High School (Varsity Boys Boys
@@ -2081,7 +2081,7 @@ DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102617182@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T090000
 DTEND;TZID=America/New_York:20270206T110000
 SUMMARY:Belleville High School at Verona High School (Varsity Boys Boys W
@@ -2090,7 +2090,7 @@ DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100808563@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T100000
 DTEND;TZID=America/New_York:20270206T120000
 SUMMARY:Belleville High School vs Kearny High School (Freshman Boys Boys 
@@ -2099,7 +2099,7 @@ DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100808575@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T113000
 DTEND;TZID=America/New_York:20270206T133000
 SUMMARY:Belleville High School vs Kearny High School (Junior Varsity Boys
@@ -2108,7 +2108,7 @@ DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100808581@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T130000
 DTEND;TZID=America/New_York:20270206T150000
 SUMMARY:Belleville High School vs Kearny High School (Varsity Boys Boys B
@@ -2117,7 +2117,7 @@ DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102906951@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270208T160000
 DTEND;TZID=America/New_York:20270208T180000
 SUMMARY:Belleville High School vs Golda Och Academy (7/8th Girls Volleyba
@@ -2126,7 +2126,7 @@ DESCRIPTION:7/8th Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568620@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T160000
 DTEND;TZID=America/New_York:20270209T180000
 SUMMARY:Belleville High School vs West Side High School (Varsity Girls Gi
@@ -2135,7 +2135,7 @@ DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568834@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T173000
 DTEND;TZID=America/New_York:20270209T193000
 SUMMARY:Belleville High School vs West Side High School (Junior Varsity G
@@ -2144,7 +2144,7 @@ DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568942@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T160000
 DTEND;TZID=America/New_York:20270211T180000
 SUMMARY:Barringer High School vs Belleville High School (Varsity Girls Gi
@@ -2153,7 +2153,7 @@ DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553388@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T160000
 DTEND;TZID=America/New_York:20270211T180000
 SUMMARY:Belleville High School vs Nutley High School (Freshman Boys Boys 
@@ -2162,7 +2162,7 @@ DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568981@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T173000
 DTEND;TZID=America/New_York:20270211T193000
 SUMMARY:Barringer High School vs Belleville High School (Junior Varsity G
@@ -2171,7 +2171,7 @@ DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553360@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T173000
 DTEND;TZID=America/New_York:20270211T193000
 SUMMARY:Belleville High School vs Nutley High School (Junior Varsity Boys
@@ -2180,7 +2180,7 @@ DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553324@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T190000
 DTEND;TZID=America/New_York:20270211T210000
 SUMMARY:Belleville High School vs Nutley High School (Varsity Boys Boys B
@@ -2189,7 +2189,7 @@ DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102862779@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270222T160000
 DTEND;TZID=America/New_York:20270222T180000
 SUMMARY:Belleville High School vs Livingston High School (7/8th Girls Vol
@@ -2198,7 +2198,7 @@ DESCRIPTION:7/8th Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103554425@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270223T040000
 DTEND;TZID=America/New_York:20270223T060000
 SUMMARY:Belleville High School at Livingston High School (Middle School B
@@ -2207,7 +2207,7 @@ DESCRIPTION:Middle School Boys Boys Volleyball - Away - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103008514@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270319T160000
 DTEND;TZID=America/New_York:20270319T180000
 SUMMARY:Belleville High School vs East Side High School - Newark (Varsity
@@ -2216,7 +2216,7 @@ DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102620609@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270329T040000
 DTEND;TZID=America/New_York:20270329T060000
 SUMMARY:Belleville High School at Bloomfield High School (Junior Varsity 
@@ -2225,7 +2225,7 @@ DESCRIPTION:Junior Varsity Girls Softball - Away - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102620695@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270329T160000
 DTEND;TZID=America/New_York:20270329T180000
 SUMMARY:Belleville High School at Essex County-Payne Tech High School (Fr
@@ -2234,7 +2234,7 @@ DESCRIPTION:Freshman Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102569830@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270329T160000
 DTEND;TZID=America/New_York:20270329T180000
 SUMMARY:Belleville High School at Bloomfield High School (Varsity Girls S
@@ -2243,7 +2243,7 @@ DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102405134@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270329T160000
 DTEND;TZID=America/New_York:20270329T180000
 SUMMARY:Belleville High School vs Essex County-Payne Tech High School (Va
@@ -2252,7 +2252,7 @@ DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102405151@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270329T171500
 DTEND;TZID=America/New_York:20270329T191500
 SUMMARY:Belleville High School vs Essex County-Payne Tech High School (Ju
@@ -2261,7 +2261,7 @@ DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102620006@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270330T040000
 DTEND;TZID=America/New_York:20270330T060000
 SUMMARY:Belleville High School vs West Orange High School (Junior Varsity
@@ -2270,7 +2270,7 @@ DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102619982@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270330T040000
 DTEND;TZID=America/New_York:20270330T060000
 SUMMARY:Belleville High School at West Orange High School (Varsity Boys B
@@ -2279,7 +2279,7 @@ DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102567811@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270330T160000
 DTEND;TZID=America/New_York:20270330T180000
 SUMMARY:Belleville High School vs Newark Academy (Varsity Boys Baseball)
@@ -2287,7 +2287,7 @@ DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102620144@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270331T040000
 DTEND;TZID=America/New_York:20270331T060000
 SUMMARY:Belleville High School vs Nutley High School (Junior Varsity Boys
@@ -2296,7 +2296,7 @@ DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102620084@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270331T040000
 DTEND;TZID=America/New_York:20270331T060000
 SUMMARY:Belleville High School at Nutley High School (Varsity Boys Boys T
@@ -2305,7 +2305,7 @@ DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102981208@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270331T160000
 DTEND;TZID=America/New_York:20270331T180000
 SUMMARY:Belleville High School at Clifton High School (Junior Varsity Boy
@@ -2314,7 +2314,7 @@ DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102981167@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270331T160000
 DTEND;TZID=America/New_York:20270331T180000
 SUMMARY:Belleville High School at Clifton High School (Varsity Boys Baseb
@@ -2323,7 +2323,7 @@ DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102637741@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270331T160000
 DTEND;TZID=America/New_York:20270331T180000
 SUMMARY:Belleville High School vs Millburn High School (Freshman Boys Boy
@@ -2332,7 +2332,7 @@ DESCRIPTION:Freshman Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102581524@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270331T160000
 DTEND;TZID=America/New_York:20270331T180000
 SUMMARY:Belleville High School at Essex County-Payne Tech High School (Va
@@ -2341,7 +2341,7 @@ DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102404685@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270331T160000
 DTEND;TZID=America/New_York:20270331T180000
 SUMMARY:Belleville High School at Millburn High School (Varsity Boys Boys
@@ -2350,7 +2350,7 @@ DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102404346@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270331T171500
 DTEND;TZID=America/New_York:20270331T191500
 SUMMARY:Belleville High School at Millburn High School (Junior Varsity Bo
@@ -2359,7 +2359,7 @@ DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102568487@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270401T160000
 DTEND;TZID=America/New_York:20270401T180000
 SUMMARY:Belleville High School at Newark Academy (Varsity Boys Baseball)
@@ -2367,7 +2367,7 @@ DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102665381@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270402T160000
 DTEND;TZID=America/New_York:20270402T180000
 SUMMARY:Belleville High School vs Millburn High School (Junior Varsity Gi
@@ -2376,7 +2376,7 @@ DESCRIPTION:Junior Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102581684@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270402T160000
 DTEND;TZID=America/New_York:20270402T180000
 SUMMARY:Belleville High School vs Millburn High School (Varsity Girls Sof
@@ -2385,7 +2385,7 @@ DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102440750@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270402T160000
 DTEND;TZID=America/New_York:20270402T180000
 SUMMARY:Belleville High School at West Essex High School (Varsity Boys Bo
@@ -2394,7 +2394,7 @@ DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102440706@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270402T171500
 DTEND;TZID=America/New_York:20270402T191500
 SUMMARY:Belleville High School at West Essex High School (Junior Varsity 
@@ -2403,7 +2403,7 @@ DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102620230@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270405T040000
 DTEND;TZID=America/New_York:20270405T060000
 SUMMARY:Belleville High School vs Bloomfield High School (Varsity Boys Bo
@@ -2412,7 +2412,7 @@ DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102665445@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270405T160000
 DTEND;TZID=America/New_York:20270405T180000
 SUMMARY:Belleville High School vs Verona High School (Junior Varsity Girl
@@ -2421,7 +2421,7 @@ DESCRIPTION:Junior Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102637760@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270405T160000
 DTEND;TZID=America/New_York:20270405T180000
 SUMMARY:Belleville High School vs Livingston High School (Freshman Boys B
@@ -2430,7 +2430,7 @@ DESCRIPTION:Freshman Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102620306@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270405T160000
 DTEND;TZID=America/New_York:20270405T180000
 SUMMARY:Belleville High School at Bloomfield High School (Junior Varsity 
@@ -2439,7 +2439,7 @@ DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102581749@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270405T160000
 DTEND;TZID=America/New_York:20270405T180000
 SUMMARY:Belleville High School vs Verona High School (Varsity Girls Softb
@@ -2448,7 +2448,7 @@ DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102406013@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270405T160000
 DTEND;TZID=America/New_York:20270405T180000
 SUMMARY:Belleville High School at Livingston High School (Varsity Boys Bo
@@ -2457,7 +2457,7 @@ DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102406022@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270405T171500
 DTEND;TZID=America/New_York:20270405T191500
 SUMMARY:Belleville High School at Livingston High School (Junior Varsity 
@@ -2466,7 +2466,7 @@ DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102568347@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T160000
 DTEND;TZID=America/New_York:20270407T180000
 SUMMARY:Barringer High School vs Belleville High School (Varsity Boys Bas
@@ -2475,7 +2475,7 @@ DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102621349@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T160000
 DTEND;TZID=America/New_York:20270407T180000
 SUMMARY:Belleville High School at Bloomfield High School (Freshman Boys B
@@ -2484,7 +2484,7 @@ DESCRIPTION:Freshman Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102581428@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T160000
 DTEND;TZID=America/New_York:20270407T180000
 SUMMARY:Belleville High School at Newark Academy (Varsity Girls Softball)
@@ -2492,7 +2492,7 @@ DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102405188@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T160000
 DTEND;TZID=America/New_York:20270407T180000
 SUMMARY:Belleville High School vs Bloomfield High School (Varsity Boys Bo
@@ -2501,7 +2501,7 @@ DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102405175@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T171500
 DTEND;TZID=America/New_York:20270407T191500
 SUMMARY:Belleville High School vs Bloomfield High School (Junior Varsity 
@@ -2510,7 +2510,7 @@ DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102665464@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270409T160000
 DTEND;TZID=America/New_York:20270409T180000
 SUMMARY:Barringer High School at Belleville High School (Junior Varsity G
@@ -2519,7 +2519,7 @@ DESCRIPTION:Junior Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102581759@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270409T160000
 DTEND;TZID=America/New_York:20270409T180000
 SUMMARY:Barringer High School at Belleville High School (Varsity Girls So
@@ -2528,7 +2528,7 @@ DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102621435@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270409T160000
 DTEND;TZID=America/New_York:20270409T180000
 SUMMARY:Belleville High School at West Caldwell Tech (Freshman Boys Boys 
@@ -2537,7 +2537,7 @@ DESCRIPTION:Freshman Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102405228@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270409T160000
 DTEND;TZID=America/New_York:20270409T180000
 SUMMARY:Belleville High School vs West Caldwell Tech (Varsity Boys Boys V
@@ -2546,7 +2546,7 @@ DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102405253@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270409T171500
 DTEND;TZID=America/New_York:20270409T191500
 SUMMARY:Belleville High School vs West Caldwell Tech (Junior Varsity Boys
@@ -2555,7 +2555,7 @@ DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103008655@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270410T110000
 DTEND;TZID=America/New_York:20270410T130000
 SUMMARY:Belleville High School vs Hoboken High School (Junior Varsity Boy
@@ -2564,7 +2564,7 @@ DESCRIPTION:Junior Varsity Boys Baseball - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102621700@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T040000
 DTEND;TZID=America/New_York:20270412T060000
 SUMMARY:Belleville High School at Cedar Grove High School (Varsity Boys B
@@ -2573,7 +2573,7 @@ DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102621752@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T160000
 DTEND;TZID=America/New_York:20270412T180000
 SUMMARY:Bard Early College vs Belleville High School (Junior Varsity Girl
@@ -2582,7 +2582,7 @@ DESCRIPTION:Junior Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102581996@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T160000
 DTEND;TZID=America/New_York:20270412T180000
 SUMMARY:Bard Early College vs Belleville High School (Varsity Girls Softb
@@ -2591,7 +2591,7 @@ DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102623344@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T160000
 DTEND;TZID=America/New_York:20270412T180000
 SUMMARY:Belleville High School vs Essex County-Payne Tech High School (Fr
@@ -2600,7 +2600,7 @@ DESCRIPTION:Freshman Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102621944@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T160000
 DTEND;TZID=America/New_York:20270412T180000
 SUMMARY:Belleville High School at Glen Ridge High School (Junior Varsity 
@@ -2609,7 +2609,7 @@ DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102621725@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T160000
 DTEND;TZID=America/New_York:20270412T180000
 SUMMARY:Belleville High School vs Cedar Grove High School (Junior Varsity
@@ -2618,7 +2618,7 @@ DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102568037@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T160000
 DTEND;TZID=America/New_York:20270412T180000
 SUMMARY:Belleville High School at Glen Ridge High School (Varsity Boys Ba
@@ -2627,7 +2627,7 @@ DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102409214@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T160000
 DTEND;TZID=America/New_York:20270412T180000
 SUMMARY:Belleville High School at Essex County-Payne Tech High School (Va
@@ -2636,7 +2636,7 @@ DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102409248@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T171500
 DTEND;TZID=America/New_York:20270412T191500
 SUMMARY:Belleville High School at Essex County-Payne Tech High School (Ju
@@ -2645,7 +2645,7 @@ DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102622318@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T160000
 DTEND;TZID=America/New_York:20270414T180000
 SUMMARY:Belleville High School at West Essex High School (Junior Varsity 
@@ -2654,7 +2654,7 @@ DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102622245@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T160000
 DTEND;TZID=America/New_York:20270414T180000
 SUMMARY:Belleville High School vs West Essex High School (Varsity Boys Bo
@@ -2663,7 +2663,7 @@ DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102622192@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T160000
 DTEND;TZID=America/New_York:20270414T180000
 SUMMARY:Belleville High School at Millburn High School (Freshman Boys Boy
@@ -2672,7 +2672,7 @@ DESCRIPTION:Freshman Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102622148@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T160000
 DTEND;TZID=America/New_York:20270414T180000
 SUMMARY:Belleville High School vs Glen Ridge High School (Junior Varsity 
@@ -2681,7 +2681,7 @@ DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102581770@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T160000
 DTEND;TZID=America/New_York:20270414T180000
 SUMMARY:Belleville High School vs Essex County-Payne Tech High School (Va
@@ -2690,7 +2690,7 @@ DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102567856@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T160000
 DTEND;TZID=America/New_York:20270414T180000
 SUMMARY:Belleville High School vs Glen Ridge High School (Varsity Boys Ba
@@ -2699,7 +2699,7 @@ DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102405302@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T160000
 DTEND;TZID=America/New_York:20270414T180000
 SUMMARY:Belleville High School vs Millburn High School (Varsity Boys Boys
@@ -2708,7 +2708,7 @@ DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102405290@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T171500
 DTEND;TZID=America/New_York:20270414T191500
 SUMMARY:Belleville High School vs Millburn High School (Junior Varsity Bo
@@ -2717,7 +2717,7 @@ DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102634327@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T040000
 DTEND;TZID=America/New_York:20270419T060000
 SUMMARY:Belleville High School at Orange High School (Varsity Boys Boys T
@@ -2726,7 +2726,7 @@ DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102634319@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T040000
 DTEND;TZID=America/New_York:20270419T060000
 SUMMARY:Belleville High School at Essex County-Newark Tech High School (J
@@ -2735,7 +2735,7 @@ DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102581783@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T160000
 DTEND;TZID=America/New_York:20270419T180000
 SUMMARY:Belleville High School vs Montclair Kimberley Academy (Varsity Gi
@@ -2744,7 +2744,7 @@ DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102568706@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T160000
 DTEND;TZID=America/New_York:20270419T180000
 SUMMARY:Belleville High School at Essex County-Newark Tech High School (V
@@ -2753,7 +2753,7 @@ DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102634358@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270420T160000
 DTEND;TZID=America/New_York:20270420T180000
 SUMMARY:Belleville High School vs Saint Benedict's Preparatory School (Va
@@ -2762,7 +2762,7 @@ DESCRIPTION:Varsity Coed Coed Track & Field - Outdoor - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102581302@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270421T160000
 DTEND;TZID=America/New_York:20270421T180000
 SUMMARY:Belleville High School at Millburn High School (Varsity Girls Sof
@@ -2771,7 +2771,7 @@ DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102567882@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270421T160000
 DTEND;TZID=America/New_York:20270421T180000
 SUMMARY:Belleville High School vs Essex County-Newark Tech High School (V
@@ -2780,7 +2780,7 @@ DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102634396@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270423T160000
 DTEND;TZID=America/New_York:20270423T180000
 SUMMARY:Belleville High School at Millburn High School (Junior Varsity Bo
@@ -2789,7 +2789,7 @@ DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102566315@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270423T160000
 DTEND;TZID=America/New_York:20270423T180000
 SUMMARY:Belleville High School at Millburn High School (Varsity Boys Base
@@ -2798,7 +2798,7 @@ DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102634406@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T160000
 DTEND;TZID=America/New_York:20270426T180000
 SUMMARY:Belleville High School at TBD (Varsity Girls Girls Tennis)
@@ -2806,7 +2806,7 @@ DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102583750@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T160000
 DTEND;TZID=America/New_York:20270426T180000
 SUMMARY:Belleville High School at Essex County-Newark Tech High School (V
@@ -2815,7 +2815,7 @@ DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102568923@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T160000
 DTEND;TZID=America/New_York:20270426T180000
 SUMMARY:Belleville High School at Bloomfield High School (Varsity Boys Ba
@@ -2824,7 +2824,7 @@ DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102634421@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270428T160000
 DTEND;TZID=America/New_York:20270428T180000
 SUMMARY:Belleville High School at Cedar Grove High School (Junior Varsity
@@ -2833,7 +2833,7 @@ DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102567707@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270428T160000
 DTEND;TZID=America/New_York:20270428T180000
 SUMMARY:Belleville High School at Cedar Grove High School (Varsity Boys B
@@ -2842,7 +2842,7 @@ DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102634425@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T040000
 DTEND;TZID=America/New_York:20270503T060000
 SUMMARY:Belleville High School vs Cedar Grove High School (Junior Varsity
@@ -2851,7 +2851,7 @@ DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102634433@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T160000
 DTEND;TZID=America/New_York:20270503T180000
 SUMMARY:Belleville High School at Livingston High School (Freshman Boys B
@@ -2860,7 +2860,7 @@ DESCRIPTION:Freshman Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102567943@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T160000
 DTEND;TZID=America/New_York:20270503T180000
 SUMMARY:Belleville High School vs Cedar Grove High School (Varsity Boys B
@@ -2869,7 +2869,7 @@ DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102405658@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T160000
 DTEND;TZID=America/New_York:20270503T180000
 SUMMARY:Belleville High School vs Livingston High School (Varsity Boys Bo
@@ -2878,7 +2878,7 @@ DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102405681@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T171500
 DTEND;TZID=America/New_York:20270503T191500
 SUMMARY:Belleville High School vs Livingston High School (Junior Varsity 
@@ -2887,7 +2887,7 @@ DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102634447@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270504T040000
 DTEND;TZID=America/New_York:20270504T060000
 SUMMARY:Belleville High School at Irvington High School (Varsity Boys Boy
@@ -2896,7 +2896,7 @@ DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102634486@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270505T160000
 DTEND;TZID=America/New_York:20270505T180000
 SUMMARY:Belleville High School at Verona High School (Junior Varsity Girl
@@ -2905,7 +2905,7 @@ DESCRIPTION:Junior Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102634466@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270505T160000
 DTEND;TZID=America/New_York:20270505T180000
 SUMMARY:Belleville High School vs Bloomfield High School (Freshman Boys B
@@ -2914,7 +2914,7 @@ DESCRIPTION:Freshman Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102581025@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270505T160000
 DTEND;TZID=America/New_York:20270505T180000
 SUMMARY:Belleville High School at Verona High School (Varsity Girls Softb
@@ -2923,7 +2923,7 @@ DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102407559@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270505T160000
 DTEND;TZID=America/New_York:20270505T180000
 SUMMARY:Belleville High School at Bloomfield High School (Varsity Boys Bo
@@ -2932,7 +2932,7 @@ DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102407481@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270505T171500
 DTEND;TZID=America/New_York:20270505T191500
 SUMMARY:Belleville High School at Bloomfield High School (Junior Varsity 
@@ -2941,7 +2941,7 @@ DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102634501@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270506T040000
 DTEND;TZID=America/New_York:20270506T060000
 SUMMARY:Belleville High School vs Orange High School (Varsity Boys Boys T
@@ -2950,7 +2950,7 @@ DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102581795@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270508T130000
 DTEND;TZID=America/New_York:20270508T150000
 SUMMARY:Belleville High School vs Newark Academy (Varsity Girls Softball)
@@ -2958,7 +2958,7 @@ DESCRIPTION:Varsity Girls Softball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102634757@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270510T040000
 DTEND;TZID=America/New_York:20270510T060000
 SUMMARY:Belleville High School vs East Side High School - Newark (Varsity
@@ -2967,7 +2967,7 @@ DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102634522@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270510T160000
 DTEND;TZID=America/New_York:20270510T180000
 SUMMARY:Bard Early College at Belleville High School (Junior Varsity Girl
@@ -2976,7 +2976,7 @@ DESCRIPTION:Junior Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102581805@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270510T160000
 DTEND;TZID=America/New_York:20270510T180000
 SUMMARY:Bard Early College at Belleville High School (Varsity Girls Softb
@@ -2985,7 +2985,7 @@ DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103008539@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270510T161500
 DTEND;TZID=America/New_York:20270510T181500
 SUMMARY:Belleville High School vs Lodi High School (Varsity Boys Baseball)
@@ -2993,7 +2993,7 @@ DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102634815@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270512T040000
 DTEND;TZID=America/New_York:20270512T060000
 SUMMARY:Belleville High School vs Golda Och Academy (Varsity Boys Boys Te
@@ -3002,7 +3002,7 @@ DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102634780@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270512T160000
 DTEND;TZID=America/New_York:20270512T180000
 SUMMARY:Belleville High School vs Essex County-West Caldwell Tech High Sc
@@ -3011,7 +3011,7 @@ DESCRIPTION:Freshman Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102403902@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270512T160000
 DTEND;TZID=America/New_York:20270512T180000
 SUMMARY:Belleville High School at West Caldwell Tech (Varsity Boys Boys V
@@ -3020,7 +3020,7 @@ DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102403919@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270512T171500
 DTEND;TZID=America/New_York:20270512T191500
 SUMMARY:Belleville High School at West Caldwell Tech (Junior Varsity Boys
@@ -3029,7 +3029,7 @@ DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103008720@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270513T163000
 DTEND;TZID=America/New_York:20270513T183000
 SUMMARY:Belleville High School vs Linden Schools (Junior Varsity Boys Bas
@@ -3038,7 +3038,7 @@ DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103008549@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270513T163000
 DTEND;TZID=America/New_York:20270513T183000
 SUMMARY:Belleville High School vs Linden Schools (Varsity Boys Baseball)
@@ -3046,7 +3046,7 @@ DESCRIPTION:Varsity Boys Baseball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102405714@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270514T160000
 DTEND;TZID=America/New_York:20270514T180000
 SUMMARY:Belleville High School vs Orange High School (Varsity Boys Boys V
@@ -3055,7 +3055,7 @@ DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102405702@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270514T171500
 DTEND;TZID=America/New_York:20270514T191500
 SUMMARY:Belleville High School vs Orange High School (Junior Varsity Boys
@@ -3064,7 +3064,7 @@ DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103008583@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270514T190000
 DTEND;TZID=America/New_York:20270514T210000
 SUMMARY:Belleville High School vs David Brearley High School (Varsity Boy
@@ -3073,7 +3073,7 @@ DESCRIPTION:Varsity Boys Baseball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103008600@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270517T163000
 DTEND;TZID=America/New_York:20270517T183000
 SUMMARY:Belleville High School vs Roselle Park High School (Varsity Boys 
@@ -3082,7 +3082,7 @@ DESCRIPTION:Varsity Boys Baseball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102634856@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270518T160000
 DTEND;TZID=America/New_York:20270518T180000
 SUMMARY:Belleville High School vs Essex County-Payne Tech High School (Ju
@@ -3091,7 +3091,7 @@ DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102567960@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270518T160000
 DTEND;TZID=America/New_York:20270518T180000
 SUMMARY:Belleville High School vs Essex County-Payne Tech High School (Va
@@ -3100,7 +3100,7 @@ DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102634900@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270520T160000
 DTEND;TZID=America/New_York:20270520T180000
 SUMMARY:Belleville High School at Nutley High School (Junior Varsity Boys
@@ -3109,7 +3109,7 @@ DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102634890@super-essex-conference
-DTSTAMP:20260907T145045Z
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270520T160000
 DTEND;TZID=America/New_York:20270520T180000
 SUMMARY:Belleville High School at Nutley High School (Varsity Boys Baseba
