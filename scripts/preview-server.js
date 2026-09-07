@@ -17,6 +17,8 @@ const TYPES = {
     '.css': 'text/css; charset=utf-8',
     '.js': 'text/javascript; charset=utf-8',
     '.json': 'application/json; charset=utf-8',
+    '.ics': 'text/calendar; charset=utf-8',
+    '.xml': 'application/xml; charset=utf-8',
     '.webmanifest': 'application/manifest+json',
     '.png': 'image/png',
     '.jpg': 'image/jpeg',
