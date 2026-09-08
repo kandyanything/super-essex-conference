@@ -1120,6 +1120,14 @@ SUMMARY:West Side High School at Fair Lawn High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103843792@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T163000
+DTEND;TZID=America/New_York:20270111T183000
+SUMMARY:Belleville High School vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100569372@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T160000
@@ -2383,9 +2391,9 @@ UID:arb:100564268@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T173000
 DTEND;TZID=America/New_York:20270202T193000
-SUMMARY:Bloomfield High School vs Cedar Grove High School (Varsity Girls 
+SUMMARY:Cedar Grove High School at Bloomfield High School (Varsity Girls 
  Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100559572@super-essex-conference
@@ -2799,6 +2807,14 @@ DTEND;TZID=America/New_York:20270211T210000
 SUMMARY:West Orange High School at James Caldwell High School (Varsity Gi
  rls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103843499@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T161500
+DTEND;TZID=America/New_York:20270212T181500
+SUMMARY:Belleville High School vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101726552@super-essex-conference

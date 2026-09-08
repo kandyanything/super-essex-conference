@@ -1264,6 +1264,14 @@ SUMMARY:Bloomfield High School vs West Orange High School (Varsity Boys B
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103843812@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T180000
+DTEND;TZID=America/New_York:20270111T200000
+SUMMARY:Belleville High School vs TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100553310@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T160000
@@ -2465,9 +2473,9 @@ UID:arb:100664909@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T190000
 DTEND;TZID=America/New_York:20270202T210000
-SUMMARY:Bloomfield High School vs Newark Academy (Varsity Boys Boys Baske
+SUMMARY:Newark Academy at Bloomfield High School (Varsity Boys Boys Baske
  tball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100539117@super-essex-conference

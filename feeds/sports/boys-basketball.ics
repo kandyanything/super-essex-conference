@@ -3091,6 +3091,14 @@ SUMMARY:West Essex High School at Sparta High School (Middle School Boys
 DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103843812@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T180000
+DTEND;TZID=America/New_York:20270111T200000
+SUMMARY:Belleville High School vs TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100552429@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T160000
@@ -6062,15 +6070,6 @@ SUMMARY:Belleville High School at Weequahic High School (Junior Varsity B
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100664938@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T173000
-DTEND;TZID=America/New_York:20270202T193000
-SUMMARY:Bloomfield High School vs Newark Academy (Junior Varsity Boys Boy
- s Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100541885@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T173000
@@ -6104,6 +6103,15 @@ DTSTART;TZID=America/New_York:20270202T173000
 DTEND;TZID=America/New_York:20270202T193000
 SUMMARY:Montclair High School at Orange High School (Junior Varsity Boys 
  Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100664938@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T173000
+DTEND;TZID=America/New_York:20270202T193000
+SUMMARY:Newark Academy at Bloomfield High School (Junior Varsity Boys Boy
+ s Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -6183,9 +6191,9 @@ UID:arb:100664909@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T190000
 DTEND;TZID=America/New_York:20270202T210000
-SUMMARY:Bloomfield High School vs Newark Academy (Varsity Boys Boys Baske
+SUMMARY:Newark Academy at Bloomfield High School (Varsity Boys Boys Baske
  tball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100539117@super-essex-conference
@@ -6206,21 +6214,21 @@ SUMMARY:West Side High School at Columbia High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100664946@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270204T160000
-DTEND;TZID=America/New_York:20270204T180000
-SUMMARY:Bloomfield High School vs Nutley High School (Freshman Boys Boys 
- Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103344760@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T160000
 DTEND;TZID=America/New_York:20270204T180000
 SUMMARY:Livingston High School at Morristown-Beard School (Freshman Boys 
  Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100664946@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T160000
+DTEND;TZID=America/New_York:20270204T180000
+SUMMARY:Nutley High School at Bloomfield High School (Freshman Boys Boys 
+ Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT

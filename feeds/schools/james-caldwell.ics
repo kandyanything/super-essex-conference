@@ -1032,6 +1032,15 @@ SUMMARY:Cedar Grove High School at Caldwell High School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101627574@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Nutley High School at James Caldwell High School (Junior Varsity 
+ Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99051930@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T171500
@@ -1075,15 +1084,6 @@ DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:James Caldwell High School at Montville Township High School (Jun
  ior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101627574@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T160000
-DTEND;TZID=America/New_York:20261001T180000
-SUMMARY:Nutley High School at James Caldwell High School (Junior Varsity 
- Girls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102324837@super-essex-conference
@@ -1888,8 +1888,7 @@ UID:arb:103805697@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T161500
 DTEND;TZID=America/New_York:20261222T181500
-SUMMARY:James Caldwell High School vs High Point Regional High School (Va
- rsity Boys Boys Ice Hockey)
+SUMMARY:James Caldwell High School vs TBD (Varsity Boys Boys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT

@@ -1413,9 +1413,9 @@ UID:arb:100564424@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T160000
 DTEND;TZID=America/New_York:20270202T180000
-SUMMARY:Bloomfield High School vs Cedar Grove High School (Junior Varsity
+SUMMARY:Cedar Grove High School at Bloomfield High School (Junior Varsity
   Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100559621@super-essex-conference
@@ -1749,6 +1749,15 @@ DTEND;TZID=America/New_York:20270211T200000
 SUMMARY:Central High School vs Montclair High School (Junior Varsity Girl
  s Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103843511@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T174500
+DTEND;TZID=America/New_York:20270212T194500
+SUMMARY:Belleville High School vs Bergenfield High School (Junior Varsity
+  Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101726576@super-essex-conference

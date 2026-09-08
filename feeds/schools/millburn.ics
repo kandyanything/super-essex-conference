@@ -1626,6 +1626,15 @@ SUMMARY:Millburn High School vs New Providence High School (Junior Varsit
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103020151@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T173000
+DTEND;TZID=America/New_York:20260929T193000
+SUMMARY:Millburn High School at Columbia High School (Varsity Boys Boys C
+ ross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101266501@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T180000
@@ -1927,8 +1936,8 @@ UID:arb:102502270@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
 DTEND;TZID=America/New_York:20261008T180000
-SUMMARY:Columbia High School at Newark Academy (Varsity Coed Coed Cross C
- ountry)
+SUMMARY:Livingston High School at Newark Academy (Varsity Coed Coed Cross
+  Country)
 DESCRIPTION:Varsity Coed Coed Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT

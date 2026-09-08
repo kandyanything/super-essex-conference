@@ -136,8 +136,10 @@ UID:arb:100662842@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260909T160000
 DTEND;TZID=America/New_York:20260909T180000
-SUMMARY:Eagle Academy vs North Star Academy (Varsity Boys Boys Soccer)
+SUMMARY:[Canceled] Eagle Academy vs North Star Academy (Varsity Boys Boys
+  Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99162121@super-essex-conference
@@ -1048,6 +1050,15 @@ DTEND;TZID=America/New_York:20270126T210000
 SUMMARY:North Star Academy vs West Orange High School (Varsity Boys Boys 
  Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103851334@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T170000
+DTEND;TZID=America/New_York:20270205T190000
+SUMMARY:East Side High School vs Newark Collegiate Academy (Varsity Boys 
+ Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100564103@super-essex-conference

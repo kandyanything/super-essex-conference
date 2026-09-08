@@ -369,15 +369,6 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:103414065@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T160000
-DTEND;TZID=America/New_York:20261001T180000
-SUMMARY:Irvington High School vs Kearny High School (Freshman Girls Girls
-  Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103147200@super-essex-conference
-DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T163000
 DTEND;TZID=America/New_York:20261001T183000
 SUMMARY:Irvington High School vs Kearny High School (Freshman Girls Girls
@@ -581,6 +572,15 @@ DTEND;TZID=America/New_York:20261015T191500
 SUMMARY:Irvington High School at Essex County-Newark Tech High School (Ju
  nior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103414168@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Irvington High School vs Paterson Arts & Science Charter School (
+ Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100665223@super-essex-conference

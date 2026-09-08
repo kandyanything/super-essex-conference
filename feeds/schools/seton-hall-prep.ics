@@ -1041,6 +1041,15 @@ SUMMARY:Saint Benedict's Prep vs Seton Hall Preparatory School (Varsity B
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103845490@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270118T123000
+DTEND;TZID=America/New_York:20270118T143000
+SUMMARY:Seton Hall Prep at Saint Joseph Regional High School (Varsity Boy
+ s Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100535903@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T171500
@@ -1373,6 +1382,14 @@ SUMMARY:Seton Hall Prep at Columbia High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103844899@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Seton Hall Prep at Delbarton School (Varsity Boys Lacrosse)
+DESCRIPTION:Varsity Boys Lacrosse - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103008938@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270421T160000
@@ -1394,9 +1411,9 @@ UID:arb:103009006@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T160000
 DTEND;TZID=America/New_York:20270426T180000
-SUMMARY:Nutley High School at Seton Hall Preparatory School (Junior Varsi
- ty Boys Baseball)
-DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
+SUMMARY:Seton Hall Prep vs Nutley High School (Junior Varsity Boys Baseba
+ ll)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102565028@super-essex-conference

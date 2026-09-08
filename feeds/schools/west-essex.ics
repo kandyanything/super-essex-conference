@@ -636,6 +636,14 @@ SUMMARY:Columbia High School vs West Essex High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103844925@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T160000
+DTEND;TZID=America/New_York:20260910T180000
+SUMMARY:West Essex High School at TBD (Middle School Girls Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100663135@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T160000
@@ -2422,6 +2430,15 @@ SUMMARY:Millburn High School vs West Essex High School (Freshman Girls Gi
 DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103852981@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:West Essex High School at Pope John XXIII High School (Middle Sch
+ ool Girls Field Hockey)
+DESCRIPTION:Middle School Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103179796@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T160000
@@ -2865,6 +2882,15 @@ DTEND;TZID=America/New_York:20261026T180000
 SUMMARY:Belleville High School vs West Essex High School (Junior Varsity 
  Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103843647@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:West Essex High School at Morris Knolls High School (Freshman Gir
+ ls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102549891@super-essex-conference
@@ -3369,8 +3395,7 @@ UID:arb:103805697@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T161500
 DTEND;TZID=America/New_York:20261222T181500
-SUMMARY:James Caldwell High School vs High Point Regional High School (Va
- rsity Boys Boys Ice Hockey)
+SUMMARY:James Caldwell High School vs TBD (Varsity Boys Boys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT

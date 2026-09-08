@@ -808,9 +808,10 @@ UID:arb:99189395@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260912T090000
 DTEND;TZID=America/New_York:20260912T110000
-SUMMARY:Bloomfield High School vs Montclair High School (Freshman Boys Fo
- otball)
+SUMMARY:[Canceled] Bloomfield High School vs Montclair High School (Fresh
+ man Boys Football)
 DESCRIPTION:Freshman Boys Football - Home - 9:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101454943@super-essex-conference
@@ -1216,6 +1217,14 @@ SUMMARY:Bloomfield High School vs Nutley High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103844032@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T160000
+DTEND;TZID=America/New_York:20260922T180000
+SUMMARY:Bloomfield High School vs TBD (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103008869@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T160000
@@ -1447,6 +1456,24 @@ DTEND;TZID=America/New_York:20260926T120000
 SUMMARY:Bloomfield High School at Clifton High School (Varsity Boys Boys 
  Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103844767@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T110000
+DTEND;TZID=America/New_York:20260926T130000
+SUMMARY:Bloomfield High School vs Verona High School (Junior Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103844738@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T110000
+DTEND;TZID=America/New_York:20260926T130000
+SUMMARY:Bloomfield High School vs Verona High School (Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100384839@super-essex-conference
@@ -2005,6 +2032,14 @@ SUMMARY:Bloomfield High School at Glen Ridge High School (Freshman Boys B
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103844086@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T160000
+DTEND;TZID=America/New_York:20261015T180000
+SUMMARY:Bloomfield High School vs TBD (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103414139@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T160000
@@ -2057,6 +2092,14 @@ DTEND;VALUE=DATE:20261018
 SUMMARY:Barringer High School vs Bloomfield High School (Varsity Boys Boy
  s Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103844105@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Bloomfield High School vs TBD (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101583435@super-essex-conference
@@ -2264,6 +2307,15 @@ DTEND;TZID=America/New_York:20261211T180000
 SUMMARY:Bard Early College at Bloomfield High School (Freshman Boys Boys 
  Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103850745@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T170000
+DTEND;TZID=America/New_York:20261211T190000
+SUMMARY:Bloomfield High School at East Side High School - Newark (Junior 
+ Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101185549@super-essex-conference
@@ -3213,54 +3265,45 @@ UID:arb:100564424@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T160000
 DTEND;TZID=America/New_York:20270202T180000
-SUMMARY:Bloomfield High School vs Cedar Grove High School (Junior Varsity
+SUMMARY:Cedar Grove High School at Bloomfield High School (Junior Varsity
   Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100664938@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T173000
-DTEND;TZID=America/New_York:20270202T193000
-SUMMARY:Bloomfield High School vs Newark Academy (Junior Varsity Boys Boy
- s Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100564268@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T173000
 DTEND;TZID=America/New_York:20270202T193000
-SUMMARY:Bloomfield High School vs Cedar Grove High School (Varsity Girls 
+SUMMARY:Cedar Grove High School at Bloomfield High School (Varsity Girls 
  Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100664938@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T173000
+DTEND;TZID=America/New_York:20270202T193000
+SUMMARY:Newark Academy at Bloomfield High School (Junior Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664909@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T190000
 DTEND;TZID=America/New_York:20270202T210000
-SUMMARY:Bloomfield High School vs Newark Academy (Varsity Boys Boys Baske
+SUMMARY:Newark Academy at Bloomfield High School (Varsity Boys Boys Baske
  tball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102616270@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270203T170000
-DTEND;TZID=America/New_York:20270203T190000
-SUMMARY:Bloomfield High School vs Sayreville Public Schools (Varsity Boys
-  Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664946@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T160000
 DTEND;TZID=America/New_York:20270204T180000
-SUMMARY:Bloomfield High School vs Nutley High School (Freshman Boys Boys 
+SUMMARY:Nutley High School at Bloomfield High School (Freshman Boys Boys 
  Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664942@super-essex-conference

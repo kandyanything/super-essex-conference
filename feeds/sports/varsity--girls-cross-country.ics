@@ -184,6 +184,14 @@ SUMMARY:Bloomfield High School at Clifton High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103846850@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Columbia High School at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103330601@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T150000
@@ -429,12 +437,20 @@ SUMMARY:Barringer High School vs Bloomfield High School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Cross Country - Home
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103847590@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Columbia High School at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023220@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T120000
 DTEND;TZID=America/New_York:20261023T140000
-SUMMARY:Columbia High School vs TBD (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Home - 12:00 PM
+SUMMARY:Columbia High School at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102683457@super-essex-conference
@@ -486,6 +502,14 @@ DTEND;TZID=America/New_York:20261031T161500
 SUMMARY:Mount Saint Dominic Academy at TBD (Varsity Girls Girls Cross Cou
  ntry)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 2:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103848274@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Columbia High School at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102876445@super-essex-conference

@@ -23,6 +23,14 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:103844925@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T160000
+DTEND;TZID=America/New_York:20260910T180000
+SUMMARY:West Essex High School at TBD (Middle School Girls Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103036170@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T153000
@@ -66,6 +74,15 @@ DTEND;TZID=America/New_York:20260923T173000
 SUMMARY:Newark Academy at Kent Place School (Middle School Girls Girls So
  ccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103849925@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T160000
+DTEND;TZID=America/New_York:20260924T180000
+SUMMARY:Golda Och Academy vs Chatham Day School (Middle School Girls Girl
+ s Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102048566@super-essex-conference
@@ -203,6 +220,15 @@ SUMMARY:Montclair Kimberley Academy vs Kent Place School (Middle School G
 DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103849944@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Golda Och Academy vs Chatham Day School (Middle School Girls Girl
+ s Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102311513@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T161500
@@ -210,6 +236,15 @@ DTEND;TZID=America/New_York:20261014T181500
 SUMMARY:Montclair Kimberley Academy vs Newark Academy (Middle School Girl
  s Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103848218@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T163000
+DTEND;TZID=America/New_York:20261015T183000
+SUMMARY:East Side High School at Bayonne High School (Middle School Girls
+  Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103489961@super-essex-conference
@@ -255,6 +290,15 @@ DTEND;TZID=America/New_York:20261020T181500
 SUMMARY:Golda Och Academy vs Morristown-Beard School (Middle School Girls
   Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103855235@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T163000
+DTEND;TZID=America/New_York:20261022T183000
+SUMMARY:East Side High School at Bayonne High School (Middle School Girls
+  Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102355142@super-essex-conference

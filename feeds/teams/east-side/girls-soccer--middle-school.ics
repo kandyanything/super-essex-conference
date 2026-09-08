@@ -33,6 +33,15 @@ SUMMARY:East Side High School vs Union High School (Middle School Girls G
 DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103848218@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T163000
+DTEND;TZID=America/New_York:20261015T183000
+SUMMARY:East Side High School at Bayonne High School (Middle School Girls
+  Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102332880@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
@@ -40,5 +49,14 @@ DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:East Side High School at Union High School (Middle School Girls G
  irls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103855235@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T163000
+DTEND;TZID=America/New_York:20261022T183000
+SUMMARY:East Side High School at Bayonne High School (Middle School Girls
+  Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:30 PM
 END:VEVENT
 END:VCALENDAR

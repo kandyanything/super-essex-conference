@@ -42,6 +42,14 @@ SUMMARY:Columbia High School vs Millburn High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Cross Country - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103846850@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Columbia High School at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023134@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T164500
@@ -77,11 +85,27 @@ SUMMARY:Columbia High School vs TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Home
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103847590@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Columbia High School at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023220@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T120000
 DTEND;TZID=America/New_York:20261023T140000
-SUMMARY:Columbia High School vs TBD (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Home - 12:00 PM
+SUMMARY:Columbia High School at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103848274@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Columbia High School at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away
 END:VEVENT
 END:VCALENDAR

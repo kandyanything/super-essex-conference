@@ -471,9 +471,10 @@ UID:arb:102924980@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
-SUMMARY:Montclair Kimberley Academy vs Voorhees High School (Junior Varsi
- ty Girls Field Hockey)
+SUMMARY:[Canceled] Montclair Kimberley Academy vs Voorhees High School (J
+ unior Varsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99084968@super-essex-conference
@@ -922,6 +923,15 @@ DTEND;TZID=America/New_York:20260923T191500
 SUMMARY:Columbia High School at Montclair Kimberley Academy (Junior Varsi
  ty Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103847092@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T160000
+DTEND;TZID=America/New_York:20260924T180000
+SUMMARY:Montclair Kimberley Academy at Bayonne High School (Middle School
+  Boys Boys Soccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101355011@super-essex-conference
@@ -1461,8 +1471,8 @@ UID:arb:102502270@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
 DTEND;TZID=America/New_York:20261008T180000
-SUMMARY:Columbia High School at Newark Academy (Varsity Coed Coed Cross C
- ountry)
+SUMMARY:Livingston High School at Newark Academy (Varsity Coed Coed Cross
+  Country)
 DESCRIPTION:Varsity Coed Coed Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT

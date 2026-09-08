@@ -1170,6 +1170,15 @@ SUMMARY:Nutley High School at West Orange High School (Freshman Girls Gir
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101627574@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Nutley High School at James Caldwell High School (Junior Varsity 
+ Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99092193@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T160000
@@ -1214,15 +1223,6 @@ DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:Cedar Grove High School at Nutley High School (Freshman Girls Gir
  ls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101627574@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T160000
-DTEND;TZID=America/New_York:20261001T180000
-SUMMARY:Nutley High School at James Caldwell High School (Junior Varsity 
- Girls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101410949@super-essex-conference
@@ -1338,9 +1338,10 @@ UID:arb:102441555@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T160000
 DTEND;TZID=America/New_York:20261006T180000
-SUMMARY:Nutley High School at West Orange High School (Junior Varsity Gir
- ls Girls Soccer)
+SUMMARY:[Canceled] Nutley High School at West Orange High School (Junior 
+ Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102441388@super-essex-conference
@@ -1385,6 +1386,15 @@ DTEND;TZID=America/New_York:20261007T180000
 SUMMARY:Livingston High School at Nutley High School (Varsity Boys Boys S
  occer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103848531@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Nutley High School vs West Orange High School (Junior Varsity Gir
+ ls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99101774@super-essex-conference
@@ -1463,9 +1473,10 @@ UID:arb:102576305@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T160000
 DTEND;TZID=America/New_York:20261012T180000
-SUMMARY:Nutley High School vs Hackettstown High School (Junior Varsity Gi
- rls Girls Soccer)
+SUMMARY:[Canceled] Nutley High School vs Hackettstown High School (Junior
+  Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102576162@super-essex-conference
@@ -1538,6 +1549,15 @@ DTEND;TZID=America/New_York:20261014T180000
 SUMMARY:Montclair High School at Nutley High School (Varsity Boys Boys So
  ccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103846636@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Nutley High School at Hackettstown High School (Junior Varsity Gi
+ rls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102128620@super-essex-conference
@@ -1630,6 +1650,15 @@ SUMMARY:Montclair High School vs Nutley High School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103848611@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Nutley High School vs Lyndhurst High School (Junior Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103403601@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T160000
@@ -1693,6 +1722,15 @@ SUMMARY:Nutley High School vs West Essex High School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Football - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103848654@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T120000
+DTEND;TZID=America/New_York:20261024T140000
+SUMMARY:Nutley High School vs Lyndhurst High School (Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102127769@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T160000
@@ -1700,6 +1738,15 @@ DTEND;TZID=America/New_York:20261026T180000
 SUMMARY:Nutley High School vs Saint Benedict's Preparatory School (Varsit
  y Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103846323@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T161500
+DTEND;TZID=America/New_York:20261026T181500
+SUMMARY:Nutley High School vs Hoboken High School (Junior Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102127788@super-essex-conference
@@ -1845,12 +1892,30 @@ SUMMARY:Nutley High School at American History High School (Junior Varsit
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103851036@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T170000
+DTEND;TZID=America/New_York:20261216T190000
+SUMMARY:East Side High School vs Nutley High School (Junior Varsity Boys 
+ Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103169982@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T180000
 DTEND;TZID=America/New_York:20261216T200000
 SUMMARY:Nutley High School vs TBD (Varsity Boys Boys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103851078@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T180000
+DTEND;TZID=America/New_York:20261216T200000
+SUMMARY:East Side High School vs Nutley High School (Varsity Boys Boys Wr
+ estling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100567177@super-essex-conference
@@ -2493,9 +2558,9 @@ UID:arb:100664946@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T160000
 DTEND;TZID=America/New_York:20270204T180000
-SUMMARY:Bloomfield High School vs Nutley High School (Freshman Boys Boys 
+SUMMARY:Nutley High School at Bloomfield High School (Freshman Boys Boys 
  Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664942@super-essex-conference
@@ -2962,22 +3027,13 @@ SUMMARY:Cedar Grove High School at Nutley High School (Varsity Boys Baseb
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103248796@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270424T110000
-DTEND;TZID=America/New_York:20270424T130000
-SUMMARY:Nutley High School vs Saint Mary High School (Varsity Girls Softb
- all)
-DESCRIPTION:Varsity Girls Softball - Home - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103009006@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T160000
 DTEND;TZID=America/New_York:20270426T180000
-SUMMARY:Nutley High School at Seton Hall Preparatory School (Junior Varsi
- ty Boys Baseball)
-DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
+SUMMARY:Seton Hall Prep vs Nutley High School (Junior Varsity Boys Baseba
+ ll)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102565028@super-essex-conference

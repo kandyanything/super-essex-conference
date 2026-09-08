@@ -1867,6 +1867,14 @@ SUMMARY:West Essex High School vs Sparta High School (Middle School Girls
 DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103843792@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T163000
+DTEND;TZID=America/New_York:20270111T183000
+SUMMARY:Belleville High School vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103257827@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T163000
@@ -3948,9 +3956,9 @@ UID:arb:100564424@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T160000
 DTEND;TZID=America/New_York:20270202T180000
-SUMMARY:Bloomfield High School vs Cedar Grove High School (Junior Varsity
+SUMMARY:Cedar Grove High School at Bloomfield High School (Junior Varsity
   Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100559641@super-essex-conference
@@ -4048,9 +4056,9 @@ UID:arb:100564268@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T173000
 DTEND;TZID=America/New_York:20270202T193000
-SUMMARY:Bloomfield High School vs Cedar Grove High School (Varsity Girls 
+SUMMARY:Cedar Grove High School at Bloomfield High School (Varsity Girls 
  Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100559621@super-essex-conference
@@ -4824,6 +4832,23 @@ DTEND;TZID=America/New_York:20270211T210000
 SUMMARY:West Orange High School at James Caldwell High School (Varsity Gi
  rls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103843499@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T161500
+DTEND;TZID=America/New_York:20270212T181500
+SUMMARY:Belleville High School vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103843511@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T174500
+DTEND;TZID=America/New_York:20270212T194500
+SUMMARY:Belleville High School vs Bergenfield High School (Junior Varsity
+  Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101726576@super-essex-conference

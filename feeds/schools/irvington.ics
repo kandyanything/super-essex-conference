@@ -906,15 +906,6 @@ SUMMARY:Bard Early College at Irvington High School (Junior Varsity Girls
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103414065@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T160000
-DTEND;TZID=America/New_York:20261001T180000
-SUMMARY:Irvington High School vs Kearny High School (Freshman Girls Girls
-  Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100664895@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
@@ -924,7 +915,7 @@ SUMMARY:Irvington High School vs Technology High School (Newark) (Varsity
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103147200@super-essex-conference
+UID:arb:103414065@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T163000
 DTEND;TZID=America/New_York:20261001T183000
@@ -1273,6 +1264,15 @@ DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:East Orange Campus High School at Irvington High School (Junior V
  arsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103414168@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Irvington High School vs Paterson Arts & Science Charter School (
+ Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100665223@super-essex-conference

@@ -42,12 +42,20 @@ SUMMARY:Columbia High School vs Livingston High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Cross Country - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103846690@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Columbia High School at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103020151@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T173000
 DTEND;TZID=America/New_York:20260929T193000
-SUMMARY:Verona High School at Columbia High School (Varsity Boys Boys Cro
- ss Country)
+SUMMARY:Millburn High School at Columbia High School (Varsity Boys Boys C
+ ross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -68,11 +76,27 @@ SUMMARY:Columbia High School vs TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Home
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103847306@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Columbia High School at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103020988@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Columbia High School vs TBD (Varsity Boys Boys Cross Country)
-DESCRIPTION:Varsity Boys Boys Cross Country - Home
+SUMMARY:Columbia High School at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103848235@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Columbia High School at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away
 END:VEVENT
 END:VCALENDAR

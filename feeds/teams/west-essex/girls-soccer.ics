@@ -88,6 +88,14 @@ SUMMARY:West Essex High School at Passaic County Tech Institute (Junior V
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103844925@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T160000
+DTEND;TZID=America/New_York:20260910T180000
+SUMMARY:West Essex High School at TBD (Middle School Girls Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100663135@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T160000
@@ -566,6 +574,15 @@ DTEND;TZID=America/New_York:20261024T113000
 SUMMARY:West Essex High School vs Henry P. Becton Regional High School (V
  arsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103843647@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:West Essex High School at Morris Knolls High School (Freshman Gir
+ ls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103503097@super-essex-conference

@@ -33,6 +33,15 @@ SUMMARY:Bloomfield High School vs Secaucus High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103850745@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T170000
+DTEND;TZID=America/New_York:20261211T190000
+SUMMARY:Bloomfield High School at East Side High School - Newark (Junior 
+ Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102736795@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T180000
@@ -271,15 +280,6 @@ DTEND;TZID=America/New_York:20270131T110000
 SUMMARY:Bloomfield High School at Kinnelon High School (Junior Varsity Bo
  ys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102616270@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270203T170000
-DTEND;TZID=America/New_York:20270203T190000
-SUMMARY:Bloomfield High School vs Sayreville Public Schools (Varsity Boys
-  Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102741469@super-essex-conference

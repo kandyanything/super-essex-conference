@@ -7116,15 +7116,6 @@ SUMMARY:Cedar Grove High School at Nutley High School (Freshman Girls Gir
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103414065@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T160000
-DTEND;TZID=America/New_York:20261001T180000
-SUMMARY:Irvington High School vs Kearny High School (Freshman Girls Girls
-  Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102444323@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
@@ -7170,7 +7161,7 @@ SUMMARY:Technology High School vs Newark School of Architecture and Inter
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103147200@super-essex-conference
+UID:arb:103414065@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T163000
 DTEND;TZID=America/New_York:20261001T183000
@@ -10251,6 +10242,15 @@ DTEND;TZID=America/New_York:20261021T180000
 SUMMARY:Cedar Grove High School at West Essex High School (Freshman Girls
   Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103414168@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Irvington High School vs Paterson Arts & Science Charter School (
+ Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100665223@super-essex-conference
