@@ -2788,9 +2788,10 @@ UID:arb:99062383@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260909T160000
 DTEND;TZID=America/New_York:20260909T180000
-SUMMARY:East Side High School at Technology High School (Newark) (Varsity
-  Girls Girls Volleyball)
+SUMMARY:[Canceled] East Side High School at Technology High School (Newar
+ k) (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99057692@super-essex-conference
@@ -2995,9 +2996,10 @@ UID:arb:99062373@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260909T171500
 DTEND;TZID=America/New_York:20260909T191500
-SUMMARY:East Side High School at Technology High School (Newark) (Junior 
- Varsity Girls Girls Volleyball)
+SUMMARY:[Canceled] East Side High School at Technology High School (Newar
+ k) (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99057696@super-essex-conference
@@ -6654,6 +6656,15 @@ SUMMARY:Bloomfield High School vs Irvington High School (Freshman Girls G
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103843200@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:East Side High School at Technology High School (Newark) (Varsity
+  Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101422461@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T160000
@@ -6670,6 +6681,15 @@ DTEND;TZID=America/New_York:20260929T190000
 SUMMARY:Malcolm X Shabazz High School at Hillside High School (Junior Var
  sity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103843173@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T171500
+DTEND;TZID=America/New_York:20260929T191500
+SUMMARY:East Side High School at Technology High School (Newark) (Junior 
+ Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99183786@super-essex-conference
@@ -7690,6 +7710,15 @@ DTEND;TZID=America/New_York:20261005T180000
 SUMMARY:Saint Vincent Academy vs University High School (Varsity Girls Gi
  rls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103842920@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Science Park High School vs Newark School of Architecture and Int
+ erior Design (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99062597@super-essex-conference

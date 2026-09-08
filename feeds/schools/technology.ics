@@ -233,9 +233,10 @@ UID:arb:99062383@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260909T160000
 DTEND;TZID=America/New_York:20260909T180000
-SUMMARY:East Side High School at Technology High School (Newark) (Varsity
-  Girls Girls Volleyball)
+SUMMARY:[Canceled] East Side High School at Technology High School (Newar
+ k) (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100662276@super-essex-conference
@@ -260,9 +261,10 @@ UID:arb:99062373@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260909T171500
 DTEND;TZID=America/New_York:20260909T191500
-SUMMARY:East Side High School at Technology High School (Newark) (Junior 
- Varsity Girls Girls Volleyball)
+SUMMARY:[Canceled] East Side High School at Technology High School (Newar
+ k) (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664870@super-essex-conference
@@ -546,6 +548,15 @@ SUMMARY:Central High School vs Glen Ridge High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Cross Country - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103843200@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:East Side High School at Technology High School (Newark) (Varsity
+  Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102801628@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T160000
@@ -562,6 +573,15 @@ DTEND;TZID=America/New_York:20260929T180000
 SUMMARY:Newark Tech at Technology High School (Newark) (Varsity Girls Gir
  ls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103843173@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T171500
+DTEND;TZID=America/New_York:20260929T191500
+SUMMARY:East Side High School at Technology High School (Newark) (Junior 
+ Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99062576@super-essex-conference
