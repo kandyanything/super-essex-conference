@@ -1,19 +1,13 @@
-/* ==========================================================================
-   Conference scheduler module. Scoped under .njsched so its generic class
-   names can't collide with the host site's CSS. Everything accent-colored is
-   driven by the per-site block right below, so the same module body skins
-   itself to each conference. Only that top block changes between sites.
-   ========================================================================== */
-/* ===== PER-SITE ACCENT BLOCK — Super Essex Conference (navy + gold) ===== */
+/* ===== PER-SITE ACCENT BLOCK — Big North Conference (charcoal + silver) ===== */
 .njsched {
-    --navy: var(--navy-800);        /* dark structural fill */
-    --accent: #b07d05;              /* readable-on-white accent (text) */
-    --accent-fill: #f2b829;         /* CTA fill */
-    --accent-ink: #0e2038;          /* text on the CTA fill */
-    --accent-tint: #fbf3df;         /* light accent wash */
-    --accent-tint2: #f6e7bf;        /* hover wash */
-    --accent-line: #f0dfa8;         /* tint border */
-    --ring: #f2b829;                /* focus/selected/pulse ring */
+    --navy: var(--navy-800);
+    --accent: #565c66;
+    --accent-fill: #191b1f;
+    --accent-ink: #e9edf2;
+    --accent-tint: #eef0f2;
+    --accent-tint2: #e4e7eb;
+    --accent-line: #d3d8de;
+    --ring: #9aa1ab;
 }
 /* ===== SHARED MODULE BODY (identical across sites) ===== */
 .njsched {
@@ -85,6 +79,7 @@
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath fill='%23666b74' d='M6 8 0 0h12z'/%3E%3C/svg%3E");
     background-repeat: no-repeat; background-position: right 11px center; }
 .njsched .filter--school { flex: 1; min-width: 180px; }
+.njsched .filter--date { min-width: 150px; cursor: pointer; }
 .njsched .filter-clear { background: none; border: 0; color: var(--accent); font-weight: 600; font-size: .88rem; cursor: pointer; padding: 6px; }
 .njsched .controls-right { margin-left: auto; display: flex; gap: 10px; }
 
