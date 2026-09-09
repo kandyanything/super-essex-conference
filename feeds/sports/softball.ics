@@ -1324,14 +1324,6 @@ SUMMARY:North Star Academy vs West Side High School (Varsity Girls Softba
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102581009@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270419T160000
-DTEND;TZID=America/New_York:20270419T180000
-SUMMARY:Nutley High School at Verona High School (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102584147@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T160000
@@ -1339,6 +1331,14 @@ DTEND;TZID=America/New_York:20270419T180000
 SUMMARY:Science Park High School at Technology High School (Newark) (Vars
  ity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102581009@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270419T160000
+DTEND;TZID=America/New_York:20270419T180000
+SUMMARY:Verona High School vs Nutley High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102587565@super-essex-conference

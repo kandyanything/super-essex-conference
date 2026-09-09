@@ -118,7 +118,8 @@ UID:arb:103843792@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T163000
 DTEND;TZID=America/New_York:20270111T183000
-SUMMARY:Belleville High School vs TBD (Varsity Girls Girls Basketball)
+SUMMARY:Belleville High School vs Lumen Gentium Academy (Varsity Girls Gi
+ rls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -281,5 +282,23 @@ DTEND;TZID=America/New_York:20270212T194500
 SUMMARY:Belleville High School vs Bergenfield High School (Junior Varsity
   Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103882872@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270218T163000
+DTEND;TZID=America/New_York:20270218T183000
+SUMMARY:Belleville High School vs Elmwood Park High School (Varsity Girls
+  Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103882881@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270218T180000
+DTEND;TZID=America/New_York:20270218T200000
+SUMMARY:Belleville High School vs Elmwood Park High School (Junior Varsit
+ y Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 END:VCALENDAR

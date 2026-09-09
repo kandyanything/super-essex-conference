@@ -1153,15 +1153,6 @@ SUMMARY:Millburn High School vs Dover High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100309204@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260910T183000
-DTEND;TZID=America/New_York:20260910T203000
-SUMMARY:Nutley High School vs Weequahic High School (Varsity Boys Footbal
- l)
-DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99528896@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T190000
@@ -1186,6 +1177,15 @@ DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Irvington High School vs West Orange High School (Varsity Boys Fo
  otball)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100309204@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T190000
+DTEND;TZID=America/New_York:20260910T210000
+SUMMARY:Nutley High School vs Weequahic High School (Varsity Boys Footbal
+ l)
 DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1246,10 +1246,9 @@ UID:arb:99189395@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260912T090000
 DTEND;TZID=America/New_York:20260912T110000
-SUMMARY:[Canceled] Bloomfield High School vs Montclair High School (Fresh
- man Boys Football)
+SUMMARY:Bloomfield High School vs Passaic Valley High School (Freshman Bo
+ ys Football)
 DESCRIPTION:Freshman Boys Football - Home - 9:00 AM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101770333@super-essex-conference
@@ -1277,6 +1276,16 @@ DTEND;TZID=America/New_York:20260912T113000
 SUMMARY:Nutley High School at Northern Highlands Regional High School (Fr
  eshman Boys Football)
 DESCRIPTION:Freshman Boys Football - Away - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100534770@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T160000
+DTEND;TZID=America/New_York:20260914T180000
+SUMMARY:[Canceled] Weequahic High School vs TBD (Junior Varsity Boys Foot
+ ball)
+DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99663684@super-essex-conference
@@ -1332,15 +1341,6 @@ DTSTART;TZID=America/New_York:20260914T160000
 DTEND;TZID=America/New_York:20260914T180000
 SUMMARY:Millburn High School at Dover High School (Junior Varsity Boys Fo
  otball)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100534770@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T160000
-DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Nutley High School at Weequahic High School (Junior Varsity Boys 
- Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1582,9 +1582,10 @@ UID:arb:103551527@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T090000
 DTEND;TZID=America/New_York:20260919T110000
-SUMMARY:Nutley High School vs Wayne Hills High School (Junior Varsity Boy
- s Football)
+SUMMARY:[Canceled] Nutley High School vs Wayne Hills High School (Junior 
+ Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 9:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100155910@super-essex-conference
@@ -1911,6 +1912,15 @@ DTSTART;TZID=America/New_York:20260926T090000
 DTEND;TZID=America/New_York:20260926T110000
 SUMMARY:Malcolm X Shabazz High School at Bayonne High School (Freshman Bo
  ys Football)
+DESCRIPTION:Freshman Boys Football - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103881922@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T090000
+DTEND;TZID=America/New_York:20260926T110000
+SUMMARY:Nutley High School at Lyndhurst High School (Freshman Boys Footba
+ ll)
 DESCRIPTION:Freshman Boys Football - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT

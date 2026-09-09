@@ -278,6 +278,16 @@ SUMMARY:Montclair Kimberley Academy at The Pingry School (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100534770@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T160000
+DTEND;TZID=America/New_York:20260914T180000
+SUMMARY:[Canceled] Weequahic High School vs TBD (Junior Varsity Boys Foot
+ ball)
+DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99663684@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T160000
@@ -331,15 +341,6 @@ DTSTART;TZID=America/New_York:20260914T160000
 DTEND;TZID=America/New_York:20260914T180000
 SUMMARY:Millburn High School at Dover High School (Junior Varsity Boys Fo
  otball)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100534770@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T160000
-DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Nutley High School at Weequahic High School (Junior Varsity Boys 
- Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -437,9 +438,10 @@ UID:arb:103551527@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T090000
 DTEND;TZID=America/New_York:20260919T110000
-SUMMARY:Nutley High School vs Wayne Hills High School (Junior Varsity Boy
- s Football)
+SUMMARY:[Canceled] Nutley High School vs Wayne Hills High School (Junior 
+ Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 9:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102808762@super-essex-conference

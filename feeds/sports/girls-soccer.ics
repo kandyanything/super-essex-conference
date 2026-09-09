@@ -1483,9 +1483,10 @@ UID:arb:100664870@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T160000
 DTEND;TZID=America/New_York:20260910T180000
-SUMMARY:Barringer High School vs Technology High School (Newark) (Varsity
-  Girls Girls Soccer)
+SUMMARY:[Canceled] Barringer High School vs Technology High School (Newar
+ k) (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664810@super-essex-conference
@@ -1711,11 +1712,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102288863@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260912T130000
-DTEND;TZID=America/New_York:20260912T150000
+DTSTART;TZID=America/New_York:20260912T140000
+DTEND;TZID=America/New_York:20260912T160000
 SUMMARY:Mount Saint Dominic Academy at Verona High School (Varsity Girls 
  Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 1:00 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101729341@super-essex-conference
@@ -2921,6 +2922,15 @@ SUMMARY:Newark Tech vs Essex County-Payne Tech High School (Junior Varsit
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103883637@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Nutley High School vs Bloomfield High School (Junior Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102918110@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T161500
@@ -3797,6 +3807,15 @@ SUMMARY:Montclair High School vs Wayne Valley High School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103883008@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T160000
+DTEND;TZID=America/New_York:20261008T180000
+SUMMARY:Nutley High School vs Rutherford High School (Junior Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102518460@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
@@ -4343,15 +4362,6 @@ SUMMARY:Nutley High School at Clifton High School (Varsity Girls Girls So
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101619847@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261015T160000
-DTEND;TZID=America/New_York:20261015T180000
-SUMMARY:Nutley High School at Clifton High School (Junior Varsity Girls G
- irls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102879557@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T160000
@@ -4479,6 +4489,15 @@ SUMMARY:Millburn High School at Scotch Plains-Fanwood High School (Varsit
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101619847@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Nutley High School at Clifton High School (Junior Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103489961@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T160000
@@ -4532,6 +4551,15 @@ SUMMARY:[Canceled] West Essex High School vs Cranford High School (Freshm
  an Girls Girls Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Home - 10:00 AM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103883084@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T113000
+DTEND;TZID=America/New_York:20261017T133000
+SUMMARY:Nutley High School vs Rutherford High School (Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102979423@super-essex-conference
@@ -4774,9 +4802,10 @@ UID:arb:103550556@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T040000
 DTEND;TZID=America/New_York:20261023T060000
-SUMMARY:Nutley High School vs Lyndhurst High School (Junior Varsity Girls
-  Girls Soccer)
+SUMMARY:[Canceled] Nutley High School vs Lyndhurst High School (Junior Va
+ rsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102156265@super-essex-conference
@@ -4993,9 +5022,10 @@ UID:arb:102576308@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261027T190000
 DTEND;TZID=America/New_York:20261027T210000
-SUMMARY:Nutley High School vs Hoboken High School (Junior Varsity Girls G
- irls Soccer)
+SUMMARY:[Canceled] Nutley High School vs Hoboken High School (Junior Vars
+ ity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 7:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101396893@super-essex-conference

@@ -280,10 +280,9 @@ UID:arb:99189395@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260912T090000
 DTEND;TZID=America/New_York:20260912T110000
-SUMMARY:[Canceled] Bloomfield High School vs Montclair High School (Fresh
- man Boys Football)
+SUMMARY:Bloomfield High School vs Passaic Valley High School (Freshman Bo
+ ys Football)
 DESCRIPTION:Freshman Boys Football - Home - 9:00 AM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101770333@super-essex-conference
@@ -452,6 +451,15 @@ DTSTART;TZID=America/New_York:20260926T090000
 DTEND;TZID=America/New_York:20260926T110000
 SUMMARY:Malcolm X Shabazz High School at Bayonne High School (Freshman Bo
  ys Football)
+DESCRIPTION:Freshman Boys Football - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103881922@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T090000
+DTEND;TZID=America/New_York:20260926T110000
+SUMMARY:Nutley High School at Lyndhurst High School (Freshman Boys Footba
+ ll)
 DESCRIPTION:Freshman Boys Football - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT

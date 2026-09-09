@@ -608,11 +608,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102288863@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260912T130000
-DTEND;TZID=America/New_York:20260912T150000
+DTSTART;TZID=America/New_York:20260912T140000
+DTEND;TZID=America/New_York:20260912T160000
 SUMMARY:Mount Saint Dominic Academy at Verona High School (Varsity Girls 
  Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 1:00 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101766411@super-essex-conference
@@ -1879,6 +1879,24 @@ SUMMARY:Nutley High School vs Verona High School (Varsity Boys Boys Ice H
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 8:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103883016@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T100000
+DTEND;TZID=America/New_York:20261212T120000
+SUMMARY:Verona High School vs Morris Knolls High School (Varsity Girls Gi
+ rls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103883027@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T113000
+DTEND;TZID=America/New_York:20261212T133000
+SUMMARY:Verona High School vs Morris Knolls High School (Junior Varsity G
+ irls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100551378@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T160000
@@ -2732,14 +2750,6 @@ SUMMARY:Millburn High School at Verona High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102581009@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270419T160000
-DTEND;TZID=America/New_York:20270419T180000
-SUMMARY:Nutley High School at Verona High School (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102566858@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T160000
@@ -2747,6 +2757,14 @@ DTEND;TZID=America/New_York:20270419T180000
 SUMMARY:Saint Benedict's Prep at Verona High School (Varsity Boys Basebal
  l)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102581009@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270419T160000
+DTEND;TZID=America/New_York:20270419T180000
+SUMMARY:Verona High School vs Nutley High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102582042@super-essex-conference
