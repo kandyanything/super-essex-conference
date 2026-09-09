@@ -662,9 +662,10 @@ UID:arb:99051535@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T160000
 DTEND;TZID=America/New_York:20260910T180000
-SUMMARY:Belleville High School at Columbia High School (Varsity Girls Gir
- ls Volleyball)
+SUMMARY:[Canceled] Belleville High School at Columbia High School (Varsit
+ y Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102575926@super-essex-conference
@@ -698,9 +699,10 @@ UID:arb:99051556@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T171500
 DTEND;TZID=America/New_York:20260910T191500
-SUMMARY:Belleville High School at Columbia High School (Junior Varsity Gi
- rls Girls Volleyball)
+SUMMARY:[Canceled] Belleville High School at Columbia High School (Junior
+  Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101622405@super-essex-conference
@@ -719,6 +721,15 @@ DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Columbia High School at Livingston High School (Varsity Boys Foot
  ball)
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103873816@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T160000
+DTEND;TZID=America/New_York:20260914T180000
+SUMMARY:Columbia High School at Montclair High School (Freshman Boys Boys
+  Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103344607@super-essex-conference
@@ -776,6 +787,14 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102743039@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T161500
+DTEND;TZID=America/New_York:20260914T181500
+SUMMARY:Columbia High School at TBD (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103873548@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T161500
 DTEND;TZID=America/New_York:20260914T181500

@@ -436,15 +436,6 @@ SUMMARY:Columbia High School vs Summit High School (Varsity Girls Field H
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101732082@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260910T160000
-DTEND;TZID=America/New_York:20260910T180000
-SUMMARY:Montclair High School vs Ramsey High School (Varsity Girls Field 
- Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101406441@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T160000
@@ -479,6 +470,15 @@ DTEND;TZID=America/New_York:20260910T181500
 SUMMARY:Verona High School at Westfield High School (Varsity Girls Field 
  Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101732082@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T163000
+DTEND;TZID=America/New_York:20260910T183000
+SUMMARY:Montclair High School vs Ramsey High School (Varsity Girls Field 
+ Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101774121@super-essex-conference

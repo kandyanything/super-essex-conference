@@ -232,15 +232,6 @@ SUMMARY:Glen Ridge High School at West Essex High School (Varsity Girls F
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102769204@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T161500
-DTEND;TZID=America/New_York:20260922T181500
-SUMMARY:West Essex High School vs Westfield High School (Freshman Girls F
- ield Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101621868@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T173000
@@ -493,6 +484,15 @@ SUMMARY:West Essex High School at Pope John XXIII High School (Middle Sch
 DESCRIPTION:Middle School Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102769204@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T161500
+DTEND;TZID=America/New_York:20261014T181500
+SUMMARY:West Essex High School vs Westfield High School (Freshman Girls F
+ ield Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:98993967@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T163000
@@ -508,6 +508,15 @@ DTEND;TZID=America/New_York:20261015T180000
 SUMMARY:West Essex High School vs Sparta High School (Middle School Girls
   Field Hockey)
 DESCRIPTION:Middle School Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103869647@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T100000
+DTEND;TZID=America/New_York:20261017T120000
+SUMMARY:West Essex High School at Chatham High School (Freshman Girls Fie
+ ld Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102830120@super-essex-conference
