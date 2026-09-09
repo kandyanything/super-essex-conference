@@ -1008,15 +1008,6 @@ SUMMARY:Verona High School at James Caldwell High School (Varsity Girls F
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103873548@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T161500
-DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:Columbia High School at River Dell Regional High School (Freshman
-  Girls Field Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102666818@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T161500
@@ -1403,14 +1394,6 @@ DTEND;TZID=America/New_York:20260922T173000
 SUMMARY:Newark Academy vs Morristown-Beard School (Middle School Girls Fi
  eld Hockey)
 DESCRIPTION:Middle School Girls Field Hockey - Home - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103357722@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T160000
-DTEND;TZID=America/New_York:20260922T180000
-SUMMARY:Columbia High School vs TBD (Freshman Girls Field Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100792526@super-essex-conference
@@ -2720,6 +2703,15 @@ DTEND;TZID=America/New_York:20261013T180000
 SUMMARY:West Essex High School at Pope John XXIII High School (Middle Sch
  ool Girls Field Hockey)
 DESCRIPTION:Middle School Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103890598@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Columbia High School at James Caldwell High School (Junior Varsit
+ y Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101422396@super-essex-conference

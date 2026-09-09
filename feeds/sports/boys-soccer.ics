@@ -1790,6 +1790,14 @@ SUMMARY:Payne Tech at Camden County Technical School at Sicklerville (Var
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101452393@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T160000
+DTEND;TZID=America/New_York:20260909T180000
+SUMMARY:Newark Tech at TBD (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101766107@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260909T160000
@@ -1954,6 +1962,16 @@ DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100650879@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T160000
+DTEND;TZID=America/New_York:20260909T180000
+SUMMARY:[Canceled] Millburn High School at Newark Academy (Varsity Boys B
+ oys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101364224@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260909T160000
@@ -1963,6 +1981,15 @@ SUMMARY:Montclair High School vs West Orange High School (Freshman Boys B
 DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101446151@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T160000
+DTEND;TZID=America/New_York:20260909T180000
+SUMMARY:Montclair Kimberley Academy at Seton Hall Preparatory School (Jun
+ ior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100631965@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260909T160000
@@ -1970,16 +1997,6 @@ DTEND;TZID=America/New_York:20260909T180000
 SUMMARY:Montclair Kimberley Academy at Seton Hall Preparatory School (Var
  sity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100650879@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260909T160000
-DTEND;TZID=America/New_York:20260909T180000
-SUMMARY:[Canceled] Newark Academy vs Millburn High School (Varsity Boys B
- oys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100661857@super-essex-conference

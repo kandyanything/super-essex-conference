@@ -374,6 +374,16 @@ DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100650879@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T160000
+DTEND;TZID=America/New_York:20260909T180000
+SUMMARY:[Canceled] Millburn High School at Newark Academy (Varsity Boys B
+ oys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103580227@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260909T160000
@@ -390,16 +400,6 @@ DTEND;TZID=America/New_York:20260909T180000
 SUMMARY:Mount Saint Dominic Academy vs Newark Academy (Varsity Girls Girl
  s Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100650879@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260909T160000
-DTEND;TZID=America/New_York:20260909T180000
-SUMMARY:[Canceled] Newark Academy vs Millburn High School (Varsity Boys B
- oys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103877330@super-essex-conference

@@ -796,15 +796,6 @@ SUMMARY:Columbia High School at Essex County-Payne Tech High School (Vars
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103873548@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T161500
-DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:Columbia High School at River Dell Regional High School (Freshman
-  Girls Field Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102666818@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T161500
@@ -1027,14 +1018,6 @@ DTEND;TZID=America/New_York:20260919T200000
 SUMMARY:Columbia High School at Hackensack High School (Varsity Boys Foot
  ball)
 DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103357722@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T160000
-DTEND;TZID=America/New_York:20260922T180000
-SUMMARY:Columbia High School vs TBD (Freshman Girls Field Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103536003@super-essex-conference
@@ -1907,6 +1890,15 @@ DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Columbia High School vs TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103890598@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Columbia High School at James Caldwell High School (Junior Varsit
+ y Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102747919@super-essex-conference
