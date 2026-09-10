@@ -540,9 +540,10 @@ UID:arb:102618126@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T160000
 DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Cedar Grove High School at Central High School (Varsity Girls Gir
- ls Tennis)
+SUMMARY:[Canceled] Cedar Grove High School at Central High School (Varsit
+ y Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100452130@super-essex-conference
@@ -751,6 +752,15 @@ DTEND;TZID=America/New_York:20260917T180000
 SUMMARY:Bloomfield High School vs American History High School (Varsity G
  irls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103898587@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T160000
+DTEND;TZID=America/New_York:20260917T180000
+SUMMARY:Cedar Grove High School at Glen Ridge High School (Varsity Girls 
+ Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103660232@super-essex-conference

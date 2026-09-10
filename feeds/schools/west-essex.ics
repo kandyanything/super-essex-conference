@@ -2195,6 +2195,15 @@ SUMMARY:Central High School vs West Essex High School (Varsity Boys Footb
 DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103900200@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+SUMMARY:Nutley High School at West Essex High School (Junior Varsity Girl
+ s Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101796697@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T160000
@@ -2285,6 +2294,15 @@ DTEND;TZID=America/New_York:20261010T110000
 SUMMARY:Central High School at West Essex High School (Freshman Boys Foot
  ball)
 DESCRIPTION:Freshman Boys Football - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103900363@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T090000
+DTEND;TZID=America/New_York:20261010T110000
+SUMMARY:Nutley High School at West Essex High School (Freshman Girls Girl
+ s Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102430252@super-essex-conference

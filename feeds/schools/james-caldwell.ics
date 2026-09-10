@@ -1416,6 +1416,15 @@ SUMMARY:Glen Ridge High School at James Caldwell High School (Varsity Boy
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103900061@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T040000
+DTEND;TZID=America/New_York:20261010T060000
+SUMMARY:James Caldwell High School vs Nutley High School (Varsity Girls G
+ irls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102430252@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T100000
@@ -1441,6 +1450,15 @@ DTEND;TZID=America/New_York:20261010T140000
 SUMMARY:West Essex High School at James Caldwell High School (Junior Vars
  ity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103900300@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:James Caldwell High School vs Nutley High School (Junior Varsity 
+ Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102083484@super-essex-conference

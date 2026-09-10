@@ -823,15 +823,6 @@ SUMMARY:Belleville High School vs Columbia High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102616251@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270127T170000
-DTEND;TZID=America/New_York:20270127T190000
-SUMMARY:Bloomfield High School vs Livingston High School (Varsity Boys Bo
- ys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103851193@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T170000
@@ -839,6 +830,15 @@ DTEND;TZID=America/New_York:20270127T190000
 SUMMARY:East Side High School vs West Orange High School (Junior Varsity 
  Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102616251@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T170000
+DTEND;TZID=America/New_York:20270127T190000
+SUMMARY:Livingston High School at Bloomfield High School (Varsity Boys Bo
+ ys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102578663@super-essex-conference

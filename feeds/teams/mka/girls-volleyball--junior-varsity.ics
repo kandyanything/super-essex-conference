@@ -115,13 +115,23 @@ SUMMARY:Montclair Kimberley Academy at Verona High School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103899591@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T171500
+DTEND;TZID=America/New_York:20260915T191500
+SUMMARY:Montclair Kimberley Academy vs Newark Academy (Junior Varsity Gir
+ ls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99085383@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T171500
 DTEND;TZID=America/New_York:20260916T191500
-SUMMARY:Montclair Kimberley Academy vs Newark Academy (Junior Varsity Gir
- ls Girls Volleyball)
+SUMMARY:[Canceled] Montclair Kimberley Academy vs Newark Academy (Junior 
+ Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99107918@super-essex-conference
