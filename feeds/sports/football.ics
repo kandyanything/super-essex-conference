@@ -1153,6 +1153,15 @@ SUMMARY:Millburn High School vs Dover High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100309204@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T183000
+DTEND;TZID=America/New_York:20260910T203000
+SUMMARY:Nutley High School vs Weequahic High School (Varsity Boys Footbal
+ l)
+DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99528896@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T190000
@@ -1177,15 +1186,6 @@ DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Irvington High School vs West Orange High School (Varsity Boys Fo
  otball)
-DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100309204@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260910T190000
-DTEND;TZID=America/New_York:20260910T210000
-SUMMARY:Nutley High School vs Weequahic High School (Varsity Boys Footbal
- l)
 DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1339,9 +1339,10 @@ UID:arb:100194741@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T160000
 DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Millburn High School at Dover High School (Junior Varsity Boys Fo
- otball)
+SUMMARY:[Canceled] Millburn High School at Dover High School (Junior Vars
+ ity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:98743793@super-essex-conference

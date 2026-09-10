@@ -525,11 +525,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100309204@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260910T190000
-DTEND;TZID=America/New_York:20260910T210000
+DTSTART;TZID=America/New_York:20260910T183000
+DTEND;TZID=America/New_York:20260910T203000
 SUMMARY:Nutley High School vs Weequahic High School (Varsity Boys Footbal
  l)
-DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
+DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99273963@super-essex-conference
@@ -1948,6 +1948,15 @@ DTSTART;TZID=America/New_York:20261212T194500
 DTEND;TZID=America/New_York:20261212T214500
 SUMMARY:Nutley High School vs TBD (Varsity Boys Boys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 7:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103910304@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T183000
+DTEND;TZID=America/New_York:20261214T203000
+SUMMARY:Nutley High School at Frisch School (The) (Varsity Boys Boys Ice 
+ Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553074@super-essex-conference

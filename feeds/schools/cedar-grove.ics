@@ -798,15 +798,6 @@ SUMMARY:Cedar Grove High School at Hasbrouck Heights High School (Varsity
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103881292@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T110000
-DTEND;TZID=America/New_York:20260919T130000
-SUMMARY:Cedar Grove High School vs Hoboken High School (Varsity Boys Boys
-  Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99528968@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260921T160000
@@ -820,18 +811,20 @@ UID:arb:99052107@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260921T160000
 DTEND;TZID=America/New_York:20260921T180000
-SUMMARY:Cedar Grove High School vs Glen Ridge High School (Varsity Girls 
- Girls Volleyball)
+SUMMARY:[Canceled] Cedar Grove High School vs Glen Ridge High School (Var
+ sity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99052017@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260921T171500
 DTEND;TZID=America/New_York:20260921T191500
-SUMMARY:Cedar Grove High School vs Glen Ridge High School (Junior Varsity
-  Girls Girls Volleyball)
+SUMMARY:[Canceled] Cedar Grove High School vs Glen Ridge High School (Jun
+ ior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101581817@super-essex-conference
