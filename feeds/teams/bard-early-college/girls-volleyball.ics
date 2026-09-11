@@ -155,18 +155,20 @@ UID:arb:102856138@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260917T160000
 DTEND;TZID=America/New_York:20260917T180000
-SUMMARY:Bard Early College vs Newark Vocational High School (Varsity Girl
- s Girls Volleyball)
+SUMMARY:[Canceled] Bard Early College vs Newark Vocational High School (V
+ arsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102856122@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260917T171500
 DTEND;TZID=America/New_York:20260917T191500
-SUMMARY:Bard Early College vs Newark Vocational High School (Junior Varsi
- ty Girls Girls Volleyball)
+SUMMARY:[Canceled] Bard Early College vs Newark Vocational High School (J
+ unior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100972754@super-essex-conference
@@ -294,6 +296,24 @@ DTEND;TZID=America/New_York:20261002T191500
 SUMMARY:Bard Early College vs Central High School (Junior Varsity Girls G
  irls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103930851@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+SUMMARY:Bard Early College vs Newark Vocational High School (Varsity Girl
+ s Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103930880@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T113000
+DTEND;TZID=America/New_York:20261003T133000
+SUMMARY:Bard Early College vs Newark Vocational High School (Junior Varsi
+ ty Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99249314@super-essex-conference

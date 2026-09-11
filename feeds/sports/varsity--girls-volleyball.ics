@@ -1702,13 +1702,13 @@ SUMMARY:Central High School vs West Caldwell Tech (Varsity Girls Girls Vo
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99057784@super-essex-conference
+UID:arb:103927541@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T160000
 DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Columbia High School at Essex County-Payne Tech High School (Vars
+SUMMARY:Columbia High School vs Essex County-Payne Tech High School (Vars
  ity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99042433@super-essex-conference
@@ -2074,9 +2074,10 @@ UID:arb:102856138@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260917T160000
 DTEND;TZID=America/New_York:20260917T180000
-SUMMARY:Bard Early College vs Newark Vocational High School (Varsity Girl
- s Girls Volleyball)
+SUMMARY:[Canceled] Bard Early College vs Newark Vocational High School (V
+ arsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103636628@super-essex-conference
@@ -2140,6 +2141,15 @@ DTEND;TZID=America/New_York:20260918T180000
 SUMMARY:Irvington High School at Technology High School (Newark) (Varsity
   Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103931158@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260918T160000
+DTEND;TZID=America/New_York:20260918T180000
+SUMMARY:Malcolm X Shabazz High School vs Newark Vocational High School (V
+ arsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101059893@super-essex-conference
@@ -3394,6 +3404,15 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T100000
 DTEND;TZID=America/New_York:20261003T120000
 SUMMARY:James Caldwell High School vs TBD (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103930851@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+SUMMARY:Bard Early College vs Newark Vocational High School (Varsity Girl
+ s Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -4913,6 +4932,15 @@ DTEND;TZID=America/New_York:20261023T180000
 SUMMARY:Central High School vs Newark School of Data Science (Varsity Gir
  ls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103928131@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:Newark Tech at Technology High School (Newark) (Varsity Girls Gir
+ ls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102904095@super-essex-conference

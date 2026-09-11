@@ -742,6 +742,15 @@ SUMMARY:Columbia High School at Livingston High School (Varsity Boys Foot
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103927541@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T160000
+DTEND;TZID=America/New_York:20260914T180000
+SUMMARY:Columbia High School vs Essex County-Payne Tech High School (Vars
+ ity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103873816@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T160000
@@ -773,9 +782,9 @@ UID:arb:102541112@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T160000
 DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Columbia High School vs Essex County-Payne Tech High School (Fres
+SUMMARY:Columbia High School at Essex County-Payne Tech High School (Fres
  hman Girls Girls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100650884@super-essex-conference
@@ -796,15 +805,6 @@ SUMMARY:Columbia High School vs West Orange High School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99057784@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T160000
-DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Columbia High School at Essex County-Payne Tech High School (Vars
- ity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102666818@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T161500
@@ -814,13 +814,13 @@ SUMMARY:Columbia High School at Westfield High School (Freshman Girls Fie
 DESCRIPTION:Freshman Girls Field Hockey - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99057793@super-essex-conference
+UID:arb:103927557@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T171500
 DTEND;TZID=America/New_York:20260914T191500
-SUMMARY:Columbia High School at Essex County-Payne Tech High School (Juni
+SUMMARY:Columbia High School vs Essex County-Payne Tech High School (Juni
  or Varsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102576044@super-essex-conference
@@ -2966,6 +2966,24 @@ DTSTART;TZID=America/New_York:20270421T160000
 DTEND;TZID=America/New_York:20270421T180000
 SUMMARY:Seton Hall Prep vs Columbia High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103924682@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270424T110000
+DTEND;TZID=America/New_York:20270424T130000
+SUMMARY:Columbia High School vs Scotch Plains-Fanwood High School (Varsit
+ y Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103924904@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270424T123000
+DTEND;TZID=America/New_York:20270424T143000
+SUMMARY:Columbia High School vs Scotch Plains-Fanwood High School (Junior
+  Varsity Girls Girls Lacrosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103009503@super-essex-conference

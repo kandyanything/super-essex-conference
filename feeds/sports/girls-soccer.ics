@@ -1686,9 +1686,10 @@ UID:arb:103104460@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260911T161500
 DTEND;TZID=America/New_York:20260911T181500
-SUMMARY:Montclair High School at Immaculate Heart Academy (Freshman Girls
-  Girls Soccer)
+SUMMARY:[Canceled] Montclair High School at Immaculate Heart Academy (Fre
+ shman Girls Girls Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101824429@super-essex-conference
@@ -2056,15 +2057,6 @@ DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100664666@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260917T160000
-DTEND;TZID=America/New_York:20260917T180000
-SUMMARY:Millburn High School vs Science Park High School (Varsity Girls G
- irls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100663139@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260917T160000
@@ -2152,6 +2144,15 @@ DTEND;TZID=America/New_York:20260917T183000
 SUMMARY:Livingston High School vs West Orange High School (Varsity Girls 
  Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100664666@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260918T160000
+DTEND;TZID=America/New_York:20260918T180000
+SUMMARY:Millburn High School vs Science Park High School (Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101155750@super-essex-conference
@@ -4027,9 +4028,9 @@ UID:arb:100666404@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T100000
 DTEND;TZID=America/New_York:20261010T120000
-SUMMARY:Montclair High School at Morris Knolls High School (Freshman Girl
+SUMMARY:Montclair High School vs Morris Knolls High School (Freshman Girl
  s Girls Soccer)
-DESCRIPTION:Freshman Girls Girls Soccer - Away - 10:00 AM
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102153363@super-essex-conference

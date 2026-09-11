@@ -1508,13 +1508,13 @@ SUMMARY:Central High School vs West Caldwell Tech (Junior Varsity Girls G
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99057793@super-essex-conference
+UID:arb:103927557@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T171500
 DTEND;TZID=America/New_York:20260914T191500
-SUMMARY:Columbia High School at Essex County-Payne Tech High School (Juni
+SUMMARY:Columbia High School vs Essex County-Payne Tech High School (Juni
  or Varsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99042431@super-essex-conference
@@ -1855,9 +1855,10 @@ UID:arb:102856122@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260917T171500
 DTEND;TZID=America/New_York:20260917T191500
-SUMMARY:Bard Early College vs Newark Vocational High School (Junior Varsi
- ty Girls Girls Volleyball)
+SUMMARY:[Canceled] Bard Early College vs Newark Vocational High School (J
+ unior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103636605@super-essex-conference
@@ -3052,6 +3053,15 @@ DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Livingston High School vs Hoboken High School (Junior Varsity Gir
  ls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103930880@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T113000
+DTEND;TZID=America/New_York:20261003T133000
+SUMMARY:Bard Early College vs Newark Vocational High School (Junior Varsi
+ ty Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100665657@super-essex-conference
@@ -4306,6 +4316,15 @@ DTEND;TZID=America/New_York:20261023T191500
 SUMMARY:Central High School vs Newark School of Data Science (Junior Vars
  ity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103928141@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T171500
+DTEND;TZID=America/New_York:20261023T191500
+SUMMARY:Newark Tech at Technology High School (Newark) (Junior Varsity Gi
+ rls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102131075@super-essex-conference

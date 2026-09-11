@@ -1386,8 +1386,8 @@ UID:arb:103844899@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
-SUMMARY:Seton Hall Prep at TBD (Varsity Boys Lacrosse)
-DESCRIPTION:Varsity Boys Lacrosse - Away
+SUMMARY:Seton Hall Prep at TBD (Varsity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103008938@super-essex-conference
@@ -1441,6 +1441,14 @@ SUMMARY:Seton Hall Prep vs West Essex High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103929544@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270501T130000
+DTEND;TZID=America/New_York:20270501T150000
+SUMMARY:Seton Hall Prep at Delbarton School (Varsity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103009363@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T160000
@@ -1463,8 +1471,8 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270504T160000
 DTEND;TZID=America/New_York:20270504T180000
 SUMMARY:Seton Hall Prep at Scotch Plains-Fanwood High School (Freshman Bo
- ys Lacrosse)
-DESCRIPTION:Freshman Boys Lacrosse - Away - 4:00 PM
+ ys Boys Lacrosse)
+DESCRIPTION:Freshman Boys Boys Lacrosse - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102490553@super-essex-conference
@@ -1472,8 +1480,8 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270504T160000
 DTEND;TZID=America/New_York:20270504T180000
 SUMMARY:Seton Hall Prep vs Scotch Plains-Fanwood High School (Varsity Boy
- s Lacrosse)
-DESCRIPTION:Varsity Boys Lacrosse - Home - 4:00 PM
+ s Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102490560@super-essex-conference
@@ -1481,8 +1489,8 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270504T173000
 DTEND;TZID=America/New_York:20270504T193000
 SUMMARY:Seton Hall Prep vs Scotch Plains-Fanwood High School (Junior Vars
- ity Boys Lacrosse)
-DESCRIPTION:Junior Varsity Boys Lacrosse - Home - 5:30 PM
+ ity Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102566400@super-essex-conference
