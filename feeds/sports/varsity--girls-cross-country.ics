@@ -227,21 +227,21 @@ SUMMARY:Central High School vs Glen Ridge High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Cross Country - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102876243@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T160000
-DTEND;TZID=America/New_York:20260929T180000
-SUMMARY:Millburn High School vs Verona High School (Varsity Girls Girls C
- ross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100796944@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T160000
 DTEND;TZID=America/New_York:20260929T180000
 SUMMARY:Millburn High School at West Essex High School (Varsity Girls Gir
  ls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102876243@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Verona High School at Millburn High School (Varsity Girls Girls C
+ ross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT

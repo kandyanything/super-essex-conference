@@ -569,9 +569,10 @@ UID:arb:101611781@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T160000
 DTEND;TZID=America/New_York:20260915T180000
-SUMMARY:Belleville High School at Bloomfield High School (Junior Varsity 
- Girls Girls Soccer)
+SUMMARY:[Canceled] Belleville High School at Bloomfield High School (Juni
+ or Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100666586@super-essex-conference
@@ -1000,9 +1001,10 @@ UID:arb:102568481@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T160000
 DTEND;TZID=America/New_York:20261006T180000
-SUMMARY:Belleville High School at Nutley High School (Freshman Girls Girl
- s Volleyball)
+SUMMARY:[Canceled] Belleville High School at Nutley High School (Freshman
+  Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103870411@super-essex-conference
@@ -1074,6 +1076,15 @@ DTSTART;TZID=America/New_York:20261008T160000
 DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Belleville High School vs Hoboken High School (Varsity Girls Girl
  s Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102559367@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T160000
+DTEND;TZID=America/New_York:20261008T180000
+SUMMARY:Belleville High School vs Nutley High School (Varsity Girls Girls
+  Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT

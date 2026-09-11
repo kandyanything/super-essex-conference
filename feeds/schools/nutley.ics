@@ -1210,8 +1210,8 @@ UID:arb:99416864@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:Millburn High School at Nutley High School (Varsity Boys Boys Cro
- ss Country)
+SUMMARY:Montclair Kimberley Academy at Nutley High School (Varsity Boys B
+ oys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away
 END:VEVENT
 BEGIN:VEVENT
@@ -1336,9 +1336,10 @@ UID:arb:102568481@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T160000
 DTEND;TZID=America/New_York:20261006T180000
-SUMMARY:Belleville High School at Nutley High School (Freshman Girls Girl
- s Volleyball)
+SUMMARY:[Canceled] Belleville High School at Nutley High School (Freshman
+  Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102441555@super-essex-conference
@@ -1411,6 +1412,15 @@ DTEND;TZID=America/New_York:20261007T191500
 SUMMARY:East Orange Campus High School at Nutley High School (Junior Vars
  ity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102559367@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T160000
+DTEND;TZID=America/New_York:20261008T180000
+SUMMARY:Belleville High School vs Nutley High School (Varsity Girls Girls
+  Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102127844@super-essex-conference
