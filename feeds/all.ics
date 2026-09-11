@@ -21559,6 +21559,15 @@ SUMMARY:Bloomfield High School vs Columbia High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103920726@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Cedar Grove High School vs Nutley High School (Varsity Girls Girl
+ s Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102618551@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
@@ -21575,16 +21584,6 @@ DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:Cedar Grove High School at Clifton High School (Varsity Girls Gir
  ls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101410956@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T160000
-DTEND;TZID=America/New_York:20261001T180000
-SUMMARY:[Canceled] Cedar Grove High School vs Nutley High School (Varsity
-  Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101316766@super-essex-conference
@@ -21986,14 +21985,13 @@ SUMMARY:Bloomfield High School at Glen Ridge High School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101410949@super-essex-conference
+UID:arb:103920731@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T171500
 DTEND;TZID=America/New_York:20261001T191500
-SUMMARY:[Canceled] Cedar Grove High School vs Nutley High School (Junior 
- Varsity Girls Girls Volleyball)
+SUMMARY:Cedar Grove High School vs Nutley High School (Junior Varsity Gir
+ ls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102333226@super-essex-conference
@@ -24135,6 +24133,15 @@ SUMMARY:Verona High School at TBD (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103920494@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Belleville High School vs Nutley High School (Varsity Girls Girls
+  Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102568481@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T160000
@@ -24142,15 +24149,6 @@ DTEND;TZID=America/New_York:20261006T180000
 SUMMARY:Belleville High School at Nutley High School (Freshman Girls Girl
  s Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102559367@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T160000
-DTEND;TZID=America/New_York:20261006T180000
-SUMMARY:Belleville High School vs Nutley High School (Varsity Girls Girls
-  Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101522840@super-essex-conference
@@ -53190,7 +53188,7 @@ UID:arb:103844899@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
-SUMMARY:Seton Hall Prep at Delbarton School (Varsity Boys Lacrosse)
+SUMMARY:Seton Hall Prep at TBD (Varsity Boys Lacrosse)
 DESCRIPTION:Varsity Boys Lacrosse - Away
 END:VEVENT
 BEGIN:VEVENT
