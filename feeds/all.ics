@@ -10189,6 +10189,15 @@ SUMMARY:Belleville High School at Abundant Life Academy (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101583885@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260911T160000
+DTEND;TZID=America/New_York:20260911T180000
+SUMMARY:Belleville High School at East Side High School - Newark (Varsity
+  Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101583893@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260911T160000
@@ -10331,6 +10340,14 @@ SUMMARY:Science Park High School vs Hudson Catholic Regional High School
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101433866@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260911T161500
+DTEND;TZID=America/New_York:20260911T181500
+SUMMARY:Montclair High School vs TBD (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103167104@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260911T161500
@@ -10422,6 +10439,24 @@ DTEND;TZID=America/New_York:20260911T183000
 SUMMARY:Saint Benedict's Prep at Saint Peter's Prep High School (Varsity 
  Boys Boys Water Polo)
 DESCRIPTION:Varsity Boys Boys Water Polo - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101479261@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260911T163000
+DTEND;TZID=America/New_York:20260911T183000
+SUMMARY:Seton Hall Prep vs Saint Thomas Aquinas High School (Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101446227@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260911T163000
+DTEND;TZID=America/New_York:20260911T183000
+SUMMARY:Seton Hall Prep vs Saint Thomas Aquinas High School (Junior Varsi
+ ty Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102561903@super-essex-conference
@@ -13575,9 +13610,10 @@ UID:arb:102576301@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260917T160000
 DTEND;TZID=America/New_York:20260917T180000
-SUMMARY:Glen Ridge High School at Nutley High School (Junior Varsity Girl
- s Girls Soccer)
+SUMMARY:[Canceled] Glen Ridge High School at Nutley High School (Junior V
+ arsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102576152@super-essex-conference
@@ -21571,9 +21607,10 @@ UID:arb:103920726@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
-SUMMARY:Cedar Grove High School vs Nutley High School (Varsity Girls Girl
- s Volleyball)
+SUMMARY:[Canceled] Cedar Grove High School vs Nutley High School (Varsity
+  Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102618551@super-essex-conference
@@ -21997,9 +22034,10 @@ UID:arb:103920731@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T171500
 DTEND;TZID=America/New_York:20261001T191500
-SUMMARY:Cedar Grove High School vs Nutley High School (Junior Varsity Gir
- ls Girls Volleyball)
+SUMMARY:[Canceled] Cedar Grove High School vs Nutley High School (Junior 
+ Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102333226@super-essex-conference
@@ -31376,7 +31414,7 @@ SUMMARY:Belleville High School vs Essex County-Newark Tech High School (V
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103403601@super-essex-conference
+UID:arb:103941190@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T160000
 DTEND;TZID=America/New_York:20261022T180000
@@ -31594,7 +31632,7 @@ SUMMARY:Belleville High School vs Essex County-Newark Tech High School (J
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103403608@super-essex-conference
+UID:arb:103941208@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T171500
 DTEND;TZID=America/New_York:20261022T191500
