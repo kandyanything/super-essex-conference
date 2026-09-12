@@ -10409,9 +10409,10 @@ UID:arb:103146352@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260911T163000
 DTEND;TZID=America/New_York:20260911T183000
-SUMMARY:East Orange Campus High School vs Passaic Arts & Science Charter 
- School (Varsity Boys Boys Soccer)
+SUMMARY:[Canceled] East Orange Campus High School vs Passaic Arts & Scien
+ ce Charter School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102751128@super-essex-conference
@@ -11243,9 +11244,10 @@ UID:arb:103414002@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T160000
 DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Irvington High School vs New Providence High School (Freshman Gir
- ls Girls Volleyball)
+SUMMARY:[Canceled] Irvington High School vs New Providence High School (F
+ reshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102803507@super-essex-conference
@@ -23389,6 +23391,15 @@ SUMMARY:East Orange Campus High School vs West Orange High School (Varsit
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103947617@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Glen Ridge High School at Caldwell High School (Junior Varsity Gi
+ rls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103046124@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
@@ -23432,15 +23443,6 @@ DTEND;TZID=America/New_York:20261005T180000
 SUMMARY:Glen Ridge High School vs Verona High School (Junior Varsity Boys
   Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:99051943@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T160000
-DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Glen Ridge High School at Caldwell High School (Varsity Girls Gir
- ls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101911604@super-essex-conference
@@ -24017,15 +24019,6 @@ SUMMARY:East Orange Campus High School vs West Orange High School (Junior
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99051938@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T171500
-DTEND;TZID=America/New_York:20261005T191500
-SUMMARY:Glen Ridge High School at Caldwell High School (Junior Varsity Gi
- rls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99250040@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T171500
@@ -24114,6 +24107,15 @@ DTEND;TZID=America/New_York:20261005T193000
 SUMMARY:Columbia High School vs Montclair Kimberley Academy (Junior Varsi
  ty Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103947621@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T173000
+DTEND;TZID=America/New_York:20261005T193000
+SUMMARY:Glen Ridge High School at Caldwell High School (Varsity Girls Gir
+ ls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99608450@super-essex-conference
@@ -31353,11 +31355,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:101984734@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261021T180000
-DTEND;TZID=America/New_York:20261021T200000
+DTSTART;TZID=America/New_York:20261021T183000
+DTEND;TZID=America/New_York:20261021T203000
 SUMMARY:Cedar Grove High School at James Caldwell High School (Varsity Bo
  ys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102430434@super-essex-conference
