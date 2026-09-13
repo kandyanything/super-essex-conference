@@ -5933,15 +5933,6 @@ SUMMARY:Seton Hall Prep vs St. Anthony's High School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101703148@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T160000
-DTEND;TZID=America/New_York:20261012T180000
-SUMMARY:Montclair High School vs North Arlington High School (Varsity Boy
- s Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102073010@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T160000
@@ -5993,6 +5984,15 @@ DTSTART;TZID=America/New_York:20261012T163000
 DTEND;TZID=America/New_York:20261012T183000
 SUMMARY:Golda Och Academy vs North Star Academy (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101703148@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T180000
+DTEND;TZID=America/New_York:20261012T200000
+SUMMARY:Montclair High School vs North Arlington High School (Varsity Boy
+ s Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102068646@super-essex-conference
