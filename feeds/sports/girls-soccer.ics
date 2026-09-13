@@ -1850,9 +1850,10 @@ UID:arb:102289064@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T160000
 DTEND;TZID=America/New_York:20260915T180000
-SUMMARY:Montclair Kimberley Academy at Verona High School (Junior Varsity
-  Girls Girls Soccer)
+SUMMARY:[Canceled] Montclair Kimberley Academy at Verona High School (Jun
+ ior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100663536@super-essex-conference
@@ -4593,6 +4594,14 @@ SUMMARY:Nutley High School vs Rutherford High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103966869@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102979423@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
@@ -4654,6 +4663,14 @@ DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:West Essex High School at Heritage Middle School (Middle School G
  irls Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103966879@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T120000
+DTEND;TZID=America/New_York:20261020T140000
+SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103382610@super-essex-conference
@@ -4921,6 +4938,14 @@ SUMMARY:Cedar Grove High School at Eastern Christian (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103966890@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T120000
+DTEND;TZID=America/New_York:20261024T140000
+SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103848654@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T120000
@@ -5058,6 +5083,14 @@ SUMMARY:[Canceled] Nutley High School vs Hoboken High School (Junior Vars
  ity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 7:00 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103966903@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T120000
+DTEND;TZID=America/New_York:20261028T140000
+SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101396893@super-essex-conference

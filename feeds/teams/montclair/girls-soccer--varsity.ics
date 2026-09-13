@@ -214,6 +214,22 @@ SUMMARY:Montclair High School at Watchung Hills Reg High School (Varsity
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103966869@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103966879@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T120000
+DTEND;TZID=America/New_York:20261020T140000
+SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103382597@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T160000
@@ -221,5 +237,21 @@ DTEND;TZID=America/New_York:20261020T180000
 SUMMARY:Glen Ridge High School at Montclair High School (Varsity Girls Gi
  rls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103966890@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T120000
+DTEND;TZID=America/New_York:20261024T140000
+SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103966903@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T120000
+DTEND;TZID=America/New_York:20261028T140000
+SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 12:00 PM
 END:VEVENT
 END:VCALENDAR
