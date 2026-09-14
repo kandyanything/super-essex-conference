@@ -940,6 +940,15 @@ SUMMARY:Montclair High School at Nutley High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103988810@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T160000
+DTEND;TZID=America/New_York:20260923T180000
+SUMMARY:Mount Saint Dominic Academy at Nutley High School (Junior Varsity
+  Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103123391@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T160000
@@ -3094,15 +3103,6 @@ DTEND;TZID=America/New_York:20270412T180000
 SUMMARY:Nutley High School at West Orange High School (Varsity Boys Baseb
  all)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102440892@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270412T160000
-DTEND;TZID=America/New_York:20270412T180000
-SUMMARY:Nutley High School at West Essex High School (Varsity Boys Boys V
- olleyball)
-DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102440901@super-essex-conference

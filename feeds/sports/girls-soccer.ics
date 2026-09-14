@@ -2244,9 +2244,10 @@ UID:arb:103631480@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T130000
 DTEND;TZID=America/New_York:20260919T150000
-SUMMARY:West Orange High School vs Kearny High School (Junior Varsity Gir
- ls Girls Soccer)
+SUMMARY:[Canceled] West Orange High School vs Kearny High School (Junior 
+ Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 1:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:98237683@super-essex-conference
@@ -2474,15 +2475,6 @@ SUMMARY:Mount Saint Dominic Academy at Nutley High School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103626231@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T153000
-DTEND;TZID=America/New_York:20260923T173000
-SUMMARY:Montclair Kimberley Academy at Oak Knoll School of the Holy Child
-  (Middle School Girls Girls Soccer)
-DESCRIPTION:Middle School Girls Girls Soccer - Away - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103016758@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T153000
@@ -2508,6 +2500,15 @@ DTEND;TZID=America/New_York:20260923T180000
 SUMMARY:Millburn High School at Westfield High School (Freshman Girls Gir
  ls Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103988810@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T160000
+DTEND;TZID=America/New_York:20260923T180000
+SUMMARY:Mount Saint Dominic Academy at Nutley High School (Junior Varsity
+  Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664820@super-essex-conference
@@ -4548,6 +4549,15 @@ SUMMARY:Millburn High School at Scotch Plains-Fanwood High School (Varsit
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103626231@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T153000
+DTEND;TZID=America/New_York:20261016T173000
+SUMMARY:Montclair Kimberley Academy at Oak Knoll School of the Holy Child
+  (Middle School Girls Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101619847@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T160000
@@ -4627,6 +4637,15 @@ DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103992092@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Barringer High School vs Technology High School (Newark) (Varsity
+  Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102979423@super-essex-conference
@@ -4816,6 +4835,15 @@ DTEND;TZID=America/New_York:20261022T180000
 SUMMARY:Cedar Grove High School vs Jonathan Dayton High School (Varsity G
  irls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103989550@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Millburn High School at Kent Place School (Junior Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102684747@super-essex-conference

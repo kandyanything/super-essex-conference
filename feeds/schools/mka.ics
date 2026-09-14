@@ -920,15 +920,6 @@ SUMMARY:Livingston High School vs Montclair Kimberley Academy (Junior Var
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103626231@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T153000
-DTEND;TZID=America/New_York:20260923T173000
-SUMMARY:Montclair Kimberley Academy at Oak Knoll School of the Holy Child
-  (Middle School Girls Girls Soccer)
-DESCRIPTION:Middle School Girls Girls Soccer - Away - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99085457@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T160000
@@ -1751,6 +1742,15 @@ SUMMARY:Montclair Kimberley Academy vs Oratory Prep School (Middle School
 DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103626231@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T153000
+DTEND;TZID=America/New_York:20261016T173000
+SUMMARY:Montclair Kimberley Academy at Oak Knoll School of the Holy Child
+  (Middle School Girls Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100920431@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T160000
@@ -1904,6 +1904,15 @@ SUMMARY:Montclair Kimberley Academy at Delbarton School (Middle School Bo
 DESCRIPTION:Middle School Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103996412@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T153000
+DTEND;TZID=America/New_York:20261029T173000
+SUMMARY:Montclair Kimberley Academy at Far Brook School (Middle School Gi
+ rls Field Hockey)
+DESCRIPTION:Middle School Girls Field Hockey - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102918124@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T161500
@@ -1956,6 +1965,15 @@ DTEND;TZID=America/New_York:20261206T204500
 SUMMARY:Montclair Kimberley Academy at Glen Rock High School (Varsity Boy
  s Boys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 6:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996577@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Arts High School vs Montclair Kimberley Academy (Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103660941@super-essex-conference

@@ -180,15 +180,6 @@ SUMMARY:Montclair Kimberley Academy vs Peddie School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103626231@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T153000
-DTEND;TZID=America/New_York:20260923T173000
-SUMMARY:Montclair Kimberley Academy at Oak Knoll School of the Holy Child
-  (Middle School Girls Girls Soccer)
-DESCRIPTION:Middle School Girls Girls Soccer - Away - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100663223@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T160000
@@ -359,6 +350,15 @@ SUMMARY:[Canceled] Montclair Kimberley Academy vs Immaculata High School
  (Junior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103626231@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T153000
+DTEND;TZID=America/New_York:20261016T173000
+SUMMARY:Montclair Kimberley Academy at Oak Knoll School of the Holy Child
+  (Middle School Girls Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102918124@super-essex-conference

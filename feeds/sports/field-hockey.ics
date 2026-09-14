@@ -1008,6 +1008,16 @@ SUMMARY:Verona High School at James Caldwell High School (Varsity Girls F
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103873548@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T161500
+DTEND;TZID=America/New_York:20260914T181500
+SUMMARY:[Canceled] Columbia High School at River Dell Regional High Schoo
+ l (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 4:15 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102666818@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T161500
@@ -1696,6 +1706,15 @@ SUMMARY:Montclair High School vs River Dell Regional High School (Freshma
 DESCRIPTION:Freshman Girls Field Hockey - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103996369@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T100000
+DTEND;TZID=America/New_York:20260926T120000
+SUMMARY:Verona High School vs Mount Saint Mary Academy (Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102782875@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T110000
@@ -1721,6 +1740,15 @@ DTEND;TZID=America/New_York:20260926T133000
 SUMMARY:Millburn High School at Summit High School (Junior Varsity Girls 
  Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996384@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T113000
+DTEND;TZID=America/New_York:20260926T133000
+SUMMARY:Verona High School vs Mount Saint Mary Academy (Junior Varsity Gi
+ rls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:98755385@super-essex-conference
@@ -3086,6 +3114,15 @@ DTEND;TZID=America/New_York:20261028T181500
 SUMMARY:Saint Benedict's Prep at Peddie School (Junior Varsity Girls Fiel
  d Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996412@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T153000
+DTEND;TZID=America/New_York:20261029T173000
+SUMMARY:Montclair Kimberley Academy at Far Brook School (Middle School Gi
+ rls Field Hockey)
+DESCRIPTION:Middle School Girls Field Hockey - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103461626@super-essex-conference

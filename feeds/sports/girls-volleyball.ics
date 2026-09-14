@@ -3865,15 +3865,6 @@ SUMMARY:North Star Academy vs Saint Vincent Academy (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99057784@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T160000
-DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Payne Tech at Columbia High School (Varsity Girls Girls Volleybal
- l)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101924409@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T160000
@@ -4674,9 +4665,10 @@ UID:arb:103456160@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260917T163000
 DTEND;TZID=America/New_York:20260917T183000
-SUMMARY:Central High School at Newark School of Data Science (Varsity Gir
- ls Girls Volleyball)
+SUMMARY:[Canceled] Central High School at Newark School of Data Science (
+ Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102856122@super-essex-conference
@@ -4720,9 +4712,10 @@ UID:arb:103456212@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260917T174500
 DTEND;TZID=America/New_York:20260917T194500
-SUMMARY:Central High School at Newark School of Data Science (Junior Vars
- ity Girls Girls Volleyball)
+SUMMARY:[Canceled] Central High School at Newark School of Data Science (
+ Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101316759@super-essex-conference
