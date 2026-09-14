@@ -1365,6 +1365,15 @@ SUMMARY:Montclair High School at Seton Hall Preparatory School (Varsity B
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103984123@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:Seton Hall Prep vs Westfield High School (Varsity Boys Boys Lacro
+ sse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103009856@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T160000
@@ -1399,6 +1408,15 @@ DTEND;TZID=America/New_York:20270412T180000
 SUMMARY:Livingston High School at Seton Hall Preparatory School (Varsity 
  Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103984136@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:Seton Hall Prep vs Chatham High School (Varsity Boys Boys Lacross
+ e)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103009609@super-essex-conference
@@ -1478,6 +1496,15 @@ SUMMARY:Seton Hall Prep vs Nutley High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103983975@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Seton Hall Prep at Chatham High School (Varsity Boys Boys Lacross
+ e)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103009048@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270428T160000
@@ -1545,6 +1572,15 @@ DTEND;TZID=America/New_York:20270504T193000
 SUMMARY:Seton Hall Prep vs Scotch Plains-Fanwood High School (Junior Vars
  ity Boys Boys Lacrosse)
 DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103984145@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Seton Hall Prep vs Scotch Plains-Fanwood High School (Varsity Boy
+ s Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102566400@super-essex-conference

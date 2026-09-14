@@ -1030,9 +1030,10 @@ UID:arb:100663536@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T160000
 DTEND;TZID=America/New_York:20260915T180000
-SUMMARY:Montclair Kimberley Academy at Verona High School (Varsity Girls 
- Girls Soccer)
+SUMMARY:[Canceled] Montclair Kimberley Academy at Verona High School (Var
+ sity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102576142@super-essex-conference
@@ -1205,15 +1206,6 @@ SUMMARY:Newark Academy at Princeton Day School (Varsity Girls Girls Socce
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103631314@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T130000
-DTEND;TZID=America/New_York:20260919T150000
-SUMMARY:West Orange High School vs Kearny High School (Varsity Girls Girl
- s Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:98237683@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T140000
@@ -1229,6 +1221,15 @@ DTSTART;TZID=America/New_York:20260919T140000
 DTEND;TZID=America/New_York:20260919T160000
 SUMMARY:Montclair High School vs Northern Highlands Regional High School 
  (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103631314@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T140000
+DTEND;TZID=America/New_York:20260919T160000
+SUMMARY:West Orange High School vs Kearny High School (Varsity Girls Girl
+ s Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1553,6 +1554,15 @@ SUMMARY:[Canceled] Golda Och Academy vs Irvington High School (Varsity Gi
  rls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103979735@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Montclair Kimberley Academy at Verona High School (Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102525371@super-essex-conference
@@ -2489,6 +2499,15 @@ SUMMARY:[Canceled] West Essex High School at Cranford High School (Varsit
  y Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103987542@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T161500
+DTEND;TZID=America/New_York:20261027T181500
+SUMMARY:Columbia High School at Cranford High School (Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103503080@super-essex-conference

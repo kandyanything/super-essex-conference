@@ -713,9 +713,10 @@ UID:arb:99704405@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260921T163000
 DTEND;TZID=America/New_York:20260921T183000
-SUMMARY:Belleville High School vs Bergen County Technical High School (Ju
- nior Varsity Boys Football)
+SUMMARY:[Canceled] Belleville High School vs Bergen County Technical High
+  School (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99062532@super-essex-conference
@@ -997,6 +998,15 @@ SUMMARY:Belleville High School vs John F. Kennedy High School - Paterson
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103980434@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Belleville High School at Nutley High School (Freshman Girls Girl
+ s Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103920494@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T160000
@@ -1004,16 +1014,6 @@ DTEND;TZID=America/New_York:20261006T180000
 SUMMARY:Belleville High School vs Nutley High School (Varsity Girls Girls
   Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102568481@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T160000
-DTEND;TZID=America/New_York:20261006T180000
-SUMMARY:[Canceled] Belleville High School at Nutley High School (Freshman
-  Girls Girls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103870411@super-essex-conference
@@ -1025,7 +1025,7 @@ SUMMARY:Belleville High School vs American History High School (Varsity G
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102559377@super-essex-conference
+UID:arb:103979580@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T171500
 DTEND;TZID=America/New_York:20261006T191500
@@ -1088,15 +1088,6 @@ SUMMARY:Belleville High School vs Hoboken High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102559367@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T160000
-DTEND;TZID=America/New_York:20261008T180000
-SUMMARY:Belleville High School vs Nutley High School (Varsity Girls Girls
-  Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102127844@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
@@ -1122,6 +1113,16 @@ DTEND;TZID=America/New_York:20261008T191500
 SUMMARY:Belleville High School vs Hoboken High School (Junior Varsity Gir
  ls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102559377@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T171500
+DTEND;TZID=America/New_York:20261008T191500
+SUMMARY:[Canceled] Belleville High School vs Nutley High School (Junior V
+ arsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99704379@super-essex-conference
@@ -1282,6 +1283,24 @@ DTEND;TZID=America/New_York:20261015T191500
 SUMMARY:Belleville High School vs Technology High School (Newark) (Junior
   Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103984605@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Belleville High School at Nutley High School (Varsity Girls Girls
+  Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103984386@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Belleville High School at Nutley High School (Varsity Boys Boys C
+ ross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103877206@super-essex-conference
@@ -1481,6 +1500,24 @@ DTEND;TZID=America/New_York:20261209T183000
 SUMMARY:Belleville High School at Memorial High School (Varsity Boys Boys
   Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103975932@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T160000
+DTEND;TZID=America/New_York:20261210T180000
+SUMMARY:Belleville High School vs Abundant Life Academy (Varsity Girls Gi
+ rls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103975941@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T174500
+DTEND;TZID=America/New_York:20261210T194500
+SUMMARY:Belleville High School vs Abundant Life Academy (Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102557943@super-essex-conference

@@ -23,6 +23,24 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:103984123@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:Seton Hall Prep vs Westfield High School (Varsity Boys Boys Lacro
+ sse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103984136@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:Seton Hall Prep vs Chatham High School (Varsity Boys Boys Lacross
+ e)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102757726@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270417T100000
@@ -46,6 +64,15 @@ DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:Seton Hall Prep at TBD (Varsity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103983975@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Seton Hall Prep at Chatham High School (Varsity Boys Boys Lacross
+ e)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away
 END:VEVENT
 BEGIN:VEVENT
@@ -82,6 +109,15 @@ DTEND;TZID=America/New_York:20270504T193000
 SUMMARY:Seton Hall Prep vs Scotch Plains-Fanwood High School (Junior Vars
  ity Boys Boys Lacrosse)
 DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103984145@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Seton Hall Prep vs Scotch Plains-Fanwood High School (Varsity Boy
+ s Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102880836@super-essex-conference

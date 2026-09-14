@@ -520,15 +520,6 @@ SUMMARY:Cedar Grove High School vs Science Park High School (Junior Varsi
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102559377@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T171500
-DTEND;TZID=America/New_York:20261006T191500
-SUMMARY:Belleville High School vs Nutley High School (Junior Varsity Girl
- s Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101416503@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
@@ -573,6 +564,16 @@ DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Cedar Grove High School vs Kearny High School (Varsity Girls Girl
  s Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102559377@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T171500
+DTEND;TZID=America/New_York:20261008T191500
+SUMMARY:[Canceled] Belleville High School vs Nutley High School (Junior V
+ arsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101410984@super-essex-conference

@@ -166,9 +166,10 @@ UID:arb:103357705@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T100000
 DTEND;TZID=America/New_York:20260919T120000
-SUMMARY:Columbia High School vs West Essex High School (Freshman Girls Fi
- eld Hockey)
+SUMMARY:[Canceled] Columbia High School vs West Essex High School (Freshm
+ an Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Home - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102428897@super-essex-conference
@@ -268,6 +269,15 @@ DTEND;TZID=America/New_York:20261001T181500
 SUMMARY:West Essex High School vs Chatham High School (Freshman Girls Fie
  ld Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102779594@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T140000
+DTEND;TZID=America/New_York:20261003T160000
+SUMMARY:Montclair High School vs Northern Highlands Regional High School 
+ (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103550270@super-essex-conference

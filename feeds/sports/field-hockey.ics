@@ -1265,9 +1265,10 @@ UID:arb:103357705@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T100000
 DTEND;TZID=America/New_York:20260919T120000
-SUMMARY:Columbia High School vs West Essex High School (Freshman Girls Fi
- eld Hockey)
+SUMMARY:[Canceled] Columbia High School vs West Essex High School (Freshm
+ an Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Home - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102105129@super-essex-conference
@@ -2172,6 +2173,15 @@ SUMMARY:Columbia High School vs Cranford High School (Varsity Girls Field
 DESCRIPTION:Varsity Girls Field Hockey - Home - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102779594@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T140000
+DTEND;TZID=America/New_York:20261003T160000
+SUMMARY:Montclair High School vs Northern Highlands Regional High School 
+ (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103357348@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T150000
@@ -2839,13 +2849,13 @@ SUMMARY:Montclair High School vs TBD (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102627859@super-essex-conference
+UID:arb:102627871@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T160000
 DTEND;TZID=America/New_York:20261015T180000
-SUMMARY:Columbia High School at Livingston High School (Varsity Girls Fie
- ld Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+SUMMARY:Columbia High School at Livingston High School (Junior Varsity Gi
+ rls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102104619@super-essex-conference
@@ -2875,13 +2885,13 @@ SUMMARY:West Essex High School vs Sparta High School (Middle School Girls
 DESCRIPTION:Middle School Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102627871@super-essex-conference
+UID:arb:102627859@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261015T173000
-DTEND;TZID=America/New_York:20261015T193000
-SUMMARY:Columbia High School at Livingston High School (Junior Varsity Gi
- rls Field Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+DTSTART;TZID=America/New_York:20261015T180000
+DTEND;TZID=America/New_York:20261015T200000
+SUMMARY:Columbia High School at Livingston High School (Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102037831@super-essex-conference

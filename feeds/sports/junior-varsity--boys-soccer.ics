@@ -881,9 +881,10 @@ UID:arb:102984165@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T160000
 DTEND;TZID=America/New_York:20260916T180000
-SUMMARY:North Star Academy at Essex County-Payne Tech High School (Junior
-  Varsity Boys Boys Soccer)
+SUMMARY:[Canceled] North Star Academy at Essex County-Payne Tech High Sch
+ ool (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101364190@super-essex-conference
@@ -1256,6 +1257,15 @@ SUMMARY:Nutley High School at Kearny High School (Junior Varsity Boys Boy
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102804880@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T164500
+DTEND;TZID=America/New_York:20260926T184500
+SUMMARY:Saint Benedict's Prep at Chaminade High School (Junior Varsity Bo
+ ys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102072932@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
@@ -1317,15 +1327,6 @@ DTEND;TZID=America/New_York:20260928T181500
 SUMMARY:Montclair Kimberley Academy vs Saint Joseph High School - Metuche
  n (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102804880@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:Saint Benedict's Prep at Chaminade High School (Junior Varsity Bo
- ys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102804867@super-essex-conference
@@ -1683,9 +1684,10 @@ UID:arb:101766163@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
 DTEND;TZID=America/New_York:20261008T180000
-SUMMARY:Technology High School at Verona High School (Junior Varsity Boys
-  Boys Soccer)
+SUMMARY:[Canceled] Technology High School at Verona High School (Junior V
+ arsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101413013@super-essex-conference
@@ -2072,6 +2074,15 @@ DTSTART;TZID=America/New_York:20261024T110000
 DTEND;TZID=America/New_York:20261024T130000
 SUMMARY:Bloomfield High School at Memorial High School (Junior Varsity Bo
  ys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103987574@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T110000
+DTEND;TZID=America/New_York:20261024T130000
+SUMMARY:Glen Ridge High School at Mahwah High School (Junior Varsity Boys
+  Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT

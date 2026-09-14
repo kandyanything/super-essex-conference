@@ -1602,9 +1602,10 @@ UID:arb:100662104@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T171500
 DTEND;TZID=America/New_York:20260914T191500
-SUMMARY:Newark Collegiate Academy at American History High School (Junior
-  Varsity Girls Girls Volleyball)
+SUMMARY:[Canceled] Newark Collegiate Academy at American History High Sch
+ ool (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99234233@super-essex-conference
@@ -1614,6 +1615,15 @@ DTEND;TZID=America/New_York:20260914T191500
 SUMMARY:Newark Tech at Orange High School (Junior Varsity Girls Girls Vol
  leyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99057793@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T171500
+DTEND;TZID=America/New_York:20260914T191500
+SUMMARY:Payne Tech vs Columbia High School (Junior Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101924433@super-essex-conference
@@ -1964,9 +1974,10 @@ UID:arb:101059920@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260918T173000
 DTEND;TZID=America/New_York:20260918T193000
-SUMMARY:Millburn High School at Westfield High School (Junior Varsity Gir
- ls Girls Volleyball)
+SUMMARY:[Canceled] Millburn High School at Westfield High School (Junior 
+ Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101287251@super-essex-conference
@@ -3254,7 +3265,7 @@ SUMMARY:Irvington High School vs Technology High School (Newark) (Junior
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102559377@super-essex-conference
+UID:arb:103979580@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T171500
 DTEND;TZID=America/New_York:20261006T191500
@@ -3459,6 +3470,16 @@ DTEND;TZID=America/New_York:20261008T191500
 SUMMARY:Belleville High School vs Hoboken High School (Junior Varsity Gir
  ls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102559377@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T171500
+DTEND;TZID=America/New_York:20261008T191500
+SUMMARY:[Canceled] Belleville High School vs Nutley High School (Junior V
+ arsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101410984@super-essex-conference
@@ -4362,6 +4383,15 @@ DTEND;TZID=America/New_York:20261026T191500
 SUMMARY:West Side High School vs Hillside High School (Junior Varsity Gir
  ls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103980671@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T173000
+DTEND;TZID=America/New_York:20261026T193000
+SUMMARY:Montclair High School vs Montclair Kimberley Academy (Junior Vars
+ ity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102127788@super-essex-conference

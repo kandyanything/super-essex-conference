@@ -2026,6 +2026,15 @@ SUMMARY:Montclair High School vs Clifton High School (Varsity Boys Footba
 DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102779594@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T140000
+DTEND;TZID=America/New_York:20261003T160000
+SUMMARY:Montclair High School vs Northern Highlands Regional High School 
+ (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102932274@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T143000
@@ -2619,7 +2628,8 @@ UID:arb:103917657@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T160000
 DTEND;TZID=America/New_York:20261015T180000
-SUMMARY:Montclair High School vs TBD (Freshman Girls Girls Volleyball)
+SUMMARY:Montclair High School vs Columbia High School (Freshman Girls Gir
+ ls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2943,6 +2953,24 @@ DTEND;TZID=America/New_York:20261026T180000
 SUMMARY:Montclair High School vs West Orange High School (Junior Varsity 
  Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103980671@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T173000
+DTEND;TZID=America/New_York:20261026T193000
+SUMMARY:Montclair High School vs Montclair Kimberley Academy (Junior Vars
+ ity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103980698@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T190000
+DTEND;TZID=America/New_York:20261026T210000
+SUMMARY:Montclair High School vs Montclair Kimberley Academy (Varsity Gir
+ ls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103966656@super-essex-conference
@@ -4416,18 +4444,18 @@ UID:arb:102466678@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270507T160000
 DTEND;TZID=America/New_York:20270507T180000
-SUMMARY:Montclair High School vs Technology High School (Newark) (Varsity
-  Boys Boys Volleyball)
-DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
+SUMMARY:Technology High School at Montclair High School (Varsity Boys Boy
+ s Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102466676@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270507T171500
 DTEND;TZID=America/New_York:20270507T191500
-SUMMARY:Montclair High School vs Technology High School (Newark) (Junior 
- Varsity Boys Boys Volleyball)
-DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
+SUMMARY:Technology High School at Montclair High School (Junior Varsity B
+ oys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102569484@super-essex-conference
