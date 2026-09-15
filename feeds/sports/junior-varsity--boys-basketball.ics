@@ -104,7 +104,7 @@ SUMMARY:Golda Och Academy vs Morristown-Beard School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104026699@super-essex-conference
+UID:arb:100534751@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T173000
 DTEND;TZID=America/New_York:20261215T193000
@@ -228,15 +228,6 @@ DTEND;TZID=America/New_York:20261215T200000
 SUMMARY:Golda Och Academy vs Technology High School (Newark) (Junior Vars
  ity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100534751@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T173000
-DTEND;TZID=America/New_York:20261217T193000
-SUMMARY:Arts High School at Seton Hall Preparatory School (Junior Varsity
-  Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549094@super-essex-conference
@@ -1923,15 +1914,6 @@ DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 9:00 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100535921@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T100000
-DTEND;TZID=America/New_York:20270123T120000
-SUMMARY:Arts High School vs West Side High School (Junior Varsity Boys Bo
- ys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100551754@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T100000
@@ -2047,6 +2029,15 @@ DTEND;TZID=America/New_York:20270123T140000
 SUMMARY:Weequahic High School vs Newark School of Global Studies (Junior 
  Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100535921@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T143000
+DTEND;TZID=America/New_York:20270123T163000
+SUMMARY:Arts High School vs West Side High School (Junior Varsity Boys Bo
+ ys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103717003@super-essex-conference
