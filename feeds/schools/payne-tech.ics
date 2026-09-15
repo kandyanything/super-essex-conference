@@ -350,15 +350,6 @@ SUMMARY:Columbia High School vs Essex County-Payne Tech High School (Juni
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99057793@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T171500
-DTEND;TZID=America/New_York:20260914T191500
-SUMMARY:Payne Tech vs Columbia High School (Junior Varsity Girls Girls Vo
- lleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103123362@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T160000
@@ -596,9 +587,10 @@ UID:arb:100662876@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T160000
 DTEND;TZID=America/New_York:20260930T180000
-SUMMARY:Eagle Academy vs Essex County-Payne Tech High School (Varsity Boy
- s Boys Soccer)
+SUMMARY:[Canceled] Eagle Academy vs Essex County-Payne Tech High School (
+ Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99051808@super-essex-conference

@@ -1119,6 +1119,15 @@ SUMMARY:Livingston High School at Millburn High School (Varsity Girls Fie
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103999795@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260918T160000
+DTEND;TZID=America/New_York:20260918T180000
+SUMMARY:Millburn High School vs Westfield High School (Varsity Girls Girl
+ s Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103009687@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260918T160000
@@ -1135,16 +1144,6 @@ DTEND;TZID=America/New_York:20260918T180000
 SUMMARY:Millburn High School vs West Essex High School (Junior Varsity Gi
  rls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101059893@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260918T160000
-DTEND;TZID=America/New_York:20260918T180000
-SUMMARY:[Canceled] Millburn High School at Westfield High School (Varsity
-  Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100785171@super-essex-conference
@@ -1174,14 +1173,13 @@ SUMMARY:Livingston High School at Millburn High School (Junior Varsity Gi
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101059920@super-essex-conference
+UID:arb:104000065@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260918T173000
 DTEND;TZID=America/New_York:20260918T193000
-SUMMARY:[Canceled] Millburn High School at Westfield High School (Junior 
- Varsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
-STATUS:CANCELLED
+SUMMARY:Millburn High School vs Westfield High School (Junior Varsity Gir
+ ls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103703680@super-essex-conference

@@ -1620,6 +1620,15 @@ SUMMARY:Seton Hall Prep vs Saint Augustine Prep School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Soccer - Home
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103999284@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T110000
+DTEND;TZID=America/New_York:20260919T130000
+SUMMARY:Eagle Academy vs Newark School of Architecture and Interior Desig
+ n (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102635941@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T110000
@@ -2310,9 +2319,10 @@ UID:arb:100662876@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T160000
 DTEND;TZID=America/New_York:20260930T180000
-SUMMARY:Eagle Academy vs Essex County-Payne Tech High School (Varsity Boy
- s Boys Soccer)
+SUMMARY:[Canceled] Eagle Academy vs Essex County-Payne Tech High School (
+ Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100632189@super-essex-conference

@@ -116,11 +116,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100539921@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T100000
-DTEND;TZID=America/New_York:20270123T120000
+DTSTART;TZID=America/New_York:20270123T090000
+DTEND;TZID=America/New_York:20270123T110000
 SUMMARY:Seton Hall Prep at James Caldwell High School (Freshman Boys Boys
   Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100539944@super-essex-conference
@@ -139,6 +139,24 @@ DTEND;TZID=America/New_York:20270202T180000
 SUMMARY:Newark Collegiate Academy vs James Caldwell High School (Freshman
   Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104005589@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T160000
+DTEND;TZID=America/New_York:20270203T180000
+SUMMARY:Livingston High School at James Caldwell High School (Freshman Bo
+ ys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104005593@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T160000
+DTEND;TZID=America/New_York:20270205T180000
+SUMMARY:Verona High School at James Caldwell High School (Freshman Boys B
+ oys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100540891@super-essex-conference

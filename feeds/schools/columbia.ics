@@ -833,15 +833,6 @@ SUMMARY:Columbia High School vs Essex County-Payne Tech High School (Juni
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99057793@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T171500
-DTEND;TZID=America/New_York:20260914T191500
-SUMMARY:Payne Tech vs Columbia High School (Junior Varsity Girls Girls Vo
- lleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102618691@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T103000
@@ -876,15 +867,6 @@ DTEND;TZID=America/New_York:20260915T193000
 SUMMARY:Columbia High School vs Livingston High School (Varsity Boys Boys
   Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101300688@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260916T160000
-DTEND;TZID=America/New_York:20260916T180000
-SUMMARY:Cedar Grove High School at Columbia High School (Freshman Girls G
- irls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99051574@super-essex-conference
@@ -929,6 +911,15 @@ DTEND;TZID=America/New_York:20260916T180000
 SUMMARY:Columbia High School vs Montclair Kimberley Academy (Varsity Girl
  s Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101300688@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Montclair High School at Columbia High School (Freshman Girls Gir
+ ls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99051568@super-essex-conference
@@ -1102,15 +1093,6 @@ SUMMARY:Columbia High School at West Orange High School (Junior Varsity G
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102441376@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T160000
-DTEND;TZID=America/New_York:20260922T180000
-SUMMARY:Columbia High School at West Orange High School (Varsity Girls Gi
- rls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101333280@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T160000
@@ -1136,6 +1118,15 @@ DTEND;TZID=America/New_York:20260922T193000
 SUMMARY:Columbia High School vs Millburn High School (Junior Varsity Girl
  s Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102441376@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T183000
+DTEND;TZID=America/New_York:20260922T203000
+SUMMARY:Columbia High School at West Orange High School (Varsity Girls Gi
+ rls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103580770@super-essex-conference
@@ -2175,6 +2166,15 @@ DTEND;TZID=America/New_York:20261027T180000
 SUMMARY:Columbia High School at Union High School (Freshman Girls Girls V
  olleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103999123@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T161500
+DTEND;TZID=America/New_York:20261027T181500
+SUMMARY:Columbia High School vs Cranford High School (Freshman Girls Girl
+ s Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103987572@super-essex-conference
