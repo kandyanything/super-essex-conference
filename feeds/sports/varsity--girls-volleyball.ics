@@ -2255,8 +2255,8 @@ UID:arb:103978263@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T080000
 DTEND;TZID=America/New_York:20260919T100000
-SUMMARY:East Orange Campus High School vs TBD (Varsity Girls Girls Volley
- ball)
+SUMMARY:Belleville High School vs East Orange Campus High School (Varsity
+  Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -2264,8 +2264,7 @@ UID:arb:103703680@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T083000
 DTEND;TZID=America/New_York:20260919T103000
-SUMMARY:Millburn High School at Bloomfield High School (Varsity Girls Gir
- ls Volleyball)
+SUMMARY:Millburn High School at TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 8:30 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -5041,15 +5040,6 @@ SUMMARY:Columbia High School vs Jonathan Dayton High School (Varsity Girl
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102127769@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T160000
-DTEND;TZID=America/New_York:20261026T180000
-SUMMARY:Nutley High School vs Saint Benedict's Preparatory School (Varsit
- y Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101132020@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T160000
@@ -5066,6 +5056,15 @@ DTEND;TZID=America/New_York:20261026T183000
 SUMMARY:Newark Lab High School vs Hoboken Charter High School (Varsity Gi
  rls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102127788@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T173000
+DTEND;TZID=America/New_York:20261026T193000
+SUMMARY:Nutley High School vs Saint Benedict's Preparatory School (Varsit
+ y Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103980698@super-essex-conference

@@ -1737,15 +1737,6 @@ SUMMARY:Glen Ridge High School vs TBD (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102576044@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260915T160000
-DTEND;TZID=America/New_York:20260915T180000
-SUMMARY:Barringer High School at Columbia High School (Varsity Girls Girl
- s Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101611781@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T160000
@@ -1920,6 +1911,16 @@ DTEND;TZID=America/New_York:20260915T181500
 SUMMARY:Montclair High School vs Mendham High School (Freshman Girls Girl
  s Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102576044@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T163000
+DTEND;TZID=America/New_York:20260915T183000
+SUMMARY:[Canceled] Barringer High School at Columbia High School (Varsity
+  Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102085249@super-essex-conference
@@ -2640,15 +2641,6 @@ SUMMARY:Montclair Kimberley Academy vs West Orange High School (Varsity G
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101267262@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260924T160000
-DTEND;TZID=America/New_York:20260924T180000
-SUMMARY:Newark Academy vs Nutley High School (Junior Varsity Girls Girls 
- Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101266995@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T160000
@@ -2728,6 +2720,15 @@ DTEND;TZID=America/New_York:20260925T180000
 SUMMARY:Millburn High School at Cranford High School (Freshman Girls Girl
  s Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101267262@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T160000
+DTEND;TZID=America/New_York:20260925T180000
+SUMMARY:Newark Academy vs Nutley High School (Junior Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102311493@super-essex-conference

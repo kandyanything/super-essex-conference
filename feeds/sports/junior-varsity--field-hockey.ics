@@ -644,9 +644,10 @@ UID:arb:102782875@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T130000
-SUMMARY:Columbia High School at James Caldwell High School (Junior Varsit
- y Girls Field Hockey)
+SUMMARY:[Canceled] Columbia High School at James Caldwell High School (Ju
+ nior Varsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101382394@super-essex-conference
@@ -966,6 +967,15 @@ DTEND;TZID=America/New_York:20261010T123000
 SUMMARY:Glen Ridge High School at Arthur L. Johnson High School (Junior V
  arsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104009138@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T110000
+DTEND;TZID=America/New_York:20261010T130000
+SUMMARY:Montclair High School at Montclair Kimberley Academy (Junior Vars
+ ity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101622423@super-essex-conference

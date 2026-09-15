@@ -973,20 +973,21 @@ SUMMARY:Glen Ridge High School at TBD (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102680539@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260915T083000
-DTEND;TZID=America/New_York:20260915T103000
-SUMMARY:Bloomfield High School at TBD (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 8:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103652315@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T083000
 DTEND;TZID=America/New_York:20260915T103000
 SUMMARY:West Orange High School vs TBD (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 8:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102680539@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T083000
+DTEND;TZID=America/New_York:20260915T103000
+SUMMARY:Bloomfield High School at Millburn High School (Varsity Girls Gir
+ ls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 8:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103580335@super-essex-conference
@@ -1544,6 +1545,15 @@ DTEND;TZID=America/New_York:20260923T180000
 SUMMARY:Montclair High School at Nutley High School (Varsity Girls Girls 
  Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104012790@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T160000
+DTEND;TZID=America/New_York:20260923T180000
+SUMMARY:Newark Academy vs West Essex High School (Junior Varsity Girls Gi
+ rls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100745510@super-essex-conference

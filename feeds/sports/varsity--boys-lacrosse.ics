@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:104017730@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270324T163000
+DTEND;TZID=America/New_York:20270324T183000
+SUMMARY:Seton Hall Prep at Ridgewood High School (Varsity Boys Boys Lacro
+ sse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103984123@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270406
@@ -48,6 +57,15 @@ DTEND;TZID=America/New_York:20270417T120000
 SUMMARY:James Caldwell High School at New Providence High School (Varsity
   Boys Boys Lacrosse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104017790@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270417T110000
+DTEND;TZID=America/New_York:20270417T130000
+SUMMARY:Montclair High School at Ridgewood High School (Varsity Boys Boys
+  Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103844899@super-essex-conference

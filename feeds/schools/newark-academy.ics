@@ -841,6 +841,15 @@ SUMMARY:Cedar Grove High School at Newark Academy (Varsity Girls Girls Vo
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104012790@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T160000
+DTEND;TZID=America/New_York:20260923T180000
+SUMMARY:Newark Academy vs West Essex High School (Junior Varsity Girls Gi
+ rls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101267194@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T160000
@@ -904,15 +913,6 @@ SUMMARY:Newark Academy at Morristown-Beard School (Varsity Girls Girls Vo
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101267262@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260924T160000
-DTEND;TZID=America/New_York:20260924T180000
-SUMMARY:Newark Academy vs Nutley High School (Junior Varsity Girls Girls 
- Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101266995@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T160000
@@ -947,6 +947,23 @@ SUMMARY:[Canceled] Newark Academy vs Cranford High School (Junior Varsity
   Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103858529@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T133000
+DTEND;TZID=America/New_York:20260925T153000
+SUMMARY:Newark Academy vs TBD (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101267262@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T160000
+DTEND;TZID=America/New_York:20260925T180000
+SUMMARY:Newark Academy vs Nutley High School (Junior Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103298501@super-essex-conference

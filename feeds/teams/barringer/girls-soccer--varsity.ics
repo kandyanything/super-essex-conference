@@ -56,11 +56,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102576044@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260915T160000
-DTEND;TZID=America/New_York:20260915T180000
-SUMMARY:Barringer High School at Columbia High School (Varsity Girls Girl
- s Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+DTSTART;TZID=America/New_York:20260915T163000
+DTEND;TZID=America/New_York:20260915T183000
+SUMMARY:[Canceled] Barringer High School at Columbia High School (Varsity
+  Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664894@super-essex-conference

@@ -2429,6 +2429,15 @@ SUMMARY:Montclair High School vs Morris Knolls High School (Freshman Girl
 DESCRIPTION:Freshman Girls Girls Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104009138@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T110000
+DTEND;TZID=America/New_York:20261010T130000
+SUMMARY:Montclair High School at Montclair Kimberley Academy (Junior Vars
+ ity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100100596@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T130000
@@ -4278,6 +4287,15 @@ SUMMARY:Montclair High School vs Nutley High School (Varsity Girls Softba
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104017790@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270417T110000
+DTEND;TZID=America/New_York:20270417T130000
+SUMMARY:Montclair High School at Ridgewood High School (Varsity Boys Boys
+  Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103009624@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T160000
@@ -4429,15 +4447,6 @@ DTEND;TZID=America/New_York:20270503T180000
 SUMMARY:Montclair High School at West Orange High School (Varsity Girls S
  oftball)
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102565902@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270503T160000
-DTEND;TZID=America/New_York:20270503T180000
-SUMMARY:Montclair High School vs Columbia High School (Varsity Boys Baseb
- all)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102466672@super-essex-conference
