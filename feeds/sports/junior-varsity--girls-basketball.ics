@@ -563,15 +563,6 @@ SUMMARY:Mount Saint Dominic Academy at Essex County-Payne Tech High Schoo
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100559599@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T103000
-DTEND;TZID=America/New_York:20270109T123000
-SUMMARY:Verona High School at James Caldwell High School (Junior Varsity 
- Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 10:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100567391@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T113000
@@ -614,6 +605,15 @@ DTSTART;TZID=America/New_York:20270109T113000
 DTEND;TZID=America/New_York:20270109T133000
 SUMMARY:Millburn High School at Montclair Kimberley Academy (Junior Varsi
  ty Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100559599@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T113000
+DTEND;TZID=America/New_York:20270109T133000
+SUMMARY:Verona High School at James Caldwell High School (Junior Varsity 
+ Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -896,15 +896,6 @@ SUMMARY:Bloomfield High School at Essex County-Payne Tech High School (Ju
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100559606@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270116T103000
-DTEND;TZID=America/New_York:20270116T123000
-SUMMARY:Glen Ridge High School at James Caldwell High School (Junior Vars
- ity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 10:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100567106@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T113000
@@ -921,6 +912,15 @@ DTEND;TZID=America/New_York:20270116T133000
 SUMMARY:Central High School vs North Star Academy (Junior Varsity Girls G
  irls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100559606@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T113000
+DTEND;TZID=America/New_York:20270116T133000
+SUMMARY:Glen Ridge High School at James Caldwell High School (Junior Vars
+ ity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100563446@super-essex-conference

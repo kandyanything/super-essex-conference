@@ -2495,6 +2495,15 @@ SUMMARY:Nutley High School vs TBD (Varsity Boys Boys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 7:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104023494@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270117T181500
+DTEND;TZID=America/New_York:20270117T201500
+SUMMARY:Nutley High School at Morris Catholic High School (Varsity Boys B
+ oys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 6:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100564675@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T160000
@@ -3111,15 +3120,6 @@ DTEND;TZID=America/New_York:20270412T180000
 SUMMARY:Nutley High School at West Orange High School (Varsity Boys Baseb
  all)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102440901@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270412T171500
-DTEND;TZID=America/New_York:20270412T191500
-SUMMARY:Nutley High School at West Essex High School (Junior Varsity Boys
-  Boys Volleyball)
-DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102569359@super-essex-conference
