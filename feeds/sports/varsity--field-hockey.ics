@@ -795,6 +795,15 @@ SUMMARY:Millburn High School at Koinonia Academy (Varsity Girls Field Hoc
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104062189@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T090000
+DTEND;TZID=America/New_York:20260926T110000
+SUMMARY:Columbia High School vs Governor Livingston High School (Varsity 
+ Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101382181@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T100000
@@ -864,6 +873,15 @@ DTEND;TZID=America/New_York:20260928T180000
 SUMMARY:Montclair High School vs Chatham High School (Varsity Girls Field
   Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104061163@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Mount Saint Dominic Academy at Westfield High School (Varsity Gir
+ ls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102037824@super-essex-conference
@@ -1145,15 +1163,6 @@ SUMMARY:Mount Saint Dominic Academy at Metuchen High School (Varsity Girl
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101423565@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261009T160000
-DTEND;TZID=America/New_York:20261009T180000
-SUMMARY:Glen Ridge High School vs Kent Place School (Varsity Girls Field 
- Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102362300@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T130000
@@ -1369,6 +1378,15 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T160000
 DTEND;TZID=America/New_York:20261024T180000
 SUMMARY:Montclair High School vs TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101423565@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:Glen Ridge High School vs Kent Place School (Varsity Girls Field 
+ Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT

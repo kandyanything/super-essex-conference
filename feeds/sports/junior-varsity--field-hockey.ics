@@ -641,6 +641,15 @@ SUMMARY:Saint Benedict's Prep at Blair Academy (Junior Varsity Girls Fiel
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104062200@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T103000
+DTEND;TZID=America/New_York:20260926T123000
+SUMMARY:Columbia High School vs Governor Livingston High School (Junior V
+ arsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102782875@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T110000
@@ -956,9 +965,10 @@ UID:arb:101622231@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T173000
 DTEND;TZID=America/New_York:20261009T193000
-SUMMARY:Glen Ridge High School vs Kent Place School (Junior Varsity Girls
-  Field Hockey)
+SUMMARY:[Canceled] Glen Ridge High School vs Kent Place School (Junior Va
+ rsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103388370@super-essex-conference

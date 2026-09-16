@@ -1616,15 +1616,6 @@ SUMMARY:Glen Ridge High School at Livingston High School (Varsity Girls G
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101423565@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261009T160000
-DTEND;TZID=America/New_York:20261009T180000
-SUMMARY:Glen Ridge High School vs Kent Place School (Varsity Girls Field 
- Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99698465@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T160000
@@ -1665,9 +1656,10 @@ UID:arb:101622231@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T173000
 DTEND;TZID=America/New_York:20261009T193000
-SUMMARY:Glen Ridge High School vs Kent Place School (Junior Varsity Girls
-  Field Hockey)
+SUMMARY:[Canceled] Glen Ridge High School vs Kent Place School (Junior Va
+ rsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99698525@super-essex-conference
@@ -2016,6 +2008,15 @@ DTEND;TZID=America/New_York:20261024T140000
 SUMMARY:Glen Ridge High School vs Whippany Park High School (Varsity Boys
   Football)
 DESCRIPTION:Varsity Boys Football - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101423565@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:Glen Ridge High School vs Kent Place School (Varsity Girls Field 
+ Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99231747@super-essex-conference

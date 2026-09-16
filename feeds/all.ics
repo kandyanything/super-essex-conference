@@ -18834,6 +18834,15 @@ SUMMARY:Bloomfield High School vs Union High School (Freshman Girls Girls
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104062189@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T090000
+DTEND;TZID=America/New_York:20260926T110000
+SUMMARY:Columbia High School vs Governor Livingston High School (Varsity 
+ Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100271018@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T090000
@@ -19067,6 +19076,15 @@ DTEND;TZID=America/New_York:20260926T120000
 SUMMARY:West Essex High School vs James Caldwell High School (Varsity Gir
  ls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104062200@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T103000
+DTEND;TZID=America/New_York:20260926T123000
+SUMMARY:Columbia High School vs Governor Livingston High School (Junior V
+ arsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103844767@super-essex-conference
@@ -19961,6 +19979,15 @@ DTEND;TZID=America/New_York:20260928T180000
 SUMMARY:Montclair Kimberley Academy vs West Orange High School (Varsity G
  irls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104061163@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Mount Saint Dominic Academy at Westfield High School (Varsity Gir
+ ls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102035344@super-essex-conference
@@ -26554,15 +26581,6 @@ SUMMARY:East Side High School at Science Park High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101423565@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261009T160000
-DTEND;TZID=America/New_York:20261009T180000
-SUMMARY:Glen Ridge High School vs Kent Place School (Varsity Girls Field 
- Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99698465@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T160000
@@ -26856,9 +26874,10 @@ UID:arb:101622231@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T173000
 DTEND;TZID=America/New_York:20261009T193000
-SUMMARY:Glen Ridge High School vs Kent Place School (Junior Varsity Girls
-  Field Hockey)
+SUMMARY:[Canceled] Glen Ridge High School vs Kent Place School (Junior Va
+ rsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102779736@super-essex-conference
@@ -33092,6 +33111,15 @@ DTEND;TZID=America/New_York:20261026T180000
 SUMMARY:Columbia High School vs Jonathan Dayton High School (Varsity Girl
  s Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101423565@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:Glen Ridge High School vs Kent Place School (Varsity Girls Field 
+ Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99231747@super-essex-conference
