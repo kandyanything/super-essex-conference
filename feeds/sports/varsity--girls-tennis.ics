@@ -885,10 +885,8 @@ UID:arb:103652345@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T090000
 DTEND;TZID=America/New_York:20260919T110000
-SUMMARY:[Canceled] West Orange High School vs TBD (Varsity Girls Girls Te
- nnis)
+SUMMARY:West Orange High School vs TBD (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 9:00 AM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103732041@super-essex-conference
@@ -904,10 +902,8 @@ UID:arb:103652353@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T130000
 DTEND;TZID=America/New_York:20260919T150000
-SUMMARY:[Canceled] West Orange High School vs TBD (Varsity Girls Girls Te
- nnis)
+SUMMARY:West Orange High School vs TBD (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 1:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99273968@super-essex-conference
@@ -985,9 +981,9 @@ UID:arb:103663255@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T160000
 DTEND;TZID=America/New_York:20260922T180000
-SUMMARY:Millburn High School vs Newark Academy (Varsity Girls Girls Tenni
+SUMMARY:Millburn High School at Newark Academy (Varsity Girls Girls Tenni
  s)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101125542@super-essex-conference
@@ -1317,6 +1313,15 @@ DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:James Caldwell High School vs Montville Township High School (Var
  sity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104048314@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Montclair High School at Verona High School (Varsity Girls Girls 
+ Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103581101@super-essex-conference

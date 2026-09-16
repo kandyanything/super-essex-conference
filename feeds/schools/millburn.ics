@@ -1174,11 +1174,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664666@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260918T160000
-DTEND;TZID=America/New_York:20260918T180000
+DTSTART;TZID=America/New_York:20260918T163000
+DTEND;TZID=America/New_York:20260918T183000
 SUMMARY:Millburn High School vs Science Park High School (Varsity Girls G
  irls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102167136@super-essex-conference
@@ -1205,6 +1205,22 @@ DTSTART;TZID=America/New_York:20260919T083000
 DTEND;TZID=America/New_York:20260919T103000
 SUMMARY:Millburn High School at TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 8:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104051597@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T090000
+DTEND;TZID=America/New_York:20260919T110000
+SUMMARY:Millburn High School at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104051569@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T090000
+DTEND;TZID=America/New_York:20260919T110000
+SUMMARY:Millburn High School at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103664700@super-essex-conference
@@ -1313,18 +1329,18 @@ UID:arb:103663277@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T160000
 DTEND;TZID=America/New_York:20260922T180000
-SUMMARY:Millburn High School at Newark Academy (Junior Varsity Girls Girl
+SUMMARY:Millburn High School vs Newark Academy (Junior Varsity Girls Girl
  s Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103663255@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T160000
 DTEND;TZID=America/New_York:20260922T180000
-SUMMARY:Millburn High School vs Newark Academy (Varsity Girls Girls Tenni
+SUMMARY:Millburn High School at Newark Academy (Varsity Girls Girls Tenni
  s)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103504669@super-essex-conference
@@ -1352,15 +1368,6 @@ DTEND;TZID=America/New_York:20260923T180000
 SUMMARY:Livingston High School vs Millburn High School (Freshman Boys Boy
  s Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100660562@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T160000
-DTEND;TZID=America/New_York:20260923T180000
-SUMMARY:Livingston High School at Millburn High School (Varsity Boys Boys
-  Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103664119@super-essex-conference
@@ -1424,6 +1431,15 @@ DTEND;TZID=America/New_York:20260924T180000
 SUMMARY:Livingston High School at Millburn High School (Junior Varsity Bo
  ys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100660562@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T160000
+DTEND;TZID=America/New_York:20260924T180000
+SUMMARY:Livingston High School at Millburn High School (Varsity Boys Boys
+  Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103699077@super-essex-conference
@@ -1530,9 +1546,9 @@ UID:arb:103703700@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T090000
 DTEND;TZID=America/New_York:20260926T110000
-SUMMARY:Millburn High School at Bloomfield High School (Freshman Girls Gi
+SUMMARY:Bloomfield High School vs Millburn High School (Freshman Girls Gi
  rls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Away - 9:00 AM
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102156216@super-essex-conference
@@ -3810,6 +3826,15 @@ SUMMARY:Millburn High School vs Nutley High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104054169@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270503T160000
+DTEND;TZID=America/New_York:20270503T180000
+SUMMARY:Millburn High School vs Oratory Prep School (Varsity Boys Basebal
+ l)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102566524@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T160000
@@ -3887,6 +3912,15 @@ DTEND;TZID=America/New_York:20270508T150000
 SUMMARY:Bard Early College vs Millburn High School (Varsity Girls Softbal
  l)
 DESCRIPTION:Varsity Girls Softball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104057127@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270510T160000
+DTEND;TZID=America/New_York:20270510T180000
+SUMMARY:Millburn High School vs Oratory Prep School (Varsity Boys Basebal
+ l)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102581333@super-essex-conference

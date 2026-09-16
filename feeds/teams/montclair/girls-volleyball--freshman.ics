@@ -64,9 +64,9 @@ UID:arb:101300688@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T160000
 DTEND;TZID=America/New_York:20260916T180000
-SUMMARY:Montclair High School at Columbia High School (Freshman Girls Gir
+SUMMARY:Columbia High School vs Montclair High School (Freshman Girls Gir
  ls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103795753@super-essex-conference
@@ -82,9 +82,10 @@ UID:arb:103795644@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260918T160000
 DTEND;TZID=America/New_York:20260918T180000
-SUMMARY:Montclair High School vs West Essex High School (Freshman Girls G
- irls Volleyball)
+SUMMARY:[Canceled] Montclair High School vs West Essex High School (Fresh
+ man Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102769443@super-essex-conference
@@ -112,6 +113,15 @@ DTEND;TZID=America/New_York:20260924T183000
 SUMMARY:Bloomfield High School at Montclair High School (Freshman Girls G
  irls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104053231@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Montclair High School at West Essex High School (Freshman Girls G
+ irls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103349197@super-essex-conference
