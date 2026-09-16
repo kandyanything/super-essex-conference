@@ -689,9 +689,10 @@ UID:arb:101425871@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T160000
 DTEND;TZID=America/New_York:20260916T180000
-SUMMARY:Bloomfield High School vs Nutley High School (Freshman Boys Boys 
- Soccer)
+SUMMARY:[Canceled] Bloomfield High School vs Nutley High School (Freshman
+  Boys Boys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99107878@super-essex-conference
@@ -746,16 +747,6 @@ DTEND;TZID=America/New_York:20260917T180000
 SUMMARY:Belleville High School at Nutley High School (Varsity Girls Girls
   Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102576301@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260917T160000
-DTEND;TZID=America/New_York:20260917T180000
-SUMMARY:[Canceled] Glen Ridge High School at Nutley High School (Junior V
- arsity Girls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102576152@super-essex-conference
@@ -831,7 +822,7 @@ SUMMARY:Nutley High School at Wayne Hills High School (Freshman Boys Foot
 DESCRIPTION:Freshman Boys Football - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103984610@super-essex-conference
+UID:arb:102576301@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T093000
 DTEND;TZID=America/New_York:20260919T113000
@@ -952,9 +943,10 @@ UID:arb:103988810@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T160000
 DTEND;TZID=America/New_York:20260923T180000
-SUMMARY:Mount Saint Dominic Academy at Nutley High School (Junior Varsity
-  Girls Girls Soccer)
+SUMMARY:[Canceled] Mount Saint Dominic Academy at Nutley High School (Jun
+ ior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103123391@super-essex-conference
@@ -1010,6 +1002,15 @@ SUMMARY:Newark Academy vs Nutley High School (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104043580@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T160000
+DTEND;TZID=America/New_York:20260924T180000
+SUMMARY:Nutley High School at Lyndhurst High School (Freshman Girls Girls
+  Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102127737@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T160000
@@ -1044,6 +1045,15 @@ DTEND;TZID=America/New_York:20260925T180000
 SUMMARY:Newark Academy vs Nutley High School (Junior Varsity Girls Girls 
  Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104043739@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T090000
+DTEND;TZID=America/New_York:20260926T110000
+SUMMARY:Nutley High School at Passaic Valley High School (Varsity Coed Co
+ ed Cross Country)
+DESCRIPTION:Varsity Coed Coed Cross Country - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103881922@super-essex-conference
@@ -1094,8 +1104,8 @@ UID:arb:103883637@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Nutley High School vs TBD (Junior Varsity Girls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+SUMMARY:Nutley High School at TBD (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102578806@super-essex-conference

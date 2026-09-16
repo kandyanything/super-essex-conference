@@ -1946,9 +1946,10 @@ UID:arb:103036170@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T153000
 DTEND;TZID=America/New_York:20260916T173000
-SUMMARY:Newark Academy vs Morristown-Beard School (Middle School Girls Gi
- rls Soccer)
+SUMMARY:[Canceled] Newark Academy vs Morristown-Beard School (Middle Scho
+ ol Girls Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Home - 3:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103523830@super-essex-conference
@@ -2032,16 +2033,6 @@ DTEND;TZID=America/New_York:20260917T180000
 SUMMARY:Columbia High School vs Essex County-Payne Tech High School (Vars
  ity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102576301@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260917T160000
-DTEND;TZID=America/New_York:20260917T180000
-SUMMARY:[Canceled] Glen Ridge High School at Nutley High School (Junior V
- arsity Girls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102576152@super-essex-conference
@@ -2196,7 +2187,7 @@ SUMMARY:Irvington High School at Beloved Community Charter School (Varsit
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103984610@super-essex-conference
+UID:arb:102576301@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T093000
 DTEND;TZID=America/New_York:20260919T113000
@@ -2517,9 +2508,10 @@ UID:arb:103988810@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T160000
 DTEND;TZID=America/New_York:20260923T180000
-SUMMARY:Mount Saint Dominic Academy at Nutley High School (Junior Varsity
-  Girls Girls Soccer)
+SUMMARY:[Canceled] Mount Saint Dominic Academy at Nutley High School (Jun
+ ior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664820@super-essex-conference
@@ -2925,8 +2917,8 @@ UID:arb:103883637@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Nutley High School vs TBD (Junior Varsity Girls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+SUMMARY:Nutley High School at TBD (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103297392@super-essex-conference

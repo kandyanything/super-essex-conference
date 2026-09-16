@@ -332,13 +332,22 @@ SUMMARY:Seton Hall Prep vs Bergen Catholic High School (Freshman Boys Boy
 DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104046114@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T140000
+DTEND;TZID=America/New_York:20261010T160000
+SUMMARY:Seton Hall Prep vs St. Anthony School-Nanuet (Junior Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102130400@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261010T110000
-DTEND;TZID=America/New_York:20261010T130000
+DTSTART;TZID=America/New_York:20261010T140000
+DTEND;TZID=America/New_York:20261010T160000
 SUMMARY:Seton Hall Prep vs St. Anthony's High School (Varsity Boys Boys S
  occer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103168848@super-essex-conference

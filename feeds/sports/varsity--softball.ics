@@ -1852,21 +1852,21 @@ SUMMARY:Glen Ridge High School at Bloomfield High School (Varsity Girls S
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102569789@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270503T160000
-DTEND;TZID=America/New_York:20270503T180000
-SUMMARY:Montclair High School at West Orange High School (Varsity Girls S
- oftball)
-DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102569978@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T160000
 DTEND;TZID=America/New_York:20270503T180000
 SUMMARY:Montclair Kimberley Academy vs Nutley High School (Varsity Girls 
  Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102569789@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270503T160000
+DTEND;TZID=America/New_York:20270503T180000
+SUMMARY:West Orange High School vs Montclair High School (Varsity Girls S
+ oftball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
