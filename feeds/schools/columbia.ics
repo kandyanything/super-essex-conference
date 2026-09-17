@@ -1277,15 +1277,6 @@ SUMMARY:Columbia High School at Livingston High School (Junior Varsity Gi
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104074843@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260925T160000
-DTEND;TZID=America/New_York:20260925T180000
-SUMMARY:Columbia High School at James Caldwell High School (Junior Varsit
- y Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100452407@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T160000
@@ -1454,6 +1445,15 @@ DTEND;TZID=America/New_York:20260928T203000
 SUMMARY:Columbia High School at Jonathan Dayton High School (Varsity Girl
  s Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104074843@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Columbia High School at James Caldwell High School (Junior Varsit
+ y Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103023134@super-essex-conference
