@@ -34968,9 +34968,10 @@ UID:arb:103975932@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T160000
 DTEND;TZID=America/New_York:20261210T180000
-SUMMARY:Belleville High School vs Abundant Life Academy (Varsity Girls Gi
- rls Basketball)
+SUMMARY:[Canceled] Belleville High School vs Abundant Life Academy (Varsi
+ ty Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101044022@super-essex-conference
@@ -35067,9 +35068,10 @@ UID:arb:103975941@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T174500
 DTEND;TZID=America/New_York:20261210T194500
-SUMMARY:Belleville High School vs Abundant Life Academy (Varsity Boys Boy
- s Basketball)
+SUMMARY:[Canceled] Belleville High School vs Abundant Life Academy (Varsi
+ ty Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553250@super-essex-conference
@@ -36809,6 +36811,15 @@ DTEND;TZID=America/New_York:20261218T200000
 SUMMARY:East Side High School vs Verona High School (Varsity Boys Boys Wr
  estling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104066923@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T180000
+DTEND;TZID=America/New_York:20261218T200000
+SUMMARY:James Caldwell High School at Red Bank Catholic High School (Vars
+ ity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102558006@super-essex-conference
@@ -43357,6 +43368,15 @@ DTEND;TZID=America/New_York:20270119T180000
 SUMMARY:Cedar Grove High School vs University High School (Varsity Boys B
  oys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104065575@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T160000
+DTEND;TZID=America/New_York:20270119T180000
+SUMMARY:Central High School at Donovan Catholic High School (Junior Varsi
+ ty Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100560576@super-essex-conference

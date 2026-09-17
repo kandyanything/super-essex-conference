@@ -153,9 +153,10 @@ UID:arb:103975932@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T160000
 DTEND;TZID=America/New_York:20261210T180000
-SUMMARY:Belleville High School vs Abundant Life Academy (Varsity Girls Gi
- rls Basketball)
+SUMMARY:[Canceled] Belleville High School vs Abundant Life Academy (Varsi
+ ty Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100686002@super-essex-conference
@@ -632,6 +633,15 @@ DTEND;TZID=America/New_York:20261218T180000
 SUMMARY:West Essex High School vs Pope John XXIII High School (Middle Sch
  ool Girls Girls Basketball)
 DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104066923@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T180000
+DTEND;TZID=America/New_York:20261218T200000
+SUMMARY:James Caldwell High School at Red Bank Catholic High School (Vars
+ ity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100560613@super-essex-conference
@@ -2800,6 +2810,15 @@ DTEND;TZID=America/New_York:20270119T180000
 SUMMARY:Cedar Grove High School at Essex County-Newark Tech High School (
  Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104065575@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T160000
+DTEND;TZID=America/New_York:20270119T180000
+SUMMARY:Central High School at Donovan Catholic High School (Junior Varsi
+ ty Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100560576@super-essex-conference
