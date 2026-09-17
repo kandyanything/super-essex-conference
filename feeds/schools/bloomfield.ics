@@ -1188,9 +1188,10 @@ UID:arb:101611802@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260921T160000
 DTEND;TZID=America/New_York:20260921T180000
-SUMMARY:Bloomfield High School vs Nutley High School (Junior Varsity Girl
- s Girls Soccer)
+SUMMARY:[Canceled] Bloomfield High School vs Nutley High School (Junior V
+ arsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101425869@super-essex-conference
@@ -1277,8 +1278,10 @@ UID:arb:101583896@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T160000
 DTEND;TZID=America/New_York:20260923T180000
-SUMMARY:Bloomfield High School at TBD (Varsity Girls Girls Tennis)
+SUMMARY:[Canceled] Bloomfield High School at TBD (Varsity Girls Girls Ten
+ nis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103412616@super-essex-conference
@@ -1303,9 +1306,10 @@ UID:arb:101492459@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T160000
 DTEND;TZID=America/New_York:20260923T180000
-SUMMARY:Bloomfield High School vs Orange High School (Junior Varsity Girl
- s Girls Tennis)
+SUMMARY:[Canceled] Bloomfield High School vs Orange High School (Junior V
+ arsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101427019@super-essex-conference
@@ -1503,6 +1507,15 @@ DTEND;TZID=America/New_York:20260928T180000
 SUMMARY:Barringer High School at Bloomfield High School (Junior Varsity B
  oys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104074929@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Bloomfield High School vs Nutley High School (Junior Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102072932@super-essex-conference
@@ -3196,27 +3209,27 @@ UID:arb:100549120@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T100000
 DTEND;TZID=America/New_York:20270123T120000
-SUMMARY:Bloomfield High School vs Glen Ridge High School (Junior Varsity 
+SUMMARY:Glen Ridge High School at Bloomfield High School (Junior Varsity 
  Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:00 AM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549154@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T113000
 DTEND;TZID=America/New_York:20270123T133000
-SUMMARY:Bloomfield High School vs Glen Ridge High School (Freshman Boys B
+SUMMARY:Glen Ridge High School at Bloomfield High School (Freshman Boys B
  oys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 11:30 AM
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549044@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T113000
 DTEND;TZID=America/New_York:20270123T133000
-SUMMARY:Bloomfield High School vs Glen Ridge High School (Varsity Boys Bo
+SUMMARY:Glen Ridge High School at Bloomfield High School (Varsity Boys Bo
  ys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100564463@super-essex-conference

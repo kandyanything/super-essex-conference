@@ -2109,15 +2109,6 @@ SUMMARY:Newark Academy vs New Brunswick High School (Varsity Boys Boys So
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101688406@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T150000
-DTEND;TZID=America/New_York:20260926T170000
-SUMMARY:Saint Benedict's Prep vs Chaminade High School (Varsity Boys Boys
-  Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101591899@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T150000
@@ -2125,6 +2116,15 @@ DTEND;TZID=America/New_York:20260926T170000
 SUMMARY:West Orange High School at Linden High School (Varsity Boys Boys 
  Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101688406@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T173000
+DTEND;TZID=America/New_York:20260926T193000
+SUMMARY:Saint Benedict's Prep vs Chaminade High School (Varsity Boys Boys
+  Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101240132@super-essex-conference
@@ -2438,6 +2438,15 @@ DTSTART;TZID=America/New_York:20261001T163000
 DTEND;TZID=America/New_York:20261001T183000
 SUMMARY:East Side High School vs Newark Academy (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104075209@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T160000
+DTEND;TZID=America/New_York:20261002T180000
+SUMMARY:Central High School at Science Park High School (Varsity Boys Boy
+ s Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102334517@super-essex-conference

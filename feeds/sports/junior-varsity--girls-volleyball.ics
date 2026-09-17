@@ -1931,9 +1931,10 @@ UID:arb:101410944@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260918T171500
 DTEND;TZID=America/New_York:20260918T191500
-SUMMARY:Cedar Grove High School vs Passaic Arts & Science Charter School 
- (Junior Varsity Girls Girls Volleyball)
+SUMMARY:[Canceled] Cedar Grove High School vs Passaic Arts & Science Char
+ ter School (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102583934@super-essex-conference
@@ -3003,6 +3004,15 @@ DTEND;TZID=America/New_York:20261001T191500
 SUMMARY:Technology High School vs Newark School of Architecture and Inter
  ior Design (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104073415@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T173000
+DTEND;TZID=America/New_York:20261001T193000
+SUMMARY:Cedar Grove High School vs Passaic Arts & Science Charter School 
+ (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101834838@super-essex-conference

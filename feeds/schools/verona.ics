@@ -698,6 +698,15 @@ SUMMARY:Verona High School at James Caldwell High School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104071770@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T130000
+DTEND;TZID=America/New_York:20260915T150000
+SUMMARY:Cedar Grove High School vs Verona High School (Varsity Girls Girl
+ s Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99417178@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T160000
@@ -1155,6 +1164,15 @@ DTEND;TZID=America/New_York:20260928T180000
 SUMMARY:Livingston High School at Verona High School (Varsity Girls Girls
   Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104075302@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:East Side High School vs Verona High School (Freshman Boys Boys S
+ occer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102903834@super-essex-conference

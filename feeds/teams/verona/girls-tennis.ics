@@ -105,6 +105,15 @@ DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104071770@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T130000
+DTEND;TZID=America/New_York:20260915T150000
+SUMMARY:Cedar Grove High School vs Verona High School (Varsity Girls Girl
+ s Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102618273@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T160000

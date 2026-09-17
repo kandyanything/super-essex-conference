@@ -448,15 +448,6 @@ SUMMARY:Payne Tech vs Science Park High School (Freshman Girls Girls Voll
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102984175@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260921T160000
-DTEND;TZID=America/New_York:20260921T180000
-SUMMARY:Payne Tech vs Science Park High School (Junior Varsity Boys Boys 
- Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99058067@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260921T160000
@@ -473,6 +464,15 @@ DTEND;TZID=America/New_York:20260921T191500
 SUMMARY:Payne Tech at Science Park High School (Junior Varsity Girls Girl
  s Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102984175@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260921T173000
+DTEND;TZID=America/New_York:20260921T193000
+SUMMARY:Payne Tech vs Science Park High School (Junior Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102979413@super-essex-conference
@@ -1676,9 +1676,9 @@ UID:arb:102406078@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T160000
 DTEND;TZID=America/New_York:20270414T180000
-SUMMARY:Livingston High School vs Essex County-Payne Tech High School (Va
- rsity Boys Boys Volleyball)
-DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
+SUMMARY:Payne Tech at Livingston High School (Varsity Boys Boys Volleybal
+ l)
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102406096@super-essex-conference
