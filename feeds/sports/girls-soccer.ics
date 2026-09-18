@@ -2201,9 +2201,10 @@ UID:arb:101611797@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T100000
 DTEND;TZID=America/New_York:20260919T120000
-SUMMARY:Bloomfield High School vs Wayne Valley High School (Junior Varsit
- y Girls Girls Soccer)
+SUMMARY:[Canceled] Bloomfield High School vs Wayne Valley High School (Ju
+ nior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102314635@super-essex-conference
@@ -2429,9 +2430,10 @@ UID:arb:102311410@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T161500
 DTEND;TZID=America/New_York:20260922T181500
-SUMMARY:Montclair Kimberley Academy vs Peddie School (Junior Varsity Girl
- s Girls Soccer)
+SUMMARY:[Canceled] Montclair Kimberley Academy vs Peddie School (Junior V
+ arsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102311156@super-essex-conference
@@ -3279,24 +3281,22 @@ SUMMARY:East Side High School at Millburn High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101267272@super-essex-conference
+UID:arb:104108705@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
-SUMMARY:[Canceled] Glen Ridge High School at Newark Academy (Junior Varsi
- ty Girls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
-STATUS:CANCELLED
+SUMMARY:Glen Ridge High School vs Newark Academy (Varsity Girls Girls Soc
+ cer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100663419@super-essex-conference
+UID:arb:104108684@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
-SUMMARY:[Canceled] Glen Ridge High School at Newark Academy (Varsity Girl
- s Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
-STATUS:CANCELLED
+SUMMARY:Glen Ridge High School vs Newark Academy (Junior Varsity Girls Gi
+ rls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664895@super-essex-conference
