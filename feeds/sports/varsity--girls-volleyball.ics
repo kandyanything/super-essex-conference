@@ -2237,6 +2237,15 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103071047@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260918T163000
+DTEND;TZID=America/New_York:20260918T183000
+SUMMARY:Newark Lab High School vs Pioneer Academy (Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101764825@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260918T163000
@@ -2401,9 +2410,10 @@ UID:arb:99107942@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260921T160000
 DTEND;TZID=America/New_York:20260921T180000
-SUMMARY:East Orange Campus High School vs Montclair Kimberley Academy (Va
- rsity Girls Girls Volleyball)
+SUMMARY:[Canceled] East Orange Campus High School vs Montclair Kimberley 
+ Academy (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99065619@super-essex-conference
