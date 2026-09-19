@@ -1,4 +1,4 @@
-﻿'use strict';
+'use strict';
 /**
  * scripts/build-news.js
  *
@@ -118,7 +118,6 @@ function stripTracking(url) {
 const HOUSE_FEEDS = [
     'https://www.nj.com/arc/outboundfeeds/rss/category/highschoolsports/?outputType=xml',
     'https://www.onnj.com/category/onnj-sports/highschool/feed/',
-    'https://wrnjradio.com/feed/',
 ];
 
 const HOUSE_SOURCES = [
@@ -260,6 +259,7 @@ function classify(title, preview, url) {
         && (onSources || NJ_MARKER.test(text) || NJ_FULL.test(text));
 
     if (!confHit && !schoolHit) return null;
+    if (!SPORTS_TERMS_RE.test(title)) return null;
     return { schoolName };
 }
 
