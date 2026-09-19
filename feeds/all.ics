@@ -29424,15 +29424,6 @@ SUMMARY:Golda Och Academy vs Essex County-Newark Tech High School (Varsit
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101277853@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T163000
-DTEND;TZID=America/New_York:20261014T183000
-SUMMARY:Mount Saint Dominic Academy at Scotch Plains-Fanwood High School 
- (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100743405@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T163000
@@ -29611,6 +29602,15 @@ DTEND;TZID=America/New_York:20261014T200000
 SUMMARY:Belleville High School at West Orange High School (Varsity Boys B
  oys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101277853@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T180000
+DTEND;TZID=America/New_York:20261014T200000
+SUMMARY:Mount Saint Dominic Academy at Scotch Plains-Fanwood High School 
+ (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100743501@super-essex-conference
@@ -34043,15 +34043,6 @@ DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103332762@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261028T160000
-DTEND;TZID=America/New_York:20261028T180000
-SUMMARY:Bloomfield High School at Morris Knolls High School (Varsity Boys
-  Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103066692@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T160000
 DTEND;TZID=America/New_York:20261028T180000
