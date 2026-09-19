@@ -1334,6 +1334,15 @@ SUMMARY:Livingston High School at West Essex High School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104075200@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T160000
+DTEND;TZID=America/New_York:20260924T180000
+SUMMARY:Columbia High School at Livingston High School (Junior Varsity Gi
+ rls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104075133@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T160000
@@ -1414,15 +1423,6 @@ DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Livingston High School at West Essex High School (Varsity Girls G
  irls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104075200@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:Columbia High School at Livingston High School (Junior Varsity Gi
- rls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102764172@super-essex-conference

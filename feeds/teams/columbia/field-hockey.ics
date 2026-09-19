@@ -177,6 +177,16 @@ SUMMARY:Columbia High School vs West Essex High School (Freshman Girls Fi
 DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103357705@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T100000
+DTEND;TZID=America/New_York:20260919T120000
+SUMMARY:[Canceled] Columbia High School vs West Essex High School (Freshm
+ an Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 10:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102105129@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T100000
@@ -184,16 +194,6 @@ DTEND;TZID=America/New_York:20260919T120000
 SUMMARY:Columbia High School at Sayreville Public Schools (Varsity Girls 
  Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103357705@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T100000
-DTEND;TZID=America/New_York:20260919T120000
-SUMMARY:[Canceled] West Essex High School at Columbia High School (Freshm
- an Girls Field Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Away - 10:00 AM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102105141@super-essex-conference
