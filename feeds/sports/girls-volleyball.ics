@@ -6698,9 +6698,9 @@ UID:arb:100734743@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Saint Vincent Academy vs Newark School of Global Studies (Varsity
+SUMMARY:Saint Vincent Academy at Newark School of Global Studies (Varsity
   Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99162535@super-essex-conference
@@ -10976,6 +10976,24 @@ SUMMARY:Bloomfield High School vs Hoboken High School (Freshman Girls Gir
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104117743@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T163000
+DTEND;TZID=America/New_York:20261022T183000
+SUMMARY:Livingston High School at Hunterdon Central Reg. High School (Jun
+ ior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104117738@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T163000
+DTEND;TZID=America/New_York:20261022T183000
+SUMMARY:Livingston High School at Hunterdon Central Reg. High School (Fre
+ shman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100929511@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T163000
@@ -11020,6 +11038,15 @@ DTEND;TZID=America/New_York:20261022T191500
 SUMMARY:West Side High School vs American History High School (Junior Var
  sity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104117748@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T174000
+DTEND;TZID=America/New_York:20261022T194000
+SUMMARY:Livingston High School at Hunterdon Central Reg. High School (Var
+ sity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:40 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103098471@super-essex-conference

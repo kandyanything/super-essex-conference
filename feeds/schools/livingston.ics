@@ -2368,6 +2368,33 @@ SUMMARY:Livingston High School vs Madison High School (Freshman Boys Boys
 DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104117743@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T163000
+DTEND;TZID=America/New_York:20261022T183000
+SUMMARY:Livingston High School at Hunterdon Central Reg. High School (Jun
+ ior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104117738@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T163000
+DTEND;TZID=America/New_York:20261022T183000
+SUMMARY:Livingston High School at Hunterdon Central Reg. High School (Fre
+ shman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104117748@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T174000
+DTEND;TZID=America/New_York:20261022T194000
+SUMMARY:Livingston High School at Hunterdon Central Reg. High School (Var
+ sity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:40 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99189387@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T180000
@@ -3941,15 +3968,6 @@ SUMMARY:Livingston High School vs Seton Hall Preparatory School (Junior V
 DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102565590@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270414T160000
-DTEND;TZID=America/New_York:20270414T180000
-SUMMARY:Livingston High School vs Seton Hall Preparatory School (Varsity 
- Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102406078@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T160000
@@ -3959,13 +3977,21 @@ SUMMARY:Payne Tech at Livingston High School (Varsity Boys Boys Volleybal
 DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102565590@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270414T160000
+DTEND;TZID=America/New_York:20270414T180000
+SUMMARY:Seton Hall Prep at Livingston High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102406096@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T171500
 DTEND;TZID=America/New_York:20270414T191500
-SUMMARY:Livingston High School vs Essex County-Payne Tech High School (Ju
- nior Varsity Boys Boys Volleyball)
-DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
+SUMMARY:Payne Tech at Livingston High School (Junior Varsity Boys Boys Vo
+ lleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102568571@super-essex-conference
