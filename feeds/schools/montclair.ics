@@ -3470,6 +3470,15 @@ SUMMARY:Montclair High School at Hoboken High School (Varsity Boys Boys I
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 9:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104135906@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T173000
+DTEND;TZID=America/New_York:20270108T193000
+SUMMARY:Columbia High School vs Montclair High School (Junior Varsity Boy
+ s Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102558128@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T180000
@@ -3576,6 +3585,24 @@ DTEND;TZID=America/New_York:20270112T210000
 SUMMARY:Malcolm X Shabazz High School at Montclair High School (Varsity B
  oys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104136286@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Columbia High School vs Montclair High School (Junior Varsity Boy
+ s Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104136285@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Columbia High School vs Montclair High School (Varsity Girls Girl
+ s Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100548818@super-essex-conference
@@ -4409,27 +4436,9 @@ UID:arb:102565878@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T160000
 DTEND;TZID=America/New_York:20270426T180000
-SUMMARY:Montclair High School vs Montclair Kimberley Academy (Varsity Boy
+SUMMARY:Montclair Kimberley Academy at Montclair High School (Varsity Boy
  s Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103009529@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270428T160000
-DTEND;TZID=America/New_York:20270428T180000
-SUMMARY:Montclair High School at Columbia High School (Junior Varsity Boy
- s Baseball)
-DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102569396@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270428T160000
-DTEND;TZID=America/New_York:20270428T180000
-SUMMARY:Montclair High School vs Bloomfield High School (Varsity Girls So
- ftball)
-DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102474992@super-essex-conference

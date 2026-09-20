@@ -251,6 +251,15 @@ SUMMARY:East Orange Campus High School vs Montclair Kimberley Academy (Ju
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104136381@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T150000
+DTEND;TZID=America/New_York:20260925T170000
+SUMMARY:East Orange Campus High School at West Orange High School (Junior
+  Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99092120@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T160000
@@ -258,6 +267,15 @@ DTEND;TZID=America/New_York:20260925T180000
 SUMMARY:East Orange Campus High School at West Orange High School (Junior
   Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104136386@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T163000
+DTEND;TZID=America/New_York:20260925T183000
+SUMMARY:East Orange Campus High School at West Orange High School (Varsit
+ y Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99092082@super-essex-conference

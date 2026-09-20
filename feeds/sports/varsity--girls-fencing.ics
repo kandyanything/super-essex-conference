@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Super Essex Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Super Essex Conference — Varsity Girls Fencing
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:104136229@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T183000
+DTEND;TZID=America/New_York:20261214T203000
+SUMMARY:Newark Academy at West Essex High School (Varsity Girls Girls Fen
+ cing)
+DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104136268@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T183000
+DTEND;TZID=America/New_York:20261218T203000
+SUMMARY:West Essex High School vs Oak Knoll School of the Holy Child (Var
+ sity Girls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104136383@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
+SUMMARY:West Essex High School vs West Orange High School (Varsity Girls 
+ Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104136409@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T180000
+DTEND;TZID=America/New_York:20270114T200000
+SUMMARY:Saint Benedict's Prep at West Essex High School (Varsity Girls Gi
+ rls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104136432@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T180000
+DTEND;TZID=America/New_York:20270129T200000
+SUMMARY:West Essex High School vs Morris Catholic High School (Varsity Gi
+ rls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
+END:VEVENT
+END:VCALENDAR

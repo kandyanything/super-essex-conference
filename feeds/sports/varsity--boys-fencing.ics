@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:104136205@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T183000
+DTEND;TZID=America/New_York:20261214T203000
+SUMMARY:Newark Academy at West Essex High School (Varsity Boys Boys Fenci
+ ng)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103036153@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T183000
@@ -30,6 +39,15 @@ DTEND;TZID=America/New_York:20261218T203000
 SUMMARY:West Essex High School vs Saint Peter's Prep High School (Varsity
   Boys Boys Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104136373@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
+SUMMARY:West Essex High School vs West Orange High School (Varsity Boys B
+ oys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103036163@super-essex-conference
@@ -50,6 +68,15 @@ SUMMARY:Livingston High School vs Saint Peter's Prep High School (Varsity
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104136397@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T180000
+DTEND;TZID=America/New_York:20270114T200000
+SUMMARY:Saint Benedict's Prep at West Essex High School (Varsity Boys Boy
+ s Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101196643@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270118T163000
@@ -57,6 +84,15 @@ DTEND;TZID=America/New_York:20270118T183000
 SUMMARY:Millburn High School at Saint Peter's Prep High School (Varsity B
  oys Boys Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104136428@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T180000
+DTEND;TZID=America/New_York:20270129T200000
+SUMMARY:West Essex High School vs Morris Catholic High School (Varsity Bo
+ ys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101664807@super-essex-conference

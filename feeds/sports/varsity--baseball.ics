@@ -627,15 +627,6 @@ SUMMARY:James Caldwell High School vs Montclair High School (Varsity Boys
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102564999@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270412T160000
-DTEND;TZID=America/New_York:20270412T180000
-SUMMARY:Livingston High School at Seton Hall Preparatory School (Varsity 
- Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102566266@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T160000
@@ -668,6 +659,14 @@ DTSTART;TZID=America/New_York:20270412T160000
 DTEND;TZID=America/New_York:20270412T180000
 SUMMARY:North Star Academy at Orange High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102564999@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T160000
+DTEND;TZID=America/New_York:20270412T180000
+SUMMARY:Seton Hall Prep vs Livingston High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102568883@super-essex-conference
@@ -1259,9 +1258,9 @@ UID:arb:102565878@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T160000
 DTEND;TZID=America/New_York:20270426T180000
-SUMMARY:Montclair High School vs Montclair Kimberley Academy (Varsity Boy
+SUMMARY:Montclair Kimberley Academy at Montclair High School (Varsity Boy
  s Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102565028@super-essex-conference

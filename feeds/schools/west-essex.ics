@@ -3251,6 +3251,24 @@ SUMMARY:West Essex High School vs Morris Hills High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104136229@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T183000
+DTEND;TZID=America/New_York:20261214T203000
+SUMMARY:Newark Academy at West Essex High School (Varsity Girls Girls Fen
+ cing)
+DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104136205@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T183000
+DTEND;TZID=America/New_York:20261214T203000
+SUMMARY:Newark Academy at West Essex High School (Varsity Boys Boys Fenci
+ ng)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100549879@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T160000
@@ -3393,6 +3411,15 @@ DTEND;TZID=America/New_York:20261218T200000
 SUMMARY:Seton Hall Prep at West Essex High School (Varsity Boys Boys Wres
  tling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104136268@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T183000
+DTEND;TZID=America/New_York:20261218T203000
+SUMMARY:West Essex High School vs Oak Knoll School of the Holy Child (Var
+ sity Girls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103036153@super-essex-conference
@@ -3581,6 +3608,24 @@ DTEND;TZID=America/New_York:20270105T193000
 SUMMARY:Science Park High School at West Essex High School (Junior Varsit
  y Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104136383@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
+SUMMARY:West Essex High School vs West Orange High School (Varsity Girls 
+ Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104136373@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
+SUMMARY:West Essex High School vs West Orange High School (Varsity Boys B
+ oys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103180426@super-essex-conference
@@ -3823,6 +3868,24 @@ DTEND;TZID=America/New_York:20270114T193000
 SUMMARY:Verona High School vs West Essex High School (Junior Varsity Girl
  s Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104136409@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T180000
+DTEND;TZID=America/New_York:20270114T200000
+SUMMARY:Saint Benedict's Prep at West Essex High School (Varsity Girls Gi
+ rls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104136397@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T180000
+DTEND;TZID=America/New_York:20270114T200000
+SUMMARY:Saint Benedict's Prep at West Essex High School (Varsity Boys Boy
+ s Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100550297@super-essex-conference
@@ -4106,6 +4169,24 @@ SUMMARY:James Caldwell High School at Westfield High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104136432@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T180000
+DTEND;TZID=America/New_York:20270129T200000
+SUMMARY:West Essex High School vs Morris Catholic High School (Varsity Gi
+ rls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104136428@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T180000
+DTEND;TZID=America/New_York:20270129T200000
+SUMMARY:West Essex High School vs Morris Catholic High School (Varsity Bo
+ ys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102187341@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270129T180000
@@ -4331,15 +4412,6 @@ SUMMARY:Cedar Grove High School at West Essex High School (Freshman Boys
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102995790@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270218T160000
-DTEND;TZID=America/New_York:20270218T180000
-SUMMARY:West Essex High School at Hanover Park High School (Varsity Girls
-  Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100550335@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270218T173000
@@ -4349,15 +4421,6 @@ SUMMARY:Cedar Grove High School at West Essex High School (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102995808@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270218T173000
-DTEND;TZID=America/New_York:20270218T193000
-SUMMARY:West Essex High School at Hanover Park High School (Junior Varsit
- y Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100550310@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270218T190000
@@ -4365,24 +4428,6 @@ DTEND;TZID=America/New_York:20270218T210000
 SUMMARY:Cedar Grove High School at West Essex High School (Varsity Boys B
  oys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101726565@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270220T110000
-DTEND;TZID=America/New_York:20270220T130000
-SUMMARY:West Essex High School vs Randolph High School (Varsity Girls Gir
- ls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101726583@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270220T123000
-DTEND;TZID=America/New_York:20270220T143000
-SUMMARY:West Essex High School vs Randolph High School (Junior Varsity Gi
- rls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102416331@super-essex-conference
@@ -4626,15 +4671,6 @@ DTEND;TZID=America/New_York:20270409T191500
 SUMMARY:Technology High School at West Essex High School (Junior Varsity 
  Boys Boys Volleyball)
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102568063@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270412T160000
-DTEND;TZID=America/New_York:20270412T180000
-SUMMARY:Livingston High School at West Essex High School (Varsity Girls S
- oftball)
-DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102622318@super-essex-conference
