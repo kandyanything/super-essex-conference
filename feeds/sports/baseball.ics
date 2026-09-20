@@ -931,15 +931,6 @@ SUMMARY:James Caldwell High School at Montclair High School (Varsity Boys
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103009609@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270414T160000
-DTEND;TZID=America/New_York:20270414T180000
-SUMMARY:Livingston High School vs Seton Hall Preparatory School (Junior V
- arsity Boys Baseball)
-DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102566837@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T160000
@@ -972,6 +963,15 @@ DTSTART;TZID=America/New_York:20270414T160000
 DTEND;TZID=America/New_York:20270414T180000
 SUMMARY:North Star Academy vs Orange High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103009609@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270414T160000
+DTEND;TZID=America/New_York:20270414T180000
+SUMMARY:Seton Hall Prep at Livingston High School (Junior Varsity Boys Ba
+ seball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102565590@super-essex-conference
@@ -1689,15 +1689,6 @@ DTEND;TZID=America/New_York:20270428T180000
 SUMMARY:Montclair High School at Columbia High School (Junior Varsity Boy
  s Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102565365@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270428T160000
-DTEND;TZID=America/New_York:20270428T180000
-SUMMARY:Montclair High School at Columbia High School (Varsity Boys Baseb
- all)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102567585@super-essex-conference

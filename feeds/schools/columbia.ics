@@ -2349,6 +2349,15 @@ SUMMARY:Columbia High School at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104133979@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T160000
+DTEND;TZID=America/New_York:20261211T180000
+SUMMARY:Columbia High School vs East Orange Campus High School (Varsity B
+ oys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100559500@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T160000
@@ -3134,15 +3143,6 @@ DTEND;TZID=America/New_York:20270428T180000
 SUMMARY:Montclair High School at Columbia High School (Junior Varsity Boy
  s Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102565365@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270428T160000
-DTEND;TZID=America/New_York:20270428T180000
-SUMMARY:Montclair High School at Columbia High School (Varsity Boys Baseb
- all)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102567754@super-essex-conference
