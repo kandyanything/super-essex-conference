@@ -3275,6 +3275,15 @@ DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101425869@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260921T160000
+DTEND;TZID=America/New_York:20260921T180000
+SUMMARY:Barringer High School at Bloomfield High School (Freshman Boys Bo
+ ys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100660777@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260921T160000
@@ -3282,15 +3291,6 @@ DTEND;TZID=America/New_York:20260921T180000
 SUMMARY:Barringer High School vs Bloomfield High School (Varsity Boys Boy
  s Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101425869@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260921T160000
-DTEND;TZID=America/New_York:20260921T180000
-SUMMARY:Bloomfield High School vs Barringer High School (Freshman Boys Bo
- ys Soccer)
-DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103094232@super-essex-conference
@@ -4026,6 +4026,15 @@ SUMMARY:[Canceled] West Orange High School at Linden High School (Freshma
  n Boys Boys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 9:00 AM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104149811@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T093000
+DTEND;TZID=America/New_York:20260926T113000
+SUMMARY:Verona High School vs Rutherford High School (Junior Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101155820@super-essex-conference
@@ -5518,15 +5527,6 @@ SUMMARY:Newark Tech vs Science Park High School (Junior Varsity Boys Boys
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101917115@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T160000
-DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Technology High School vs Newark School of Global Studies (Varsit
- y Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101698202@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
@@ -5631,6 +5631,15 @@ DTSTART;TZID=America/New_York:20261007T190000
 DTEND;TZID=America/New_York:20261007T210000
 SUMMARY:Cedar Grove High School vs Newark Collegiate Academy (Varsity Boy
  s Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101917115@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T190000
+DTEND;TZID=America/New_York:20261007T210000
+SUMMARY:Technology High School vs Newark School of Global Studies (Varsit
+ y Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -7075,6 +7084,15 @@ SUMMARY:West Side High School at West Caldwell Tech (Varsity Boys Boys So
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104154952@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T161500
+DTEND;TZID=America/New_York:20261022T181500
+SUMMARY:Irvington High School vs Oratory Prep School (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101155834@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T163000
@@ -7117,6 +7135,15 @@ DTEND;TZID=America/New_York:20261023T183000
 SUMMARY:East Orange Campus High School at McNair-Academic High School (Va
  rsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104154137@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T183000
+DTEND;TZID=America/New_York:20261023T203000
+SUMMARY:Malcolm X Shabazz High School at Whippany Park High School (Varsi
+ ty Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102442650@super-essex-conference

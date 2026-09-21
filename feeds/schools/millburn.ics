@@ -2960,6 +2960,15 @@ SUMMARY:Millburn High School at Orange High School (Junior Varsity Boys B
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104154323@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270117T113000
+DTEND;TZID=America/New_York:20270117T133000
+SUMMARY:Millburn High School vs Hillside High School (Varsity Boys Boys B
+ asketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101196643@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270118T163000
@@ -3655,6 +3664,15 @@ SUMMARY:Millburn High School vs Essex County-Payne Tech High School (Juni
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102406056@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270409T160000
+DTEND;TZID=America/New_York:20270409T180000
+SUMMARY:Livingston High School vs Millburn High School (Varsity Boys Boys
+  Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102581284@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270409T160000
@@ -3662,15 +3680,6 @@ DTEND;TZID=America/New_York:20270409T180000
 SUMMARY:Millburn High School vs Saint Vincent Academy (Varsity Girls Soft
  ball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102406056@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270409T160000
-DTEND;TZID=America/New_York:20270409T180000
-SUMMARY:Millburn High School at Livingston High School (Varsity Boys Boys
-  Volleyball)
-DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102406041@super-essex-conference

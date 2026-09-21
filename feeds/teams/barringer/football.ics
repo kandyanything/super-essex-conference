@@ -91,9 +91,10 @@ UID:arb:100444187@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260921T163000
 DTEND;TZID=America/New_York:20260921T183000
-SUMMARY:Barringer High School vs Weequahic High School (Junior Varsity Bo
- ys Football)
+SUMMARY:[Canceled] Barringer High School vs Weequahic High School (Junior
+  Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99189396@super-essex-conference
@@ -132,6 +133,15 @@ SUMMARY:Barringer High School vs West Side High School (Varsity Boys Foot
 DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:99663694@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Barringer High School at West Side High School (Junior Varsity Bo
+ ys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99776216@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T190000
@@ -139,15 +149,6 @@ DTEND;TZID=America/New_York:20261009T210000
 SUMMARY:Barringer High School at Livingston High School (Varsity Boys Foo
  tball)
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:99663698@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T160000
-DTEND;TZID=America/New_York:20261012T180000
-SUMMARY:Barringer High School at West Side High School (Junior Varsity Bo
- ys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100444193@super-essex-conference

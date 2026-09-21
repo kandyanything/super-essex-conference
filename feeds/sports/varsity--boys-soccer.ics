@@ -2743,15 +2743,6 @@ SUMMARY:Livingston High School at Nutley High School (Varsity Boys Boys S
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101917115@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T160000
-DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Technology High School vs Newark School of Global Studies (Varsit
- y Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101698202@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
@@ -2820,6 +2811,15 @@ DTSTART;TZID=America/New_York:20261007T190000
 DTEND;TZID=America/New_York:20261007T210000
 SUMMARY:Cedar Grove High School vs Newark Collegiate Academy (Varsity Boy
  s Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101917115@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T190000
+DTEND;TZID=America/New_York:20261007T210000
+SUMMARY:Technology High School vs Newark School of Global Studies (Varsit
+ y Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -3436,6 +3436,15 @@ SUMMARY:West Side High School at West Caldwell Tech (Varsity Boys Boys So
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104154952@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T161500
+DTEND;TZID=America/New_York:20261022T181500
+SUMMARY:Irvington High School vs Oratory Prep School (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101342728@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261022
@@ -3460,6 +3469,15 @@ DTEND;TZID=America/New_York:20261023T183000
 SUMMARY:East Orange Campus High School at McNair-Academic High School (Va
  rsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104154137@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T183000
+DTEND;TZID=America/New_York:20261023T203000
+SUMMARY:Malcolm X Shabazz High School at Whippany Park High School (Varsi
+ ty Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102308310@super-essex-conference

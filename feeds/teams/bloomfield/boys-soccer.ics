@@ -251,6 +251,15 @@ SUMMARY:Bloomfield High School vs South Plainfield High School (Varsity B
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101425869@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260921T160000
+DTEND;TZID=America/New_York:20260921T180000
+SUMMARY:Barringer High School at Bloomfield High School (Freshman Boys Bo
+ ys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100660777@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260921T160000
@@ -258,15 +267,6 @@ DTEND;TZID=America/New_York:20260921T180000
 SUMMARY:Barringer High School vs Bloomfield High School (Varsity Boys Boy
  s Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101425869@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260921T160000
-DTEND;TZID=America/New_York:20260921T180000
-SUMMARY:Bloomfield High School vs Barringer High School (Freshman Boys Bo
- ys Soccer)
-DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103844032@super-essex-conference

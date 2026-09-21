@@ -1698,8 +1698,10 @@ UID:arb:99663691@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260921T160000
 DTEND;TZID=America/New_York:20260921T180000
-SUMMARY:West Side High School vs TBD (Junior Varsity Boys Football)
+SUMMARY:[Canceled] West Side High School vs TBD (Junior Varsity Boys Foot
+ ball)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:98884529@super-essex-conference
@@ -1779,9 +1781,10 @@ UID:arb:100444187@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260921T163000
 DTEND;TZID=America/New_York:20260921T183000
-SUMMARY:Barringer High School vs Weequahic High School (Junior Varsity Bo
- ys Football)
+SUMMARY:[Canceled] Barringer High School vs Weequahic High School (Junior
+  Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99704405@super-essex-conference
@@ -2367,6 +2370,15 @@ SUMMARY:Montclair Kimberley Academy vs Fieldston School (Varsity Boys Foo
 DESCRIPTION:Varsity Boys Football - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:99663694@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Barringer High School at West Side High School (Junior Varsity Bo
+ ys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:98849198@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
@@ -2428,15 +2440,6 @@ DTEND;TZID=America/New_York:20261005T180000
 SUMMARY:West Essex High School at James Caldwell High School (Junior Vars
  ity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:99663694@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T160000
-DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:West Side High School vs Lincoln High School (Junior Varsity Boys
-  Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99665769@super-essex-conference
@@ -2713,15 +2716,6 @@ DTEND;TZID=America/New_York:20261010T153000
 SUMMARY:Montclair Kimberley Academy vs Morristown-Beard School (Varsity B
  oys Football)
 DESCRIPTION:Varsity Boys Football - Home - 1:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:99663698@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T160000
-DTEND;TZID=America/New_York:20261012T180000
-SUMMARY:Barringer High School at West Side High School (Junior Varsity Bo
- ys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99528979@super-essex-conference
@@ -3100,6 +3094,15 @@ DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Seton Hall Prep vs Saint Joseph Regional High School (Junior Vars
  ity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99663698@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:West Side High School vs Lincoln High School (Junior Varsity Boys
+  Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
