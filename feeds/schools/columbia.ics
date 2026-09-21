@@ -2367,6 +2367,42 @@ SUMMARY:Columbia High School vs East Orange Campus High School (Junior Va
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104137598@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T181500
+DTEND;TZID=America/New_York:20261211T201500
+SUMMARY:Columbia High School at Caldwell High School (Varsity Girls Girls
+  Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 6:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104137576@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T181500
+DTEND;TZID=America/New_York:20261211T201500
+SUMMARY:James Caldwell High School vs Columbia High School (Varsity Boys 
+ Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104137868@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T200000
+DTEND;TZID=America/New_York:20261215T220000
+SUMMARY:Columbia High School vs Montclair Kimberley Academy (Varsity Girl
+ s Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 8:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104137870@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Montclair Kimberley Academy at Columbia High School (Varsity Boys
+  Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104136235@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261216
@@ -2427,6 +2463,15 @@ DTEND;TZID=America/New_York:20261217T210000
 SUMMARY:Millburn High School at Columbia High School (Varsity Boys Boys B
  asketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104137906@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T153000
+DTEND;TZID=America/New_York:20261218T173000
+SUMMARY:West Orange High School vs Columbia High School (Varsity Boys Boy
+ s Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104136179@super-essex-conference
@@ -2577,6 +2622,24 @@ DTEND;TZID=America/New_York:20270107T210000
 SUMMARY:West Side High School vs Columbia High School (Varsity Boys Boys 
  Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104137541@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T153000
+DTEND;TZID=America/New_York:20270108T173000
+SUMMARY:Columbia High School at Newark Academy (Varsity Girls Girls Swimm
+ ing)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104137540@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T160000
+DTEND;TZID=America/New_York:20270108T180000
+SUMMARY:Newark Academy vs Columbia High School (Varsity Boys Boys Swimmin
+ g)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104135906@super-essex-conference
@@ -2897,6 +2960,15 @@ DTEND;TZID=America/New_York:20270126T193000
 SUMMARY:Columbia High School at Glen Ridge High School (Junior Varsity Gi
  rls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104137865@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T200000
+DTEND;TZID=America/New_York:20270126T220000
+SUMMARY:Columbia High School vs Livingston High School (Varsity Girls Gir
+ ls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100906671@super-essex-conference

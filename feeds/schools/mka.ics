@@ -2096,6 +2096,24 @@ SUMMARY:Montclair Kimberley Academy at Verona High School (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104137868@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T200000
+DTEND;TZID=America/New_York:20261215T220000
+SUMMARY:Columbia High School vs Montclair Kimberley Academy (Varsity Girl
+ s Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 8:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104137870@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Montclair Kimberley Academy at Columbia High School (Varsity Boys
+  Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103094247@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T161500

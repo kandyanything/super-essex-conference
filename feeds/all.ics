@@ -34768,9 +34768,9 @@ UID:arb:104040325@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261124T153000
 DTEND;TZID=America/New_York:20261124T173000
-SUMMARY:Montclair High School at Rutherford High School (Varsity Boys Swi
- mming)
-DESCRIPTION:Varsity Boys Swimming - Away - 3:30 PM
+SUMMARY:Montclair High School at Rutherford High School (Varsity Boys Boy
+ s Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100384867@super-essex-conference
@@ -35591,6 +35591,24 @@ SUMMARY:Saint Benedict's Prep at Seton Hall Preparatory School (Varsity B
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104137598@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T181500
+DTEND;TZID=America/New_York:20261211T201500
+SUMMARY:Columbia High School at Caldwell High School (Varsity Girls Girls
+  Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 6:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104137576@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T181500
+DTEND;TZID=America/New_York:20261211T201500
+SUMMARY:James Caldwell High School vs Columbia High School (Varsity Boys 
+ Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101009159@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T183000
@@ -36317,6 +36335,15 @@ SUMMARY:Seton Hall Prep at Westfield High School (Junior Varsity Boys Boy
 DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Away - 7:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104137868@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T200000
+DTEND;TZID=America/New_York:20261215T220000
+SUMMARY:Columbia High School vs Montclair Kimberley Academy (Varsity Girl
+ s Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 8:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103730486@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T203500
@@ -36324,6 +36351,15 @@ DTEND;TZID=America/New_York:20261215T223500
 SUMMARY:Livingston High School at Scotch Plains-Fanwood High School (Vars
  ity Boys Boys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 8:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104137870@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Montclair Kimberley Academy at Columbia High School (Varsity Boys
+  Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100537191@super-essex-conference
@@ -37212,6 +37248,15 @@ DTEND;TZID=America/New_York:20261217T220000
 SUMMARY:James Caldwell High School at Mendham High School (Varsity Boys B
  oys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 8:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104137906@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T153000
+DTEND;TZID=America/New_York:20261218T173000
+SUMMARY:West Orange High School vs Columbia High School (Varsity Boys Boy
+ s Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100902555@super-essex-conference
@@ -40418,6 +40463,15 @@ SUMMARY:Montclair High School at Hoboken High School (Varsity Boys Boys I
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 9:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104137541@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T153000
+DTEND;TZID=America/New_York:20270108T173000
+SUMMARY:Columbia High School at Newark Academy (Varsity Girls Girls Swimm
+ ing)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100562442@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T160000
@@ -40425,6 +40479,15 @@ DTEND;TZID=America/New_York:20270108T180000
 SUMMARY:Glen Ridge High School at Newark Academy (Varsity Girls Girls Bas
  ketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104137540@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T160000
+DTEND;TZID=America/New_York:20270108T180000
+SUMMARY:Newark Academy vs Columbia High School (Varsity Boys Boys Swimmin
+ g)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101125469@super-essex-conference
@@ -46967,6 +47030,15 @@ SUMMARY:Payne Tech at Saint Benedict's Preparatory School (Varsity Boys B
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104137865@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T200000
+DTEND;TZID=America/New_York:20270126T220000
+SUMMARY:Columbia High School vs Livingston High School (Varsity Girls Gir
+ ls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 8:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100906671@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T170000
@@ -49922,24 +49994,6 @@ DTEND;TZID=America/New_York:20270216T193000
 SUMMARY:Livingston High School at Millburn High School (Junior Varsity Bo
  ys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101726578@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270216T173000
-DTEND;TZID=America/New_York:20270216T193000
-SUMMARY:West Essex High School vs Rutherford High School (Junior Varsity 
- Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101726555@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270216T190000
-DTEND;TZID=America/New_York:20270216T210000
-SUMMARY:West Essex High School vs Rutherford High School (Varsity Girls G
- irls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104082579@super-essex-conference
@@ -53613,15 +53667,6 @@ SUMMARY:Livingston High School vs Montclair Kimberley Academy (Varsity Gi
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102406056@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270409T160000
-DTEND;TZID=America/New_York:20270409T180000
-SUMMARY:Livingston High School vs Millburn High School (Varsity Boys Boys
-  Volleyball)
-DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102587113@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270409T160000
@@ -53638,6 +53683,15 @@ DTEND;TZID=America/New_York:20270409T180000
 SUMMARY:Millburn High School vs Saint Vincent Academy (Varsity Girls Soft
  ball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102406056@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270409T160000
+DTEND;TZID=America/New_York:20270409T180000
+SUMMARY:Millburn High School at Livingston High School (Varsity Boys Boys
+  Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102567716@super-essex-conference
@@ -53823,9 +53877,9 @@ UID:arb:102406041@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270409T171500
 DTEND;TZID=America/New_York:20270409T191500
-SUMMARY:Livingston High School vs Millburn High School (Junior Varsity Bo
+SUMMARY:Millburn High School at Livingston High School (Junior Varsity Bo
  ys Boys Volleyball)
-DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102578778@super-essex-conference
