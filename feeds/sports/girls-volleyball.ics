@@ -5578,13 +5578,13 @@ SUMMARY:Verona High School vs West Essex High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100662137@super-essex-conference
+UID:arb:104143881@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T163000
 DTEND;TZID=America/New_York:20260922T183000
-SUMMARY:Golda Och Academy at American History High School (Varsity Girls 
+SUMMARY:Golda Och Academy vs American History High School (Varsity Girls 
  Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99104200@super-essex-conference
@@ -5632,13 +5632,13 @@ SUMMARY:Verona High School vs West Essex High School (Junior Varsity Girl
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100662124@super-essex-conference
+UID:arb:104143893@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T173000
 DTEND;TZID=America/New_York:20260922T193000
-SUMMARY:Golda Och Academy at American History High School (Junior Varsity
+SUMMARY:Golda Och Academy vs American History High School (Junior Varsity
   Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100763281@super-essex-conference
@@ -6135,6 +6135,15 @@ SUMMARY:Nutley High School vs Lyndhurst High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104142763@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T160000
+DTEND;TZID=America/New_York:20260924T180000
+SUMMARY:Orange High School vs West Caldwell Tech (Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101921332@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T160000
@@ -6251,6 +6260,15 @@ DTSTART;TZID=America/New_York:20260924T171500
 DTEND;TZID=America/New_York:20260924T191500
 SUMMARY:Millburn High School vs Mount Saint Dominic Academy (Junior Varsi
  ty Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104142770@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T171500
+DTEND;TZID=America/New_York:20260924T191500
+SUMMARY:Orange High School vs West Caldwell Tech (Junior Varsity Girls Gi
+ rls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -10137,6 +10155,15 @@ SUMMARY:East Side High School vs West Caldwell Tech (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104143112@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T161500
+DTEND;TZID=America/New_York:20261015T181500
+SUMMARY:Science Park High School at West Orange High School (Junior Varsi
+ ty Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99249793@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T163000
@@ -10253,6 +10280,15 @@ DTEND;TZID=America/New_York:20261015T193000
 SUMMARY:Nutley High School vs Kearny High School (Junior Varsity Girls Gi
  rls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104143121@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T173000
+DTEND;TZID=America/New_York:20261015T193000
+SUMMARY:Science Park High School at West Orange High School (Varsity Girl
+ s Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102128500@super-essex-conference

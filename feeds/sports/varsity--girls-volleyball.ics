@@ -2562,13 +2562,13 @@ SUMMARY:Verona High School vs West Essex High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100662137@super-essex-conference
+UID:arb:104143881@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T163000
 DTEND;TZID=America/New_York:20260922T183000
-SUMMARY:Golda Och Academy at American History High School (Varsity Girls 
+SUMMARY:Golda Och Academy vs American History High School (Varsity Girls 
  Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100763281@super-essex-conference
@@ -2819,6 +2819,15 @@ DTSTART;TZID=America/New_York:20260924T160000
 DTEND;TZID=America/New_York:20260924T180000
 SUMMARY:Nutley High School vs Lyndhurst High School (Varsity Girls Girls 
  Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104142763@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T160000
+DTEND;TZID=America/New_York:20260924T180000
+SUMMARY:Orange High School vs West Caldwell Tech (Varsity Girls Girls Vol
+ leyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -4655,6 +4664,15 @@ DTEND;TZID=America/New_York:20261015T191500
 SUMMARY:Bard Early College at Orange High School (Varsity Girls Girls Vol
  leyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104143121@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T173000
+DTEND;TZID=America/New_York:20261015T193000
+SUMMARY:Science Park High School at West Orange High School (Varsity Girl
+ s Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102128500@super-essex-conference

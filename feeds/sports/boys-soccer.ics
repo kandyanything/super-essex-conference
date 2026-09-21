@@ -153,9 +153,10 @@ UID:arb:103092895@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260824T160000
 DTEND;TZID=America/New_York:20260824T180000
-SUMMARY:Central High School vs Newark School of Global Studies (Varsity B
- oys Boys Soccer)
+SUMMARY:[Canceled] Central High School vs Newark School of Global Studies
+  (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103297334@super-essex-conference
@@ -4906,6 +4907,15 @@ DTEND;TZID=America/New_York:20261002T180000
 SUMMARY:Barringer High School vs Newark School of Global Studies (Varsity
   Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104145114@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T160000
+DTEND;TZID=America/New_York:20261002T180000
+SUMMARY:Bloomfield High School vs New Providence High School (Freshman Bo
+ ys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104075209@super-essex-conference
