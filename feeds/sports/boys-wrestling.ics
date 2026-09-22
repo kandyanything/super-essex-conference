@@ -431,6 +431,15 @@ SUMMARY:Bloomfield High School vs Union City High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104165296@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T160000
+DTEND;TZID=America/New_York:20270106T180000
+SUMMARY:Columbia High School at Orange High School (Junior Varsity Boys B
+ oys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103231267@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T170000
@@ -453,9 +462,9 @@ UID:arb:104135894@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T173000
 DTEND;TZID=America/New_York:20270106T193000
-SUMMARY:Columbia High School vs Orange High School (Junior Varsity Boys B
+SUMMARY:Columbia High School at Orange High School (Junior Varsity Boys B
  oys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:30 PM
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102740767@super-essex-conference
