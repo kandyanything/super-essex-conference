@@ -1416,6 +1416,15 @@ SUMMARY:Bloomfield High School at Montclair High School (Freshman Girls G
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104187027@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T160000
+DTEND;TZID=America/New_York:20260925T180000
+SUMMARY:Bloomfield High School vs West Essex High School (Freshman Boys B
+ oys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101581818@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T160000
@@ -1870,6 +1879,15 @@ DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Bloomfield High School at Hoboken High School (Varsity Girls Girl
  s Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104185778@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Bloomfield High School at Montville Township High School (Freshma
+ n Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101611969@super-essex-conference
@@ -3187,9 +3205,9 @@ UID:arb:100549149@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T160000
 DTEND;TZID=America/New_York:20270121T180000
-SUMMARY:Bloomfield High School vs Central High School (Freshman Boys Boys
+SUMMARY:Central High School at Bloomfield High School (Freshman Boys Boys
   Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549041@super-essex-conference
@@ -3214,9 +3232,9 @@ UID:arb:100549118@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T173000
 DTEND;TZID=America/New_York:20270121T193000
-SUMMARY:Bloomfield High School vs Central High School (Junior Varsity Boy
+SUMMARY:Central High School at Bloomfield High School (Junior Varsity Boy
  s Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100563827@super-essex-conference

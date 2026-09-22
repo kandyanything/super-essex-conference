@@ -298,15 +298,6 @@ SUMMARY:Livingston High School at Hanover Park High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102314532@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T163000
-DTEND;TZID=America/New_York:20261001T183000
-SUMMARY:Livingston High School vs Montclair Kimberley Academy (Junior Var
- sity Girls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100663065@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T163000
@@ -314,6 +305,15 @@ DTEND;TZID=America/New_York:20261001T183000
 SUMMARY:Livingston High School vs Montclair Kimberley Academy (Varsity Gi
  rls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102314532@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T160000
+DTEND;TZID=America/New_York:20261002T180000
+SUMMARY:Livingston High School vs Montclair Kimberley Academy (Junior Var
+ sity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101602188@super-essex-conference

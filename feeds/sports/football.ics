@@ -2002,15 +2002,6 @@ SUMMARY:Montclair High School vs Hackensack High School (Varsity Boys Foo
 DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104000349@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T130000
-DTEND;TZID=America/New_York:20260926T150000
-SUMMARY:Montclair Kimberley Academy vs Horace Mann School (Varsity Boys F
- ootball)
-DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99310879@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T130000
@@ -2035,6 +2026,15 @@ DTEND;TZID=America/New_York:20260926T150000
 SUMMARY:West Side High School vs Hudson Catholic Regional High School (Va
  rsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104000349@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T143000
+DTEND;TZID=America/New_York:20260926T163000
+SUMMARY:Montclair Kimberley Academy vs Horace Mann School (Varsity Boys F
+ ootball)
+DESCRIPTION:Varsity Boys Football - Home - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99189392@super-essex-conference
@@ -2106,15 +2106,6 @@ DTSTART;TZID=America/New_York:20260928T161500
 DTEND;TZID=America/New_York:20260928T181500
 SUMMARY:Cedar Grove High School at Hoboken High School (Junior Varsity Bo
  ys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:99776330@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Glen Ridge High School at Wallkill Valley Regional High School (J
- unior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -3213,6 +3204,15 @@ SUMMARY:Columbia High School at Passaic County Tech Institute (Varsity Bo
 DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104189522@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T180000
+DTEND;TZID=America/New_York:20261022T200000
+SUMMARY:Nutley High School vs West Essex High School (Freshman Boys Footb
+ all)
+DESCRIPTION:Freshman Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103493057@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T183000
@@ -3325,9 +3325,10 @@ UID:arb:100309543@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T090000
 DTEND;TZID=America/New_York:20261024T110000
-SUMMARY:Nutley High School vs West Essex High School (Junior Varsity Boys
-  Football)
+SUMMARY:[Canceled] Nutley High School vs West Essex High School (Junior V
+ arsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 9:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103220368@super-essex-conference

@@ -1097,12 +1097,12 @@ SUMMARY:East Orange Campus High School at West Orange High School (Varsit
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101364497@super-essex-conference
+UID:arb:104188133@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T080000
-DTEND;TZID=America/New_York:20260926T100000
-SUMMARY:West Orange High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 8:00 AM
+DTSTART;TZID=America/New_York:20260926T090000
+DTEND;TZID=America/New_York:20260926T110000
+SUMMARY:West Orange High School at TBD (Varsity Coed Coed Cross Country)
+DESCRIPTION:Varsity Coed Coed Cross Country - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101364350@super-essex-conference
@@ -1752,6 +1752,24 @@ SUMMARY:West Orange High School vs East Brunswick High School (Junior Var
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104187584@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T163000
+DTEND;TZID=America/New_York:20261021T183000
+SUMMARY:West Orange High School vs Rahway High School (Junior Varsity Gir
+ ls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104187553@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T163000
+DTEND;TZID=America/New_York:20261021T183000
+SUMMARY:West Orange High School vs Rahway High School (Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103173697@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T173000
@@ -2084,15 +2102,6 @@ DTEND;TZID=America/New_York:20261222T210000
 SUMMARY:Livingston High School vs West Orange High School (Varsity Boys B
  oys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103805748@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261223T160000
-DTEND;TZID=America/New_York:20261223T180000
-SUMMARY:Nutley High School at West Orange High School (Varsity Boys Boys 
- Ice Hockey)
-DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104023481@super-essex-conference

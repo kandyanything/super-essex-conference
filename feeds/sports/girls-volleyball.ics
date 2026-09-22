@@ -6472,14 +6472,6 @@ SUMMARY:Newark Lab High School at American History High School (Junior Va
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101364497@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T080000
-DTEND;TZID=America/New_York:20260926T100000
-SUMMARY:West Orange High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 8:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100042855@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T090000
@@ -11297,9 +11289,10 @@ UID:arb:104031977@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T090000
 DTEND;TZID=America/New_York:20261024T110000
-SUMMARY:Nutley High School at Pequannock Township High School (Varsity Gi
- rls Girls Volleyball)
+SUMMARY:[Canceled] Nutley High School at Pequannock Township High School 
+ (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 9:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102487792@super-essex-conference
@@ -11333,9 +11326,10 @@ UID:arb:104031986@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T103000
 DTEND;TZID=America/New_York:20261024T123000
-SUMMARY:Nutley High School at Pope John XXIII High School (Varsity Girls 
- Girls Volleyball)
+SUMMARY:[Canceled] Nutley High School at Pope John XXIII High School (Var
+ sity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 10:30 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103174677@super-essex-conference
@@ -11740,5 +11734,23 @@ DTEND;TZID=America/New_York:20261030T193000
 SUMMARY:Newark Academy vs Chatham High School (Junior Varsity Girls Girls
   Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104197458@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T153000
+DTEND;TZID=America/New_York:20270119T173000
+SUMMARY:Newark Academy vs Far Hills Country Day School (Middle School Gir
+ ls Girls Volleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104197532@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T153000
+DTEND;TZID=America/New_York:20270202T173000
+SUMMARY:Newark Academy vs Kent Place School (Middle School Girls Girls Vo
+ lleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Home - 3:30 PM
 END:VEVENT
 END:VCALENDAR

@@ -2275,9 +2275,10 @@ UID:arb:103883084@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T113000
 DTEND;TZID=America/New_York:20261017T133000
-SUMMARY:Nutley High School vs Rutherford High School (Varsity Girls Girls
-  Soccer)
+SUMMARY:[Canceled] Nutley High School vs Rutherford High School (Varsity 
+ Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 11:30 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103966869@super-essex-conference
@@ -2357,6 +2358,15 @@ DTEND;TZID=America/New_York:20261020T183000
 SUMMARY:Belleville High School at Roselle Park High School (Varsity Girls
   Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104187553@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T163000
+DTEND;TZID=America/New_York:20261021T183000
+SUMMARY:West Orange High School vs Rahway High School (Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102442485@super-essex-conference

@@ -1574,6 +1574,15 @@ SUMMARY:Bloomfield High School vs Columbia High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104197033@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Columbia High School at New Providence High School (Freshman Boys
+  Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103683977@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
@@ -1653,6 +1662,15 @@ DTEND;TZID=America/New_York:20261003T170000
 SUMMARY:Columbia High School vs Cranford High School (Junior Varsity Girl
  s Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104076038@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Columbia High School at Montclair Kimberley Academy (Junior Varsi
+ ty Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103123398@super-essex-conference
@@ -1735,15 +1753,6 @@ DTEND;TZID=America/New_York:20261005T193000
 SUMMARY:Columbia High School vs Montclair Kimberley Academy (Junior Varsi
  ty Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104076038@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T160000
-DTEND;TZID=America/New_York:20261006T180000
-SUMMARY:Columbia High School at Montclair Kimberley Academy (Junior Varsi
- ty Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104184193@super-essex-conference

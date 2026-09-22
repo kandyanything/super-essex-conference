@@ -2517,6 +2517,15 @@ SUMMARY:Arts High School vs Verona High School (Junior Varsity Girls Girl
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104189576@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270118T160000
+DTEND;TZID=America/New_York:20270118T180000
+SUMMARY:Nutley High School at Verona High School (Varsity Boys Boys Ice H
+ ockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100551525@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T160000
@@ -2874,20 +2883,20 @@ SUMMARY:Nutley High School at Verona High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102566452@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270407T160000
-DTEND;TZID=America/New_York:20270407T180000
-SUMMARY:Nutley High School vs Verona High School (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102580870@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T160000
 DTEND;TZID=America/New_York:20270407T180000
 SUMMARY:Payne Tech at Verona High School (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102566452@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270407T160000
+DTEND;TZID=America/New_York:20270407T180000
+SUMMARY:Verona High School at Nutley High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103924409@super-essex-conference

@@ -2252,6 +2252,15 @@ SUMMARY:Livingston High School at Newark Academy (Varsity Coed Coed Cross
 DESCRIPTION:Varsity Coed Coed Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104186351@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T160000
+DTEND;TZID=America/New_York:20261008T180000
+SUMMARY:Montclair High School vs Nutley High School (Varsity Girls Girls 
+ Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102790276@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
@@ -3237,6 +3246,15 @@ SUMMARY:Montclair High School vs Essex County-Payne Tech High School (Var
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103169982@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T180000
+DTEND;TZID=America/New_York:20261216T200000
+SUMMARY:Nutley High School vs Montclair High School (Varsity Boys Boys Ic
+ e Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100549131@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T160000
@@ -3703,6 +3721,15 @@ DTEND;TZID=America/New_York:20270119T210000
 SUMMARY:Bloomfield High School at Montclair High School (Varsity Boys Boy
  s Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104189482@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T161500
+DTEND;TZID=America/New_York:20270120T181500
+SUMMARY:Montclair High School vs Nutley High School (Varsity Boys Boys Ic
+ e Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103558591@super-essex-conference
@@ -4397,31 +4424,13 @@ SUMMARY:Montclair High School at Montclair Kimberley Academy (Varsity Gir
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103009886@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270422T160000
-DTEND;TZID=America/New_York:20270422T180000
-SUMMARY:Montclair High School vs Livingston High School (Junior Varsity B
- oys Baseball)
-DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102565858@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270422T160000
-DTEND;TZID=America/New_York:20270422T180000
-SUMMARY:Montclair High School vs Livingston High School (Varsity Boys Bas
- eball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103010161@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T160000
 DTEND;TZID=America/New_York:20270426T180000
-SUMMARY:Montclair High School vs Montclair Kimberley Academy (Junior Vars
+SUMMARY:Montclair Kimberley Academy at Montclair High School (Junior Vars
  ity Boys Baseball)
-DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102565878@super-essex-conference

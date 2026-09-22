@@ -673,14 +673,6 @@ SUMMARY:Montclair Kimberley Academy vs West Orange High School (Varsity B
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102566452@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270407T160000
-DTEND;TZID=America/New_York:20270407T180000
-SUMMARY:Nutley High School vs Verona High School (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102570444@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T160000
@@ -697,6 +689,14 @@ DTEND;TZID=America/New_York:20270407T180000
 SUMMARY:Payne Tech vs Technology High School (Newark) (Varsity Boys Baseb
  all)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102566452@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270407T160000
+DTEND;TZID=America/New_York:20270407T180000
+SUMMARY:Verona High School at Nutley High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103008655@super-essex-conference
@@ -1308,24 +1308,6 @@ SUMMARY:Seton Hall Prep vs Columbia High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103009886@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270422T160000
-DTEND;TZID=America/New_York:20270422T180000
-SUMMARY:Montclair High School vs Livingston High School (Junior Varsity B
- oys Baseball)
-DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102565858@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270422T160000
-DTEND;TZID=America/New_York:20270422T180000
-SUMMARY:Montclair High School vs Livingston High School (Varsity Boys Bas
- eball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102566669@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270423T160000
@@ -1528,9 +1510,9 @@ UID:arb:103010161@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T160000
 DTEND;TZID=America/New_York:20270426T180000
-SUMMARY:Montclair High School vs Montclair Kimberley Academy (Junior Vars
+SUMMARY:Montclair Kimberley Academy at Montclair High School (Junior Vars
  ity Boys Baseball)
-DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102565878@super-essex-conference

@@ -1258,9 +1258,10 @@ UID:arb:101462625@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T160000
 DTEND;TZID=America/New_York:20260922T180000
-SUMMARY:Livingston High School vs Montclair Kimberley Academy (Varsity Gi
- rls Field Hockey)
+SUMMARY:[Canceled] Livingston High School vs Montclair Kimberley Academy 
+ (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100100610@super-essex-conference
@@ -1286,9 +1287,10 @@ UID:arb:101621955@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T173000
 DTEND;TZID=America/New_York:20260922T193000
-SUMMARY:Livingston High School vs Montclair Kimberley Academy (Junior Var
- sity Girls Field Hockey)
+SUMMARY:[Canceled] Livingston High School vs Montclair Kimberley Academy 
+ (Junior Varsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100763281@super-essex-conference
@@ -1687,15 +1689,6 @@ SUMMARY:Livingston High School vs Mount Saint Dominic Academy (Junior Var
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102314532@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T163000
-DTEND;TZID=America/New_York:20261001T183000
-SUMMARY:Livingston High School vs Montclair Kimberley Academy (Junior Var
- sity Girls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100663065@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T163000
@@ -1721,6 +1714,15 @@ DTEND;TZID=America/New_York:20261002T180000
 SUMMARY:Livingston High School at Westfield High School (Junior Varsity G
  irls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102314532@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T160000
+DTEND;TZID=America/New_York:20261002T180000
+SUMMARY:Livingston High School vs Montclair Kimberley Academy (Junior Var
+ sity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102104360@super-essex-conference
@@ -4019,24 +4021,6 @@ DTEND;TZID=America/New_York:20270419T180000
 SUMMARY:Montclair High School at Livingston High School (Varsity Boys Bas
  eball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103009886@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270422T160000
-DTEND;TZID=America/New_York:20270422T180000
-SUMMARY:Montclair High School vs Livingston High School (Junior Varsity B
- oys Baseball)
-DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102565858@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270422T160000
-DTEND;TZID=America/New_York:20270422T180000
-SUMMARY:Montclair High School vs Livingston High School (Varsity Boys Bas
- eball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103009645@super-essex-conference

@@ -77,6 +77,15 @@ SUMMARY:Millburn High School at Montclair High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104187080@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261204T170000
+DTEND;TZID=America/New_York:20261204T190000
+SUMMARY:Nutley High School at Hoboken High School (Varsity Boys Boys Ice 
+ Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103044921@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261204T183000
@@ -165,6 +174,15 @@ SUMMARY:West Essex High School at Westfield High School (Junior Varsity B
 DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Away - 7:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104187253@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T201500
+DTEND;TZID=America/New_York:20261208T221500
+SUMMARY:Nutley High School at Frisch School (The) (Varsity Boys Boys Ice 
+ Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 8:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103180035@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T160000
@@ -223,7 +241,8 @@ UID:arb:103169972@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T194500
 DTEND;TZID=America/New_York:20261212T214500
-SUMMARY:Nutley High School vs TBD (Varsity Boys Boys Ice Hockey)
+SUMMARY:Nutley High School vs Oratory Prep School (Varsity Boys Boys Ice 
+ Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 7:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -252,15 +271,6 @@ DTEND;TZID=America/New_York:20261214T200000
 SUMMARY:Seton Hall Prep vs Saint Joseph Regional High School (Varsity Boy
  s Boys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103910304@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261214T183000
-DTEND;TZID=America/New_York:20261214T203000
-SUMMARY:Nutley High School at Frisch School (The) (Varsity Boys Boys Ice 
- Hockey)
-DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103476191@super-essex-conference
@@ -303,7 +313,8 @@ UID:arb:103169982@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T180000
 DTEND;TZID=America/New_York:20261216T200000
-SUMMARY:Nutley High School vs TBD (Varsity Boys Boys Ice Hockey)
+SUMMARY:Nutley High School vs Montclair High School (Varsity Boys Boys Ic
+ e Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -423,15 +434,6 @@ SUMMARY:James Caldwell High School vs TBD (Varsity Boys Boys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103805748@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261223T160000
-DTEND;TZID=America/New_York:20261223T180000
-SUMMARY:Nutley High School at West Orange High School (Varsity Boys Boys 
- Ice Hockey)
-DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103805831@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261223T161500
@@ -527,6 +529,15 @@ DTEND;TZID=America/New_York:20270103T224500
 SUMMARY:Verona High School at Glen Rock High School (Varsity Boys Boys Ic
  e Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 8:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104188753@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T183000
+DTEND;TZID=America/New_York:20270104T203000
+SUMMARY:Nutley High School at Cranford High School (Varsity Boys Boys Ice
+  Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102648403@super-essex-conference
@@ -786,6 +797,15 @@ SUMMARY:Seton Hall Prep at Saint Joseph Regional High School (Varsity Boy
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104189576@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270118T160000
+DTEND;TZID=America/New_York:20270118T180000
+SUMMARY:Nutley High School at Verona High School (Varsity Boys Boys Ice H
+ ockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103180443@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270118T200000
@@ -810,6 +830,15 @@ DTSTART;TZID=America/New_York:20270119T161500
 DTEND;TZID=America/New_York:20270119T181500
 SUMMARY:Montclair Kimberley Academy vs Verona High School (Varsity Boys B
  oys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104189482@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T161500
+DTEND;TZID=America/New_York:20270120T181500
+SUMMARY:Montclair High School vs Nutley High School (Varsity Boys Boys Ic
+ e Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -903,6 +932,15 @@ SUMMARY:West Orange High School at Hoboken High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 9:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104189245@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Nutley High School at Lakeland Regional High School (Varsity Boys
+  Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104059177@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T160000
@@ -964,6 +1002,14 @@ DTEND;TZID=America/New_York:20270129T203000
 SUMMARY:Livingston High School vs Chatham High School (Varsity Boys Boys 
  Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104189166@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T201500
+DTEND;TZID=America/New_York:20270129T221500
+SUMMARY:Nutley High School vs TBD (Varsity Boys Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 8:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102648507@super-essex-conference
