@@ -59,6 +59,15 @@ SUMMARY:Newark Academy vs Morristown-Beard School (Varsity Girls Girls Ba
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104207262@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T163000
+DTEND;TZID=America/New_York:20261208T183000
+SUMMARY:Newark Lab High School vs College Achieve Paterson Charter School
+  (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102124370@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T160000
@@ -258,6 +267,15 @@ SUMMARY:Newark Academy vs Cranford High School (Varsity Girls Girls Baske
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104207281@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T163000
+DTEND;TZID=America/New_York:20261215T183000
+SUMMARY:Newark Lab High School vs Beloved Community Charter School (Varsi
+ ty Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100562157@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T190000
@@ -374,15 +392,6 @@ SUMMARY:West Side High School at Essex County-West Caldwell Tech High Sch
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100567947@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T161500
-DTEND;TZID=America/New_York:20261217T181500
-SUMMARY:Newark Lab High School vs Science Park High School (Varsity Girls
-  Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100568343@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T163000
@@ -407,6 +416,15 @@ DTSTART;TZID=America/New_York:20261217T163000
 DTEND;TZID=America/New_York:20261217T183000
 SUMMARY:Golda Och Academy vs Saint Vincent Academy (Varsity Girls Girls B
  asketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100567947@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T163000
+DTEND;TZID=America/New_York:20261217T183000
+SUMMARY:Newark Lab High School vs Science Park High School (Varsity Girls
+  Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -619,11 +637,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100567949@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261222T161500
-DTEND;TZID=America/New_York:20261222T181500
+DTSTART;TZID=America/New_York:20261222T163000
+DTEND;TZID=America/New_York:20261222T183000
 SUMMARY:Montclair Kimberley Academy at Newark Lab High School (Varsity Gi
  rls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103152051@super-essex-conference
@@ -968,15 +986,6 @@ SUMMARY:Orange High School vs West Side High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100567952@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270107T161500
-DTEND;TZID=America/New_York:20270107T181500
-SUMMARY:Bard Early College at Newark Lab High School (Varsity Girls Girls
-  Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101765060@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T161500
@@ -1002,6 +1011,15 @@ DTEND;TZID=America/New_York:20270107T181500
 SUMMARY:Weequahic High School at Newark School of Global Studies (Varsity
   Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100567952@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T163000
+DTEND;TZID=America/New_York:20270107T183000
+SUMMARY:Bard Early College at Newark Lab High School (Varsity Girls Girls
+  Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103156672@super-essex-conference
@@ -1938,15 +1956,6 @@ SUMMARY:Science Park High School at Weequahic High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100567978@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270121T161500
-DTEND;TZID=America/New_York:20270121T181500
-SUMMARY:Newark Lab High School vs Newark School of Global Studies (Varsit
- y Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100567625@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T163000
@@ -1971,6 +1980,15 @@ DTSTART;TZID=America/New_York:20270121T163000
 DTEND;TZID=America/New_York:20270121T183000
 SUMMARY:Golda Och Academy vs Technology High School (Newark) (Varsity Gir
  ls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100567978@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T163000
+DTEND;TZID=America/New_York:20270121T183000
+SUMMARY:Newark Lab High School vs Newark School of Global Studies (Varsit
+ y Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2525,6 +2543,15 @@ SUMMARY:Millburn High School at West Essex High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104207296@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T120000
+DTEND;TZID=America/New_York:20270206T140000
+SUMMARY:Newark Lab High School vs John F. Kennedy High School - Paterson 
+ (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102623627@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T130000
@@ -2678,15 +2705,6 @@ SUMMARY:University High School at West Orange High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100567988@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270209T161500
-DTEND;TZID=America/New_York:20270209T181500
-SUMMARY:Newark Lab High School vs American History High School (Varsity G
- irls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100569707@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T163000
@@ -2694,6 +2712,15 @@ DTEND;TZID=America/New_York:20270209T183000
 SUMMARY:Golda Och Academy at Malcolm X Shabazz High School (Varsity Girls
   Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100567988@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T163000
+DTEND;TZID=America/New_York:20270209T183000
+SUMMARY:Newark Lab High School vs American History High School (Varsity G
+ irls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100563386@super-essex-conference
@@ -2839,21 +2866,21 @@ SUMMARY:Verona High School at West Essex High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100568003@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270211T161500
-DTEND;TZID=America/New_York:20270211T181500
-SUMMARY:Newark Lab High School vs Weequahic High School (Varsity Girls Gi
- rls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100562979@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T163000
 DTEND;TZID=America/New_York:20270211T183000
 SUMMARY:Central High School vs Montclair High School (Varsity Girls Girls
   Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100568003@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T163000
+DTEND;TZID=America/New_York:20270211T183000
+SUMMARY:Newark Lab High School vs Weequahic High School (Varsity Girls Gi
+ rls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT

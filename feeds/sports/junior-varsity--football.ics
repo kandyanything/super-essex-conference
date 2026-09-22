@@ -633,9 +633,10 @@ UID:arb:99697808@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Seton Hall Prep at Pope John XXIII High School (Junior Varsity Bo
- ys Football)
+SUMMARY:[Canceled] Seton Hall Prep at Pope John XXIII High School (Junior
+  Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99231550@super-essex-conference
@@ -842,6 +843,15 @@ DTEND;TZID=America/New_York:20261005T190000
 SUMMARY:Irvington High School at Malcolm X Shabazz High School (Junior Va
  rsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104205973@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T183000
+DTEND;TZID=America/New_York:20261005T203000
+SUMMARY:Millburn High School vs Newark Academy (Junior Varsity Boys Footb
+ all)
+DESCRIPTION:Junior Varsity Boys Football - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100309538@super-essex-conference

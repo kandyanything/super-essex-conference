@@ -2679,6 +2679,14 @@ SUMMARY:West Essex High School vs TBD (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104199109@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T090000
+DTEND;TZID=America/New_York:20261017T110000
+SUMMARY:West Essex High School vs TBA (Middle School Girls Field Hockey)
+DESCRIPTION:Middle School Girls Field Hockey - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99666363@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T090000
@@ -4385,15 +4393,6 @@ DTEND;TZID=America/New_York:20270211T193000
 SUMMARY:Verona High School at West Essex High School (Junior Varsity Girl
  s Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103715767@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270213T130000
-DTEND;TZID=America/New_York:20270213T150000
-SUMMARY:West Essex High School at River Dell Regional High School (Varsit
- y Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100550378@super-essex-conference

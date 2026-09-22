@@ -7798,24 +7798,6 @@ SUMMARY:Bloomfield High School at Livingston High School (Freshman Girls
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103930851@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T100000
-DTEND;TZID=America/New_York:20261003T120000
-SUMMARY:Bard Early College vs Newark Vocational High School (Varsity Girl
- s Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103930880@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T113000
-DTEND;TZID=America/New_York:20261003T133000
-SUMMARY:Bard Early College vs Newark Vocational High School (Junior Varsi
- ty Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100696954@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T120000
@@ -7830,6 +7812,15 @@ DTSTART;TZID=America/New_York:20261003T120000
 DTEND;TZID=America/New_York:20261003T140000
 SUMMARY:James Caldwell High School vs TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103930851@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T130000
+DTEND;TZID=America/New_York:20261003T150000
+SUMMARY:Bard Early College vs Newark Vocational High School (Varsity Girl
+ s Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102444804@super-essex-conference
@@ -7871,6 +7862,15 @@ DTSTART;TZID=America/New_York:20261003T143000
 DTEND;TZID=America/New_York:20261003T163000
 SUMMARY:James Caldwell High School vs TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103930880@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T143000
+DTEND;TZID=America/New_York:20261003T163000
+SUMMARY:Bard Early College vs Newark Vocational High School (Junior Varsi
+ ty Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103204441@super-essex-conference
@@ -8095,6 +8095,15 @@ DTEND;TZID=America/New_York:20261005T180000
 SUMMARY:West Side High School at Newark School of Global Studies (Varsity
   Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104207047@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T161500
+DTEND;TZID=America/New_York:20261005T181500
+SUMMARY:West Orange High School vs Union City High School (Freshman Girls
+  Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99250021@super-essex-conference
@@ -8339,6 +8348,15 @@ DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Irvington High School vs Technology High School (Newark) (Junior 
  Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104207333@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T163000
+DTEND;TZID=America/New_York:20261006T183000
+SUMMARY:Saint Vincent Academy vs Newark School of Fashion and Design (Var
+ sity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103979580@super-essex-conference
@@ -9244,6 +9262,15 @@ SUMMARY:Millburn High School at New Providence High School (Freshman Girl
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 10:15 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104207092@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T110000
+DTEND;TZID=America/New_York:20261010T130000
+SUMMARY:Glen Ridge High School at Montclair Kimberley Academy (Varsity Gi
+ rls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103071877@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T113000
@@ -9251,6 +9278,15 @@ DTEND;TZID=America/New_York:20261010T133000
 SUMMARY:Bloomfield High School at Cedar Grove High School (Junior Varsity
   Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104207110@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T123000
+DTEND;TZID=America/New_York:20261010T143000
+SUMMARY:Glen Ridge High School at Montclair Kimberley Academy (Junior Var
+ sity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103363400@super-essex-conference
