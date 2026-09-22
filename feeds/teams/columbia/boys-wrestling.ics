@@ -23,16 +23,7 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:arb:104133979@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261211T160000
-DTEND;TZID=America/New_York:20261211T180000
-SUMMARY:Columbia High School vs East Orange Campus High School (Varsity B
- oys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104135691@super-essex-conference
+UID:arb:104183598@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T173000
 DTEND;TZID=America/New_York:20261211T193000
@@ -41,33 +32,16 @@ SUMMARY:Columbia High School vs East Orange Campus High School (Junior Va
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104135982@super-essex-conference
+UID:arb:104183629@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261222
-DTEND;VALUE=DATE:20261223
-SUMMARY:Columbia High School vs TBD (Junior Varsity Boys Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home
+DTSTART;TZID=America/New_York:20261211T190000
+DTEND;TZID=America/New_York:20261211T210000
+SUMMARY:Columbia High School vs East Orange Campus High School (Varsity B
+ oys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104165296@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270106T160000
-DTEND;TZID=America/New_York:20270106T180000
-SUMMARY:Columbia High School at Orange High School (Junior Varsity Boys B
- oys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104135894@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270106T173000
-DTEND;TZID=America/New_York:20270106T193000
-SUMMARY:Columbia High School at Orange High School (Junior Varsity Boys B
- oys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104135901@super-essex-conference
+UID:arb:104183606@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T173000
 DTEND;TZID=America/New_York:20270108T193000
@@ -76,21 +50,31 @@ SUMMARY:Columbia High School vs Livingston High School (Junior Varsity Bo
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104136286@super-essex-conference
+UID:arb:104183635@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270113
-DTEND;VALUE=DATE:20270114
-SUMMARY:Columbia High School vs Montclair High School (Junior Varsity Boy
- s Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home
+DTSTART;TZID=America/New_York:20270108T190000
+DTEND;TZID=America/New_York:20270108T210000
+SUMMARY:Columbia High School vs Livingston High School (Varsity Boys Boys
+  Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104135908@super-essex-conference
+UID:arb:104183609@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270115T173000
-DTEND;TZID=America/New_York:20270115T193000
-SUMMARY:Columbia High School vs TBD (Junior Varsity Boys Boys Wrestling)
+DTSTART;TZID=America/New_York:20270113T173000
+DTEND;TZID=America/New_York:20270113T193000
+SUMMARY:Columbia High School vs Montclair High School (Junior Varsity Boy
+ s Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104183639@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T190000
+DTEND;TZID=America/New_York:20270113T210000
+SUMMARY:Columbia High School vs Montclair High School (Varsity Boys Boys 
+ Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100906671@super-essex-conference

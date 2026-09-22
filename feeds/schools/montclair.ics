@@ -3124,9 +3124,9 @@ UID:arb:104040325@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261124T153000
 DTEND;TZID=America/New_York:20261124T173000
-SUMMARY:Montclair High School at Rutherford High School (Varsity Boys Boy
- s Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 3:30 PM
+SUMMARY:Montclair High School at Rutherford High School (Varsity Boys Swi
+ mming)
+DESCRIPTION:Varsity Boys Swimming - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103476484@super-essex-conference
@@ -3579,22 +3579,31 @@ SUMMARY:Malcolm X Shabazz High School at Montclair High School (Varsity B
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104136286@super-essex-conference
+UID:arb:104183589@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270113
-DTEND;VALUE=DATE:20270114
-SUMMARY:Columbia High School vs Montclair High School (Junior Varsity Boy
- s Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104136285@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270113
-DTEND;VALUE=DATE:20270114
+DTSTART;TZID=America/New_York:20270113T170000
+DTEND;TZID=America/New_York:20270113T190000
 SUMMARY:Columbia High School vs Montclair High School (Varsity Girls Girl
  s Wrestling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104183609@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T173000
+DTEND;TZID=America/New_York:20270113T193000
+SUMMARY:Columbia High School vs Montclair High School (Junior Varsity Boy
+ s Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104183639@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T190000
+DTEND;TZID=America/New_York:20270113T210000
+SUMMARY:Columbia High School vs Montclair High School (Varsity Boys Boys 
+ Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100548818@super-essex-conference

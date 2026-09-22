@@ -41,15 +41,6 @@ SUMMARY:East Side High School vs Bayonne High School (Varsity Boys Boys W
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104133979@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261211T160000
-DTEND;TZID=America/New_York:20261211T180000
-SUMMARY:Columbia High School vs East Orange Campus High School (Varsity B
- oys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102578643@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T170000
@@ -93,6 +84,15 @@ DTEND;TZID=America/New_York:20261211T200000
 SUMMARY:Saint Benedict's Prep at Seton Hall Preparatory School (Varsity B
  oys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104183629@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T190000
+DTEND;TZID=America/New_York:20261211T210000
+SUMMARY:Columbia High School vs East Orange Campus High School (Varsity B
+ oys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102733918@super-essex-conference
@@ -424,6 +424,15 @@ SUMMARY:Saint Benedict's Prep vs West Essex High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104183635@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T190000
+DTEND;TZID=America/New_York:20270108T210000
+SUMMARY:Columbia High School vs Livingston High School (Varsity Boys Boys
+  Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101275791@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T083000
@@ -520,6 +529,15 @@ DTEND;TZID=America/New_York:20270113T200000
 SUMMARY:Seton Hall Prep at James Caldwell High School (Varsity Boys Boys 
  Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104183639@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T190000
+DTEND;TZID=America/New_York:20270113T210000
+SUMMARY:Columbia High School vs Montclair High School (Varsity Boys Boys 
+ Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102733933@super-essex-conference

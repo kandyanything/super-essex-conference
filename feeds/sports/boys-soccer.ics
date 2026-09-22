@@ -3469,8 +3469,10 @@ UID:arb:103844032@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T160000
 DTEND;TZID=America/New_York:20260922T180000
-SUMMARY:Bloomfield High School vs TBD (Varsity Boys Boys Soccer)
+SUMMARY:[Canceled] Bloomfield High School vs TBD (Varsity Boys Boys Socce
+ r)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103046326@super-essex-conference
@@ -3624,15 +3626,6 @@ DTEND;TZID=America/New_York:20260923T180000
 SUMMARY:Bloomfield High School vs Irvington High School (Varsity Boys Boy
  s Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102442586@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T160000
-DTEND;TZID=America/New_York:20260923T180000
-SUMMARY:Cedar Grove High School vs Essex County-Newark Tech High School (
- Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100661631@super-essex-conference
@@ -4069,9 +4062,10 @@ UID:arb:103150346@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T100000
 DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:Newark Collegiate Academy at J.F. Kennedy Memorial High School (V
- arsity Boys Boys Soccer)
+SUMMARY:[Canceled] Newark Collegiate Academy at J.F. Kennedy Memorial Hig
+ h School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101719213@super-essex-conference
@@ -4477,6 +4471,15 @@ SUMMARY:Belleville High School vs West Essex High School (Freshman Boys B
 DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102442586@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Cedar Grove High School vs Essex County-Newark Tech High School (
+ Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102269083@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T160000
@@ -4563,9 +4566,10 @@ UID:arb:104100033@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T160000
 DTEND;TZID=America/New_York:20260930T180000
-SUMMARY:Cedar Grove High School vs Irvington High School (Junior Varsity 
- Boys Boys Soccer)
+SUMMARY:[Canceled] Cedar Grove High School vs Irvington High School (Juni
+ or Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100661703@super-essex-conference
@@ -4575,15 +4579,6 @@ DTEND;TZID=America/New_York:20260930T180000
 SUMMARY:Cedar Grove High School at Malcolm X Shabazz High School (Varsity
   Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103005899@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T160000
-DTEND;TZID=America/New_York:20260930T180000
-SUMMARY:Central High School at Essex County-Newark Tech High School (Juni
- or Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100661818@super-essex-conference
@@ -4837,6 +4832,15 @@ DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:Bloomfield High School at Lodi High School (Freshman Boys Boys So
  ccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103005899@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Central High School at Essex County-Newark Tech High School (Juni
+ or Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103683977@super-essex-conference

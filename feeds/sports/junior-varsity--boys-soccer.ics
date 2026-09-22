@@ -1161,15 +1161,6 @@ SUMMARY:Bloomfield High School vs Irvington High School (Junior Varsity B
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102442586@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T160000
-DTEND;TZID=America/New_York:20260923T180000
-SUMMARY:Cedar Grove High School vs Essex County-Newark Tech High School (
- Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101364191@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T160000
@@ -1387,6 +1378,15 @@ SUMMARY:Saint Benedict's Prep at Chaminade High School (Junior Varsity Bo
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102442586@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Cedar Grove High School vs Essex County-Newark Tech High School (
+ Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100393202@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T160000
@@ -1400,18 +1400,10 @@ UID:arb:104100033@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T160000
 DTEND;TZID=America/New_York:20260930T180000
-SUMMARY:Cedar Grove High School vs Irvington High School (Junior Varsity 
- Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103005899@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T160000
-DTEND;TZID=America/New_York:20260930T180000
-SUMMARY:Central High School at Essex County-Newark Tech High School (Juni
+SUMMARY:[Canceled] Cedar Grove High School vs Irvington High School (Juni
  or Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101719226@super-essex-conference
@@ -1466,6 +1458,15 @@ DTEND;TZID=America/New_York:20260930T190000
 SUMMARY:Montclair Kimberley Academy at West Orange High School (Junior Va
  rsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103005899@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Central High School at Essex County-Newark Tech High School (Juni
+ or Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103683977@super-essex-conference

@@ -1672,15 +1672,6 @@ SUMMARY:Montclair Kimberley Academy vs Oak Knoll School of the Holy Child
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103867526@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T161500
-DTEND;TZID=America/New_York:20261012T181500
-SUMMARY:Montclair Kimberley Academy at Bayonne High School (7/8th Girls V
- olleyball)
-DESCRIPTION:7/8th Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99085953@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T171500
@@ -1715,6 +1706,15 @@ DTEND;TZID=America/New_York:20261013T174500
 SUMMARY:Montclair Kimberley Academy at Oratory Prep School (Middle School
   Boys Boys Soccer)
 DESCRIPTION:Middle School Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103867526@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T161500
+DTEND;TZID=America/New_York:20261013T181500
+SUMMARY:Montclair Kimberley Academy at Bayonne High School (7/8th Girls V
+ olleyball)
+DESCRIPTION:7/8th Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102918118@super-essex-conference
@@ -2094,24 +2094,6 @@ DTEND;TZID=America/New_York:20261215T193000
 SUMMARY:Montclair Kimberley Academy at Verona High School (Junior Varsity
   Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104137868@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T200000
-DTEND;TZID=America/New_York:20261215T220000
-SUMMARY:Columbia High School vs Montclair Kimberley Academy (Varsity Girl
- s Girls Swimming)
-DESCRIPTION:Varsity Girls Girls Swimming - Home - 8:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104137870@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261215
-DTEND;VALUE=DATE:20261216
-SUMMARY:Montclair Kimberley Academy at Columbia High School (Varsity Boys
-  Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103094247@super-essex-conference

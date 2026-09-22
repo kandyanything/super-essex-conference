@@ -868,15 +868,6 @@ SUMMARY:Cedar Grove High School at Irvington High School (Varsity Girls G
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102442586@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T160000
-DTEND;TZID=America/New_York:20260923T180000
-SUMMARY:Cedar Grove High School vs Essex County-Newark Tech High School (
- Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100661631@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T160000
@@ -1105,13 +1096,23 @@ SUMMARY:Cedar Grove High School vs Newark Collegiate Academy (Varsity Gir
 DESCRIPTION:Varsity Girls Girls Cross Country - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102442586@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Cedar Grove High School vs Essex County-Newark Tech High School (
+ Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104100033@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T160000
 DTEND;TZID=America/New_York:20260930T180000
-SUMMARY:Cedar Grove High School vs Irvington High School (Junior Varsity 
- Boys Boys Soccer)
+SUMMARY:[Canceled] Cedar Grove High School vs Irvington High School (Juni
+ or Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103871334@super-essex-conference
