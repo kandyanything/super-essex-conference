@@ -1010,9 +1010,10 @@ UID:arb:102311416@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T161500
 DTEND;TZID=America/New_York:20260924T181500
-SUMMARY:Montclair Kimberley Academy vs West Orange High School (Junior Va
- rsity Girls Girls Soccer)
+SUMMARY:[Canceled] Montclair Kimberley Academy vs West Orange High School
+  (Junior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104021784@super-essex-conference
@@ -2349,6 +2350,15 @@ DTEND;TZID=America/New_York:20270114T180000
 SUMMARY:Montclair High School at Montclair Kimberley Academy (Varsity Boy
  s Boys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104231611@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T160000
+DTEND;TZID=America/New_York:20270114T180000
+SUMMARY:Montclair Kimberley Academy at West Orange High School (Varsity B
+ oys Swimming)
+DESCRIPTION:Varsity Boys Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100564906@super-essex-conference

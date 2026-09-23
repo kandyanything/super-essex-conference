@@ -1440,9 +1440,10 @@ UID:arb:98240741@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T140000
 DTEND;TZID=America/New_York:20261003T160000
-SUMMARY:Glen Ridge High School at Indian Hills High School (Varsity Girls
-  Girls Soccer)
+SUMMARY:[Canceled] Glen Ridge High School at Indian Hills High School (Va
+ rsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102617988@super-essex-conference
@@ -2595,6 +2596,15 @@ DTEND;TZID=America/New_York:20270126T193000
 SUMMARY:Columbia High School at Glen Ridge High School (Junior Varsity Gi
  rls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104231627@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T160000
+DTEND;TZID=America/New_York:20270129T180000
+SUMMARY:Glen Ridge High School at West Orange High School (Varsity Boys S
+ wimming)
+DESCRIPTION:Varsity Boys Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101276055@super-essex-conference

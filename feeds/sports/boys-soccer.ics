@@ -3958,7 +3958,7 @@ SUMMARY:Bloomfield High School vs West Essex High School (Freshman Boys B
 DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102620709@super-essex-conference
+UID:arb:104234295@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T160000
 DTEND;TZID=America/New_York:20260925T180000
@@ -4350,9 +4350,10 @@ UID:arb:102617115@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Malcolm X Shabazz High School vs American History High School (Va
- rsity Boys Boys Soccer)
+SUMMARY:[Canceled] Malcolm X Shabazz High School vs American History High
+  School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103046529@super-essex-conference
@@ -5587,6 +5588,15 @@ SUMMARY:Newark Tech vs Science Park High School (Junior Varsity Boys Boys
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101688419@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Saint Benedict's Prep vs Saint Peter's Prep High School (Varsity 
+ Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101698202@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
@@ -5637,15 +5647,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T163000
 DTEND;TZID=America/New_York:20261007T183000
 SUMMARY:Newark Tech vs Science Park High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101688419@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T163000
-DTEND;TZID=America/New_York:20261007T183000
-SUMMARY:Saint Benedict's Prep vs Saint Peter's Prep High School (Varsity 
- Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT

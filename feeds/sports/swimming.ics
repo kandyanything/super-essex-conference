@@ -32,6 +32,24 @@ SUMMARY:Montclair High School at Rutherford High School (Varsity Boys Swi
 DESCRIPTION:Varsity Boys Swimming - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104231442@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261204T160000
+DTEND;TZID=America/New_York:20261204T180000
+SUMMARY:West Essex High School at West Orange High School (Varsity Boys S
+ wimming)
+DESCRIPTION:Varsity Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104231482@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T160000
+DTEND;TZID=America/New_York:20261211T180000
+SUMMARY:East Side High School at West Orange High School (Varsity Boys Sw
+ imming)
+DESCRIPTION:Varsity Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104221049@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T183000
@@ -50,6 +68,15 @@ SUMMARY:East Side High School at James Caldwell High School (Varsity Boys
 DESCRIPTION:Varsity Boys Swimming - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104231511@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T160000
+DTEND;TZID=America/New_York:20261218T180000
+SUMMARY:Columbia High School at West Orange High School (Varsity Boys Swi
+ mming)
+DESCRIPTION:Varsity Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104221077@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T183000
@@ -59,6 +86,15 @@ SUMMARY:Glen Ridge High School at James Caldwell High School (Varsity Boy
 DESCRIPTION:Varsity Boys Swimming - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104231583@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T160000
+DTEND;TZID=America/New_York:20270106T180000
+SUMMARY:Montclair High School at West Orange High School (Varsity Boys Sw
+ imming)
+DESCRIPTION:Varsity Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104221085@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T183000
@@ -66,6 +102,15 @@ DTEND;TZID=America/New_York:20270108T203000
 SUMMARY:Saint Benedict's Prep at James Caldwell High School (Varsity Boys
   Swimming)
 DESCRIPTION:Varsity Boys Swimming - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104231611@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T160000
+DTEND;TZID=America/New_York:20270114T180000
+SUMMARY:Montclair Kimberley Academy at West Orange High School (Varsity B
+ oys Swimming)
+DESCRIPTION:Varsity Boys Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104221094@super-essex-conference
@@ -84,5 +129,14 @@ DTEND;TZID=America/New_York:20270126T203000
 SUMMARY:West Essex High School at James Caldwell High School (Varsity Boy
  s Swimming)
 DESCRIPTION:Varsity Boys Swimming - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104231627@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T160000
+DTEND;TZID=America/New_York:20270129T180000
+SUMMARY:Glen Ridge High School at West Orange High School (Varsity Boys S
+ wimming)
+DESCRIPTION:Varsity Boys Swimming - Away - 4:00 PM
 END:VEVENT
 END:VCALENDAR
