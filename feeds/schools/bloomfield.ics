@@ -3174,6 +3174,15 @@ SUMMARY:Bloomfield High School at West Orange High School (Varsity Boys B
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104221094@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T183000
+DTEND;TZID=America/New_York:20270120T203000
+SUMMARY:Bloomfield High School at James Caldwell High School (Varsity Boy
+ s Swimming)
+DESCRIPTION:Varsity Boys Swimming - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103169944@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T090000
@@ -3241,9 +3250,9 @@ UID:arb:100563827@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T190000
 DTEND;TZID=America/New_York:20270121T210000
-SUMMARY:Bloomfield High School at East Orange Campus High School (Varsity
+SUMMARY:East Orange Campus High School vs Bloomfield High School (Varsity
   Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549120@super-essex-conference
