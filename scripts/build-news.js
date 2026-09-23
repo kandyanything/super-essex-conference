@@ -211,6 +211,8 @@ function bareSchoolNames(names) {
 
 // â”€â”€â”€ RELEVANCE â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 const COUNTIES_FP  = /New Jersey Association of Counties|NJAC Foundation/i;
+// "SEC" is also the Southeastern Conference and the securities regulator.
+const CONF_SHORT_FP = /Southeastern Conference|Securities and Exchange/i;
 const NJ_MARKER    = /\bN\.?J\.?\b/;
 const NJ_FULL      = /new jersey/i;
 
@@ -225,19 +227,116 @@ const CTX_SCHOOLS = SCHOOL_NAMES.map((name, i) => ({
     names: bareSchoolNames([name]),
 }));
 
+// Bare aliases that are ordinary English words. Stripping " High School" turns
+// "Central High School" (Newark, ours) into "Central", which then matches
+// Hunterdon Central and Central Regional; "University" matches Rutgers
+// University. On their own these prove nothing, so they only count when the
+// article also names the conference or its home county.
+const GENERIC_ALIASES = new Set([
+    'arts', 'campus', 'central', 'columbia', 'eagle', 'lab', 'north star',
+    'orange', 'park', 'prep', 'science park', 'tech', 'technology',
+    'university', 'east side', 'west side',
+]);
+
+// Words that may sit beside a school name without being part of it. Anything
+// else capitalised next to an alias is treated as part of a longer proper
+// name, e.g. "Hunterdon Central", "Montclair State", "Central Regional".
+const NEIGHBOR_OK = new Set([
+    'a', 'an', 'and', 'at', 'beats', 'boys', 'by', 'coach', 'coaches', 'coed',
+    'country', 'cross', 'defeats', 'downs', 'edges', 'falls', 'field', 'for',
+    'freshman', 'from', 'girls', 'golf', 'high', 'hosts', 'in', 'junior',
+    'leads', 'nets', 'no', 'of', 'on', 'or', 'over', 'past', 'roll', 'rolls',
+    'routs', 'school', 'senior', 'shuts', 'sophomore', 'standout', 'stars',
+    'team', 'teams', 'the', 'to', 'top', 'tops', 'topples', 'track', 'upsets',
+    'varsity', 'versus', 'victory', 'visits', 'vs', 'win', 'wins', 'with',
+]);
+
+// Local context that rescues an otherwise-generic alias.
+const LOCAL_CONTEXT_RE = /\b(Essex|Newark|Maplewood|South Orange)\b/i;
+
+// Municipalities this conference draws from. A capitalised neighbour that is
+// one of these is a hometown qualifier on one of our own schools
+// ("Newark Central"), not the start of somebody else's name
+// ("Hunterdon Central").
+const HOME_TOWNS = new Set([
+    'belleville', 'bloomfield', 'caldwell', 'essex', 'fairfield', 'irvington',
+    'livingston', 'maplewood', 'millburn', 'montclair', 'newark', 'nutley',
+    'orange', 'roseland', 'verona',
+]);
+
+const WORD_BEFORE = /([A-Za-z][A-Za-z.'’-]*)\s+$/;
+const WORD_AFTER  = /^\s+([A-Za-z][A-Za-z.'’-]*)/;
+
+// Headline and summary are separate sentences. Joining them with a bare space
+// would let the summary's first word glue onto the headline's last one and
+// invent a compound that is nobody's school ("... past Millburn" + "Only two
+// players ..." -> "Millburn Only"), so keep a punctuation boundary between.
+function relevanceText(title, preview) {
+    return `${title || ''} . ${preview || ''}`;
+}
+
+// Which school, if any, owns this phrase?
+function schoolOwning(phrase) {
+    const re = phraseRe(phrase);
+    return SCHOOL_NAMES.find(n => re.test(n)) || null;
+}
+
+// Decide what a single alias occurrence is really referring to.
+//   'alone'    - nothing capitalised beside it; it means what it says
+//   'expanded' - it grows into one of OUR school names ("East Orange")
+//   null       - it grows into somebody else's ("Hunterdon Central")
+function aliasHit(text, alias, index) {
+    const before = text.slice(0, index);
+    const after  = text.slice(index + alias.length);
+
+    const expansions = [];            // { phrase, extra }
+    const mb = before.match(WORD_BEFORE);
+    if (mb && /^[A-Z]/.test(mb[1]) && !NEIGHBOR_OK.has(mb[1].toLowerCase()))
+        expansions.push({ phrase: `${mb[1]} ${alias}`, extra: mb[1] });
+    const ma = after.match(WORD_AFTER);
+    if (ma && /^[A-Z]/.test(ma[1]) && !NEIGHBOR_OK.has(ma[1].toLowerCase()))
+        expansions.push({ phrase: `${alias} ${ma[1]}`, extra: ma[1] });
+
+    if (!expansions.length) return { kind: 'alone', school: null };
+    for (const e of expansions) {
+        const owner = schoolOwning(e.phrase);
+        if (owner) return { kind: 'expanded', school: owner };
+    }
+    // "Newark Central" - our school, written with its hometown in front.
+    if (expansions.some(e => HOME_TOWNS.has(e.extra.toLowerCase())))
+        return { kind: 'expanded', school: null };
+    return null;                      // part of another school's name
+}
+
 function matchRelevance(text) {
     const shortHit = new RegExp(`\\b${escapeRe(CONF_SHORT)}\\b`).test(text)
-        && !COUNTIES_FP.test(text);
+        && !COUNTIES_FP.test(text)
+        && !CONF_SHORT_FP.test(text);
     const confHit = phraseRe(CONF_NAME).test(text) || shortHit;
 
     let schoolName = null, bestIdx = Infinity, bestLen = -1;
     for (const school of CTX_SCHOOLS) {
         for (const n of school.names) {
             if (n.length < 4) continue;
-            const m = phraseRe(n).exec(text);
-            if (!m) continue;
-            if (m.index < bestIdx || (m.index === bestIdx && n.length > bestLen)) {
-                bestIdx = m.index; bestLen = n.length; schoolName = school.name;
+            const re = new RegExp(`\\b${escapeRe(n).replace(/\s+/g, '\\s+')}\\b`, 'ig');
+            let m;
+            while ((m = re.exec(text)) !== null) {
+                const hit = aliasHit(text, m[0], m.index);
+                if (!hit) continue;                       // another school's name
+
+                let owner = school.name;
+                if (hit.kind === 'expanded') {
+                    owner = hit.school || school.name;    // credit the real school
+                } else if (GENERIC_ALIASES.has(n.toLowerCase())
+                    && !confHit
+                    && !LOCAL_CONTEXT_RE.test(text)
+                    && !phraseRe(school.name).test(text)) {
+                    continue;                             // bare common word, no context
+                }
+
+                if (m.index < bestIdx || (m.index === bestIdx && n.length > bestLen)) {
+                    bestIdx = m.index; bestLen = n.length; schoolName = owner;
+                }
             }
         }
     }
@@ -249,7 +348,7 @@ function classify(title, preview, url) {
     if (isDenyHost(host)) return null;
     if (!isArticleUrl(url)) return null;
 
-    const text      = `${title} ${preview || ''}`;
+    const text      = relevanceText(title, preview);
     const onSources = HOUSE_SOURCES.some(s => hostMatches(host, s))
         || FEED_HOSTS.some(fh => hostMatches(host, fh));
     if (!onSources) return null;   // only publish from known NJ outlets
@@ -475,7 +574,21 @@ async function main() {
     let existing = [];
     try {
         const raw = JSON.parse(fs.readFileSync(OUT, 'utf8'));
-        existing = (raw.news || []).filter(n => n && n.title && n.url && SPORTS_TERMS_RE.test(n.title));
+        // Re-test cached rows against the CURRENT relevance rules, not just the
+        // sports-word gate. Without this an article admitted by an older, looser
+        // build survives every rebuild and can never be evicted.
+        existing = (raw.news || []).filter(n => {
+            if (!n || !n.title || !n.url) return false;
+            if (!SPORTS_TERMS_RE.test(n.title)) return false;
+            const rel = matchRelevance(relevanceText(n.title, n.excerpt));
+            if (rel.confHit || rel.schoolName !== null) {
+                // Re-credit the school too; older builds mis-attributed some.
+                if (rel.schoolName) n.school = rel.schoolName;
+                return true;
+            }
+            console.log(`  [evict] no longer relevant: ${n.title.slice(0, 70)}`);
+            return false;
+        });
     } catch { /* first run */ }
 
     const merged = new Map(existing.map(n => [n.url, n]));
@@ -499,4 +612,9 @@ async function main() {
     console.log(`wrote ${OUT}`);
 }
 
-main().catch(e => { console.error(e); process.exit(1); });
+// Only scrape when run directly, so the relevance rules can be unit-tested.
+if (require.main === module) {
+    main().catch(e => { console.error(e); process.exit(1); });
+}
+
+module.exports = { matchRelevance, relevanceText, classify, bareSchoolNames, SPORTS_TERMS_RE, SCHOOL_NAMES };
