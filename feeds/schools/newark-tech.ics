@@ -669,6 +669,15 @@ SUMMARY:Newark Tech vs Indian Hills High School (Freshman Girls Girls Vol
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104259938@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T150000
+DTEND;TZID=America/New_York:20261002T170000
+SUMMARY:Newark Tech at Sussex County Technical High School (Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102582447@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T163000
@@ -776,6 +785,15 @@ SUMMARY:Irvington High School vs Essex County-Newark Tech High School (Va
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102668818@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T140000
+DTEND;TZID=America/New_York:20261009T160000
+SUMMARY:Newark Tech vs Sussex County Technical High School (Varsity Boys 
+ Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102984188@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T160000
@@ -792,15 +810,6 @@ DTEND;TZID=America/New_York:20261009T180000
 SUMMARY:Newark Tech vs Technology High School (Newark) (Varsity Girls Gir
  ls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102668818@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261009T161500
-DTEND;TZID=America/New_York:20261009T181500
-SUMMARY:Newark Tech at Essex County-Payne Tech High School (Varsity Boys 
- Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102584049@super-essex-conference

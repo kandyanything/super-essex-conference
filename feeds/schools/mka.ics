@@ -1034,6 +1034,15 @@ SUMMARY:Montclair Kimberley Academy vs James Caldwell High School (Junior
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104000349@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T140000
+DTEND;TZID=America/New_York:20260925T160000
+SUMMARY:Montclair Kimberley Academy vs Horace Mann School (Varsity Boys F
+ ootball)
+DESCRIPTION:Varsity Boys Football - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103580790@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T160000
@@ -1070,15 +1079,6 @@ SUMMARY:Montclair Kimberley Academy vs Bayonne High School (Middle School
 DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103030548@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T100000
-DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:Montclair Kimberley Academy at Hoboken High School (Varsity Girls
-  Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102692599@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T110000
@@ -1105,15 +1105,6 @@ DTEND;TZID=America/New_York:20260926T153000
 SUMMARY:Montclair Kimberley Academy at Blair Academy (Varsity Girls Girls
   Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 1:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104000349@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T143000
-DTEND;TZID=America/New_York:20260926T163000
-SUMMARY:Montclair Kimberley Academy vs Horace Mann School (Varsity Boys F
- ootball)
-DESCRIPTION:Varsity Boys Football - Home - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102302602@super-essex-conference

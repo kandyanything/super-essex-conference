@@ -773,7 +773,7 @@ SUMMARY:Seton Hall Prep vs Immaculata High School (Junior Varsity Boys Fo
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103065986@super-essex-conference
+UID:arb:104255860@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261203T152000
 DTEND;TZID=America/New_York:20261203T172000
@@ -806,15 +806,6 @@ DTEND;TZID=America/New_York:20261208T193000
 SUMMARY:Seton Hall Prep at Hillsborough High School (Junior Varsity Boys 
  Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103065932@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261210T152000
-DTEND;TZID=America/New_York:20261210T172000
-SUMMARY:Seton Hall Prep at Saint Augustine Prep School (Junior Varsity Bo
- ys Boys Ice Hockey)
-DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Away - 3:20 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103582774@super-essex-conference
@@ -1166,6 +1157,15 @@ DTEND;TZID=America/New_York:20270114T193000
 SUMMARY:Saint Benedict's Prep vs Seton Hall Preparatory School (Junior Va
  rsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104256244@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T180000
+DTEND;TZID=America/New_York:20270114T200000
+SUMMARY:Seton Hall Prep vs Saint Augustine Prep School (Junior Varsity Bo
+ ys Boys Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100535511@super-essex-conference

@@ -2537,6 +2537,15 @@ SUMMARY:Belleville High School at Technology High School (Newark) (Varsit
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104264621@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T160000
+DTEND;TZID=America/New_York:20260924T180000
+SUMMARY:Bloomfield High School vs Essex County-Payne Tech High School (Ju
+ nior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103036038@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T160000
@@ -2544,15 +2553,6 @@ DTEND;TZID=America/New_York:20260924T180000
 SUMMARY:Bloomfield High School vs Essex County-Payne Tech High School (Va
  rsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101495093@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260924T160000
-DTEND;TZID=America/New_York:20260924T180000
-SUMMARY:Bloomfield High School at Essex County-Payne Tech High School (Ju
- nior Varsity Girls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102535603@super-essex-conference
@@ -2596,9 +2596,10 @@ UID:arb:103849925@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T160000
 DTEND;TZID=America/New_York:20260924T180000
-SUMMARY:Golda Och Academy vs Chatham Day School (Middle School Girls Girl
- s Soccer)
+SUMMARY:[Canceled] Golda Och Academy vs Chatham Day School (Middle School
+  Girls Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104121530@super-essex-conference
@@ -2770,9 +2771,10 @@ UID:arb:101673113@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T100000
 DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:Cedar Grove High School at Hoboken High School (Varsity Girls Gir
- ls Soccer)
+SUMMARY:[Canceled] Cedar Grove High School at Hoboken High School (Varsit
+ y Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:98210515@super-essex-conference
@@ -2788,9 +2790,10 @@ UID:arb:102156216@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T100000
 DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:Millburn High School vs Bernards High School (Junior Varsity Girl
- s Girls Soccer)
+SUMMARY:[Canceled] Millburn High School vs Bernards High School (Junior V
+ arsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102155915@super-essex-conference
@@ -3404,6 +3407,15 @@ SUMMARY:Cedar Grove High School vs Verona High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104259938@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T150000
+DTEND;TZID=America/New_York:20261002T170000
+SUMMARY:Newark Tech at Sussex County Technical High School (Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102314532@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T160000
@@ -3438,6 +3450,15 @@ DTEND;TZID=America/New_York:20261002T180000
 SUMMARY:West Essex High School vs Pequannock Township High School (Middle
   School Girls Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100663710@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+SUMMARY:Glen Ridge High School at Indian Hills High School (Junior Varsit
+ y Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101602080@super-essex-conference
@@ -3511,15 +3532,6 @@ DTEND;TZID=America/New_York:20261003T160000
 SUMMARY:Columbia High School at James Caldwell High School (Varsity Girls
   Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100663710@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T140000
-DTEND;TZID=America/New_York:20261003T160000
-SUMMARY:Glen Ridge High School at Indian Hills High School (Junior Varsit
- y Girls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:98240741@super-essex-conference
@@ -3902,9 +3914,10 @@ UID:arb:103883008@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
 DTEND;TZID=America/New_York:20261008T180000
-SUMMARY:Nutley High School vs Rutherford High School (Junior Varsity Girl
- s Girls Soccer)
+SUMMARY:[Canceled] Nutley High School vs Rutherford High School (Junior V
+ arsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104074650@super-essex-conference

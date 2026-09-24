@@ -1288,6 +1288,16 @@ DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 2:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102804867@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T144500
+DTEND;TZID=America/New_York:20260926T164500
+SUMMARY:[Canceled] Saint Benedict's Prep at Chaminade High School (Junior
+  Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 2:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101240684@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T160000
@@ -1301,9 +1311,10 @@ UID:arb:102804880@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T164500
 DTEND;TZID=America/New_York:20260926T184500
-SUMMARY:Saint Benedict's Prep at Chaminade High School (Junior Varsity Bo
- ys Boys Soccer)
+SUMMARY:[Canceled] Saint Benedict's Prep at Chaminade High School (Junior
+  Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102072932@super-essex-conference
@@ -1367,15 +1378,6 @@ DTEND;TZID=America/New_York:20260928T181500
 SUMMARY:Montclair Kimberley Academy vs Saint Joseph High School - Metuche
  n (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102804867@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:Saint Benedict's Prep at Chaminade High School (Junior Varsity Bo
- ys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102442586@super-essex-conference

@@ -1427,9 +1427,10 @@ UID:arb:101673113@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T100000
 DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:Cedar Grove High School at Hoboken High School (Varsity Girls Gir
- ls Soccer)
+SUMMARY:[Canceled] Cedar Grove High School at Hoboken High School (Varsit
+ y Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102155915@super-essex-conference
@@ -1728,6 +1729,15 @@ DTEND;TZID=America/New_York:20261001T200000
 SUMMARY:Cedar Grove High School vs Verona High School (Varsity Girls Girl
  s Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104259938@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T150000
+DTEND;TZID=America/New_York:20261002T170000
+SUMMARY:Newark Tech at Sussex County Technical High School (Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101601847@super-essex-conference

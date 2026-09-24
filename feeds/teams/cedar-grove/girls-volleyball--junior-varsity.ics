@@ -194,9 +194,9 @@ UID:arb:103920731@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T171500
 DTEND;TZID=America/New_York:20261001T191500
-SUMMARY:[Canceled] Cedar Grove High School vs Nutley High School (Junior 
+SUMMARY:[Canceled] Nutley High School at Cedar Grove High School (Junior 
  Varsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
@@ -216,6 +216,15 @@ DTEND;TZID=America/New_York:20261005T191500
 SUMMARY:Cedar Grove High School vs Science Park High School (Junior Varsi
  ty Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101410949@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T171500
+DTEND;TZID=America/New_York:20261006T191500
+SUMMARY:Nutley High School at Cedar Grove High School (Junior Varsity Gir
+ ls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99052142@super-essex-conference

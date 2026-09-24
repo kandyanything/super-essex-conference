@@ -59,7 +59,7 @@ SUMMARY:Montclair Kimberley Academy vs Nutley High School (Varsity Boys B
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103065986@super-essex-conference
+UID:arb:104255860@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261203T152000
 DTEND;TZID=America/New_York:20261203T172000
@@ -199,15 +199,6 @@ DTEND;TZID=America/New_York:20261209T181500
 SUMMARY:Montclair Kimberley Academy at Saint Peter's Prep High School (Va
  rsity Boys Boys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103065932@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261210T152000
-DTEND;TZID=America/New_York:20261210T172000
-SUMMARY:Seton Hall Prep at Saint Augustine Prep School (Junior Varsity Bo
- ys Boys Ice Hockey)
-DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Away - 3:20 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103476131@super-essex-conference
@@ -769,6 +760,15 @@ DTEND;TZID=America/New_York:20270114T180000
 SUMMARY:Montclair High School at Montclair Kimberley Academy (Varsity Boy
  s Boys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104256244@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T180000
+DTEND;TZID=America/New_York:20270114T200000
+SUMMARY:Seton Hall Prep vs Saint Augustine Prep School (Junior Varsity Bo
+ ys Boys Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102648477@super-essex-conference
