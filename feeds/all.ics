@@ -17673,6 +17673,15 @@ SUMMARY:Weequahic High School vs Newark School of Global Studies (Junior
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101748968@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T173000
+DTEND;TZID=America/New_York:20260923T193000
+SUMMARY:East Side High School at TBD (Junior Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99167924@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T173000
@@ -17681,6 +17690,15 @@ SUMMARY:[Canceled] Newark Lab High School vs West Side High School (Junio
  r Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102445871@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T190000
+DTEND;TZID=America/New_York:20260923T210000
+SUMMARY:Montclair High School at Summit High School (Varsity Girls Gymnas
+ tics)
+DESCRIPTION:Varsity Girls Gymnastics - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102903983@super-essex-conference
