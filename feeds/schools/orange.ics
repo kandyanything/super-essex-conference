@@ -1702,15 +1702,6 @@ SUMMARY:Livingston High School at Orange High School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102416359@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270405T160000
-DTEND;TZID=America/New_York:20270405T180000
-SUMMARY:Nutley High School vs Orange High School (Varsity Boys Boys Volle
- yball)
-DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102570093@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270405T160000
@@ -1720,13 +1711,22 @@ SUMMARY:Orange High School vs Weequahic High School (Varsity Boys Basebal
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102416359@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270405T160000
+DTEND;TZID=America/New_York:20270405T180000
+SUMMARY:Orange High School at Nutley High School (Varsity Boys Boys Volle
+ yball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102416363@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270405T171500
 DTEND;TZID=America/New_York:20270405T191500
-SUMMARY:Nutley High School vs Orange High School (Junior Varsity Boys Boy
+SUMMARY:Orange High School at Nutley High School (Junior Varsity Boys Boy
  s Volleyball)
-DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102587271@super-essex-conference

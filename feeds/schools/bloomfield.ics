@@ -2365,6 +2365,15 @@ SUMMARY:Bloomfield High School at Morris Knolls High School (Unified Spor
 DESCRIPTION:Unified Sports Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104251734@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T170000
+DTEND;TZID=America/New_York:20261207T190000
+SUMMARY:Bloomfield High School vs East Orange Campus High School (Varsity
+  Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100664919@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
@@ -3640,15 +3649,6 @@ DTEND;TZID=America/New_York:20270402T180000
 SUMMARY:Glen Ridge High School vs Bloomfield High School (Varsity Boys Bo
  ys Volleyball)
 DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102569840@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270402T160000
-DTEND;TZID=America/New_York:20270402T180000
-SUMMARY:Nutley High School at Bloomfield High School (Varsity Girls Softb
- all)
-DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102440431@super-essex-conference
