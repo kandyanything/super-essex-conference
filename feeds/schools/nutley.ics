@@ -1155,6 +1155,15 @@ SUMMARY:Newark Academy at Nutley High School (Varsity Girls Girls Volleyb
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104268601@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Nutley High School vs Wayne Hills High School (Varsity Girls Girl
+ s Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100121642@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T163000
@@ -1278,6 +1287,15 @@ DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:Nutley High School vs TBD (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104268659@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Bloomfield High School at Nutley High School (Varsity Girls Girls
+  Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103920726@super-essex-conference
@@ -1451,6 +1469,15 @@ DTSTART;TZID=America/New_York:20261006T180000
 DTEND;TZID=America/New_York:20261006T200000
 SUMMARY:Nutley High School at TBD (Varsity Girls Sideline Cheerleading)
 DESCRIPTION:Varsity Girls Sideline Cheerleading - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104268676@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Bloomfield High School at Nutley High School (Varsity Girls Girls
+  Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99101786@super-essex-conference
@@ -2729,8 +2756,8 @@ UID:arb:102741013@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T090000
 DTEND;TZID=America/New_York:20270120T110000
-SUMMARY:Bloomfield High School at West Orange High School (Varsity Boys B
- oys Wrestling)
+SUMMARY:Nutley High School at West Orange High School (Varsity Boys Boys 
+ Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -3217,9 +3244,9 @@ UID:arb:102567023@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270401T160000
 DTEND;TZID=America/New_York:20270401T180000
-SUMMARY:Nutley High School at Saint Benedict's Preparatory School (Varsit
- y Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+SUMMARY:Saint Benedict's Prep vs Nutley High School (Varsity Boys Basebal
+ l)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102416355@super-essex-conference

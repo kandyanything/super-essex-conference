@@ -344,15 +344,6 @@ SUMMARY:Cedar Grove High School vs Newark Collegiate Academy (Varsity Gir
 DESCRIPTION:Varsity Girls Girls Cross Country - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100662333@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T153000
-DTEND;TZID=America/New_York:20260930T173000
-SUMMARY:Newark Collegiate Academy at Technology High School (Newark) (Var
- sity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99247788@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T160000
@@ -387,6 +378,15 @@ DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Newark Collegiate Academy at Saint John Vianney High School (Juni
  or Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100662333@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T153000
+DTEND;TZID=America/New_York:20261005T173000
+SUMMARY:Newark Collegiate Academy at Technology High School (Newark) (Var
+ sity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99247806@super-essex-conference

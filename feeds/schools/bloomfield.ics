@@ -1407,6 +1407,16 @@ SUMMARY:Bloomfield High School vs Essex County-Payne Tech High School (Va
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101495093@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T160000
+DTEND;TZID=America/New_York:20260924T180000
+SUMMARY:[Canceled] Payne Tech at Bloomfield High School (Junior Varsity G
+ irls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103758736@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T163000
@@ -1451,15 +1461,6 @@ SUMMARY:Bloomfield High School vs TBD (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99189396@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T090000
-DTEND;TZID=America/New_York:20260926T110000
-SUMMARY:Barringer High School at Bloomfield High School (Freshman Boys Fo
- otball)
-DESCRIPTION:Freshman Boys Football - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103703700@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T090000
@@ -1489,20 +1490,29 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:103337350@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T100000
-DTEND;TZID=America/New_York:20260926T120000
+DTSTART;TZID=America/New_York:20260926T090000
+DTEND;TZID=America/New_York:20260926T110000
 SUMMARY:Bloomfield High School at Clifton High School (Varsity Girls Girl
  s Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 10:00 AM
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103337325@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T100000
-DTEND;TZID=America/New_York:20260926T120000
+DTSTART;TZID=America/New_York:20260926T090000
+DTEND;TZID=America/New_York:20260926T110000
 SUMMARY:Bloomfield High School at Clifton High School (Varsity Boys Boys 
  Cross Country)
-DESCRIPTION:Varsity Boys Boys Cross Country - Away - 10:00 AM
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99189396@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T090000
+DTEND;TZID=America/New_York:20260926T110000
+SUMMARY:Bloomfield High School vs Montclair High School (Freshman Boys Fo
+ otball)
+DESCRIPTION:Freshman Boys Football - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103844767@super-essex-conference
@@ -1683,6 +1693,15 @@ DTEND;TZID=America/New_York:20260930T191500
 SUMMARY:Bloomfield High School vs Montclair Kimberley Academy (Junior Var
  sity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104268659@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Bloomfield High School at Nutley High School (Varsity Girls Girls
+  Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103871614@super-essex-conference
@@ -1879,6 +1898,15 @@ DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Bloomfield High School at Hoboken High School (Varsity Girls Girl
  s Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104268676@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Bloomfield High School at Nutley High School (Varsity Girls Girls
+  Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104185778@super-essex-conference
@@ -3172,15 +3200,6 @@ DTEND;TZID=America/New_York:20270119T210000
 SUMMARY:Bloomfield High School at Montclair High School (Varsity Boys Boy
  s Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102741013@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270120T090000
-DTEND;TZID=America/New_York:20270120T110000
-SUMMARY:Bloomfield High School at West Orange High School (Varsity Boys B
- oys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104221094@super-essex-conference
