@@ -25,10 +25,18 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:arb:104082291@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270112T154500
-DTEND;TZID=America/New_York:20270112T174500
+DTSTART;TZID=America/New_York:20270112T153000
+DTEND;TZID=America/New_York:20270112T173000
 SUMMARY:Newark Academy vs Morristown-Beard School (7/8th Boys Basketball)
-DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
+DESCRIPTION:7/8th Boys Basketball - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104284814@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T171500
+DTEND;TZID=America/New_York:20270112T191500
+SUMMARY:Newark Academy vs Morristown-Beard School (7/8th Boys Basketball)
+DESCRIPTION:7/8th Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104082346@super-essex-conference
@@ -49,11 +57,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104082372@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T154500
-DTEND;TZID=America/New_York:20270126T174500
+DTSTART;TZID=America/New_York:20270126T153000
+DTEND;TZID=America/New_York:20270126T173000
 SUMMARY:Newark Academy vs Gill St. Bernard's School (7/8th Boys Basketbal
  l)
-DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
+DESCRIPTION:7/8th Boys Basketball - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104284904@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T170000
+DTEND;TZID=America/New_York:20270126T190000
+SUMMARY:Newark Academy vs Gill St. Bernard's School (7/8th Boys Basketbal
+ l)
+DESCRIPTION:7/8th Boys Basketball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104082444@super-essex-conference

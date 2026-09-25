@@ -819,18 +819,10 @@ UID:arb:104062189@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T090000
 DTEND;TZID=America/New_York:20260926T110000
-SUMMARY:Columbia High School vs Governor Livingston High School (Varsity 
- Girls Field Hockey)
+SUMMARY:[Canceled] Columbia High School vs Governor Livingston High Schoo
+ l (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101382181@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T100000
-DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:Millburn High School at Summit High School (Varsity Girls Field H
- ockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103996369@super-essex-conference
@@ -846,9 +838,10 @@ UID:arb:102692599@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T130000
-SUMMARY:Montclair High School at Montclair Kimberley Academy (Varsity Gir
- ls Field Hockey)
+SUMMARY:[Canceled] Montclair High School at Montclair Kimberley Academy (
+ Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 11:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:98755385@super-essex-conference
@@ -884,6 +877,15 @@ DTEND;TZID=America/New_York:20260928T180000
 SUMMARY:Glen Ridge High School vs Livingston High School (Varsity Girls F
  ield Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101382181@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Millburn High School at Summit High School (Varsity Girls Field H
+ ockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99973785@super-essex-conference

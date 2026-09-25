@@ -897,12 +897,12 @@ SUMMARY:Verona High School vs James Caldwell High School (Varsity Girls G
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100452407@super-essex-conference
+UID:arb:104290967@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T160000
 DTEND;TZID=America/New_York:20260925T180000
-SUMMARY:Columbia High School vs James Caldwell High School (Varsity Girls
-  Girls Tennis)
+SUMMARY:Columbia High School vs Caldwell High School (Varsity Girls Girls
+  Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -910,9 +910,10 @@ UID:arb:98210515@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T100000
 DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:James Caldwell High School at West Essex High School (Junior Vars
- ity Girls Girls Soccer)
+SUMMARY:[Canceled] James Caldwell High School at West Essex High School (
+ Junior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102430576@super-essex-conference
@@ -922,16 +923,6 @@ DTEND;TZID=America/New_York:20260926T120000
 SUMMARY:West Essex High School vs James Caldwell High School (Varsity Gir
  ls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102782875@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T110000
-DTEND;TZID=America/New_York:20260926T130000
-SUMMARY:[Canceled] Columbia High School at James Caldwell High School (Ju
- nior Varsity Girls Field Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:00 AM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100697131@super-essex-conference
@@ -1091,18 +1082,20 @@ UID:arb:101943288@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
-SUMMARY:James Caldwell High School vs Montville Township High School (Var
- sity Girls Girls Tennis)
+SUMMARY:[Canceled] James Caldwell High School vs Montville Township High 
+ School (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101943275@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
-SUMMARY:James Caldwell High School at Montville Township High School (Jun
- ior Varsity Girls Girls Tennis)
+SUMMARY:[Canceled] James Caldwell High School at Montville Township High 
+ School (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102324837@super-essex-conference
@@ -2368,15 +2361,6 @@ DTEND;TZID=America/New_York:20270119T193000
 SUMMARY:Mount Saint Dominic Academy at James Caldwell High School (Junior
   Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104221094@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270120T183000
-DTEND;TZID=America/New_York:20270120T203000
-SUMMARY:Bloomfield High School at James Caldwell High School (Varsity Boy
- s Swimming)
-DESCRIPTION:Varsity Boys Swimming - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103180465@super-essex-conference

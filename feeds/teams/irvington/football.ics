@@ -157,22 +157,23 @@ SUMMARY:Columbia High School at Irvington High School (Freshman Boys Foot
 DESCRIPTION:Freshman Boys Football - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100384198@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T130000
-DTEND;TZID=America/New_York:20260926T150000
-SUMMARY:Columbia High School vs Irvington High School (Varsity Boys Footb
- all)
-DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100270948@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Columbia High School at Irvington High School (Junior Varsity Boy
- s Football)
+SUMMARY:[Canceled] Columbia High School at Irvington High School (Junior 
+ Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100384198@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T180000
+DTEND;TZID=America/New_York:20260928T200000
+SUMMARY:Columbia High School vs Irvington High School (Varsity Boys Footb
+ all)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99188891@super-essex-conference

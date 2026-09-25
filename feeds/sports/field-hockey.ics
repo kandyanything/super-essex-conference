@@ -1734,18 +1734,10 @@ UID:arb:104062189@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T090000
 DTEND;TZID=America/New_York:20260926T110000
-SUMMARY:Columbia High School vs Governor Livingston High School (Varsity 
- Girls Field Hockey)
+SUMMARY:[Canceled] Columbia High School vs Governor Livingston High Schoo
+ l (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101382181@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T100000
-DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:Millburn High School at Summit High School (Varsity Girls Field H
- ockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102592996@super-essex-conference
@@ -1770,18 +1762,9 @@ UID:arb:104062200@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T103000
 DTEND;TZID=America/New_York:20260926T123000
-SUMMARY:Columbia High School vs Governor Livingston High School (Junior V
- arsity Girls Field Hockey)
+SUMMARY:[Canceled] Columbia High School vs Governor Livingston High Schoo
+ l (Junior Varsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 10:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102782875@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T110000
-DTEND;TZID=America/New_York:20260926T130000
-SUMMARY:[Canceled] Columbia High School at James Caldwell High School (Ju
- nior Varsity Girls Field Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:00 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
@@ -1789,9 +1772,10 @@ UID:arb:102692599@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T130000
-SUMMARY:Montclair High School at Montclair Kimberley Academy (Varsity Gir
- ls Field Hockey)
+SUMMARY:[Canceled] Montclair High School at Montclair Kimberley Academy (
+ Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 11:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103996384@super-essex-conference
@@ -1801,15 +1785,6 @@ DTEND;TZID=America/New_York:20260926T130000
 SUMMARY:Verona High School vs Mount Saint Mary Academy (Junior Varsity Gi
  rls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101382394@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T113000
-DTEND;TZID=America/New_York:20260926T133000
-SUMMARY:Millburn High School at Summit High School (Junior Varsity Girls 
- Field Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:98755385@super-essex-conference
@@ -1884,6 +1859,15 @@ SUMMARY:Livingston High School vs West Essex High School (Freshman Girls
 DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101382181@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Millburn High School at Summit High School (Varsity Girls Field H
+ ockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99973785@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
@@ -1927,6 +1911,15 @@ DTEND;TZID=America/New_York:20260928T193000
 SUMMARY:Glen Ridge High School vs Livingston High School (Junior Varsity 
  Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101382394@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T173000
+DTEND;TZID=America/New_York:20260928T193000
+SUMMARY:Millburn High School at Summit High School (Junior Varsity Girls 
+ Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99973794@super-essex-conference

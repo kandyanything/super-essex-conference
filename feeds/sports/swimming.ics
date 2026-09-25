@@ -81,9 +81,9 @@ UID:arb:104281782@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T200000
 DTEND;TZID=America/New_York:20261214T220000
-SUMMARY:West Essex High School vs Glen Ridge High School (Varsity Boys Sw
+SUMMARY:Glen Ridge High School at West Essex High School (Varsity Boys Sw
  imming)
-DESCRIPTION:Varsity Boys Swimming - Home - 8:00 PM
+DESCRIPTION:Varsity Boys Swimming - Away - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104221059@super-essex-conference
@@ -117,9 +117,9 @@ UID:arb:104281808@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T200000
 DTEND;TZID=America/New_York:20270105T220000
-SUMMARY:West Essex High School vs Bloomfield High School (Varsity Boys Sw
+SUMMARY:Bloomfield High School at West Essex High School (Varsity Boys Sw
  imming)
-DESCRIPTION:Varsity Boys Swimming - Home - 8:00 PM
+DESCRIPTION:Varsity Boys Swimming - Away - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104231583@super-essex-conference
@@ -140,6 +140,15 @@ SUMMARY:Saint Benedict's Prep at James Caldwell High School (Varsity Boys
 DESCRIPTION:Varsity Boys Swimming - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104281826@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T200000
+DTEND;TZID=America/New_York:20270108T220000
+SUMMARY:East Side High School at West Essex High School (Varsity Boys Swi
+ mming)
+DESCRIPTION:Varsity Boys Swimming - Away - 8:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104281604@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T153000
@@ -156,15 +165,6 @@ DTEND;TZID=America/New_York:20270114T180000
 SUMMARY:Montclair Kimberley Academy at West Orange High School (Varsity B
  oys Swimming)
 DESCRIPTION:Varsity Boys Swimming - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104221094@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270120T183000
-DTEND;TZID=America/New_York:20270120T203000
-SUMMARY:Bloomfield High School at James Caldwell High School (Varsity Boy
- s Swimming)
-DESCRIPTION:Varsity Boys Swimming - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104221109@super-essex-conference

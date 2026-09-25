@@ -1241,9 +1241,9 @@ UID:arb:99415738@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T120000
 DTEND;TZID=America/New_York:20260926T140000
-SUMMARY:Glen Ridge High School vs Wallkill Valley Regional High School (V
+SUMMARY:Glen Ridge High School at Wallkill Valley Regional High School (V
  arsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 12:00 PM
+DESCRIPTION:Varsity Boys Football - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99051583@super-essex-conference
@@ -1280,6 +1280,15 @@ DTEND;TZID=America/New_York:20260928T193000
 SUMMARY:Glen Ridge High School vs Livingston High School (Junior Varsity 
  Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104290541@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T040000
+DTEND;TZID=America/New_York:20260929T060000
+SUMMARY:Glen Ridge High School vs Verona High School (Junior Varsity Girl
+ s Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103223344@super-essex-conference
@@ -1382,6 +1391,14 @@ SUMMARY:Glen Ridge High School at Scotch Plains-Fanwood High School (Juni
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104290610@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T150000
+DTEND;TZID=America/New_York:20261001T170000
+SUMMARY:Glen Ridge High School vs TBD (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103871614@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
@@ -1453,6 +1470,15 @@ DTEND;TZID=America/New_York:20261003T170000
 SUMMARY:Glen Ridge High School at Lyndhurst High School (Varsity Boys Boy
  s Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104290594@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Glen Ridge High School vs Verona High School (Varsity Girls Girls
+  Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103947617@super-essex-conference
@@ -2124,9 +2150,9 @@ UID:arb:104281782@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T200000
 DTEND;TZID=America/New_York:20261214T220000
-SUMMARY:West Essex High School vs Glen Ridge High School (Varsity Boys Sw
+SUMMARY:Glen Ridge High School at West Essex High School (Varsity Boys Sw
  imming)
-DESCRIPTION:Varsity Boys Swimming - Home - 8:00 PM
+DESCRIPTION:Varsity Boys Swimming - Away - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549879@super-essex-conference

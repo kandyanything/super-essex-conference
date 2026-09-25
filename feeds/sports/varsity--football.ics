@@ -947,6 +947,15 @@ SUMMARY:Weequahic High School vs West Essex High School (Varsity Boys Foo
 DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100384839@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T100000
+DTEND;TZID=America/New_York:20260926T120000
+SUMMARY:Barringer High School vs Bloomfield High School (Varsity Boys Foo
+ tball)
+DESCRIPTION:Varsity Boys Football - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100309210@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T120000
@@ -959,9 +968,9 @@ UID:arb:99415738@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T120000
 DTEND;TZID=America/New_York:20260926T140000
-SUMMARY:Glen Ridge High School vs Wallkill Valley Regional High School (V
+SUMMARY:Glen Ridge High School at Wallkill Valley Regional High School (V
  arsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 12:00 PM
+DESCRIPTION:Varsity Boys Football - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100223128@super-essex-conference
@@ -971,24 +980,6 @@ DTEND;TZID=America/New_York:20260926T140000
 SUMMARY:Malcolm X Shabazz High School at Bayonne High School (Varsity Boy
  s Football)
 DESCRIPTION:Varsity Boys Football - Away - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100384839@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T130000
-DTEND;TZID=America/New_York:20260926T150000
-SUMMARY:Barringer High School vs Bloomfield High School (Varsity Boys Foo
- tball)
-DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100384198@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T130000
-DTEND;TZID=America/New_York:20260926T150000
-SUMMARY:Columbia High School vs Irvington High School (Varsity Boys Footb
- all)
-DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100100594@super-essex-conference
@@ -1016,6 +1007,15 @@ DTEND;TZID=America/New_York:20260926T150000
 SUMMARY:West Side High School vs Hudson Catholic Regional High School (Va
  rsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100384198@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T180000
+DTEND;TZID=America/New_York:20260928T200000
+SUMMARY:Columbia High School vs Irvington High School (Varsity Boys Footb
+ all)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99310879@super-essex-conference

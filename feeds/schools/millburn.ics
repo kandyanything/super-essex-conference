@@ -1570,24 +1570,6 @@ SUMMARY:Millburn High School vs Bernards High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101382181@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T100000
-DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:Millburn High School at Summit High School (Varsity Girls Field H
- ockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101382394@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T113000
-DTEND;TZID=America/New_York:20260926T133000
-SUMMARY:Millburn High School at Summit High School (Junior Varsity Girls 
- Field Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103046529@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
@@ -1615,6 +1597,15 @@ SUMMARY:Millburn High School at Ridge High School (Junior Varsity Boys Bo
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101382181@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Millburn High School at Summit High School (Varsity Girls Field H
+ ockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99046953@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
@@ -1640,6 +1631,15 @@ DTEND;TZID=America/New_York:20260928T191500
 SUMMARY:Millburn High School at Montclair High School (Junior Varsity Gir
  ls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101382394@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T173000
+DTEND;TZID=America/New_York:20260928T193000
+SUMMARY:Millburn High School at Summit High School (Junior Varsity Girls 
+ Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104023884@super-essex-conference
@@ -3691,15 +3691,6 @@ SUMMARY:Millburn High School vs Essex County-Payne Tech High School (Juni
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102406056@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270409T160000
-DTEND;TZID=America/New_York:20270409T180000
-SUMMARY:Livingston High School vs Millburn High School (Varsity Boys Boys
-  Volleyball)
-DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102581284@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270409T160000
@@ -3709,13 +3700,22 @@ SUMMARY:Millburn High School vs Saint Vincent Academy (Varsity Girls Soft
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102406056@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270409T160000
+DTEND;TZID=America/New_York:20270409T180000
+SUMMARY:Millburn High School at Livingston High School (Varsity Boys Boys
+  Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102406041@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270409T171500
 DTEND;TZID=America/New_York:20270409T191500
-SUMMARY:Livingston High School vs Millburn High School (Junior Varsity Bo
+SUMMARY:Millburn High School at Livingston High School (Junior Varsity Bo
  ys Boys Volleyball)
-DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102581577@super-essex-conference

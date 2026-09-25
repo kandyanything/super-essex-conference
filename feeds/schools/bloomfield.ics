@@ -1448,9 +1448,10 @@ UID:arb:101509312@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T160000
 DTEND;TZID=America/New_York:20260925T180000
-SUMMARY:Bloomfield High School at East Side High School - Newark (Junior 
- Varsity Girls Girls Tennis)
+SUMMARY:[Canceled] Bloomfield High School at East Side High School - Newa
+ rk (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100042855@super-essex-conference
@@ -1515,6 +1516,15 @@ SUMMARY:Bloomfield High School vs Montclair High School (Freshman Boys Fo
 DESCRIPTION:Freshman Boys Football - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100384839@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T100000
+DTEND;TZID=America/New_York:20260926T120000
+SUMMARY:Barringer High School vs Bloomfield High School (Varsity Boys Foo
+ tball)
+DESCRIPTION:Varsity Boys Football - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103844767@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T110000
@@ -1531,15 +1541,6 @@ DTEND;TZID=America/New_York:20260926T130000
 SUMMARY:Bloomfield High School vs Verona High School (Varsity Girls Girls
   Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100384839@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T130000
-DTEND;TZID=America/New_York:20260926T150000
-SUMMARY:Barringer High School vs Bloomfield High School (Varsity Boys Foo
- tball)
-DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103100695@super-essex-conference
@@ -2809,9 +2810,9 @@ UID:arb:104281808@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T200000
 DTEND;TZID=America/New_York:20270105T220000
-SUMMARY:West Essex High School vs Bloomfield High School (Varsity Boys Sw
+SUMMARY:Bloomfield High School at West Essex High School (Varsity Boys Sw
  imming)
-DESCRIPTION:Varsity Boys Swimming - Home - 8:00 PM
+DESCRIPTION:Varsity Boys Swimming - Away - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102740767@super-essex-conference
@@ -3209,15 +3210,6 @@ DTEND;TZID=America/New_York:20270119T210000
 SUMMARY:Bloomfield High School at Montclair High School (Varsity Boys Boy
  s Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104221094@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270120T183000
-DTEND;TZID=America/New_York:20270120T203000
-SUMMARY:Bloomfield High School at James Caldwell High School (Varsity Boy
- s Swimming)
-DESCRIPTION:Varsity Boys Swimming - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103169944@super-essex-conference

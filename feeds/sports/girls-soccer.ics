@@ -2791,9 +2791,10 @@ UID:arb:98210515@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T100000
 DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:James Caldwell High School at West Essex High School (Junior Vars
- ity Girls Girls Soccer)
+SUMMARY:[Canceled] James Caldwell High School at West Essex High School (
+ Junior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102156216@super-essex-conference
@@ -2874,18 +2875,20 @@ UID:arb:102566564@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T130000
-SUMMARY:Livingston High School at Morristown High School (Freshman Girls 
- Girls Soccer)
+SUMMARY:[Canceled] Livingston High School at Morristown High School (Fres
+ hman Girls Girls Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Away - 11:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102314519@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T130000
-SUMMARY:Livingston High School vs Morristown High School (Junior Varsity 
- Girls Girls Soccer)
+SUMMARY:[Canceled] Livingston High School vs Morristown High School (Juni
+ or Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 11:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102314320@super-essex-conference
@@ -2919,9 +2922,10 @@ UID:arb:102302450@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T133000
 DTEND;TZID=America/New_York:20260926T153000
-SUMMARY:Montclair Kimberley Academy at Blair Academy (Varsity Girls Girls
-  Soccer)
+SUMMARY:[Canceled] Montclair Kimberley Academy at Blair Academy (Varsity 
+ Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 1:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102302602@super-essex-conference
@@ -3394,9 +3398,10 @@ UID:arb:102952456@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T163000
 DTEND;TZID=America/New_York:20261001T183000
-SUMMARY:Golda Och Academy vs Bayonne High School (Middle School Girls Gir
- ls Soccer)
+SUMMARY:[Canceled] Golda Och Academy vs Bayonne High School (Middle Schoo
+ l Girls Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100663065@super-essex-conference
@@ -5380,6 +5385,15 @@ DTEND;TZID=America/New_York:20261029T181500
 SUMMARY:Montclair Kimberley Academy vs Rutgers Prep School (Middle School
   Girls Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104282182@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T163000
+DTEND;TZID=America/New_York:20261029T183000
+SUMMARY:East Side High School vs Roselle Park High School (Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102668004@super-essex-conference

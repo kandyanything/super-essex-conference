@@ -46,18 +46,27 @@ UID:arb:104281782@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T200000
 DTEND;TZID=America/New_York:20261214T220000
-SUMMARY:West Essex High School vs Glen Ridge High School (Varsity Boys Sw
+SUMMARY:Glen Ridge High School at West Essex High School (Varsity Boys Sw
  imming)
-DESCRIPTION:Varsity Boys Swimming - Home - 8:00 PM
+DESCRIPTION:Varsity Boys Swimming - Away - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104281808@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T200000
 DTEND;TZID=America/New_York:20270105T220000
-SUMMARY:West Essex High School vs Bloomfield High School (Varsity Boys Sw
+SUMMARY:Bloomfield High School at West Essex High School (Varsity Boys Sw
  imming)
-DESCRIPTION:Varsity Boys Swimming - Home - 8:00 PM
+DESCRIPTION:Varsity Boys Swimming - Away - 8:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104281826@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T200000
+DTEND;TZID=America/New_York:20270108T220000
+SUMMARY:East Side High School at West Essex High School (Varsity Boys Swi
+ mming)
+DESCRIPTION:Varsity Boys Swimming - Away - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104221109@super-essex-conference

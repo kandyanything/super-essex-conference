@@ -1542,9 +1542,10 @@ UID:arb:98210515@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T100000
 DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:James Caldwell High School at West Essex High School (Junior Vars
- ity Girls Girls Soccer)
+SUMMARY:[Canceled] James Caldwell High School at West Essex High School (
+ Junior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102430576@super-essex-conference
@@ -1855,24 +1856,6 @@ SUMMARY:West Essex High School vs Chatham High School (Freshman Girls Fie
 DESCRIPTION:Freshman Girls Field Hockey - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102640189@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261002T160000
-DTEND;TZID=America/New_York:20261002T180000
-SUMMARY:Cedar Grove High School vs West Essex High School (Junior Varsity
-  Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102640169@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261002T160000
-DTEND;TZID=America/New_York:20261002T180000
-SUMMARY:Cedar Grove High School at West Essex High School (Varsity Girls 
- Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102330402@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T160000
@@ -2034,6 +2017,24 @@ DTEND;TZID=America/New_York:20261005T191500
 SUMMARY:Montclair High School at West Essex High School (Junior Varsity G
  irls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102640189@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Cedar Grove High School vs West Essex High School (Junior Varsity
+  Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102640169@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Cedar Grove High School at West Essex High School (Varsity Girls 
+ Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101729515@super-essex-conference
@@ -3374,9 +3375,9 @@ UID:arb:104281782@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T200000
 DTEND;TZID=America/New_York:20261214T220000
-SUMMARY:West Essex High School vs Glen Ridge High School (Varsity Boys Sw
+SUMMARY:Glen Ridge High School at West Essex High School (Varsity Boys Sw
  imming)
-DESCRIPTION:Varsity Boys Swimming - Home - 8:00 PM
+DESCRIPTION:Varsity Boys Swimming - Away - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549879@super-essex-conference
@@ -3742,9 +3743,9 @@ UID:arb:104281808@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T200000
 DTEND;TZID=America/New_York:20270105T220000
-SUMMARY:West Essex High School vs Bloomfield High School (Varsity Boys Sw
+SUMMARY:Bloomfield High School at West Essex High School (Varsity Boys Sw
  imming)
-DESCRIPTION:Varsity Boys Swimming - Home - 8:00 PM
+DESCRIPTION:Varsity Boys Swimming - Away - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103180426@super-essex-conference
@@ -3817,6 +3818,15 @@ DTEND;TZID=America/New_York:20270108T200000
 SUMMARY:Saint Benedict's Prep vs West Essex High School (Varsity Boys Boy
  s Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104281826@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T200000
+DTEND;TZID=America/New_York:20270108T220000
+SUMMARY:East Side High School at West Essex High School (Varsity Boys Swi
+ mming)
+DESCRIPTION:Varsity Boys Swimming - Away - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102187257@super-essex-conference
@@ -4313,15 +4323,6 @@ DTEND;TZID=America/New_York:20270129T200000
 SUMMARY:West Essex High School vs Morris Catholic High School (Varsity Gi
  rls Girls Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104136428@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270129T180000
-DTEND;TZID=America/New_York:20270129T200000
-SUMMARY:West Essex High School vs Morris Catholic High School (Varsity Bo
- ys Boys Fencing)
-DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100550397@super-essex-conference
