@@ -1692,6 +1692,24 @@ SUMMARY:Columbia High School vs Cranford High School (Junior Varsity Girl
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104279210@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Columbia High School vs Essex County-Payne Tech High School (Fres
+ hman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104279175@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Columbia High School at Essex County-Payne Tech High School (Vars
+ ity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104076038@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
@@ -1699,24 +1717,6 @@ DTEND;TZID=America/New_York:20261005T180000
 SUMMARY:Columbia High School at Montclair Kimberley Academy (Junior Varsi
  ty Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103123398@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T160000
-DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Columbia High School at Essex County-Payne Tech High School (Fres
- hman Girls Girls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:99051604@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T160000
-DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Columbia High School vs Essex County-Payne Tech High School (Vars
- ity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102575866@super-essex-conference
@@ -1765,13 +1765,13 @@ SUMMARY:Columbia High School at Eastside High School - Paterson (Junior V
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99051596@super-essex-conference
+UID:arb:104279182@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T171500
 DTEND;TZID=America/New_York:20261005T191500
-SUMMARY:Columbia High School vs Essex County-Payne Tech High School (Juni
+SUMMARY:Columbia High School at Essex County-Payne Tech High School (Juni
  or Varsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101622417@super-essex-conference
@@ -2707,6 +2707,15 @@ DTEND;TZID=America/New_York:20270112T210000
 SUMMARY:East Side High School at Columbia High School (Varsity Boys Boys 
  Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104281604@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T153000
+DTEND;TZID=America/New_York:20270113T173000
+SUMMARY:Columbia High School at Montclair High School (Varsity Boys Swimm
+ ing)
+DESCRIPTION:Varsity Boys Swimming - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104183589@super-essex-conference

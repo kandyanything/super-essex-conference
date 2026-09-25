@@ -1264,9 +1264,10 @@ UID:arb:102336572@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T130000
-SUMMARY:Livingston High School vs Orange High School (Junior Varsity Boys
-  Boys Soccer)
+SUMMARY:[Canceled] Livingston High School vs Orange High School (Junior V
+ arsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 11:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101592237@super-essex-conference
@@ -1360,6 +1361,15 @@ DTEND;TZID=America/New_York:20260928T180000
 SUMMARY:Montclair High School vs James Caldwell High School (Junior Varsi
  ty Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104280262@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Newark Tech at James J. Ferris High School (Junior Varsity Boys B
+ oys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101364194@super-essex-conference

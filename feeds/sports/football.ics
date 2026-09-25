@@ -2021,14 +2021,6 @@ SUMMARY:Montclair High School vs Hackensack High School (Varsity Boys Foo
 DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99310879@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T130000
-DTEND;TZID=America/New_York:20260926T150000
-SUMMARY:Orange High School vs Lincoln High School (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99665564@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T130000
@@ -2154,6 +2146,14 @@ DTEND;TZID=America/New_York:20260928T190000
 SUMMARY:Malcolm X Shabazz High School vs Bayonne High School (Junior Vars
  ity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99310879@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T180000
+DTEND;TZID=America/New_York:20260928T200000
+SUMMARY:Orange High School vs Lincoln High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100967025@super-essex-conference

@@ -547,9 +547,10 @@ UID:arb:103140555@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T160000
 DTEND;TZID=America/New_York:20260924T180000
-SUMMARY:Belleville High School vs Essex County-Newark Tech High School (F
- reshman Girls Girls Volleyball)
+SUMMARY:[Canceled] Belleville High School vs Essex County-Newark Tech Hig
+ h School (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102584030@super-essex-conference
@@ -568,6 +569,15 @@ DTEND;TZID=America/New_York:20260924T191500
 SUMMARY:Belleville High School at Essex County-Newark Tech High School (J
  unior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104280262@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Newark Tech at James J. Ferris High School (Junior Varsity Boys B
+ oys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103016686@super-essex-conference

@@ -33,6 +33,15 @@ SUMMARY:Montclair High School at Rutherford High School (Varsity Boys Swi
 DESCRIPTION:Varsity Boys Swimming - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104281597@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261204T153000
+DTEND;TZID=America/New_York:20261204T173000
+SUMMARY:Montclair High School vs Seton Hall Preparatory School (Varsity B
+ oys Swimming)
+DESCRIPTION:Varsity Boys Swimming - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104231583@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T160000
@@ -40,5 +49,14 @@ DTEND;TZID=America/New_York:20270106T180000
 SUMMARY:Montclair High School at West Orange High School (Varsity Boys Sw
  imming)
 DESCRIPTION:Varsity Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104281604@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T153000
+DTEND;TZID=America/New_York:20270113T173000
+SUMMARY:Columbia High School at Montclair High School (Varsity Boys Swimm
+ ing)
+DESCRIPTION:Varsity Boys Swimming - Away - 3:30 PM
 END:VEVENT
 END:VCALENDAR
