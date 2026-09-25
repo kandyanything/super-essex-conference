@@ -1356,11 +1356,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:101771916@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T180000
-DTEND;TZID=America/New_York:20261003T200000
+DTSTART;TZID=America/New_York:20261003T130000
+DTEND;TZID=America/New_York:20261003T150000
 SUMMARY:Nutley High School at Glen Rock High School (Varsity Girls Girls 
  Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102578843@super-essex-conference
@@ -1559,6 +1559,15 @@ DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Montclair Kimberley Academy at Nutley High School (Varsity Girls 
  Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104275746@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T160000
+DTEND;TZID=America/New_York:20261008T180000
+SUMMARY:Nutley High School vs Science Park High School (Varsity Girls Gir
+ ls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103883008@super-essex-conference
