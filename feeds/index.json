@@ -1,6 +1,6 @@
 {
   "conference": "Super Essex Conference",
-  "generated": "2026-09-25T19:04:54.723Z",
+  "generated": "2026-09-25T23:44:29.407Z",
   "all": "feeds/all.ics",
   "rss": "feeds/rss.xml",
   "teams": "feeds/teams.json",
@@ -24,21 +24,21 @@
       "slug": "barringer",
       "path": "feeds/schools/barringer.ics",
       "rss": "feeds/schools/barringer.xml",
-      "games": 201
+      "games": 202
     },
     {
       "name": "Belleville High School",
       "slug": "belleville",
       "path": "feeds/schools/belleville.ics",
       "rss": "feeds/schools/belleville.xml",
-      "games": 381
+      "games": 383
     },
     {
       "name": "Bloomfield High School",
       "slug": "bloomfield",
       "path": "feeds/schools/bloomfield.ics",
       "rss": "feeds/schools/bloomfield.xml",
-      "games": 443
+      "games": 444
     },
     {
       "name": "Cedar Grove High School",
@@ -80,7 +80,7 @@
       "slug": "east-side",
       "path": "feeds/schools/east-side.ics",
       "rss": "feeds/schools/east-side.xml",
-      "games": 283
+      "games": 285
     },
     {
       "name": "Glen Ridge High School",
@@ -94,7 +94,7 @@
       "slug": "golda-och",
       "path": "feeds/schools/golda-och.ics",
       "rss": "feeds/schools/golda-och.xml",
-      "games": 156
+      "games": 157
     },
     {
       "name": "Irvington High School",
@@ -108,14 +108,14 @@
       "slug": "james-caldwell",
       "path": "feeds/schools/james-caldwell.ics",
       "rss": "feeds/schools/james-caldwell.xml",
-      "games": 338
+      "games": 339
     },
     {
       "name": "Livingston High School",
       "slug": "livingston",
       "path": "feeds/schools/livingston.ics",
       "rss": "feeds/schools/livingston.xml",
-      "games": 460
+      "games": 461
     },
     {
       "name": "Malcolm X Shabazz High School",
@@ -206,7 +206,7 @@
       "slug": "payne-tech",
       "path": "feeds/schools/payne-tech.ics",
       "rss": "feeds/schools/payne-tech.xml",
-      "games": 212
+      "games": 213
     },
     {
       "name": "Saint Benedict's Prep",
@@ -234,7 +234,7 @@
       "slug": "seton-hall-prep",
       "path": "feeds/schools/seton-hall-prep.ics",
       "rss": "feeds/schools/seton-hall-prep.xml",
-      "games": 191
+      "games": 201
     },
     {
       "name": "Technology High School",
@@ -255,7 +255,7 @@
       "slug": "verona",
       "path": "feeds/schools/verona.ics",
       "rss": "feeds/schools/verona.xml",
-      "games": 349
+      "games": 350
     },
     {
       "name": "Weequahic High School",
@@ -334,14 +334,14 @@
       "slug": "baseball",
       "path": "feeds/sports/baseball.ics",
       "rss": "feeds/sports/baseball.xml",
-      "games": 227
+      "games": 226
     },
     {
       "name": "Boys Basketball",
       "slug": "boys-basketball",
       "path": "feeds/sports/boys-basketball.ics",
       "rss": "feeds/sports/boys-basketball.xml",
-      "games": 892
+      "games": 895
     },
     {
       "name": "Boys Cross Country",
@@ -369,14 +369,14 @@
       "slug": "boys-lacrosse",
       "path": "feeds/sports/boys-lacrosse.ics",
       "rss": "feeds/sports/boys-lacrosse.xml",
-      "games": 16
+      "games": 26
     },
     {
       "name": "Boys Soccer",
       "slug": "boys-soccer",
       "path": "feeds/sports/boys-soccer.ics",
       "rss": "feeds/sports/boys-soccer.xml",
-      "games": 844
+      "games": 845
     },
     {
       "name": "Boys Tennis",
@@ -397,7 +397,7 @@
       "slug": "boys-volleyball",
       "path": "feeds/sports/boys-volleyball.ics",
       "rss": "feeds/sports/boys-volleyball.xml",
-      "games": 412
+      "games": 411
     },
     {
       "name": "Boys Water Polo",
@@ -460,7 +460,7 @@
       "slug": "field-hockey",
       "path": "feeds/sports/field-hockey.ics",
       "rss": "feeds/sports/field-hockey.xml",
-      "games": 360
+      "games": 361
     },
     {
       "name": "Football",
@@ -516,21 +516,21 @@
       "slug": "girls-soccer",
       "path": "feeds/sports/girls-soccer.ics",
       "rss": "feeds/sports/girls-soccer.xml",
-      "games": 591
+      "games": 592
     },
     {
       "name": "Girls Tennis",
       "slug": "girls-tennis",
       "path": "feeds/sports/girls-tennis.ics",
       "rss": "feeds/sports/girls-tennis.xml",
-      "games": 256
+      "games": 257
     },
     {
       "name": "Girls Volleyball",
       "slug": "girls-volleyball",
       "path": "feeds/sports/girls-volleyball.ics",
       "rss": "feeds/sports/girls-volleyball.xml",
-      "games": 1312
+      "games": 1314
     },
     {
       "name": "Girls Wrestling",
@@ -593,7 +593,7 @@
       "slug": "unified-sports-soccer",
       "path": "feeds/sports/unified-sports-soccer.ics",
       "rss": "feeds/sports/unified-sports-soccer.xml",
-      "games": 2
+      "games": 3
     }
   ],
   "sportLevels": [
@@ -613,7 +613,7 @@
       "slug": "varsity--baseball",
       "path": "feeds/sports/varsity--baseball.ics",
       "rss": "feeds/sports/varsity--baseball.xml",
-      "games": 186
+      "games": 185
     },
     {
       "sport": "Boys Basketball",
@@ -622,7 +622,7 @@
       "slug": "freshman--boys-basketball",
       "path": "feeds/sports/freshman--boys-basketball.ics",
       "rss": "feeds/sports/freshman--boys-basketball.xml",
-      "games": 192
+      "games": 193
     },
     {
       "sport": "Boys Basketball",
@@ -631,7 +631,7 @@
       "slug": "junior-varsity--boys-basketball",
       "path": "feeds/sports/junior-varsity--boys-basketball.ics",
       "rss": "feeds/sports/junior-varsity--boys-basketball.xml",
-      "games": 323
+      "games": 324
     },
     {
       "sport": "Boys Basketball",
@@ -649,7 +649,7 @@
       "slug": "varsity--boys-basketball",
       "path": "feeds/sports/varsity--boys-basketball.ics",
       "rss": "feeds/sports/varsity--boys-basketball.xml",
-      "games": 363
+      "games": 364
     },
     {
       "sport": "Boys Cross Country",
@@ -730,7 +730,7 @@
       "slug": "varsity--boys-lacrosse",
       "path": "feeds/sports/varsity--boys-lacrosse.ics",
       "rss": "feeds/sports/varsity--boys-lacrosse.xml",
-      "games": 11
+      "games": 21
     },
     {
       "sport": "Boys Soccer",
@@ -766,7 +766,7 @@
       "slug": "varsity--boys-soccer",
       "path": "feeds/sports/varsity--boys-soccer.ics",
       "rss": "feeds/sports/varsity--boys-soccer.xml",
-      "games": 416
+      "games": 417
     },
     {
       "sport": "Boys Tennis",
@@ -829,7 +829,7 @@
       "slug": "varsity--boys-volleyball",
       "path": "feeds/sports/varsity--boys-volleyball.ics",
       "rss": "feeds/sports/varsity--boys-volleyball.xml",
-      "games": 211
+      "games": 210
     },
     {
       "sport": "Boys Water Polo",
@@ -946,7 +946,7 @@
       "slug": "middle-school--field-hockey",
       "path": "feeds/sports/middle-school--field-hockey.ics",
       "rss": "feeds/sports/middle-school--field-hockey.xml",
-      "games": 26
+      "games": 27
     },
     {
       "sport": "Field Hockey",
@@ -1126,7 +1126,7 @@
       "slug": "middle-school--girls-soccer",
       "path": "feeds/sports/middle-school--girls-soccer.ics",
       "rss": "feeds/sports/middle-school--girls-soccer.xml",
-      "games": 34
+      "games": 35
     },
     {
       "sport": "Girls Soccer",
@@ -1153,7 +1153,7 @@
       "slug": "varsity--girls-tennis",
       "path": "feeds/sports/varsity--girls-tennis.ics",
       "rss": "feeds/sports/varsity--girls-tennis.xml",
-      "games": 170
+      "games": 171
     },
     {
       "sport": "Girls Volleyball",
@@ -1189,7 +1189,7 @@
       "slug": "varsity--girls-volleyball",
       "path": "feeds/sports/varsity--girls-volleyball.ics",
       "rss": "feeds/sports/varsity--girls-volleyball.xml",
-      "games": 598
+      "games": 600
     },
     {
       "sport": "Girls Wrestling",

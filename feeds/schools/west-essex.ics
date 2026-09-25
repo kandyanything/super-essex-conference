@@ -1529,6 +1529,15 @@ SUMMARY:West Essex High School vs Hoboken High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101402093@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T160000
+DTEND;TZID=America/New_York:20260925T180000
+SUMMARY:West Essex High School at Sparta High School (Middle School Girls
+  Field Hockey)
+DESCRIPTION:Middle School Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99920779@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T190000
@@ -4656,15 +4665,6 @@ DTEND;TZID=America/New_York:20270407T180000
 SUMMARY:Livingston High School at West Essex High School (Junior Varsity 
  Boys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102565126@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270407T160000
-DTEND;TZID=America/New_York:20270407T180000
-SUMMARY:Livingston High School at West Essex High School (Varsity Boys Ba
- seball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102462099@super-essex-conference

@@ -60,6 +60,15 @@ SUMMARY:West Essex High School vs Pope John XXIII High School (Middle Sch
 DESCRIPTION:Middle School Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101402093@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T160000
+DTEND;TZID=America/New_York:20260925T180000
+SUMMARY:West Essex High School at Sparta High School (Middle School Girls
+  Field Hockey)
+DESCRIPTION:Middle School Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102905693@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T160000

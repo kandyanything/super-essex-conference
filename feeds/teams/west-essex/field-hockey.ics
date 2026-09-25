@@ -278,6 +278,15 @@ SUMMARY:West Essex High School vs Arthur L. Johnson High School (Junior V
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101402093@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T160000
+DTEND;TZID=America/New_York:20260925T180000
+SUMMARY:West Essex High School at Sparta High School (Middle School Girls
+  Field Hockey)
+DESCRIPTION:Middle School Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:98755385@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T120000

@@ -2041,6 +2041,16 @@ SUMMARY:West Side High School vs Empowerment Academy Charter School (Vars
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101481241@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T161500
+DTEND;TZID=America/New_York:20260925T181500
+SUMMARY:[Canceled] Belleville High School at Passaic Arts & Science Chart
+ er School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101989969@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T163000
@@ -2101,9 +2111,10 @@ UID:arb:104098672@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T130000
 DTEND;TZID=America/New_York:20260926T150000
-SUMMARY:Montclair Kimberley Academy at Saint Peter's Prep High School (Va
- rsity Boys Boys Soccer)
+SUMMARY:[Canceled] Montclair Kimberley Academy at Saint Peter's Prep High
+  School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 1:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104264693@super-essex-conference
@@ -2140,9 +2151,10 @@ UID:arb:101240132@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T170000
 DTEND;TZID=America/New_York:20260926T190000
-SUMMARY:Nutley High School at Kearny High School (Varsity Boys Boys Socce
- r)
+SUMMARY:[Canceled] Nutley High School at Kearny High School (Varsity Boys
+  Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 5:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101688406@super-essex-conference

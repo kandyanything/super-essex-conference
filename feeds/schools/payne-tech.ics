@@ -556,6 +556,14 @@ DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103410221@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T160000
+DTEND;TZID=America/New_York:20260925T180000
+SUMMARY:Payne Tech at West Caldwell Tech (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101300703@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
