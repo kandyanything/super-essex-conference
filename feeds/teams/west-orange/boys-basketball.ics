@@ -24,6 +24,24 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:104307330@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T153000
+DTEND;TZID=America/New_York:20261215T173000
+SUMMARY:West Orange High School at Saint John Vianney High School (Freshm
+ an Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104307325@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T170000
+DTEND;TZID=America/New_York:20261215T190000
+SUMMARY:West Orange High School at Saint John Vianney High School (Junior
+  Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100549952@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T173000
@@ -31,6 +49,15 @@ DTEND;TZID=America/New_York:20261215T193000
 SUMMARY:Science Park High School at West Orange High School (Junior Varsi
  ty Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104307321@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T183000
+DTEND;TZID=America/New_York:20261215T203000
+SUMMARY:West Orange High School at Saint John Vianney High School (Varsit
+ y Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549928@super-essex-conference

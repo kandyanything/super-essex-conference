@@ -106,6 +106,16 @@ DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 10:30 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102782875@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T110000
+DTEND;TZID=America/New_York:20260926T130000
+SUMMARY:[Canceled] Columbia High School at James Caldwell High School (Ju
+ nior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103184564@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T173000
@@ -113,16 +123,6 @@ DTEND;TZID=America/New_York:20260928T193000
 SUMMARY:Columbia High School at Scotch Plains-Fanwood High School (Junior
   Varsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101622413@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T174500
-DTEND;TZID=America/New_York:20260930T194500
-SUMMARY:[Canceled] Columbia High School vs Newark Academy (Junior Varsity
-  Girls Field Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:45 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103357348@super-essex-conference
