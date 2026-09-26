@@ -28,9 +28,9 @@ UID:arb:102405985@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270329T160000
 DTEND;TZID=America/New_York:20270329T180000
-SUMMARY:Livingston High School vs Bloomfield High School (Varsity Boys Bo
+SUMMARY:Bloomfield High School at Livingston High School (Varsity Boys Bo
  ys Volleyball)
-DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102408662@super-essex-conference
@@ -60,22 +60,40 @@ SUMMARY:Belleville High School at Livingston High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102403642@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270407T160000
+DTEND;TZID=America/New_York:20270407T180000
+SUMMARY:Livingston High School at West Caldwell Tech (Varsity Boys Boys V
+ olleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102406056@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270409T160000
 DTEND;TZID=America/New_York:20270409T180000
-SUMMARY:Millburn High School at Livingston High School (Varsity Boys Boys
+SUMMARY:Livingston High School vs Millburn High School (Varsity Boys Boys
   Volleyball)
-DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102407451@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T160000
+DTEND;TZID=America/New_York:20270412T180000
+SUMMARY:Bloomfield High School vs Livingston High School (Varsity Boys Bo
+ ys Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102406078@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T160000
 DTEND;TZID=America/New_York:20270414T180000
-SUMMARY:Payne Tech at Livingston High School (Varsity Boys Boys Volleybal
- l)
-DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
+SUMMARY:Livingston High School vs Essex County-Payne Tech High School (Va
+ rsity Boys Boys Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102405658@super-essex-conference
@@ -87,12 +105,30 @@ SUMMARY:Belleville High School vs Livingston High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102406148@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270505T160000
+DTEND;TZID=America/New_York:20270505T180000
+SUMMARY:Livingston High School vs West Caldwell Tech (Varsity Boys Boys V
+ olleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102404983@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270512T160000
 DTEND;TZID=America/New_York:20270512T180000
-SUMMARY:Millburn High School vs Livingston High School (Varsity Boys Boys
+SUMMARY:Livingston High School at Millburn High School (Varsity Boys Boys
   Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102406163@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270514T160000
+DTEND;TZID=America/New_York:20270514T180000
+SUMMARY:Livingston High School vs West Essex High School (Varsity Boys Bo
+ ys Volleyball)
 DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 END:VCALENDAR

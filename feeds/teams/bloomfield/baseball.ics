@@ -23,85 +23,148 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:104104424@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270315T160000
+DTEND;TZID=America/New_York:20270315T180000
+SUMMARY:Bloomfield High School vs Memorial High School (Junior Varsity Bo
+ ys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104104506@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270319T160000
+DTEND;TZID=America/New_York:20270319T180000
+SUMMARY:Bloomfield High School vs Bergen Arts and Science Charter School 
+ (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104104476@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270319T160000
+DTEND;TZID=America/New_York:20270319T180000
+SUMMARY:Bloomfield High School vs Bergen Arts and Science Charter School 
+ (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104104615@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270320T100000
+DTEND;TZID=America/New_York:20270320T120000
+SUMMARY:Bloomfield High School vs Hoboken High School (Junior Varsity Boy
+ s Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104104538@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270320T130000
+DTEND;TZID=America/New_York:20270320T150000
+SUMMARY:Bloomfield High School vs Hoboken High School (Varsity Boys Baseb
+ all)
+DESCRIPTION:Varsity Boys Baseball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104104634@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270323T160000
+DTEND;TZID=America/New_York:20270323T180000
+SUMMARY:Bloomfield High School vs Wayne Hills High School (Junior Varsity
+  Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104104654@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270324T161500
+DTEND;TZID=America/New_York:20270324T181500
+SUMMARY:Bloomfield High School vs Lyndhurst High School (Freshman Boys Ba
+ seball)
+DESCRIPTION:Freshman Boys Baseball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102569725@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270330T160000
 DTEND;TZID=America/New_York:20270330T180000
-SUMMARY:Malcolm X Shabazz High School vs Bloomfield High School (Varsity 
+SUMMARY:Bloomfield High School at Malcolm X Shabazz High School (Varsity 
  Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102568834@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270401T160000
 DTEND;TZID=America/New_York:20270401T180000
-SUMMARY:Malcolm X Shabazz High School at Bloomfield High School (Varsity 
+SUMMARY:Bloomfield High School vs Malcolm X Shabazz High School (Varsity 
  Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102568850@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270405T160000
 DTEND;TZID=America/New_York:20270405T180000
-SUMMARY:Central High School at Bloomfield High School (Varsity Boys Baseb
+SUMMARY:Bloomfield High School vs Central High School (Varsity Boys Baseb
  all)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102569586@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T160000
 DTEND;TZID=America/New_York:20270407T180000
-SUMMARY:Central High School vs Bloomfield High School (Varsity Boys Baseb
+SUMMARY:Bloomfield High School at Central High School (Varsity Boys Baseb
  all)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102568883@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T160000
 DTEND;TZID=America/New_York:20270412T180000
-SUMMARY:Technology High School at Bloomfield High School (Varsity Boys Ba
- seball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+SUMMARY:Bloomfield High School vs Technology High School (Newark) (Varsit
+ y Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102569498@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T160000
 DTEND;TZID=America/New_York:20270414T180000
-SUMMARY:Technology High School vs Bloomfield High School (Varsity Boys Ba
- seball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+SUMMARY:Bloomfield High School at Technology High School (Newark) (Varsit
+ y Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102569231@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T160000
 DTEND;TZID=America/New_York:20270419T180000
-SUMMARY:East Side High School vs Bloomfield High School (Varsity Boys Bas
- eball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+SUMMARY:Bloomfield High School at East Side High School - Newark (Varsity
+  Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102568899@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270421T160000
 DTEND;TZID=America/New_York:20270421T180000
-SUMMARY:East Side High School at Bloomfield High School (Varsity Boys Bas
- eball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+SUMMARY:Bloomfield High School vs East Side High School - Newark (Varsity
+  Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102570035@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270423T160000
 DTEND;TZID=America/New_York:20270423T180000
-SUMMARY:North Star Academy vs Bloomfield High School (Varsity Boys Baseba
+SUMMARY:Bloomfield High School at North Star Academy (Varsity Boys Baseba
  ll)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102568923@super-essex-conference
@@ -117,24 +180,53 @@ UID:arb:102568966@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270428T160000
 DTEND;TZID=America/New_York:20270428T180000
-SUMMARY:Payne Tech at Bloomfield High School (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+SUMMARY:Bloomfield High School vs Essex County-Payne Tech High School (Va
+ rsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102569145@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T160000
 DTEND;TZID=America/New_York:20270503T180000
-SUMMARY:Payne Tech vs Bloomfield High School (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+SUMMARY:Bloomfield High School at Essex County-Payne Tech High School (Va
+ rsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102567715@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270518T160000
 DTEND;TZID=America/New_York:20270518T180000
-SUMMARY:Cedar Grove High School vs Bloomfield High School (Varsity Boys B
+SUMMARY:Bloomfield High School at Cedar Grove High School (Varsity Boys B
  aseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103066017@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270521T160000
+DTEND;TZID=America/New_York:20270521T180000
+SUMMARY:Bloomfield High School at Clifton High School (Freshman Boys Base
+ ball)
+DESCRIPTION:Freshman Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103064550@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270521T160000
+DTEND;TZID=America/New_York:20270521T180000
+SUMMARY:Bloomfield High School vs Clifton High School (Junior Varsity Boy
+ s Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103064549@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270521T160000
+DTEND;TZID=America/New_York:20270521T180000
+SUMMARY:Bloomfield High School vs Clifton High School (Varsity Boys Baseb
+ all)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 END:VCALENDAR

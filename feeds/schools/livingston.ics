@@ -3418,6 +3418,24 @@ SUMMARY:Livingston High School vs Chatham High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100564463@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T160000
+DTEND;TZID=America/New_York:20270126T180000
+SUMMARY:Bloomfield High School vs Livingston High School (Freshman Girls 
+ Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100564254@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T160000
+DTEND;TZID=America/New_York:20270126T180000
+SUMMARY:Bloomfield High School vs Livingston High School (Varsity Girls G
+ irls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100549012@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T160000
@@ -3427,22 +3445,13 @@ SUMMARY:Central High School at Livingston High School (Freshman Boys Boys
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100564463@super-essex-conference
+UID:arb:100564417@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T160000
-DTEND;TZID=America/New_York:20270126T180000
-SUMMARY:Livingston High School at Bloomfield High School (Freshman Girls 
- Girls Basketball)
-DESCRIPTION:Freshman Girls Girls Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100564254@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T160000
-DTEND;TZID=America/New_York:20270126T180000
-SUMMARY:Livingston High School at Bloomfield High School (Varsity Girls G
- irls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+DTSTART;TZID=America/New_York:20270126T173000
+DTEND;TZID=America/New_York:20270126T193000
+SUMMARY:Bloomfield High School vs Livingston High School (Junior Varsity 
+ Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100548986@super-essex-conference
@@ -3452,15 +3461,6 @@ DTEND;TZID=America/New_York:20270126T193000
 SUMMARY:Central High School at Livingston High School (Junior Varsity Boy
  s Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100564417@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T173000
-DTEND;TZID=America/New_York:20270126T193000
-SUMMARY:Livingston High School at Bloomfield High School (Junior Varsity 
- Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100548948@super-essex-conference
@@ -3476,9 +3476,9 @@ UID:arb:102616251@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T170000
 DTEND;TZID=America/New_York:20270127T190000
-SUMMARY:Livingston High School at Bloomfield High School (Varsity Boys Bo
+SUMMARY:Bloomfield High School vs Livingston High School (Varsity Boys Bo
  ys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103344480@super-essex-conference
@@ -3616,6 +3616,15 @@ SUMMARY:Livingston High School at Kittatinny Regional High School (Varsit
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100549156@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T160000
+DTEND;TZID=America/New_York:20270209T180000
+SUMMARY:Bloomfield High School vs Livingston High School (Freshman Boys B
+ oys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100563474@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T160000
@@ -3625,13 +3634,13 @@ SUMMARY:East Orange Campus High School at Livingston High School (Freshma
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100549156@super-essex-conference
+UID:arb:100549127@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270209T160000
-DTEND;TZID=America/New_York:20270209T180000
-SUMMARY:Livingston High School at Bloomfield High School (Freshman Boys B
- oys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+DTSTART;TZID=America/New_York:20270209T173000
+DTEND;TZID=America/New_York:20270209T193000
+SUMMARY:Bloomfield High School vs Livingston High School (Junior Varsity 
+ Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100563453@super-essex-conference
@@ -3643,13 +3652,13 @@ SUMMARY:East Orange Campus High School at Livingston High School (Junior
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100549127@super-essex-conference
+UID:arb:100549049@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270209T173000
-DTEND;TZID=America/New_York:20270209T193000
-SUMMARY:Livingston High School at Bloomfield High School (Junior Varsity 
- Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+DTSTART;TZID=America/New_York:20270209T190000
+DTEND;TZID=America/New_York:20270209T210000
+SUMMARY:Bloomfield High School vs Livingston High School (Varsity Boys Bo
+ ys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100563386@super-essex-conference
@@ -3659,15 +3668,6 @@ DTEND;TZID=America/New_York:20270209T210000
 SUMMARY:East Orange Campus High School at Livingston High School (Varsity
   Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100549049@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270209T190000
-DTEND;TZID=America/New_York:20270209T210000
-SUMMARY:Livingston High School at Bloomfield High School (Varsity Boys Bo
- ys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549378@super-essex-conference
@@ -3791,18 +3791,18 @@ UID:arb:102405985@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270329T160000
 DTEND;TZID=America/New_York:20270329T180000
-SUMMARY:Livingston High School vs Bloomfield High School (Varsity Boys Bo
+SUMMARY:Bloomfield High School at Livingston High School (Varsity Boys Bo
  ys Volleyball)
-DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102405965@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270329T171500
 DTEND;TZID=America/New_York:20270329T191500
-SUMMARY:Livingston High School vs Bloomfield High School (Junior Varsity 
+SUMMARY:Bloomfield High School at Livingston High School (Junior Varsity 
  Boys Boys Volleyball)
-DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103009561@super-essex-conference
@@ -3953,53 +3953,108 @@ UID:arb:102568535@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T160000
 DTEND;TZID=America/New_York:20270407T180000
-SUMMARY:Mount Saint Dominic Academy at Livingston High School (Varsity Gi
+SUMMARY:Livingston High School vs Mount Saint Dominic Academy (Varsity Gi
  rls Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102406056@super-essex-conference
+UID:arb:102565126@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270409T160000
-DTEND;TZID=America/New_York:20270409T180000
-SUMMARY:Millburn High School at Livingston High School (Varsity Boys Boys
-  Volleyball)
+DTSTART;TZID=America/New_York:20270407T160000
+DTEND;TZID=America/New_York:20270407T180000
+SUMMARY:Livingston High School at West Essex High School (Varsity Boys Ba
+ seball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102403642@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270407T160000
+DTEND;TZID=America/New_York:20270407T180000
+SUMMARY:Livingston High School at West Caldwell Tech (Varsity Boys Boys V
+ olleyball)
 DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102403630@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270407T171500
+DTEND;TZID=America/New_York:20270407T191500
+SUMMARY:Livingston High School at West Caldwell Tech (Junior Varsity Boys
+  Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102568551@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270409T160000
 DTEND;TZID=America/New_York:20270409T180000
-SUMMARY:Montclair Kimberley Academy at Livingston High School (Varsity Gi
+SUMMARY:Livingston High School vs Montclair Kimberley Academy (Varsity Gi
  rls Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102406056@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270409T160000
+DTEND;TZID=America/New_York:20270409T180000
+SUMMARY:Livingston High School vs Millburn High School (Varsity Boys Boys
+  Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102406041@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270409T171500
 DTEND;TZID=America/New_York:20270409T191500
-SUMMARY:Millburn High School at Livingston High School (Junior Varsity Bo
+SUMMARY:Livingston High School vs Millburn High School (Junior Varsity Bo
  ys Boys Volleyball)
-DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102407451@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T160000
+DTEND;TZID=America/New_York:20270412T180000
+SUMMARY:Bloomfield High School vs Livingston High School (Varsity Boys Bo
+ ys Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103008927@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T160000
 DTEND;TZID=America/New_York:20270412T180000
-SUMMARY:Seton Hall Prep vs Livingston High School (Junior Varsity Boys Ba
- seball)
-DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+SUMMARY:Livingston High School at Seton Hall Preparatory School (Junior V
+ arsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102568063@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T160000
+DTEND;TZID=America/New_York:20270412T180000
+SUMMARY:Livingston High School at West Essex High School (Varsity Girls S
+ oftball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102564999@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T160000
 DTEND;TZID=America/New_York:20270412T180000
-SUMMARY:Seton Hall Prep vs Livingston High School (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+SUMMARY:Livingston High School at Seton Hall Preparatory School (Varsity 
+ Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102408419@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T171500
+DTEND;TZID=America/New_York:20270412T191500
+SUMMARY:Bloomfield High School vs Livingston High School (Junior Varsity 
+ Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102569253@super-essex-conference
@@ -4011,39 +4066,40 @@ SUMMARY:James Caldwell High School vs Livingston High School (Varsity Gir
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102406078@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270414T160000
-DTEND;TZID=America/New_York:20270414T180000
-SUMMARY:Payne Tech at Livingston High School (Varsity Boys Boys Volleybal
- l)
-DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103009609@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T160000
 DTEND;TZID=America/New_York:20270414T180000
-SUMMARY:Seton Hall Prep at Livingston High School (Junior Varsity Boys Ba
- seball)
-DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
+SUMMARY:Livingston High School vs Seton Hall Preparatory School (Junior V
+ arsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102565590@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T160000
 DTEND;TZID=America/New_York:20270414T180000
-SUMMARY:Seton Hall Prep at Livingston High School (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+SUMMARY:Livingston High School vs Seton Hall Preparatory School (Varsity 
+ Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102406078@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270414T160000
+DTEND;TZID=America/New_York:20270414T180000
+SUMMARY:Livingston High School vs Essex County-Payne Tech High School (Va
+ rsity Boys Boys Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102406096@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T171500
 DTEND;TZID=America/New_York:20270414T191500
-SUMMARY:Payne Tech at Livingston High School (Junior Varsity Boys Boys Vo
- lleyball)
-DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
+SUMMARY:Livingston High School vs Essex County-Payne Tech High School (Ju
+ nior Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102568571@super-essex-conference
@@ -4055,22 +4111,85 @@ SUMMARY:Cedar Grove High School at Livingston High School (Varsity Girls
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103009624@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270419T160000
+DTEND;TZID=America/New_York:20270419T180000
+SUMMARY:Livingston High School vs Montclair High School (Junior Varsity B
+ oys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102565627@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270419T160000
+DTEND;TZID=America/New_York:20270419T180000
+SUMMARY:Livingston High School vs Montclair High School (Varsity Boys Bas
+ eball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102567737@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270421T160000
+DTEND;TZID=America/New_York:20270421T180000
+SUMMARY:Livingston High School at Columbia High School (Varsity Girls Sof
+ tball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103009886@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T160000
+DTEND;TZID=America/New_York:20270422T180000
+SUMMARY:Livingston High School at Montclair High School (Junior Varsity B
+ oys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102565858@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T160000
+DTEND;TZID=America/New_York:20270422T180000
+SUMMARY:Livingston High School at Montclair High School (Varsity Boys Bas
+ eball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103248700@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270424T090000
+DTEND;TZID=America/New_York:20270424T110000
+SUMMARY:Livingston High School vs Pequannock Township High School (Varsit
+ y Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102569879@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270426T160000
+DTEND;TZID=America/New_York:20270426T180000
+SUMMARY:Bloomfield High School vs Livingston High School (Varsity Girls S
+ oftball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103009645@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T160000
 DTEND;TZID=America/New_York:20270426T180000
-SUMMARY:West Orange High School at Livingston High School (Junior Varsity
+SUMMARY:Livingston High School vs West Orange High School (Junior Varsity
   Boys Baseball)
-DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102565658@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T160000
 DTEND;TZID=America/New_York:20270426T180000
-SUMMARY:West Orange High School at Livingston High School (Varsity Boys B
+SUMMARY:Livingston High School vs West Orange High School (Varsity Boys B
  aseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103010664@super-essex-conference
@@ -4095,9 +4214,9 @@ UID:arb:102567550@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270428T160000
 DTEND;TZID=America/New_York:20270428T180000
-SUMMARY:Mount Saint Dominic Academy vs Livingston High School (Varsity Gi
+SUMMARY:Livingston High School at Mount Saint Dominic Academy (Varsity Gi
  rls Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102634433@super-essex-conference
@@ -4136,12 +4255,39 @@ SUMMARY:James Caldwell High School at Livingston High School (Varsity Boy
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102568592@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270503T160000
+DTEND;TZID=America/New_York:20270503T180000
+SUMMARY:Livingston High School vs West Essex High School (Varsity Girls S
+ oftball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102405681@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T171500
 DTEND;TZID=America/New_York:20270503T191500
 SUMMARY:Belleville High School vs Livingston High School (Junior Varsity 
  Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102406148@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270505T160000
+DTEND;TZID=America/New_York:20270505T180000
+SUMMARY:Livingston High School vs West Caldwell Tech (Varsity Boys Boys V
+ olleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102406142@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270505T171500
+DTEND;TZID=America/New_York:20270505T191500
+SUMMARY:Livingston High School vs West Caldwell Tech (Junior Varsity Boys
+  Boys Volleyball)
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -4158,26 +4304,53 @@ UID:arb:102404983@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270512T160000
 DTEND;TZID=America/New_York:20270512T180000
-SUMMARY:Millburn High School vs Livingston High School (Varsity Boys Boys
+SUMMARY:Livingston High School at Millburn High School (Varsity Boys Boys
   Volleyball)
-DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102404990@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270512T171500
 DTEND;TZID=America/New_York:20270512T191500
-SUMMARY:Millburn High School vs Livingston High School (Junior Varsity Bo
+SUMMARY:Livingston High School at Millburn High School (Junior Varsity Bo
  ys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102406163@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270514T160000
+DTEND;TZID=America/New_York:20270514T180000
+SUMMARY:Livingston High School vs West Essex High School (Varsity Boys Bo
+ ys Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102406176@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270514T171500
+DTEND;TZID=America/New_York:20270514T191500
+SUMMARY:Livingston High School vs West Essex High School (Junior Varsity 
+ Boys Boys Volleyball)
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104226746@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270517T161500
+DTEND;TZID=America/New_York:20270517T181500
+SUMMARY:Livingston High School at Morristown-Beard School (Varsity Boys B
+ oys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102566916@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270518T160000
 DTEND;TZID=America/New_York:20270518T180000
-SUMMARY:Verona High School vs Livingston High School (Varsity Boys Baseba
+SUMMARY:Livingston High School at Verona High School (Varsity Boys Baseba
  ll)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 END:VCALENDAR

@@ -2374,6 +2374,15 @@ SUMMARY:Mount Saint Dominic Academy at James Caldwell High School (Junior
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104221094@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T183000
+DTEND;TZID=America/New_York:20270120T203000
+SUMMARY:Bloomfield High School at James Caldwell High School (Varsity Boy
+ s Swimming)
+DESCRIPTION:Varsity Boys Swimming - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103180465@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T183000
@@ -2857,9 +2866,9 @@ UID:arb:102569099@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270409T160000
 DTEND;TZID=America/New_York:20270409T180000
-SUMMARY:James Caldwell High School vs Bloomfield High School (Varsity Gir
- ls Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+SUMMARY:Bloomfield High School at Caldwell High School (Varsity Girls Sof
+ tball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103010581@super-essex-conference

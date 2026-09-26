@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:103195685@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270315T161500
+DTEND;TZID=America/New_York:20270315T181500
+SUMMARY:Bloomfield High School vs Ridgewood High School (Junior Varsity G
+ irls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102620609@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270329T040000
@@ -68,13 +77,31 @@ SUMMARY:Bard Early College vs Belleville High School (Junior Varsity Girl
 DESCRIPTION:Junior Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103202921@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270417T110000
+DTEND;TZID=America/New_York:20270417T130000
+SUMMARY:Bloomfield High School vs Bayonne High School (Junior Varsity Gir
+ ls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103221617@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270424T110000
+DTEND;TZID=America/New_York:20270424T130000
+SUMMARY:Bloomfield High School vs Hoboken High School (Junior Varsity Gir
+ ls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103197514@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270429T160000
 DTEND;TZID=America/New_York:20270429T180000
-SUMMARY:Payne Tech vs Bloomfield High School (Junior Varsity Girls Softba
- ll)
-DESCRIPTION:Junior Varsity Girls Softball - Home - 4:00 PM
+SUMMARY:Bloomfield High School at Essex County-Payne Tech High School (Ju
+ nior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102634486@super-essex-conference
@@ -102,5 +129,23 @@ DTEND;TZID=America/New_York:20270515T130000
 SUMMARY:Glen Ridge High School at Westfield High School (Junior Varsity G
  irls Softball)
 DESCRIPTION:Junior Varsity Girls Softball - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103222954@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270515T160000
+DTEND;TZID=America/New_York:20270515T180000
+SUMMARY:Bloomfield High School at Mountain Lakes High School (Junior Vars
+ ity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103520161@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270519T160000
+DTEND;TZID=America/New_York:20270519T180000
+SUMMARY:Nutley High School vs Westfield High School (Junior Varsity Girls
+  Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 END:VCALENDAR

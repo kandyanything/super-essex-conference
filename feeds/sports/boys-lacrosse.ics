@@ -111,6 +111,15 @@ SUMMARY:James Caldwell High School at New Providence High School (Varsity
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104017790@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270417T110000
+DTEND;TZID=America/New_York:20270417T130000
+SUMMARY:Montclair High School at Ridgewood High School (Varsity Boys Boys
+  Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102757727@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270417T113000
@@ -135,6 +144,33 @@ DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:Seton Hall Prep at TBD (Varsity Boys Boys Lacrosse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103939298@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270421T160000
+DTEND;TZID=America/New_York:20270421T180000
+SUMMARY:Nutley High School vs Oratory Prep School (Varsity Boys Boys Lacr
+ osse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104293656@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270423T170000
+DTEND;TZID=America/New_York:20270423T190000
+SUMMARY:Nutley High School at River Dell Regional High School (Varsity Bo
+ ys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104293925@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270423T183000
+DTEND;TZID=America/New_York:20270423T203000
+SUMMARY:Nutley High School at River Dell Regional High School (Junior Var
+ sity Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104297212@super-essex-conference
@@ -233,6 +269,15 @@ DTEND;TZID=America/New_York:20270515T133000
 SUMMARY:Newark Academy vs New Providence High School (Junior Varsity Boys
   Boys Lacrosse)
 DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104226746@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270517T161500
+DTEND;TZID=America/New_York:20270517T181500
+SUMMARY:Livingston High School at Morristown-Beard School (Varsity Boys B
+ oys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104297647@super-essex-conference

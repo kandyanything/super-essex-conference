@@ -168,6 +168,24 @@ SUMMARY:Technology High School at West Essex High School (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102440892@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T160000
+DTEND;TZID=America/New_York:20270412T180000
+SUMMARY:Nutley High School at West Essex High School (Varsity Boys Boys V
+ olleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102440901@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T171500
+DTEND;TZID=America/New_York:20270412T191500
+SUMMARY:Nutley High School at West Essex High School (Junior Varsity Boys
+  Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102440555@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270430T160000
@@ -238,5 +256,23 @@ DTEND;TZID=America/New_York:20270512T191500
 SUMMARY:East Side High School at West Essex High School (Junior Varsity B
  oys Boys Volleyball)
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102406163@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270514T160000
+DTEND;TZID=America/New_York:20270514T180000
+SUMMARY:Livingston High School vs West Essex High School (Varsity Boys Bo
+ ys Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102406176@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270514T171500
+DTEND;TZID=America/New_York:20270514T191500
+SUMMARY:Livingston High School vs West Essex High School (Junior Varsity 
+ Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
 END:VEVENT
 END:VCALENDAR

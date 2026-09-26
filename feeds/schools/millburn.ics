@@ -3416,9 +3416,9 @@ UID:arb:100564478@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T160000
 DTEND;TZID=America/New_York:20270211T180000
-SUMMARY:Millburn High School at Bloomfield High School (Freshman Girls Gi
+SUMMARY:Bloomfield High School vs Millburn High School (Freshman Girls Gi
  rls Basketball)
-DESCRIPTION:Freshman Girls Girls Basketball - Away - 4:00 PM
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100542232@super-essex-conference
@@ -3434,9 +3434,9 @@ UID:arb:100564433@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T173000
 DTEND;TZID=America/New_York:20270211T193000
-SUMMARY:Millburn High School at Bloomfield High School (Junior Varsity Gi
+SUMMARY:Bloomfield High School vs Millburn High School (Junior Varsity Gi
  rls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100542191@super-essex-conference
@@ -3452,9 +3452,9 @@ UID:arb:100564274@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T190000
 DTEND;TZID=America/New_York:20270211T210000
-SUMMARY:Millburn High School at Bloomfield High School (Varsity Girls Gir
+SUMMARY:Bloomfield High School vs Millburn High School (Varsity Girls Gir
  ls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100542123@super-essex-conference
@@ -3637,6 +3637,15 @@ SUMMARY:East Orange Campus High School vs Millburn High School (Junior Va
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102407444@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270405T160000
+DTEND;TZID=America/New_York:20270405T180000
+SUMMARY:Bloomfield High School vs Millburn High School (Varsity Boys Boys
+  Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102581248@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270405T160000
@@ -3654,22 +3663,13 @@ SUMMARY:Millburn High School vs Saint Benedict's Preparatory School (Vars
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102407444@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270405T160000
-DTEND;TZID=America/New_York:20270405T180000
-SUMMARY:Millburn High School at Bloomfield High School (Varsity Boys Boys
-  Volleyball)
-DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102408394@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270405T171500
 DTEND;TZID=America/New_York:20270405T191500
-SUMMARY:Millburn High School at Bloomfield High School (Junior Varsity Bo
+SUMMARY:Bloomfield High School vs Millburn High School (Junior Varsity Bo
  ys Boys Volleyball)
-DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102581268@super-essex-conference
@@ -3708,6 +3708,15 @@ SUMMARY:Millburn High School vs Essex County-Payne Tech High School (Juni
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102406056@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270409T160000
+DTEND;TZID=America/New_York:20270409T180000
+SUMMARY:Livingston High School vs Millburn High School (Varsity Boys Boys
+  Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102581284@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270409T160000
@@ -3717,22 +3726,13 @@ SUMMARY:Millburn High School vs Saint Vincent Academy (Varsity Girls Soft
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102406056@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270409T160000
-DTEND;TZID=America/New_York:20270409T180000
-SUMMARY:Millburn High School at Livingston High School (Varsity Boys Boys
-  Volleyball)
-DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102406041@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270409T171500
 DTEND;TZID=America/New_York:20270409T191500
-SUMMARY:Millburn High School at Livingston High School (Junior Varsity Bo
+SUMMARY:Livingston High School vs Millburn High School (Junior Varsity Bo
  ys Boys Volleyball)
-DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102581577@super-essex-conference
@@ -3903,6 +3903,15 @@ SUMMARY:Millburn High School vs Nutley High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102404963@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270503T160000
+DTEND;TZID=America/New_York:20270503T180000
+SUMMARY:Bloomfield High School at Millburn High School (Varsity Boys Boys
+  Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104054169@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T160000
@@ -3920,22 +3929,13 @@ SUMMARY:Millburn High School at Nutley High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102404963@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270503T160000
-DTEND;TZID=America/New_York:20270503T180000
-SUMMARY:Millburn High School vs Bloomfield High School (Varsity Boys Boys
-  Volleyball)
-DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102404956@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T171500
 DTEND;TZID=America/New_York:20270503T191500
-SUMMARY:Millburn High School vs Bloomfield High School (Junior Varsity Bo
+SUMMARY:Bloomfield High School at Millburn High School (Junior Varsity Bo
  ys Boys Volleyball)
-DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102581484@super-essex-conference
@@ -4013,18 +4013,18 @@ UID:arb:102404983@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270512T160000
 DTEND;TZID=America/New_York:20270512T180000
-SUMMARY:Millburn High School vs Livingston High School (Varsity Boys Boys
+SUMMARY:Livingston High School at Millburn High School (Varsity Boys Boys
   Volleyball)
-DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102404990@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270512T171500
 DTEND;TZID=America/New_York:20270512T191500
-SUMMARY:Millburn High School vs Livingston High School (Junior Varsity Bo
+SUMMARY:Livingston High School at Millburn High School (Junior Varsity Bo
  ys Boys Volleyball)
-DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102405056@super-essex-conference
