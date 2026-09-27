@@ -41,12 +41,39 @@ SUMMARY:West Essex High School vs Oak Knoll School of the Holy Child (Var
 DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104312075@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
+SUMMARY:Montclair High School vs Newark Academy (Varsity Girls Girls Fenc
+ ing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104136383@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T180000
 DTEND;TZID=America/New_York:20270105T200000
 SUMMARY:West Essex High School vs West Orange High School (Varsity Girls 
  Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104312091@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T180000
+DTEND;TZID=America/New_York:20270107T200000
+SUMMARY:Montclair High School vs Kent Place School (Varsity Girls Girls F
+ encing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104312103@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T180000
+DTEND;TZID=America/New_York:20270112T200000
+SUMMARY:Montclair High School vs Montclair Kimberley Academy (Varsity Gir
+ ls Girls Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -59,12 +86,30 @@ SUMMARY:Saint Benedict's Prep at West Essex High School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104312136@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T180000
+DTEND;TZID=America/New_York:20270126T200000
+SUMMARY:Livingston High School at Montclair High School (Varsity Girls Gi
+ rls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104136432@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270129T180000
 DTEND;TZID=America/New_York:20270129T200000
 SUMMARY:West Essex High School vs Morris Catholic High School (Varsity Gi
  rls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104312153@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T180000
+DTEND;TZID=America/New_York:20270202T200000
+SUMMARY:Montclair High School vs Oak Knoll School of the Holy Child (Vars
+ ity Girls Girls Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
 END:VEVENT
 END:VCALENDAR
