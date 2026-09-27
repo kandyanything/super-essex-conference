@@ -1147,6 +1147,15 @@ DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104313513@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T150000
+DTEND;TZID=America/New_York:20260928T170000
+SUMMARY:Irvington High School at West Orange High School (Varsity Girls G
+ irls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101364243@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000

@@ -1196,6 +1196,15 @@ DESCRIPTION:Varsity Girls Girls Tennis - Home - 1:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104313513@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T150000
+DTEND;TZID=America/New_York:20260928T170000
+SUMMARY:Irvington High School at West Orange High School (Varsity Girls G
+ irls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102618917@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
@@ -1259,7 +1268,7 @@ SUMMARY:Bloomfield High School at Union High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104275485@super-essex-conference
+UID:arb:104311014@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T160000
 DTEND;TZID=America/New_York:20260929T180000
@@ -1304,12 +1313,21 @@ SUMMARY:West Essex High School vs Scotch Plains-Fanwood High School (Vars
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104311014@super-essex-conference
+UID:arb:104313245@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-SUMMARY:Cedar Grove High School vs Hasbrouck Heights High School (Varsity
-  Girls Girls Tennis)
+SUMMARY:Verona High School vs Rutherford High School (Varsity Girls Girls
+  Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104313490@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:West Essex High School vs Scotch Plains-Fanwood High School (Vars
+ ity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home
 END:VEVENT
 BEGIN:VEVENT
