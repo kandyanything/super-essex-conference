@@ -121,9 +121,10 @@ UID:arb:99072197@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T171500
 DTEND;TZID=America/New_York:20260928T191500
-SUMMARY:Central High School vs Golda Och Academy (Junior Varsity Girls Gi
- rls Volleyball)
+SUMMARY:[Canceled] Central High School vs Golda Och Academy (Junior Varsi
+ ty Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99062568@super-essex-conference
@@ -133,6 +134,15 @@ DTEND;TZID=America/New_York:20260930T191500
 SUMMARY:Central High School at Technology High School (Newark) (Junior Va
  rsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104316647@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T171500
+DTEND;TZID=America/New_York:20261001T191500
+SUMMARY:Central High School vs Golda Och Academy (Junior Varsity Girls Gi
+ rls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102824562@super-essex-conference

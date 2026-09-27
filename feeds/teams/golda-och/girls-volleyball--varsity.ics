@@ -109,9 +109,10 @@ UID:arb:99072201@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Central High School vs Golda Och Academy (Varsity Girls Girls Vol
- leyball)
+SUMMARY:[Canceled] Central High School vs Golda Och Academy (Varsity Girl
+ s Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99247788@super-essex-conference
@@ -121,6 +122,15 @@ DTEND;TZID=America/New_York:20260930T180000
 SUMMARY:Golda Och Academy at Newark Collegiate Academy (Varsity Girls Gir
  ls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104316644@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Central High School vs Golda Och Academy (Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99250021@super-essex-conference

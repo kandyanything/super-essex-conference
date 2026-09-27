@@ -6666,9 +6666,10 @@ UID:arb:99072201@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Central High School vs Golda Och Academy (Varsity Girls Girls Vol
- leyball)
+SUMMARY:[Canceled] Central High School vs Golda Och Academy (Varsity Girl
+ s Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99051583@super-essex-conference
@@ -6873,9 +6874,10 @@ UID:arb:99072197@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T171500
 DTEND;TZID=America/New_York:20260928T191500
-SUMMARY:Central High School vs Golda Och Academy (Junior Varsity Girls Gi
- rls Volleyball)
+SUMMARY:[Canceled] Central High School vs Golda Och Academy (Junior Varsi
+ ty Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99051590@super-essex-conference
@@ -7490,6 +7492,15 @@ SUMMARY:Cedar Grove High School vs Passaic Arts & Science Charter School
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104316644@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Central High School vs Golda Och Academy (Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102444323@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
@@ -7580,6 +7591,15 @@ DTEND;TZID=America/New_York:20261001T191500
 SUMMARY:Bloomfield High School at Glen Ridge High School (Junior Varsity 
  Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104316647@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T171500
+DTEND;TZID=America/New_York:20261001T191500
+SUMMARY:Central High School vs Golda Och Academy (Junior Varsity Girls Gi
+ rls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102333226@super-essex-conference

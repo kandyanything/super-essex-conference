@@ -20119,9 +20119,10 @@ UID:arb:99072201@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Central High School vs Golda Och Academy (Varsity Girls Girls Vol
- leyball)
+SUMMARY:[Canceled] Central High School vs Golda Och Academy (Varsity Girl
+ s Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103357761@super-essex-conference
@@ -20798,9 +20799,10 @@ UID:arb:99072197@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T171500
 DTEND;TZID=America/New_York:20260928T191500
-SUMMARY:Central High School vs Golda Och Academy (Junior Varsity Girls Gi
- rls Volleyball)
+SUMMARY:[Canceled] Central High School vs Golda Och Academy (Junior Varsi
+ ty Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99051590@super-essex-conference
@@ -22659,6 +22661,15 @@ SUMMARY:Cedar Grove High School at Clifton High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104316644@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Central High School vs Golda Och Academy (Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103005899@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
@@ -23086,6 +23097,15 @@ DTEND;TZID=America/New_York:20261001T191500
 SUMMARY:Bloomfield High School at Glen Ridge High School (Junior Varsity 
  Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104316647@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T171500
+DTEND;TZID=America/New_York:20261001T191500
+SUMMARY:Central High School vs Golda Och Academy (Junior Varsity Girls Gi
+ rls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102333226@super-essex-conference
@@ -24236,15 +24256,6 @@ DTEND;TZID=America/New_York:20261003T160000
 SUMMARY:Millburn High School at Watchung Hills Reg High School (Varsity B
  oys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102779594@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T140000
-DTEND;TZID=America/New_York:20261003T160000
-SUMMARY:Montclair High School vs Northern Highlands Regional High School 
- (Freshman Girls Field Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100100595@super-essex-conference
@@ -50229,6 +50240,15 @@ DTEND;TZID=America/New_York:20270208T180000
 SUMMARY:Belleville High School vs Golda Och Academy (7/8th Girls Volleyba
  ll)
 DESCRIPTION:7/8th Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104317900@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T163000
+DTEND;TZID=America/New_York:20270208T183000
+SUMMARY:Newark Collegiate Academy at Union City High School (Junior Varsi
+ ty Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103991133@super-essex-conference
