@@ -2431,8 +2431,8 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T183000
 DTEND;TZID=America/New_York:20261211T203000
 SUMMARY:Columbia High School at James Caldwell High School (Varsity Boys 
- Swimming)
-DESCRIPTION:Varsity Boys Swimming - Away - 6:30 PM
+ Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104183629@super-essex-conference
@@ -2502,9 +2502,9 @@ UID:arb:104231511@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T160000
 DTEND;TZID=America/New_York:20261218T180000
-SUMMARY:Columbia High School at West Orange High School (Varsity Boys Swi
- mming)
-DESCRIPTION:Varsity Boys Swimming - Away - 4:00 PM
+SUMMARY:Columbia High School at West Orange High School (Varsity Boys Boy
+ s Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100540245@super-essex-conference
@@ -2550,6 +2550,15 @@ DTEND;TZID=America/New_York:20261219T150000
 SUMMARY:Livingston High School vs Columbia High School (Varsity Boys Boys
   Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104319021@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T160000
+DTEND;TZID=America/New_York:20270104T180000
+SUMMARY:Columbia High School at Newark Academy (Varsity Coed Coed Swimmin
+ g)
+DESCRIPTION:Varsity Coed Coed Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100560479@super-essex-conference
@@ -2717,9 +2726,9 @@ UID:arb:104281604@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T153000
 DTEND;TZID=America/New_York:20270113T173000
-SUMMARY:Columbia High School at Montclair High School (Varsity Boys Swimm
- ing)
-DESCRIPTION:Varsity Boys Swimming - Away - 3:30 PM
+SUMMARY:Columbia High School at Montclair High School (Varsity Boys Boys 
+ Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104183589@super-essex-conference

@@ -20535,18 +20535,10 @@ UID:arb:104280262@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Newark Tech at James J. Ferris High School (Junior Varsity Boys B
- oys Soccer)
+SUMMARY:[Canceled] Newark Tech at James J. Ferris High School (Junior Var
+ sity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103016686@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T160000
-DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Newark Tech vs Essex County-Payne Tech High School (Junior Varsit
- y Girls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104268601@super-essex-conference
@@ -20683,6 +20675,15 @@ DTEND;TZID=America/New_York:20260928T181500
 SUMMARY:Montclair Kimberley Academy vs Saint Joseph High School - Metuche
  n (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103016686@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Newark Tech vs Essex County-Payne Tech High School (Junior Varsit
+ y Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103170743@super-essex-conference
@@ -34371,6 +34372,15 @@ SUMMARY:Livingston High School vs Phillipsburg High School (Junior Varsit
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101300572@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:Montclair High School vs West Essex High School (Freshman Girls G
+ irls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100100615@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T160000
@@ -35699,9 +35709,9 @@ UID:arb:104040325@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261124T153000
 DTEND;TZID=America/New_York:20261124T173000
-SUMMARY:Montclair High School at Rutherford High School (Varsity Boys Swi
- mming)
-DESCRIPTION:Varsity Boys Swimming - Away - 3:30 PM
+SUMMARY:Montclair High School at Rutherford High School (Varsity Boys Boy
+ s Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100384867@super-essex-conference
@@ -35780,8 +35790,8 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261204T153000
 DTEND;TZID=America/New_York:20261204T173000
 SUMMARY:Montclair High School vs Seton Hall Preparatory School (Varsity B
- oys Swimming)
-DESCRIPTION:Varsity Boys Swimming - Home - 3:30 PM
+ oys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103476484@super-essex-conference
@@ -35797,9 +35807,9 @@ UID:arb:104231442@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261204T160000
 DTEND;TZID=America/New_York:20261204T180000
-SUMMARY:West Essex High School at West Orange High School (Varsity Boys S
- wimming)
-DESCRIPTION:Varsity Boys Swimming - Away - 4:00 PM
+SUMMARY:West Essex High School at West Orange High School (Varsity Boys B
+ oys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101126195@super-essex-conference
@@ -35977,9 +35987,9 @@ UID:arb:104281711@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T200000
 DTEND;TZID=America/New_York:20261207T220000
-SUMMARY:Livingston High School at West Essex High School (Varsity Boys Sw
- imming)
-DESCRIPTION:Varsity Boys Swimming - Away - 8:00 PM
+SUMMARY:Livingston High School at West Essex High School (Varsity Boys Bo
+ ys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102648349@super-essex-conference
@@ -36499,9 +36509,9 @@ UID:arb:104231482@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T160000
 DTEND;TZID=America/New_York:20261211T180000
-SUMMARY:East Side High School at West Orange High School (Varsity Boys Sw
- imming)
-DESCRIPTION:Varsity Boys Swimming - Away - 4:00 PM
+SUMMARY:East Side High School at West Orange High School (Varsity Boys Bo
+ ys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101726537@super-essex-conference
@@ -36653,8 +36663,8 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T183000
 DTEND;TZID=America/New_York:20261211T203000
 SUMMARY:Columbia High School at James Caldwell High School (Varsity Boys 
- Swimming)
-DESCRIPTION:Varsity Boys Swimming - Away - 6:30 PM
+ Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101009159@super-essex-conference
@@ -37000,9 +37010,9 @@ UID:arb:104281782@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T200000
 DTEND;TZID=America/New_York:20261214T220000
-SUMMARY:Glen Ridge High School at West Essex High School (Varsity Boys Sw
- imming)
-DESCRIPTION:Varsity Boys Swimming - Away - 8:00 PM
+SUMMARY:Glen Ridge High School at West Essex High School (Varsity Boys Bo
+ ys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103476191@super-essex-conference
@@ -37138,6 +37148,15 @@ DTEND;TZID=America/New_York:20261215T180000
 SUMMARY:Millburn High School vs West Side High School (Varsity Boys Boys 
  Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104319010@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T160000
+DTEND;TZID=America/New_York:20261215T180000
+SUMMARY:Montclair High School at Newark Academy (Varsity Coed Coed Swimmi
+ ng)
+DESCRIPTION:Varsity Coed Coed Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551378@super-essex-conference
@@ -37397,8 +37416,8 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T183000
 DTEND;TZID=America/New_York:20261215T203000
 SUMMARY:East Side High School at James Caldwell High School (Varsity Boys
-  Swimming)
-DESCRIPTION:Varsity Boys Swimming - Away - 6:30 PM
+  Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104307321@super-essex-conference
@@ -37778,6 +37797,15 @@ DTEND;TZID=America/New_York:20261217T180000
 SUMMARY:Glen Ridge High School at Irvington High School (Varsity Boys Boy
  s Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104319014@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T160000
+DTEND;TZID=America/New_York:20261217T180000
+SUMMARY:Livingston High School at Newark Academy (Varsity Coed Coed Swimm
+ ing)
+DESCRIPTION:Varsity Coed Coed Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549281@super-essex-conference
@@ -38421,9 +38449,9 @@ UID:arb:104231511@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T160000
 DTEND;TZID=America/New_York:20261218T180000
-SUMMARY:Columbia High School at West Orange High School (Varsity Boys Swi
- mming)
-DESCRIPTION:Varsity Boys Swimming - Away - 4:00 PM
+SUMMARY:Columbia High School at West Orange High School (Varsity Boys Boy
+ s Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104142374@super-essex-conference
@@ -38521,8 +38549,8 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T183000
 DTEND;TZID=America/New_York:20261218T203000
 SUMMARY:Glen Ridge High School at James Caldwell High School (Varsity Boy
- s Swimming)
-DESCRIPTION:Varsity Boys Swimming - Away - 6:30 PM
+ s Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103804551@super-essex-conference
@@ -40112,6 +40140,15 @@ SUMMARY:Verona High School at Glen Rock High School (Varsity Boys Boys Ic
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 8:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104319021@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T160000
+DTEND;TZID=America/New_York:20270104T180000
+SUMMARY:Columbia High School at Newark Academy (Varsity Coed Coed Swimmin
+ g)
+DESCRIPTION:Varsity Coed Coed Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104005440@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T160000
@@ -40917,9 +40954,9 @@ UID:arb:104281808@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T200000
 DTEND;TZID=America/New_York:20270105T220000
-SUMMARY:Bloomfield High School at West Essex High School (Varsity Boys Sw
- imming)
-DESCRIPTION:Varsity Boys Swimming - Away - 8:00 PM
+SUMMARY:Bloomfield High School at West Essex High School (Varsity Boys Bo
+ ys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103910374@super-essex-conference
@@ -40944,9 +40981,9 @@ UID:arb:104231583@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T160000
 DTEND;TZID=America/New_York:20270106T180000
-SUMMARY:Montclair High School at West Orange High School (Varsity Boys Sw
- imming)
-DESCRIPTION:Varsity Boys Swimming - Away - 4:00 PM
+SUMMARY:Montclair High School at West Orange High School (Varsity Boys Bo
+ ys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100536222@super-essex-conference
@@ -41924,8 +41961,8 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T183000
 DTEND;TZID=America/New_York:20270108T203000
 SUMMARY:Saint Benedict's Prep at James Caldwell High School (Varsity Boys
-  Swimming)
-DESCRIPTION:Varsity Boys Swimming - Away - 6:30 PM
+  Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104183635@super-essex-conference
@@ -41950,9 +41987,9 @@ UID:arb:104281826@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T200000
 DTEND;TZID=America/New_York:20270108T220000
-SUMMARY:East Side High School at West Essex High School (Varsity Boys Swi
- mming)
-DESCRIPTION:Varsity Boys Swimming - Away - 8:00 PM
+SUMMARY:East Side High School at West Essex High School (Varsity Boys Boy
+ s Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103170003@super-essex-conference
@@ -43112,6 +43149,24 @@ SUMMARY:Montclair Kimberley Academy vs Newark School of Global Studies (V
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104320969@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T160000
+DTEND;TZID=America/New_York:20270112T180000
+SUMMARY:Mount Saint Dominic Academy at Newark Academy (Varsity Girls Girl
+ s Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104320962@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T160000
+DTEND;TZID=America/New_York:20270112T180000
+SUMMARY:Newark Academy vs Seton Hall Preparatory School (Varsity Boys Boy
+ s Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100562453@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T160000
@@ -43665,9 +43720,9 @@ UID:arb:104281604@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T153000
 DTEND;TZID=America/New_York:20270113T173000
-SUMMARY:Columbia High School at Montclair High School (Varsity Boys Swimm
- ing)
-DESCRIPTION:Varsity Boys Swimming - Away - 3:30 PM
+SUMMARY:Columbia High School at Montclair High School (Varsity Boys Boys 
+ Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104252949@super-essex-conference
@@ -44023,8 +44078,8 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T160000
 DTEND;TZID=America/New_York:20270114T180000
 SUMMARY:Montclair Kimberley Academy at West Orange High School (Varsity B
- oys Swimming)
-DESCRIPTION:Varsity Boys Swimming - Away - 4:00 PM
+ oys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100564906@super-essex-conference
@@ -46278,6 +46333,15 @@ SUMMARY:Nutley High School at TBD (Varsity Coed Track & Field - Indoor)
 DESCRIPTION:Varsity Coed Track & Field - Indoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104320953@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T160000
+DTEND;TZID=America/New_York:20270120T180000
+SUMMARY:Newark Academy vs West Orange High School (Varsity Coed Coed Swim
+ ming)
+DESCRIPTION:Varsity Coed Coed Swimming - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100537230@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T160000
@@ -46328,8 +46392,8 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T183000
 DTEND;TZID=America/New_York:20270120T203000
 SUMMARY:Bloomfield High School at James Caldwell High School (Varsity Boy
- s Swimming)
-DESCRIPTION:Varsity Boys Swimming - Away - 6:30 PM
+ s Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104042687@super-essex-conference
@@ -47039,6 +47103,15 @@ DTEND;TZID=America/New_York:20270122T174500
 SUMMARY:Central High School at Manchester Township High School (Junior Va
  rsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104319033@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T160000
+DTEND;TZID=America/New_York:20270122T180000
+SUMMARY:Newark Academy vs James Caldwell High School (Varsity Coed Coed S
+ wimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100536258@super-essex-conference
@@ -48578,8 +48651,8 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T183000
 DTEND;TZID=America/New_York:20270126T203000
 SUMMARY:West Essex High School at James Caldwell High School (Varsity Boy
- s Swimming)
-DESCRIPTION:Varsity Boys Swimming - Away - 6:30 PM
+ s Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100537588@super-essex-conference
@@ -48676,8 +48749,9 @@ UID:arb:104281489@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T160000
 DTEND;TZID=America/New_York:20270127T180000
-SUMMARY:Seton Hall Prep at West Orange High School (Varsity Boys Swimming)
-DESCRIPTION:Varsity Boys Swimming - Away - 4:00 PM
+SUMMARY:Seton Hall Prep at West Orange High School (Varsity Boys Boys Swi
+ mming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100906671@super-essex-conference
@@ -48881,9 +48955,9 @@ UID:arb:104231627@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270129T160000
 DTEND;TZID=America/New_York:20270129T180000
-SUMMARY:Glen Ridge High School at West Orange High School (Varsity Boys S
- wimming)
-DESCRIPTION:Varsity Boys Swimming - Away - 4:00 PM
+SUMMARY:Glen Ridge High School at West Orange High School (Varsity Boys B
+ oys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103344480@super-essex-conference

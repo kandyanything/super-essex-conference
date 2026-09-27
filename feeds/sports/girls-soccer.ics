@@ -3010,15 +3010,6 @@ SUMMARY:Livingston High School at Hanover Park High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103016686@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T160000
-DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Newark Tech vs Essex County-Payne Tech High School (Junior Varsit
- y Girls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102918110@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T161500
@@ -3026,6 +3017,15 @@ DTEND;TZID=America/New_York:20260928T181500
 SUMMARY:Montclair Kimberley Academy vs West Essex High School (Middle Sch
  ool Girls Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103016686@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Newark Tech vs Essex County-Payne Tech High School (Junior Varsit
+ y Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103170743@super-essex-conference
