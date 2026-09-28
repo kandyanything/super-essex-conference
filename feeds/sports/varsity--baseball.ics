@@ -334,6 +334,15 @@ SUMMARY:Cedar Grove High School at New Providence High School (Varsity Bo
 DESCRIPTION:Varsity Boys Baseball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104335415@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270403T130000
+DTEND;TZID=America/New_York:20270403T150000
+SUMMARY:Bloomfield High School vs Rutherford High School (Varsity Boys Ba
+ seball)
+DESCRIPTION:Varsity Boys Baseball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102568850@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270405T160000
@@ -589,6 +598,15 @@ DTEND;TZID=America/New_York:20270407T180000
 SUMMARY:Payne Tech vs Technology High School (Newark) (Varsity Boys Baseb
  all)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104335477@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270410T110000
+DTEND;TZID=America/New_York:20270410T130000
+SUMMARY:Bloomfield High School vs Fair Lawn High School (Varsity Boys Bas
+ eball)
+DESCRIPTION:Varsity Boys Baseball - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102567663@super-essex-conference
@@ -1438,6 +1456,24 @@ DTSTART;TZID=America/New_York:20270428T160000
 DTEND;TZID=America/New_York:20270428T180000
 SUMMARY:Seton Hall Prep vs West Essex High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104335860@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270429T160000
+DTEND;TZID=America/New_York:20270429T180000
+SUMMARY:Bloomfield High School vs Montclair High School (Varsity Boys Bas
+ eball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104336076@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270501T190000
+DTEND;TZID=America/New_York:20270501T210000
+SUMMARY:Bloomfield High School vs Nutley High School (Varsity Boys Baseba
+ ll)
+DESCRIPTION:Varsity Boys Baseball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102568448@super-essex-conference

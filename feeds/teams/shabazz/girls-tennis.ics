@@ -74,9 +74,10 @@ UID:arb:102618917@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Cedar Grove High School vs Malcolm X Shabazz High School (Varsity
-  Girls Girls Tennis)
+SUMMARY:[Postponed] Cedar Grove High School vs Malcolm X Shabazz High Sch
+ ool (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103728664@super-essex-conference
@@ -86,5 +87,14 @@ DTEND;TZID=America/New_York:20261006T181500
 SUMMARY:Malcolm X Shabazz High School at Verona High School (Varsity Girl
  s Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104335138@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+SUMMARY:Cedar Grove High School vs Malcolm X Shabazz High School (Varsity
+  Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 END:VCALENDAR

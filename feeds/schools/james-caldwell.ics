@@ -958,9 +958,10 @@ UID:arb:101719219@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Montclair High School vs James Caldwell High School (Junior Varsi
- ty Boys Boys Soccer)
+SUMMARY:[Canceled] Montclair High School vs James Caldwell High School (J
+ unior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101703130@super-essex-conference
@@ -1190,18 +1191,27 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100696960@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T131500
-DTEND;TZID=America/New_York:20261003T151500
+DTSTART;TZID=America/New_York:20261003T133000
+DTEND;TZID=America/New_York:20261003T153000
 SUMMARY:James Caldwell High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 1:15 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100696902@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T131500
-DTEND;TZID=America/New_York:20261003T151500
+DTSTART;TZID=America/New_York:20261003T133000
+DTEND;TZID=America/New_York:20261003T153000
 SUMMARY:James Caldwell High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 1:15 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104336069@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T133000
+DTEND;TZID=America/New_York:20261003T153000
+SUMMARY:James Caldwell High School at Mount Saint Dominic Academy (Varsit
+ y Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102005755@super-essex-conference
@@ -1215,18 +1225,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100696962@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T143000
-DTEND;TZID=America/New_York:20261003T163000
+DTSTART;TZID=America/New_York:20261003T150000
+DTEND;TZID=America/New_York:20261003T170000
 SUMMARY:James Caldwell High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 2:30 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100696905@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T143000
-DTEND;TZID=America/New_York:20261003T163000
+DTSTART;TZID=America/New_York:20261003T150000
+DTEND;TZID=America/New_York:20261003T170000
 SUMMARY:James Caldwell High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 2:30 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103947617@super-essex-conference
@@ -1617,6 +1627,24 @@ DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Glen Ridge High School vs Caldwell High School (Junior Varsity Gi
  rls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104331967@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:West Essex High School vs James Caldwell High School (Junior Vars
+ ity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104331768@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:West Essex High School vs James Caldwell High School (Varsity Gir
+ ls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101426192@super-essex-conference
@@ -2511,6 +2539,15 @@ SUMMARY:James Caldwell High School at Westfield High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104343102@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T150000
+DTEND;TZID=America/New_York:20270128T170000
+SUMMARY:Livingston High School vs James Caldwell High School (Varsity Boy
+ s Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102857709@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270129T180000
@@ -2716,6 +2753,15 @@ DTEND;TZID=America/New_York:20270211T210000
 SUMMARY:West Orange High School at James Caldwell High School (Varsity Gi
  rls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104344945@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T160000
+DTEND;TZID=America/New_York:20270212T180000
+SUMMARY:Livingston High School vs James Caldwell High School (Freshman Gi
+ rls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102567445@super-essex-conference

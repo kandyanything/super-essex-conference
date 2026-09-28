@@ -1702,9 +1702,10 @@ UID:arb:101719219@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Montclair High School vs James Caldwell High School (Junior Varsi
- ty Boys Boys Soccer)
+SUMMARY:[Canceled] Montclair High School vs James Caldwell High School (J
+ unior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101703130@super-essex-conference
@@ -2413,9 +2414,10 @@ UID:arb:103575186@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T090000
 DTEND;TZID=America/New_York:20261010T110000
-SUMMARY:Montclair High School vs Watchung Hills Reg High School (Varsity 
- Coed Ultimate Frisbee)
+SUMMARY:[Canceled] Montclair High School vs Watchung Hills Reg High Schoo
+ l (Varsity Coed Ultimate Frisbee)
 DESCRIPTION:Varsity Coed Ultimate Frisbee - Home - 9:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102090414@super-essex-conference
@@ -2659,6 +2661,15 @@ SUMMARY:Montclair High School vs Lakeland Regional High School (Freshman
 DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100666366@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T161500
+DTEND;TZID=America/New_York:20261014T181500
+SUMMARY:Montclair High School at Watchung Hills Reg High School (Junior V
+ arsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101732467@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T173000
@@ -2666,6 +2677,15 @@ DTEND;TZID=America/New_York:20261014T193000
 SUMMARY:Montclair High School vs Madison High School (Junior Varsity Girl
  s Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104330383@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T181500
+DTEND;TZID=America/New_York:20261014T201500
+SUMMARY:Montclair High School at Watchung Hills Reg High School (Varsity 
+ Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103967490@super-essex-conference
@@ -2702,15 +2722,6 @@ DTEND;TZID=America/New_York:20261015T180000
 SUMMARY:Montclair High School vs Randolph High School (Freshman Girls Fie
  ld Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100666366@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261015T161500
-DTEND;TZID=America/New_York:20261015T181500
-SUMMARY:Montclair High School at Watchung Hills Reg High School (Junior V
- arsity Girls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100666237@super-essex-conference
@@ -3845,6 +3856,15 @@ SUMMARY:Montclair High School vs Hanover Park High School (Varsity Boys B
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104343047@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T150000
+DTEND;TZID=America/New_York:20270121T170000
+SUMMARY:Livingston High School vs Montclair High School (Varsity Boys Boy
+ s Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100549010@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T160000
@@ -4037,8 +4057,7 @@ UID:arb:101664807@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270201T163000
 DTEND;TZID=America/New_York:20270201T183000
-SUMMARY:Montclair High School vs Saint Peter's Prep High School (Varsity 
- Boys Boys Fencing)
+SUMMARY:Montclair High School vs TBD (Varsity Boys Boys Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -4375,6 +4394,15 @@ SUMMARY:Montclair High School at Technology High School (Newark) (Junior
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104331550@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T123000
+DTEND;TZID=America/New_York:20270406T143000
+SUMMARY:Montclair High School at West Morris Central High School (Junior 
+ Varsity Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102466634@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T160000
@@ -4490,6 +4518,15 @@ DTEND;TZID=America/New_York:20270412T191500
 SUMMARY:Montclair High School at West Orange High School (Varsity Boys Bo
  ys Volleyball)
 DESCRIPTION:Varsity Boys Boys Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104331545@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270413T123000
+DTEND;TZID=America/New_York:20270413T143000
+SUMMARY:Montclair High School at West Morris Central High School (Junior 
+ Varsity Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103009874@super-essex-conference
@@ -4634,6 +4671,24 @@ DTEND;TZID=America/New_York:20270428T180000
 SUMMARY:Montclair High School at Columbia High School (Varsity Boys Baseb
  all)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104335908@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270429T160000
+DTEND;TZID=America/New_York:20270429T180000
+SUMMARY:Bloomfield High School vs Montclair High School (Junior Varsity B
+ oys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104335860@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270429T160000
+DTEND;TZID=America/New_York:20270429T180000
+SUMMARY:Bloomfield High School vs Montclair High School (Varsity Boys Bas
+ eball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102474992@super-essex-conference

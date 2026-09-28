@@ -505,11 +505,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100631567@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T160000
-DTEND;TZID=America/New_York:20260930T180000
+DTSTART;TZID=America/New_York:20260930T161500
+DTEND;TZID=America/New_York:20260930T181500
 SUMMARY:Saint Benedict's Prep vs Seton Hall Preparatory School (Varsity B
  oys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100250064@super-essex-conference
@@ -990,6 +990,15 @@ SUMMARY:Seton Hall Prep at Mendham High School (Junior Varsity Boys Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104342868@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T150000
+DTEND;TZID=America/New_York:20270105T170000
+SUMMARY:Livingston High School vs Seton Hall Preparatory School (Varsity 
+ Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103065778@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T150500
@@ -1141,6 +1150,15 @@ DTEND;TZID=America/New_York:20270112T180000
 SUMMARY:Payne Tech vs Seton Hall Preparatory School (Varsity Boys Boys Ba
  sketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104346909@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T164000
+DTEND;TZID=America/New_York:20270112T184000
+SUMMARY:Seton Hall Prep at Delbarton School (Junior Varsity Boys Boys Ice
+  Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Away - 4:40 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100536143@super-essex-conference
@@ -1446,6 +1464,15 @@ DTEND;TZID=America/New_York:20270211T210000
 SUMMARY:Saint Benedict's Prep at Seton Hall Preparatory School (Varsity B
  oys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104331740@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Seton Hall Prep at Bergen Catholic High School (Varsity Boys Boys
+  Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104297611@super-essex-conference

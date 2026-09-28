@@ -878,7 +878,7 @@ SUMMARY:Verona High School at West Orange High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100760929@super-essex-conference
+UID:arb:103525686@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260831T160000
 DTEND;TZID=America/New_York:20260831T180000
@@ -3549,6 +3549,15 @@ SUMMARY:James Caldwell High School vs TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104335903@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T120000
+DTEND;TZID=America/New_York:20261003T140000
+SUMMARY:Mount Saint Dominic Academy vs Science Park High School (Varsity 
+ Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103930851@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T130000
@@ -3569,34 +3578,52 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100696960@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T131500
-DTEND;TZID=America/New_York:20261003T151500
+DTSTART;TZID=America/New_York:20261003T133000
+DTEND;TZID=America/New_York:20261003T153000
 SUMMARY:James Caldwell High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 1:15 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100696902@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T131500
-DTEND;TZID=America/New_York:20261003T151500
+DTSTART;TZID=America/New_York:20261003T133000
+DTEND;TZID=America/New_York:20261003T153000
 SUMMARY:James Caldwell High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 1:15 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104336069@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T133000
+DTEND;TZID=America/New_York:20261003T153000
+SUMMARY:James Caldwell High School at Mount Saint Dominic Academy (Varsit
+ y Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100696962@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T143000
-DTEND;TZID=America/New_York:20261003T163000
+DTSTART;TZID=America/New_York:20261003T150000
+DTEND;TZID=America/New_York:20261003T170000
 SUMMARY:James Caldwell High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 2:30 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100696905@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T143000
-DTEND;TZID=America/New_York:20261003T163000
+DTSTART;TZID=America/New_York:20261003T150000
+DTEND;TZID=America/New_York:20261003T170000
 SUMMARY:James Caldwell High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 2:30 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104336084@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T150000
+DTEND;TZID=America/New_York:20261003T170000
+SUMMARY:Mount Saint Dominic Academy vs West Essex High School (Varsity Gi
+ rls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103204441@super-essex-conference
@@ -4938,12 +4965,12 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103525686@super-essex-conference
+UID:arb:104331278@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T163000
 DTEND;TZID=America/New_York:20261019T183000
-SUMMARY:Weequahic High School at West Essex High School (Varsity Girls Gi
- rls Volleyball)
+SUMMARY:Weequahic High School at West Side High School (Varsity Girls Gir
+ ls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT

@@ -2103,9 +2103,10 @@ UID:arb:100121642@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T163000
 DTEND;TZID=America/New_York:20260928T183000
-SUMMARY:Central High School vs Nutley High School (Junior Varsity Boys Fo
- otball)
+SUMMARY:[Canceled] Central High School vs Nutley High School (Junior Vars
+ ity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102289008@super-essex-conference
@@ -2380,11 +2381,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:99260961@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T140000
-DTEND;TZID=America/New_York:20261003T160000
+DTSTART;TZID=America/New_York:20261003T143000
+DTEND;TZID=America/New_York:20261003T163000
 SUMMARY:Montclair Kimberley Academy vs Fieldston School (Varsity Boys Foo
  tball)
-DESCRIPTION:Varsity Boys Football - Home - 2:00 PM
+DESCRIPTION:Varsity Boys Football - Home - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99663694@super-essex-conference
@@ -2480,9 +2481,10 @@ UID:arb:99704410@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T163000
 DTEND;TZID=America/New_York:20261005T183000
-SUMMARY:Belleville High School vs John F. Kennedy High School - Paterson 
- (Junior Varsity Boys Football)
+SUMMARY:[Canceled] Belleville High School vs John F. Kennedy High School 
+ - Paterson (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100195211@super-essex-conference
@@ -2812,9 +2814,8 @@ UID:arb:99707065@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T163000
 DTEND;TZID=America/New_York:20261012T183000
-SUMMARY:Belleville High School at Millburn High School (Junior Varsity Bo
- ys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:30 PM
+SUMMARY:Millburn High School vs TBD (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102678962@super-essex-conference

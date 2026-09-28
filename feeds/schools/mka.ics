@@ -1268,9 +1268,10 @@ UID:arb:102311201@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T160000
 DTEND;TZID=America/New_York:20260930T180000
-SUMMARY:Montclair Kimberley Academy vs Morristown-Beard School (Middle Sc
- hool Girls Field Hockey)
+SUMMARY:[Canceled] Montclair Kimberley Academy vs Morristown-Beard School
+  (Middle School Girls Field Hockey)
 DESCRIPTION:Middle School Girls Field Hockey - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101422322@super-essex-conference
@@ -1383,11 +1384,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:99260961@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T140000
-DTEND;TZID=America/New_York:20261003T160000
+DTSTART;TZID=America/New_York:20261003T143000
+DTEND;TZID=America/New_York:20261003T163000
 SUMMARY:Montclair Kimberley Academy vs Fieldston School (Varsity Boys Foo
  tball)
-DESCRIPTION:Varsity Boys Football - Home - 2:00 PM
+DESCRIPTION:Varsity Boys Football - Home - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104076038@super-essex-conference
@@ -2092,6 +2093,15 @@ DTEND;TZID=America/New_York:20261209T181500
 SUMMARY:Montclair Kimberley Academy at Saint Peter's Prep High School (Va
  rsity Boys Boys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342791@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T150000
+DTEND;TZID=America/New_York:20261215T170000
+SUMMARY:Livingston High School vs Montclair Kimberley Academy (Varsity Bo
+ ys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100564895@super-essex-conference

@@ -32,6 +32,15 @@ SUMMARY:James Caldwell High School at Scotch Plains-Fanwood High School (
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104331740@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Seton Hall Prep at Bergen Catholic High School (Varsity Boys Boys
+  Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104297611@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270317T163000
@@ -74,6 +83,15 @@ DTEND;TZID=America/New_York:20270410T130000
 SUMMARY:Seton Hall Prep vs Westfield High School (Varsity Boys Boys Lacro
  sse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104331285@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270413T163000
+DTEND;TZID=America/New_York:20270413T183000
+SUMMARY:Glen Ridge High School at West Morris Central High School (Varsit
+ y Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104297621@super-essex-conference

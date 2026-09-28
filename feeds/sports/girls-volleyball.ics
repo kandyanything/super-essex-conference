@@ -1874,7 +1874,7 @@ SUMMARY:Verona High School at West Orange High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100760929@super-essex-conference
+UID:arb:103525686@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260831T160000
 DTEND;TZID=America/New_York:20260831T180000
@@ -6847,9 +6847,10 @@ UID:arb:99066372@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T171500
 DTEND;TZID=America/New_York:20260928T191500
-SUMMARY:Bard Early College at Barringer High School (Junior Varsity Girls
-  Girls Volleyball)
+SUMMARY:[Canceled] Bard Early College at Barringer High School (Junior Va
+ rsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99104266@super-essex-conference
@@ -7041,6 +7042,15 @@ DTEND;TZID=America/New_York:20260929T180000
 SUMMARY:Montclair High School at West Essex High School (Freshman Girls G
  irls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103644111@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T161500
+DTEND;TZID=America/New_York:20260929T181500
+SUMMARY:Cedar Grove High School at Mahwah High School (Freshman Girls Gir
+ ls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101422468@super-essex-conference
@@ -7501,6 +7511,15 @@ SUMMARY:Central High School vs Golda Och Academy (Varsity Girls Girls Vol
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103414065@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Irvington High School vs Kearny High School (Freshman Girls Girls
+  Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102444323@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
@@ -7555,15 +7574,6 @@ DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:Technology High School vs Newark School of Architecture and Inter
  ior Design (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103414065@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T163000
-DTEND;TZID=America/New_York:20261001T183000
-SUMMARY:Irvington High School vs Kearny High School (Freshman Girls Girls
-  Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101834802@super-essex-conference
@@ -7682,6 +7692,15 @@ DTSTART;TZID=America/New_York:20261002T160000
 DTEND;TZID=America/New_York:20261002T180000
 SUMMARY:James Caldwell High School vs Whippany Park High School (Freshman
   Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104332971@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T160000
+DTEND;TZID=America/New_York:20261002T180000
+SUMMARY:Millburn High School vs Cranford High School (Freshman Girls Girl
+ s Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -7829,15 +7848,6 @@ SUMMARY:Technology High School vs Newark School of Global Studies (Junior
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102822967@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261002T171500
-DTEND;TZID=America/New_York:20261002T191500
-SUMMARY:West Essex High School at Morris County School of Technology (Jun
- ior Varsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103349240@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T173000
@@ -7907,6 +7917,15 @@ SUMMARY:James Caldwell High School vs TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104335903@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T120000
+DTEND;TZID=America/New_York:20261003T140000
+SUMMARY:Mount Saint Dominic Academy vs Science Park High School (Varsity 
+ Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103930851@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T130000
@@ -7927,34 +7946,27 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100696960@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T131500
-DTEND;TZID=America/New_York:20261003T151500
+DTSTART;TZID=America/New_York:20261003T133000
+DTEND;TZID=America/New_York:20261003T153000
 SUMMARY:James Caldwell High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 1:15 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100696902@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T131500
-DTEND;TZID=America/New_York:20261003T151500
+DTSTART;TZID=America/New_York:20261003T133000
+DTEND;TZID=America/New_York:20261003T153000
 SUMMARY:James Caldwell High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 1:15 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100696962@super-essex-conference
+UID:arb:104336069@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T143000
-DTEND;TZID=America/New_York:20261003T163000
-SUMMARY:James Caldwell High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 2:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100696905@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T143000
-DTEND;TZID=America/New_York:20261003T163000
-SUMMARY:James Caldwell High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 2:30 PM
+DTSTART;TZID=America/New_York:20261003T133000
+DTEND;TZID=America/New_York:20261003T153000
+SUMMARY:James Caldwell High School at Mount Saint Dominic Academy (Varsit
+ y Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103930880@super-essex-conference
@@ -7964,6 +7976,31 @@ DTEND;TZID=America/New_York:20261003T163000
 SUMMARY:Bard Early College vs Newark Vocational High School (Junior Varsi
  ty Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100696962@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T150000
+DTEND;TZID=America/New_York:20261003T170000
+SUMMARY:James Caldwell High School vs TBD (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100696905@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T150000
+DTEND;TZID=America/New_York:20261003T170000
+SUMMARY:James Caldwell High School vs TBD (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104336084@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T150000
+DTEND;TZID=America/New_York:20261003T170000
+SUMMARY:Mount Saint Dominic Academy vs West Essex High School (Varsity Gi
+ rls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103204441@super-essex-conference
@@ -10798,12 +10835,12 @@ SUMMARY:Verona High School at Bogota High School (Junior Varsity Girls Gi
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103525686@super-essex-conference
+UID:arb:104331278@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T163000
 DTEND;TZID=America/New_York:20261019T183000
-SUMMARY:Weequahic High School at West Essex High School (Varsity Girls Gi
- rls Volleyball)
+SUMMARY:Weequahic High School at West Side High School (Varsity Girls Gir
+ ls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
