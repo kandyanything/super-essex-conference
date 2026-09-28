@@ -41,15 +41,6 @@ SUMMARY:West Essex High School vs Saint Peter's Prep High School (Varsity
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104312072@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270105T180000
-DTEND;TZID=America/New_York:20270105T200000
-SUMMARY:Montclair High School vs Newark Academy (Varsity Boys Boys Fencin
- g)
-DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104136373@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T180000
@@ -57,6 +48,15 @@ DTEND;TZID=America/New_York:20270105T200000
 SUMMARY:West Essex High School vs West Orange High School (Varsity Boys B
  oys Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104312072@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T183000
+DTEND;TZID=America/New_York:20270105T203000
+SUMMARY:Montclair High School vs Newark Academy (Varsity Boys Boys Fencin
+ g)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104312087@super-essex-conference

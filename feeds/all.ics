@@ -40824,15 +40824,6 @@ SUMMARY:Montclair High School vs Newark Academy (Varsity Girls Girls Fenc
 DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104312072@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270105T180000
-DTEND;TZID=America/New_York:20270105T200000
-SUMMARY:Montclair High School vs Newark Academy (Varsity Boys Boys Fencin
- g)
-DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104136383@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T180000
@@ -40849,6 +40840,15 @@ DTEND;TZID=America/New_York:20270105T200000
 SUMMARY:West Essex High School vs West Orange High School (Varsity Boys B
  oys Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104312072@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T183000
+DTEND;TZID=America/New_York:20270105T203000
+SUMMARY:Montclair High School vs Newark Academy (Varsity Boys Boys Fencin
+ g)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100552776@super-essex-conference
@@ -51940,6 +51940,15 @@ DTEND;TZID=America/New_York:20270216T183000
 SUMMARY:Golda Och Academy vs Essex County-West Caldwell Tech High School 
  (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104325487@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270216T170000
+DTEND;TZID=America/New_York:20270216T190000
+SUMMARY:James Caldwell High School at Colts Neck High School (Varsity Gir
+ ls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103928174@super-essex-conference
