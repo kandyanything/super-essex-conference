@@ -6999,6 +6999,14 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101748969@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T173000
+DTEND;TZID=America/New_York:20260928T193000
+SUMMARY:Arts High School at TBD (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103204089@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T160000
@@ -8985,15 +8993,6 @@ SUMMARY:Mount Saint Dominic Academy at Clifton High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101834399@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T160000
-DTEND;TZID=America/New_York:20261008T180000
-SUMMARY:Mount Saint Dominic Academy vs Clifton High School (Freshman Girl
- s Girls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99250098@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T163000
@@ -9182,15 +9181,6 @@ DTEND;TZID=America/New_York:20261009T180000
 SUMMARY:Nutley High School at West Essex High School (Junior Varsity Girl
  s Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:99167376@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261009T160000
-DTEND;TZID=America/New_York:20261009T180000
-SUMMARY:Saint Vincent Academy vs West Side High School (Varsity Girls Gir
- ls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99698427@super-essex-conference
@@ -11757,6 +11747,15 @@ DTEND;TZID=America/New_York:20261027T183000
 SUMMARY:East Side High School at Kearny High School (Varsity Girls Girls 
  Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104353685@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T163000
+DTEND;TZID=America/New_York:20261027T183000
+SUMMARY:Saint Vincent Academy vs West Side High School (Varsity Girls Gir
+ ls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101878710@super-essex-conference

@@ -4338,6 +4338,15 @@ SUMMARY:Barringer High School vs Livingston High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101500480@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Belleville High School vs Essex County-Payne Tech High School (Va
+ rsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102072932@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
@@ -4576,6 +4585,16 @@ DTEND;TZID=America/New_York:20260928T181500
 SUMMARY:Montclair Kimberley Academy vs Saint Joseph High School - Metuche
  n (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101882670@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T163000
+DTEND;TZID=America/New_York:20260928T183000
+SUMMARY:[Canceled] Millburn High School at Union High School (Freshman Bo
+ ys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102549845@super-essex-conference
@@ -4939,6 +4958,15 @@ DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:Belleville High School at Verona High School (Freshman Boys Boys 
  Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101445869@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Belleville High School vs Essex County-Payne Tech High School (Ju
+ nior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100587982@super-essex-conference
@@ -5466,9 +5494,10 @@ UID:arb:102578843@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Malcolm X Shabazz High School at Nutley High School (Junior Varsi
- ty Boys Boys Soccer)
+SUMMARY:[Canceled] Malcolm X Shabazz High School at Nutley High School (J
+ unior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102578705@super-essex-conference
@@ -5763,6 +5792,15 @@ DTSTART;TZID=America/New_York:20261007T161500
 DTEND;TZID=America/New_York:20261007T181500
 SUMMARY:Montclair Kimberley Academy at Blair Academy (Varsity Boys Boys S
  occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104355942@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T161500
+DTEND;TZID=America/New_York:20261007T181500
+SUMMARY:Weequahic High School at Newark School of Data Science (Varsity B
+ oys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT

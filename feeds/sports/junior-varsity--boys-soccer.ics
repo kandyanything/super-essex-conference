@@ -1487,6 +1487,15 @@ SUMMARY:Montclair Kimberley Academy at West Orange High School (Junior Va
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101445869@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Belleville High School vs Essex County-Payne Tech High School (Ju
+ nior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103005899@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
@@ -1654,9 +1663,10 @@ UID:arb:102578843@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Malcolm X Shabazz High School at Nutley High School (Junior Varsi
- ty Boys Boys Soccer)
+SUMMARY:[Canceled] Malcolm X Shabazz High School at Nutley High School (J
+ unior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101688474@super-essex-conference

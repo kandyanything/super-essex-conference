@@ -1358,13 +1358,23 @@ SUMMARY:Nutley High School at Glen Rock High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104355475@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Bloomfield High School at Nutley High School (Junior Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102578843@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Malcolm X Shabazz High School at Nutley High School (Junior Varsi
- ty Boys Boys Soccer)
+SUMMARY:[Canceled] Malcolm X Shabazz High School at Nutley High School (J
+ unior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102578705@super-essex-conference
