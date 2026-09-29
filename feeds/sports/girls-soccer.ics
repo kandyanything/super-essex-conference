@@ -3052,9 +3052,10 @@ UID:arb:101611804@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T160000
 DTEND;TZID=America/New_York:20260929T180000
-SUMMARY:Bloomfield High School vs James Caldwell High School (Junior Vars
- ity Girls Girls Soccer)
+SUMMARY:[Canceled] Bloomfield High School vs James Caldwell High School (
+ Junior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100666614@super-essex-conference
@@ -4243,6 +4244,15 @@ SUMMARY:Livingston High School at Kearny High School (Junior Varsity Girl
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104384439@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T120000
+DTEND;TZID=America/New_York:20261010T140000
+SUMMARY:West Orange High School at Arthur L. Johnson High School (Junior 
+ Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103727938@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T160000
@@ -4250,6 +4260,24 @@ DTEND;TZID=America/New_York:20261012T180000
 SUMMARY:Barringer High School at Hillside High School (Varsity Girls Girl
  s Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104378722@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T160000
+DTEND;TZID=America/New_York:20261012T180000
+SUMMARY:Glen Ridge High School vs West Orange High School (Junior Varsity
+  Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104378690@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T160000
+DTEND;TZID=America/New_York:20261012T180000
+SUMMARY:Glen Ridge High School vs West Orange High School (Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102314657@super-essex-conference
@@ -4392,9 +4420,10 @@ UID:arb:102918118@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T161500
 DTEND;TZID=America/New_York:20261013T181500
-SUMMARY:Montclair Kimberley Academy vs Kent Place School (Middle School G
- irls Girls Soccer)
+SUMMARY:[Canceled] Montclair Kimberley Academy vs Kent Place School (Midd
+ le School Girls Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102314568@super-essex-conference
@@ -5157,6 +5186,15 @@ DTEND;TZID=America/New_York:20261024T113000
 SUMMARY:West Essex High School vs Henry P. Becton Regional High School (V
  arsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104384157@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T100000
+DTEND;TZID=America/New_York:20261024T120000
+SUMMARY:Bloomfield High School at James Caldwell High School (Junior Vars
+ ity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103388318@super-essex-conference
