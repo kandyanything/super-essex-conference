@@ -4619,9 +4619,10 @@ UID:arb:102269083@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T160000
 DTEND;TZID=America/New_York:20260929T180000
-SUMMARY:Golda Och Academy at Heritage Middle School (Middle School Boys B
- oys Soccer)
+SUMMARY:[Canceled] Golda Och Academy at Heritage Middle School (Middle Sc
+ hool Boys Boys Soccer)
 DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100393204@super-essex-conference
@@ -4906,15 +4907,6 @@ SUMMARY:Columbia High School vs Bayonne High School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103328756@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T163000
-DTEND;TZID=America/New_York:20260930T183000
-SUMMARY:Columbia High School vs Bayonne High School (Varsity Boys Boys So
- ccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100662201@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T163000
@@ -5152,8 +5144,8 @@ UID:arb:104255390@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T163000
 DTEND;TZID=America/New_York:20261002T183000
-SUMMARY:Malcolm X Shabazz High School vs Tenafly High School (Varsity Boy
- s Boys Soccer)
+SUMMARY:Malcolm X Shabazz High School vs Technology High School (Newark) 
+ (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -5991,6 +5983,15 @@ SUMMARY:Seton Hall Prep vs Bergen Catholic High School (Freshman Boys Boy
 DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104368115@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T160000
+DTEND;TZID=America/New_York:20261008T180000
+SUMMARY:Technology High School vs Newark School of Global Studies (Junior
+  Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101766163@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
@@ -6493,6 +6494,15 @@ DTSTART;TZID=America/New_York:20261013T160000
 DTEND;TZID=America/New_York:20261013T180000
 SUMMARY:Seton Hall Prep vs Life Center Academy (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104368133@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Technology High School vs Newark School of Global Studies (Junior
+  Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103179796@super-essex-conference
@@ -7369,6 +7379,15 @@ SUMMARY:West Orange High School vs TBD (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104376516@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:Bloomfield High School at New Providence High School (Freshman Bo
+ ys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102206935@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T161500
@@ -7510,6 +7529,15 @@ DTSTART;TZID=America/New_York:20261024T110000
 DTEND;TZID=America/New_York:20261024T130000
 SUMMARY:Glen Ridge High School at Mahwah High School (Varsity Boys Boys S
  occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367542@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T110000
+DTEND;TZID=America/New_York:20261024T130000
+SUMMARY:West Essex High School at College Achieve Paterson Charter School
+  (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT

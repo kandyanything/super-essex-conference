@@ -1393,10 +1393,9 @@ UID:arb:103357761@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:[Canceled] Columbia High School vs Westfield High School (Freshma
- n Girls Field Hockey)
+SUMMARY:Columbia High School vs Westfield High School (Freshman Girls Fie
+ ld Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103297392@super-essex-conference
@@ -1588,15 +1587,6 @@ SUMMARY:Columbia High School vs Bayonne High School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103328756@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T163000
-DTEND;TZID=America/New_York:20260930T183000
-SUMMARY:Columbia High School vs Bayonne High School (Varsity Boys Boys So
- ccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99058109@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T171500
@@ -1622,6 +1612,15 @@ DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:Bloomfield High School vs Columbia High School (Varsity Girls Gir
  ls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367989@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Columbia High School vs Westfield High School (Freshman Girls Fie
+ ld Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104197033@super-essex-conference
@@ -1831,6 +1830,14 @@ DTEND;TZID=America/New_York:20261007T180000
 SUMMARY:Cedar Grove High School at Columbia High School (Varsity Girls Gi
  rls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104366488@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Columbia High School at Union High School (Freshman Boys Football)
+DESCRIPTION:Freshman Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103344664@super-essex-conference

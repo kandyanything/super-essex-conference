@@ -185,9 +185,10 @@ UID:arb:99065748@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T171500
 DTEND;TZID=America/New_York:20261012T191500
-SUMMARY:Central High School at West Caldwell Tech (Junior Varsity Girls G
- irls Volleyball)
+SUMMARY:[Canceled] Central High School at West Caldwell Tech (Junior Vars
+ ity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103444145@super-essex-conference
@@ -224,6 +225,15 @@ DTEND;TZID=America/New_York:20261021T191500
 SUMMARY:Barringer High School vs Central High School (Junior Varsity Girl
  s Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104375454@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T171500
+DTEND;TZID=America/New_York:20261022T191500
+SUMMARY:Central High School at West Caldwell Tech (Junior Varsity Girls G
+ irls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102780743@super-essex-conference

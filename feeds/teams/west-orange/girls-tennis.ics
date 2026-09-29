@@ -183,30 +183,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104313513@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T150000
-DTEND;TZID=America/New_York:20260928T170000
-SUMMARY:Irvington High School at West Orange High School (Varsity Girls G
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Montclair High School vs West Orange High School (Varsity Girls G
  irls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103095905@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T160000
-DTEND;TZID=America/New_York:20260929T180000
-SUMMARY:Montclair High School at West Orange High School (Junior Varsity 
- Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102322171@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T160000
-DTEND;TZID=America/New_York:20260929T180000
-SUMMARY:[Postponed] Montclair High School vs West Orange High School (Var
- sity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103366911@super-essex-conference
@@ -225,5 +206,14 @@ DTEND;TZID=America/New_York:20260930T180000
 SUMMARY:Montclair Kimberley Academy at West Orange High School (Varsity G
  irls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103095905@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Montclair High School at West Orange High School (Junior Varsity 
+ Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 END:VCALENDAR

@@ -1247,6 +1247,15 @@ SUMMARY:Barringer High School at Belleville High School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104365166@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T161500
+DTEND;TZID=America/New_York:20261012T181500
+SUMMARY:Belleville High School at Hoboken High School (Freshman Girls Gir
+ ls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99058705@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T171500
@@ -1254,6 +1263,24 @@ DTEND;TZID=America/New_York:20261012T191500
 SUMMARY:Barringer High School at Belleville High School (Junior Varsity G
  irls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104365190@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T171500
+DTEND;TZID=America/New_York:20261012T191500
+SUMMARY:Belleville High School at Bloomfield High School (Freshman Girls 
+ Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104365258@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T181500
+DTEND;TZID=America/New_York:20261012T201500
+SUMMARY:Belleville High School at Fair Lawn High School (Freshman Girls G
+ irls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 6:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102639464@super-essex-conference
@@ -2931,6 +2958,15 @@ DTEND;TZID=America/New_York:20270410T130000
 SUMMARY:Belleville High School vs Hoboken High School (Junior Varsity Boy
  s Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104369931@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270410T130000
+DTEND;TZID=America/New_York:20270410T150000
+SUMMARY:Belleville High School at Hoboken High School (Varsity Boys Baseb
+ all)
+DESCRIPTION:Varsity Boys Baseball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102621700@super-essex-conference

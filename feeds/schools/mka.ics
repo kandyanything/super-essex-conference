@@ -1500,15 +1500,6 @@ SUMMARY:Glen Ridge High School at Montclair Kimberley Academy (Junior Var
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104292335@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T160000
-DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Montclair Kimberley Academy at Hillsborough Middle School (7/8th 
- Girls Field Hockey)
-DESCRIPTION:7/8th Girls Field Hockey - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99105101@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
@@ -1525,6 +1516,15 @@ DTEND;TZID=America/New_York:20261007T180000
 SUMMARY:Montclair Kimberley Academy vs Scotch Plains-Fanwood High School 
  (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104292335@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T161500
+DTEND;TZID=America/New_York:20261007T181500
+SUMMARY:Montclair Kimberley Academy at Hillsborough Middle School (7/8th 
+ Girls Field Hockey)
+DESCRIPTION:7/8th Girls Field Hockey - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103174165@super-essex-conference

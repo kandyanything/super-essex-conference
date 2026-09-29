@@ -2392,9 +2392,10 @@ UID:arb:99663694@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Barringer High School at West Side High School (Junior Varsity Bo
- ys Football)
+SUMMARY:[Canceled] Barringer High School at West Side High School (Junior
+  Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:98849198@super-essex-conference
@@ -2512,6 +2513,14 @@ DTEND;TZID=America/New_York:20261005T203000
 SUMMARY:Millburn High School vs Newark Academy (Junior Varsity Boys Footb
  all)
 DESCRIPTION:Junior Varsity Boys Football - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104366488@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Columbia High School at Union High School (Freshman Boys Football)
+DESCRIPTION:Freshman Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103344664@super-essex-conference
@@ -3148,9 +3157,8 @@ UID:arb:100195214@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T163000
 DTEND;TZID=America/New_York:20261019T183000
-SUMMARY:Barringer High School at West Orange High School (Junior Varsity 
- Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:30 PM
+SUMMARY:West Orange High School vs TBD (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99189393@super-essex-conference

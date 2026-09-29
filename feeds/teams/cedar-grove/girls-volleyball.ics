@@ -525,15 +525,6 @@ SUMMARY:Cedar Grove High School vs Science Park High School (Junior Varsi
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101410949@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T171500
-DTEND;TZID=America/New_York:20261006T191500
-SUMMARY:Nutley High School at Cedar Grove High School (Junior Varsity Gir
- ls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101416503@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
@@ -634,22 +625,22 @@ SUMMARY:Cedar Grove High School vs Verona High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101699551@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T160000
-DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Cedar Grove High School vs Clifton High School (Varsity Girls Gir
- ls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101699575@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T173000
-DTEND;TZID=America/New_York:20261019T193000
+DTSTART;TZID=America/New_York:20261019T164500
+DTEND;TZID=America/New_York:20261019T184500
 SUMMARY:Cedar Grove High School vs Clifton High School (Junior Varsity Gi
  rls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101699551@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T180000
+DTEND;TZID=America/New_York:20261019T200000
+SUMMARY:Cedar Grove High School vs Clifton High School (Varsity Girls Gir
+ ls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103507565@super-essex-conference

@@ -168,6 +168,15 @@ SUMMARY:Central High School vs Technology High School (Newark) (Varsity B
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104255390@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T163000
+DTEND;TZID=America/New_York:20261002T183000
+SUMMARY:Malcolm X Shabazz High School vs Technology High School (Newark) 
+ (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100662333@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T153000
@@ -184,6 +193,15 @@ DTEND;TZID=America/New_York:20261007T210000
 SUMMARY:Technology High School vs Newark School of Global Studies (Varsit
  y Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104368115@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T160000
+DTEND;TZID=America/New_York:20261008T180000
+SUMMARY:Technology High School vs Newark School of Global Studies (Junior
+  Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101766163@super-essex-conference
@@ -213,6 +231,15 @@ DTEND;TZID=America/New_York:20261009T180000
 SUMMARY:Technology High School at West Side High School (Varsity Boys Boy
  s Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104368133@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Technology High School vs Newark School of Global Studies (Junior
+  Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102984209@super-essex-conference

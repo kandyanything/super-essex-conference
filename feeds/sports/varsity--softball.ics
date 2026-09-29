@@ -40,6 +40,15 @@ SUMMARY:Bloomfield High School vs Ridgewood High School (Varsity Girls So
 DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104367214@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270318T163000
+DTEND;TZID=America/New_York:20270318T183000
+SUMMARY:Bloomfield High School at Pascack Hills High School (Varsity Girl
+ s Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102569920@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270329T160000
@@ -391,6 +400,15 @@ DTSTART;TZID=America/New_York:20270402T160000
 DTEND;TZID=America/New_York:20270402T180000
 SUMMARY:Newark Tech vs West Caldwell Tech (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367458@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270403T110000
+DTEND;TZID=America/New_York:20270403T130000
+SUMMARY:Bloomfield High School at Union City High School (Varsity Girls S
+ oftball)
+DESCRIPTION:Varsity Girls Softball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102581976@super-essex-conference
@@ -1179,6 +1197,15 @@ DTEND;TZID=America/New_York:20270415T180000
 SUMMARY:Weequahic High School at American History High School (Varsity Gi
  rls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367775@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270416T163000
+DTEND;TZID=America/New_York:20270416T183000
+SUMMARY:Bloomfield High School at North Bergen High School (Varsity Girls
+  Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103195773@super-essex-conference

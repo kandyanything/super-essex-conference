@@ -32,6 +32,24 @@ SUMMARY:Bloomfield High School vs Memorial High School (Junior Varsity Bo
 DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104367356@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270317T163000
+DTEND;TZID=America/New_York:20270317T183000
+SUMMARY:Bloomfield High School at Memorial High School (Junior Varsity Bo
+ ys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367279@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270317T163000
+DTEND;TZID=America/New_York:20270317T183000
+SUMMARY:Bloomfield High School at Memorial High School (Varsity Boys Base
+ ball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103008514@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270319T160000
@@ -796,6 +814,15 @@ DTEND;TZID=America/New_York:20270410T130000
 SUMMARY:Bloomfield High School vs Fair Lawn High School (Varsity Boys Bas
  eball)
 DESCRIPTION:Varsity Boys Baseball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104369931@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270410T130000
+DTEND;TZID=America/New_York:20270410T150000
+SUMMARY:Belleville High School at Hoboken High School (Varsity Boys Baseb
+ all)
+DESCRIPTION:Varsity Boys Baseball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102567663@super-essex-conference
