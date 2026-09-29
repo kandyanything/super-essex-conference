@@ -1307,6 +1307,14 @@ SUMMARY:Belleville High School vs American History High School (Varsity G
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104357786@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Columbia High School vs TBD (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104353773@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T160000
@@ -1351,11 +1359,27 @@ SUMMARY:Nutley High School at Verona High School (Varsity Girls Girls Ten
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104357642@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Livingston High School vs TBD (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104290610@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T150000
 DTEND;TZID=America/New_York:20261001T170000
 SUMMARY:Glen Ridge High School vs TBD (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104357381@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T150000
+DTEND;TZID=America/New_York:20261001T170000
+SUMMARY:Millburn High School vs TBD (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1418,6 +1442,31 @@ DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Glen Ridge High School vs TBD (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104357984@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Montclair Kimberley Academy vs Saddle River Day School (Varsity G
+ irls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104357880@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Mount Saint Dominic Academy at Pingry (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104358023@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Newark Academy vs Villa Walsh Academy (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home
 END:VEVENT
 BEGIN:VEVENT
