@@ -24,6 +24,24 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:104415508@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261202T160000
+DTEND;TZID=America/New_York:20261202T180000
+SUMMARY:West Orange High School vs Scotch Plains-Fanwood High School (Var
+ sity Boys Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104415536@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T200000
+DTEND;TZID=America/New_York:20261207T220000
+SUMMARY:West Orange High School vs Arthur L. Johnson High School (Varsity
+  Boys Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 8:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103804435@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T160000
@@ -51,6 +69,15 @@ SUMMARY:West Orange High School at Morris Catholic High School (Varsity B
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104415588@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T180000
+DTEND;TZID=America/New_York:20270104T200000
+SUMMARY:West Orange High School vs Hoboken High School (Varsity Boys Boys
+  Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103476164@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T161500
@@ -60,6 +87,33 @@ SUMMARY:Montclair High School vs West Orange High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104415619@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T203000
+DTEND;TZID=America/New_York:20270115T223000
+SUMMARY:West Orange High School vs John P. Stevens High School (Varsity B
+ oys Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 8:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104415636@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270118T140000
+DTEND;TZID=America/New_York:20270118T160000
+SUMMARY:Montclair High School at West Orange High School (Varsity Boys Bo
+ ys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104415648@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T201500
+DTEND;TZID=America/New_York:20270119T221500
+SUMMARY:Millburn High School at West Orange High School (Varsity Boys Boy
+ s Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 8:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103044166@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270124T211500
@@ -67,5 +121,14 @@ DTEND;TZID=America/New_York:20270124T231500
 SUMMARY:West Orange High School at Hoboken High School (Varsity Boys Boys
   Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 9:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104415669@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T174500
+DTEND;TZID=America/New_York:20270130T194500
+SUMMARY:West Orange High School vs Morris Catholic High School (Varsity B
+ oys Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 5:45 PM
 END:VEVENT
 END:VCALENDAR
