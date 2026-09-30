@@ -1253,15 +1253,6 @@ DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104313513@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T160000
-DTEND;TZID=America/New_York:20260929T180000
-SUMMARY:Montclair High School vs West Orange High School (Varsity Girls G
- irls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103581101@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T160000
@@ -1306,14 +1297,6 @@ SUMMARY:Columbia High School vs TBD (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104353773@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T160000
-DTEND;TZID=America/New_York:20260930T180000
-SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103871334@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T160000
@@ -1329,6 +1312,15 @@ DTSTART;TZID=America/New_York:20260930T160000
 DTEND;TZID=America/New_York:20260930T180000
 SUMMARY:East Side High School vs Irvington High School (Varsity Girls Gir
  ls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104370348@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Montclair High School vs Passaic County Tech Institute (Varsity G
+ irls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1358,14 +1350,6 @@ SUMMARY:Livingston High School vs TBD (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104370348@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104290610@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T150000
@@ -1378,8 +1362,17 @@ UID:arb:104357381@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T150000
 DTEND;TZID=America/New_York:20261001T170000
-SUMMARY:Millburn High School vs TBD (Varsity Girls Girls Tennis)
+SUMMARY:Millburn High School vs Wayne Hills High School (Varsity Girls Gi
+ rls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104358023@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T153000
+DTEND;TZID=America/New_York:20261001T173000
+SUMMARY:Newark Academy vs Villa Walsh Academy (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104268659@super-essex-conference
@@ -1428,7 +1421,7 @@ SUMMARY:Montclair High School at Verona High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103581087@super-essex-conference
+UID:arb:104357880@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
@@ -1440,7 +1433,8 @@ UID:arb:104340541@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-SUMMARY:Glen Ridge High School vs TBD (Varsity Girls Girls Tennis)
+SUMMARY:Glen Ridge High School vs Ridgefield Memorial High School (Varsit
+ y Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home
 END:VEVENT
 BEGIN:VEVENT
@@ -1450,22 +1444,6 @@ DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Montclair Kimberley Academy vs Saddle River Day School (Varsity G
  irls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104357880@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Mount Saint Dominic Academy at Pingry (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104358023@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Newark Academy vs Villa Walsh Academy (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home
 END:VEVENT
 BEGIN:VEVENT

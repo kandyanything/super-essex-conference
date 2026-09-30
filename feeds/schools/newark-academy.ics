@@ -1245,6 +1245,14 @@ SUMMARY:East Orange Campus High School vs Newark Academy (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104358023@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T153000
+DTEND;TZID=America/New_York:20261001T173000
+SUMMARY:Newark Academy vs Villa Walsh Academy (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103036188@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T153000
@@ -1305,14 +1313,6 @@ DTSTART;TZID=America/New_York:20261001T163000
 DTEND;TZID=America/New_York:20261001T183000
 SUMMARY:East Side High School vs Newark Academy (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104358023@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Newark Academy vs Villa Walsh Academy (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103017435@super-essex-conference
