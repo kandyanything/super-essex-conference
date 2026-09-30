@@ -941,7 +941,8 @@ UID:arb:104341495@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T163000
 DTEND;TZID=America/New_York:20260930T183000
-SUMMARY:Irvington High School vs TBD (Varsity Boys Boys Soccer)
+SUMMARY:Irvington High School vs Livingston High School (Varsity Boys Boy
+ s Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1285,6 +1286,15 @@ DTEND;TZID=America/New_York:20261015T191500
 SUMMARY:Irvington High School at Essex County-Newark Tech High School (Ju
  nior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104406044@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Irvington High School vs Linden High School (Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100271027@super-essex-conference

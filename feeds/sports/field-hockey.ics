@@ -2028,16 +2028,6 @@ SUMMARY:Montclair High School vs Kent Place School (Varsity Girls Field H
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102311201@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T160000
-DTEND;TZID=America/New_York:20260930T180000
-SUMMARY:[Canceled] Montclair Kimberley Academy vs Morristown-Beard School
-  (Middle School Girls Field Hockey)
-DESCRIPTION:Middle School Girls Field Hockey - Home - 4:00 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101422322@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T160000
@@ -2307,15 +2297,6 @@ SUMMARY:West Essex High School vs TBD (Middle School Girls Field Hockey)
 DESCRIPTION:Middle School Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99608445@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T160000
-DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Glen Ridge High School at Governor Livingston High School (Varsit
- y Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:98322740@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
@@ -2392,9 +2373,10 @@ UID:arb:99608450@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T173000
 DTEND;TZID=America/New_York:20261005T193000
-SUMMARY:Glen Ridge High School at Governor Livingston High School (Junior
-  Varsity Girls Field Hockey)
+SUMMARY:[Canceled] Glen Ridge High School at Governor Livingston High Sch
+ ool (Junior Varsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:98323104@super-essex-conference
@@ -2423,6 +2405,15 @@ DTEND;TZID=America/New_York:20261005T193000
 SUMMARY:Verona High School at Cranford High School (Varsity Girls Field H
  ockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99608445@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T183000
+DTEND;TZID=America/New_York:20261005T203000
+SUMMARY:Montclair High School at Governor Livingston High School (Varsity
+  Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103034502@super-essex-conference

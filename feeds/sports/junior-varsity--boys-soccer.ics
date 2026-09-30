@@ -1569,6 +1569,15 @@ SUMMARY:Cedar Grove High School vs Newark School of Global Studies (Junio
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104402826@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+SUMMARY:Montclair High School at Pascack Valley High School (Junior Varsi
+ ty Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103358766@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T100000
@@ -1698,11 +1707,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:101627305@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T183000
-DTEND;TZID=America/New_York:20261005T203000
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
 SUMMARY:Newark Tech at James Caldwell High School (Junior Varsity Boys Bo
  ys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 6:30 PM
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101611969@super-essex-conference
@@ -1893,6 +1902,15 @@ DTEND;TZID=America/New_York:20261010T130000
 SUMMARY:Cedar Grove High School vs Weehawken High School (Junior Varsity 
  Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100866955@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T110000
+DTEND;TZID=America/New_York:20261010T130000
+SUMMARY:Columbia High School at Morris Hills High School (Junior Varsity 
+ Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101627308@super-essex-conference

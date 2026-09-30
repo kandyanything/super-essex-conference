@@ -1661,6 +1661,14 @@ SUMMARY:West Essex High School at Mount Olive Township School District (M
 DESCRIPTION:Middle School Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102568923@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270426T160000
+DTEND;TZID=America/New_York:20270426T180000
+SUMMARY:Belleville High School at TBD (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102568435@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T160000
@@ -1670,13 +1678,13 @@ SUMMARY:Barringer High School vs East Side High School - Newark (Varsity
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102568923@super-essex-conference
+UID:arb:102567917@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T160000
 DTEND;TZID=America/New_York:20270426T180000
-SUMMARY:Belleville High School at Bloomfield High School (Varsity Boys Ba
+SUMMARY:Belleville High School vs Bloomfield High School (Varsity Boys Ba
  seball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102569122@super-essex-conference

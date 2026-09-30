@@ -1710,15 +1710,6 @@ SUMMARY:Bloomfield High School vs Montclair Kimberley Academy (Junior Var
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104268659@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T160000
-DTEND;TZID=America/New_York:20261001T180000
-SUMMARY:Bloomfield High School at Nutley High School (Varsity Girls Girls
-  Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103871614@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
@@ -1813,9 +1804,10 @@ UID:arb:104366461@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T140000
 DTEND;TZID=America/New_York:20261003T160000
-SUMMARY:Bloomfield High School vs Verona High School (Varsity Girls Girls
-  Soccer)
+SUMMARY:[Canceled] Bloomfield High School vs Verona High School (Varsity 
+ Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 2:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103337443@super-essex-conference
@@ -2003,6 +1995,15 @@ DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Bloomfield High School at Cedar Grove High School (Varsity Girls 
  Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104399244@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+SUMMARY:Bloomfield High School at Nutley High School (Junior Varsity Girl
+ s Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102914517@super-essex-conference
@@ -4429,13 +4430,13 @@ SUMMARY:Bloomfield High School vs Hoboken High School (Varsity Girls Soft
 DESCRIPTION:Varsity Girls Softball - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102568923@super-essex-conference
+UID:arb:102567917@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T160000
 DTEND;TZID=America/New_York:20270426T180000
-SUMMARY:Belleville High School at Bloomfield High School (Varsity Boys Ba
+SUMMARY:Belleville High School vs Bloomfield High School (Varsity Boys Ba
  seball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102569879@super-essex-conference

@@ -1173,13 +1173,23 @@ SUMMARY:Cedar Grove High School at Caldwell High School (Junior Varsity G
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104405061@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T150000
+DTEND;TZID=America/New_York:20261001T170000
+SUMMARY:Cedar Grove High School at Mountain Lakes High School (Varsity Gi
+ rls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104073442@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
-SUMMARY:Cedar Grove High School vs Passaic Arts & Science Charter School 
- (Varsity Girls Girls Volleyball)
+SUMMARY:[Canceled] Cedar Grove High School vs Passaic Arts & Science Char
+ ter School (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102618551@super-essex-conference
@@ -1195,9 +1205,10 @@ UID:arb:102618517@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
-SUMMARY:Cedar Grove High School at Clifton High School (Varsity Girls Gir
- ls Tennis)
+SUMMARY:[Postponed] Cedar Grove High School at Clifton High School (Varsi
+ ty Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103920726@super-essex-conference
@@ -1224,9 +1235,10 @@ UID:arb:104073415@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T173000
 DTEND;TZID=America/New_York:20261001T193000
-SUMMARY:Cedar Grove High School vs Passaic Arts & Science Charter School 
- (Junior Varsity Girls Girls Volleyball)
+SUMMARY:[Canceled] Cedar Grove High School vs Passaic Arts & Science Char
+ ter School (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100663382@super-essex-conference
@@ -1278,9 +1290,10 @@ UID:arb:104275826@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T110000
 DTEND;TZID=America/New_York:20261003T130000
-SUMMARY:Cedar Grove High School at Cresskill High School (Varsity Girls G
- irls Soccer)
+SUMMARY:[Canceled] Cedar Grove High School at Cresskill High School (Vars
+ ity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 11:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102487580@super-essex-conference

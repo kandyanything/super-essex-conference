@@ -1264,16 +1264,6 @@ SUMMARY:Montclair Kimberley Academy at West Orange High School (Varsity G
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102311201@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T160000
-DTEND;TZID=America/New_York:20260930T180000
-SUMMARY:[Canceled] Montclair Kimberley Academy vs Morristown-Beard School
-  (Middle School Girls Field Hockey)
-DESCRIPTION:Middle School Girls Field Hockey - Home - 4:00 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101422322@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T160000
@@ -2672,6 +2662,15 @@ DTEND;TZID=America/New_York:20270202T194500
 SUMMARY:Montclair Kimberley Academy at Newark School of Global Studies (J
  unior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104406206@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T190000
+DTEND;TZID=America/New_York:20270202T210000
+SUMMARY:Montclair Kimberley Academy at West Essex High School (Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101342628@super-essex-conference

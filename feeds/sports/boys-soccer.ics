@@ -4871,14 +4871,6 @@ SUMMARY:Saint Benedict's Prep vs Seton Hall Preparatory School (Varsity B
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104341495@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T163000
-DTEND;TZID=America/New_York:20260930T183000
-SUMMARY:Irvington High School vs TBD (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102495281@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T163000
@@ -4912,6 +4904,15 @@ DTSTART;TZID=America/New_York:20260930T163000
 DTEND;TZID=America/New_York:20260930T183000
 SUMMARY:Golda Och Academy vs Science Park High School (Varsity Boys Boys 
  Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104341495@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T163000
+DTEND;TZID=America/New_York:20260930T183000
+SUMMARY:Irvington High School vs Livingston High School (Varsity Boys Boy
+ s Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -5212,13 +5213,22 @@ SUMMARY:East Side High School vs Union City High School (Freshman Boys Bo
 DESCRIPTION:Freshman Boys Boys Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101719335@super-essex-conference
+UID:arb:104402925@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T100000
 DTEND;TZID=America/New_York:20261003T120000
-SUMMARY:Montclair High School vs Pascack Valley High School (Freshman Boy
+SUMMARY:Montclair High School at Pascack Valley High School (Freshman Boy
  s Boys Soccer)
-DESCRIPTION:Freshman Boys Boys Soccer - Home - 10:00 AM
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104402826@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+SUMMARY:Montclair High School at Pascack Valley High School (Junior Varsi
+ ty Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103358766@super-essex-conference
@@ -5634,15 +5644,6 @@ SUMMARY:Belleville High School at Bloomfield High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101627305@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T183000
-DTEND;TZID=America/New_York:20261005T203000
-SUMMARY:Newark Tech at James Caldwell High School (Junior Varsity Boys Bo
- ys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100660762@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T183000
@@ -5650,6 +5651,15 @@ DTEND;TZID=America/New_York:20261005T203000
 SUMMARY:Newark Tech at James Caldwell High School (Varsity Boys Boys Socc
  er)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101627305@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Newark Tech at James Caldwell High School (Junior Varsity Boys Bo
+ ys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103145661@super-essex-conference
@@ -5745,9 +5755,10 @@ UID:arb:101688419@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
 DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Saint Benedict's Prep vs Saint Peter's Prep High School (Varsity 
- Boys Boys Soccer)
+SUMMARY:[Canceled] Saint Benedict's Prep vs Saint Peter's Prep High Schoo
+ l (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101698202@super-essex-conference
@@ -6264,6 +6275,33 @@ SUMMARY:Cedar Grove High School vs Weehawken High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100866963@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T110000
+DTEND;TZID=America/New_York:20261010T130000
+SUMMARY:Columbia High School at Morris Hills High School (Freshman Boys B
+ oys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100866955@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T110000
+DTEND;TZID=America/New_York:20261010T130000
+SUMMARY:Columbia High School at Morris Hills High School (Junior Varsity 
+ Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100866941@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T110000
+DTEND;TZID=America/New_York:20261010T130000
+SUMMARY:Columbia High School at Morris Hills High School (Varsity Boys Bo
+ ys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101984689@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T120000
@@ -6343,6 +6381,15 @@ DTEND;TZID=America/New_York:20261010T170000
 SUMMARY:Saint Benedict's Prep vs Salesianum School (Varsity Boys Boys Soc
  cer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104398103@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T160000
+DTEND;TZID=America/New_York:20261010T180000
+SUMMARY:Columbia High School vs Ewing High School (Freshman Boys Boys Soc
+ cer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102639876@super-essex-conference

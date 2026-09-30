@@ -1367,6 +1367,15 @@ SUMMARY:Glen Ridge High School vs TBD (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104405061@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T150000
+DTEND;TZID=America/New_York:20261001T170000
+SUMMARY:Cedar Grove High School at Mountain Lakes High School (Varsity Gi
+ rls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104357381@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T150000
@@ -1384,15 +1393,6 @@ SUMMARY:Newark Academy vs Villa Walsh Academy (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104268659@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T160000
-DTEND;TZID=America/New_York:20261001T180000
-SUMMARY:Bloomfield High School at Nutley High School (Varsity Girls Girls
-  Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103693035@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
@@ -1406,9 +1406,10 @@ UID:arb:102618517@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
-SUMMARY:Cedar Grove High School at Clifton High School (Varsity Girls Gir
- ls Tennis)
+SUMMARY:[Postponed] Cedar Grove High School at Clifton High School (Varsi
+ ty Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101943288@super-essex-conference
@@ -1588,6 +1589,15 @@ DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Belleville High School vs American History High School (Varsity G
  irls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104404109@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T040000
+DTEND;TZID=America/New_York:20261007T060000
+SUMMARY:Belleville High School at Malcolm X Shabazz High School (Varsity 
+ Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104268676@super-essex-conference

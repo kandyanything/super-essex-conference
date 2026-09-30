@@ -2015,6 +2015,24 @@ SUMMARY:Montclair High School at Clifton High School (Freshman Boys Footb
 DESCRIPTION:Freshman Boys Football - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104402925@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+SUMMARY:Montclair High School at Pascack Valley High School (Freshman Boy
+ s Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104402826@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+SUMMARY:Montclair High School at Pascack Valley High School (Junior Varsi
+ ty Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101732167@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T100000
@@ -2022,15 +2040,6 @@ DTEND;TZID=America/New_York:20261003T120000
 SUMMARY:Montclair High School vs Warren Hills Regional High School (Varsi
  ty Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101719335@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T100000
-DTEND;TZID=America/New_York:20261003T120000
-SUMMARY:Montclair High School vs Pascack Valley High School (Freshman Boy
- s Boys Soccer)
-DESCRIPTION:Freshman Boys Boys Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103076586@super-essex-conference
@@ -2094,6 +2103,15 @@ DTEND;TZID=America/New_York:20261003T163000
 SUMMARY:Montclair High School at Pascack Valley High School (Varsity Boys
   Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104405959@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Belleville High School at Montclair High School (Freshman Girls G
+ irls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102336691@super-essex-conference
@@ -2184,6 +2202,15 @@ DTEND;TZID=America/New_York:20261005T191500
 SUMMARY:Montclair High School at West Essex High School (Junior Varsity G
  irls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99608445@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T183000
+DTEND;TZID=America/New_York:20261005T203000
+SUMMARY:Montclair High School at Governor Livingston High School (Varsity
+  Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104353879@super-essex-conference
