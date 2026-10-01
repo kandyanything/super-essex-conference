@@ -21911,9 +21911,10 @@ UID:arb:101765206@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T160000
 DTEND;TZID=America/New_York:20260930T180000
-SUMMARY:Livingston High School at Mount Saint Dominic Academy (Freshman G
- irls Girls Volleyball)
+SUMMARY:[Canceled] Livingston High School at Mount Saint Dominic Academy 
+ (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101496436@super-essex-conference
@@ -22918,18 +22919,20 @@ UID:arb:102444323@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
-SUMMARY:Millburn High School vs Mendham High School (Freshman Girls Girls
-  Volleyball)
+SUMMARY:[Canceled] Millburn High School vs Mendham High School (Freshman 
+ Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102333138@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
-SUMMARY:Millburn High School at Mendham High School (Varsity Girls Girls 
- Volleyball)
+SUMMARY:[Canceled] Millburn High School at Mendham High School (Varsity G
+ irls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101990025@super-essex-conference
@@ -23210,9 +23213,10 @@ UID:arb:102333226@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T171500
 DTEND;TZID=America/New_York:20261001T191500
-SUMMARY:Millburn High School at Mendham High School (Junior Varsity Girls
-  Girls Volleyball)
+SUMMARY:[Canceled] Millburn High School at Mendham High School (Junior Va
+ rsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103920731@super-essex-conference
@@ -23700,9 +23704,10 @@ UID:arb:103235037@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T163000
 DTEND;TZID=America/New_York:20261002T183000
-SUMMARY:Saint Benedict's Prep at Blair Academy (Junior Varsity Girls Fiel
- d Hockey)
+SUMMARY:[Canceled] Saint Benedict's Prep at Blair Academy (Junior Varsity
+  Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103852780@super-essex-conference
@@ -26087,6 +26092,24 @@ SUMMARY:Bloomfield High School at Hoboken High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104424806@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Columbia High School vs Bergen County Vocational Technical School
+ s (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104424726@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Livingston High School at Montclair High School (Varsity Girls Gi
+ rls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104404109@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T040000
@@ -26473,6 +26496,15 @@ DTEND;TZID=America/New_York:20261007T180000
 SUMMARY:University High School vs Newark School of Global Studies (Varsit
  y Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104422934@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Verona High School at Ridge High School (Junior Varsity Boys Boys
+  Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101382187@super-essex-conference
