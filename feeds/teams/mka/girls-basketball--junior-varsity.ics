@@ -96,6 +96,15 @@ SUMMARY:Cedar Grove High School vs Montclair Kimberley Academy (Junior Va
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104429056@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T113000
+DTEND;TZID=America/New_York:20270206T133000
+SUMMARY:Bloomfield High School at Montclair Kimberley Academy (Junior Var
+ sity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100564957@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T173000
@@ -111,6 +120,15 @@ DTSTART;TZID=America/New_York:20270211T173000
 DTEND;TZID=America/New_York:20270211T193000
 SUMMARY:Montclair Kimberley Academy at Newark Collegiate Academy (Junior 
  Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104429065@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270218T173000
+DTEND;TZID=America/New_York:20270218T193000
+SUMMARY:Livingston High School at Montclair Kimberley Academy (Junior Var
+ sity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 END:VCALENDAR

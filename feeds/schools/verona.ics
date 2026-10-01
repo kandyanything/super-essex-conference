@@ -1431,9 +1431,10 @@ UID:arb:101766149@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Cedar Grove High School at Verona High School (Junior Varsity Boy
- s Boys Soccer)
+SUMMARY:[Canceled] Cedar Grove High School at Verona High School (Junior 
+ Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100660583@super-essex-conference
@@ -1532,6 +1533,15 @@ DTEND;TZID=America/New_York:20261006T181500
 SUMMARY:Malcolm X Shabazz High School at Verona High School (Varsity Girl
  s Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104429409@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Verona High School vs Ridge High School (Freshman Boys Boys Socce
+ r)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104422934@super-essex-conference
@@ -1824,15 +1834,6 @@ SUMMARY:Montclair High School at Verona High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104222588@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T160000
-DTEND;TZID=America/New_York:20261016T180000
-SUMMARY:Montclair High School at Verona High School (Junior Varsity Girls
-  Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102037831@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T160000
@@ -1848,6 +1849,15 @@ DTEND;TZID=America/New_York:20261016T191500
 SUMMARY:Montclair High School at Verona High School (Junior Varsity Girls
   Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104222588@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T173000
+DTEND;TZID=America/New_York:20261016T193000
+SUMMARY:Montclair High School at Verona High School (Junior Varsity Girls
+  Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99528922@super-essex-conference
@@ -1929,6 +1939,24 @@ DTEND;TZID=America/New_York:20261022T180000
 SUMMARY:Columbia High School at Verona High School (Varsity Boys Boys Soc
  cer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104442558@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:Verona High School vs Mount Saint Mary Academy (Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104442572@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T173000
+DTEND;TZID=America/New_York:20261023T193000
+SUMMARY:Verona High School vs Mount Saint Mary Academy (Junior Varsity Gi
+ rls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99665044@super-essex-conference

@@ -2527,6 +2527,15 @@ SUMMARY:Barringer High School vs Newark School of Global Studies (Varsity
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104434511@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T160000
+DTEND;TZID=America/New_York:20261002T180000
+SUMMARY:Belleville High School at Irvington High School (Varsity Boys Boy
+ s Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104075209@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T160000
@@ -2608,6 +2617,15 @@ SUMMARY:Eagle Academy vs Newark School of Architecture and Interior Desig
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102009435@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T110000
+DTEND;TZID=America/New_York:20261003T130000
+SUMMARY:East Side High School at Union City High School (Varsity Boys Boy
+ s Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104412910@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T110000
@@ -2624,15 +2642,6 @@ DTEND;TZID=America/New_York:20261003T130000
 SUMMARY:Seton Hall Prep at Christian Brothers Academy (Varsity Boys Boys 
  Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102009435@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T120000
-DTEND;TZID=America/New_York:20261003T140000
-SUMMARY:East Side High School at Union City High School (Varsity Boys Boy
- s Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102430429@super-essex-conference
@@ -2839,6 +2848,15 @@ SUMMARY:Newark Tech at James Caldwell High School (Varsity Boys Boys Socc
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104355942@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T161500
+DTEND;TZID=America/New_York:20261006T181500
+SUMMARY:Weequahic High School at Newark School of Data Science (Varsity B
+ oys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100660584@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
@@ -2900,15 +2918,6 @@ DTSTART;TZID=America/New_York:20261007T161500
 DTEND;TZID=America/New_York:20261007T181500
 SUMMARY:Montclair Kimberley Academy at Blair Academy (Varsity Boys Boys S
  occer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104355942@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T161500
-DTEND;TZID=America/New_York:20261007T181500
-SUMMARY:Weequahic High School at Newark School of Data Science (Varsity B
- oys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -3605,6 +3614,14 @@ SUMMARY:Irvington High School vs Oratory Prep School (Varsity Boys Boys S
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104443032@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T163000
+DTEND;TZID=America/New_York:20261022T183000
+SUMMARY:Eagle Academy at Golda Och Academy (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104267488@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T190000
@@ -3612,14 +3629,6 @@ DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:West Orange High School at Linden High School (Varsity Boys Boys 
  Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101342728@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:West Orange High School vs TBD (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102206935@super-essex-conference

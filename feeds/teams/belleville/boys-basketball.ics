@@ -61,6 +61,24 @@ DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:45 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104444131@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T090000
+DTEND;TZID=America/New_York:20261212T110000
+SUMMARY:Belleville High School at Waldwick High School (Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104444186@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T103000
+DTEND;TZID=America/New_York:20261212T123000
+SUMMARY:Belleville High School at Waldwick High School (Junior Varsity Bo
+ ys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103069163@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T160000

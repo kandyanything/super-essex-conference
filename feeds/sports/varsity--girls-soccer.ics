@@ -1737,6 +1737,15 @@ SUMMARY:Livingston High School vs Montclair Kimberley Academy (Varsity Gi
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:99083132@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T173000
+DTEND;TZID=America/New_York:20261001T193000
+SUMMARY:Millburn High School at Watchung Hills Reg High School (Varsity G
+ irls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100663382@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T180000
@@ -1944,15 +1953,6 @@ DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Barringer High School vs Belleville High School (Varsity Girls Gi
  rls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102311192@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T160000
-DTEND;TZID=America/New_York:20261008T180000
-SUMMARY:Bloomfield High School at Montclair Kimberley Academy (Varsity Gi
- rls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100663392@super-essex-conference
@@ -2189,15 +2189,6 @@ DTEND;TZID=America/New_York:20261013T180000
 SUMMARY:Bloomfield High School vs Kearny High School (Varsity Girls Girls
   Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:99083132@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261013T160000
-DTEND;TZID=America/New_York:20261013T180000
-SUMMARY:Millburn High School at Watchung Hills Reg High School (Varsity G
- irls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103871159@super-essex-conference

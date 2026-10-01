@@ -1979,15 +1979,6 @@ SUMMARY:Bloomfield High School vs West Orange High School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102311192@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T160000
-DTEND;TZID=America/New_York:20261008T180000
-SUMMARY:Bloomfield High School at Montclair Kimberley Academy (Varsity Gi
- rls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100663392@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
@@ -3648,6 +3639,15 @@ SUMMARY:Bloomfield High School at Howell High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104429049@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T100000
+DTEND;TZID=America/New_York:20270206T120000
+SUMMARY:Bloomfield High School at Montclair Kimberley Academy (Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102616283@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T100000
@@ -3655,6 +3655,15 @@ DTEND;TZID=America/New_York:20270206T120000
 SUMMARY:Bloomfield High School vs Union High School (Varsity Boys Boys Wr
  estling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104429056@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T113000
+DTEND;TZID=America/New_York:20270206T133000
+SUMMARY:Bloomfield High School at Montclair Kimberley Academy (Junior Var
+ sity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100564103@super-essex-conference

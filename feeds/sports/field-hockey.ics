@@ -2117,6 +2117,15 @@ SUMMARY:Columbia High School vs Westfield High School (Freshman Girls Fie
 DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104436972@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Montclair High School at Randolph High School (Freshman Girls Fie
+ ld Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103356345@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
@@ -2140,9 +2149,10 @@ UID:arb:102830094@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T161500
 DTEND;TZID=America/New_York:20261001T181500
-SUMMARY:Montclair High School vs Randolph High School (Freshman Girls Fie
- ld Hockey)
+SUMMARY:[Canceled] Montclair High School vs Randolph High School (Freshma
+ n Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Home - 4:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102660147@super-essex-conference
@@ -3151,6 +3161,15 @@ SUMMARY:Newark Academy vs Koinonia Academy (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104442558@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:Verona High School vs Mount Saint Mary Academy (Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101772247@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T160000
@@ -3166,6 +3185,15 @@ DTSTART;TZID=America/New_York:20261023T173000
 DTEND;TZID=America/New_York:20261023T193000
 SUMMARY:Glen Ridge High School vs Morristown-Beard School (Junior Varsity
   Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104442572@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T173000
+DTEND;TZID=America/New_York:20261023T193000
+SUMMARY:Verona High School vs Mount Saint Mary Academy (Junior Varsity Gi
+ rls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
