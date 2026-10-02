@@ -24,6 +24,24 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:104463074@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
+SUMMARY:Eagle Academy at Saint Benedict's Preparatory School (Varsity Boy
+ s Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104463103@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T163000
+DTEND;TZID=America/New_York:20270107T183000
+SUMMARY:Saint Benedict's Prep vs West Orange High School (Varsity Boys Bo
+ ys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103036163@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T110000
@@ -33,6 +51,15 @@ SUMMARY:Saint Benedict's Prep vs Saint Peter's Prep High School (Varsity
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104463154@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T163000
+DTEND;TZID=America/New_York:20270112T183000
+SUMMARY:Saint Benedict's Prep vs Christian Brothers Academy (Varsity Boys
+  Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104136397@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T180000
@@ -40,5 +67,32 @@ DTEND;TZID=America/New_York:20270114T200000
 SUMMARY:Saint Benedict's Prep at West Essex High School (Varsity Boys Boy
  s Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104463174@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T163000
+DTEND;TZID=America/New_York:20270119T183000
+SUMMARY:Saint Benedict's Prep vs McNair-Academic High School (Varsity Boy
+ s Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104463242@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T163000
+DTEND;TZID=America/New_York:20270126T183000
+SUMMARY:Newark Academy at Saint Benedict's Preparatory School (Varsity Bo
+ ys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104463295@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T163000
+DTEND;TZID=America/New_York:20270202T183000
+SUMMARY:Saint Benedict's Prep vs Oratory Prep School (Varsity Boys Boys F
+ encing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:30 PM
 END:VEVENT
 END:VCALENDAR

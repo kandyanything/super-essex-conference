@@ -1413,6 +1413,16 @@ SUMMARY:Montclair Kimberley Academy vs Nutley High School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102568481@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:[Canceled] Nutley High School vs TBD (Freshman Girls Girls Volley
+ ball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103980434@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T160000
@@ -1429,6 +1439,15 @@ DTEND;TZID=America/New_York:20261006T180000
 SUMMARY:Belleville High School vs Nutley High School (Varsity Girls Girls
   Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104455898@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Nutley High School vs Union High School (Junior Varsity Girls Gir
+ ls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102441555@super-essex-conference
@@ -3523,6 +3542,15 @@ DTEND;TZID=America/New_York:20270424T130000
 SUMMARY:Nutley High School vs Saint Mary High School (Varsity Girls Softb
  all)
 DESCRIPTION:Varsity Girls Softball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104456941@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270424T120000
+DTEND;TZID=America/New_York:20270424T140000
+SUMMARY:Nutley High School at Fair Lawn High School (Varsity Boys Boys La
+ crosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103009006@super-essex-conference

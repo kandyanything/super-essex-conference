@@ -1704,6 +1704,15 @@ SUMMARY:Columbia High School vs Cranford High School (Junior Varsity Girl
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104457041@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Columbia High School at Livingston High School (Freshman Girls Fi
+ eld Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104279210@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
@@ -1840,15 +1849,6 @@ SUMMARY:Columbia High School at Union High School (Freshman Boys Football)
 DESCRIPTION:Freshman Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103344664@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T160000
-DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Columbia High School vs Perth Amboy High School (Middle School Bo
- ys Football)
-DESCRIPTION:Middle School Boys Football - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99608470@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
@@ -1865,6 +1865,15 @@ DTEND;TZID=America/New_York:20261007T183000
 SUMMARY:Barringer High School at Columbia High School (Junior Varsity Boy
  s Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103344664@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T163000
+DTEND;TZID=America/New_York:20261007T183000
+SUMMARY:Columbia High School vs Perth Amboy High School (Middle School Bo
+ ys Football)
+DESCRIPTION:Middle School Boys Football - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99052142@super-essex-conference

@@ -51,15 +51,6 @@ SUMMARY:Columbia High School at Union High School (Middle School Boys Foo
 DESCRIPTION:Middle School Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103344664@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T160000
-DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Columbia High School vs Perth Amboy High School (Middle School Bo
- ys Football)
-DESCRIPTION:Middle School Boys Football - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103174165@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T161500
@@ -67,6 +58,15 @@ DTEND;TZID=America/New_York:20261007T181500
 SUMMARY:Montclair Kimberley Academy vs Dover High School (Middle School B
  oys Football)
 DESCRIPTION:Middle School Boys Football - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103344664@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T163000
+DTEND;TZID=America/New_York:20261007T183000
+SUMMARY:Columbia High School vs Perth Amboy High School (Middle School Bo
+ ys Football)
+DESCRIPTION:Middle School Boys Football - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102883571@super-essex-conference
