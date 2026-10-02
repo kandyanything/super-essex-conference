@@ -1,0 +1,26 @@
+{
+  "_comment": "Social wall. Each platform renders behind a tab; 'All' shows them side by side and is hidden when only one platform is configured. Facebook uses the official Page Plugin, which needs no app id or token - just the page URL, which must be a PAGE (a personal profile cannot be embedded). Instagram profile FEEDS cannot be embedded without a Business account and a Meta access token, so list individual post URLs in 'posts' (single-post embeds still work without a token) or leave it empty and the tab shows a link instead. Set enabled:false to hide a platform.",
+  "note": "Follow the conference across both platforms.",
+  "combinedLabel": "All",
+  "showCombined": true,
+  "platforms": [
+    {
+      "id": "facebook",
+      "label": "Facebook",
+      "enabled": false,
+      "handle": "Super Essex Conference",
+      "url": "https://www.facebook.com/profile.php?id=61595097235760",
+      "_verified": "Verified 2026-10-01: this url resolves as \"Super Essex Conference\" in the Page Plugin."
+    },
+    {
+      "id": "instagram",
+      "label": "Instagram",
+      "enabled": false,
+      "handle": "@superessexconferencenj",
+      "url": "https://www.instagram.com/superessexconferencenj",
+      "posts": [],
+      "emptyText": "No posts yet. Follow @superessexconferencenj for conference highlights, results and championship coverage.",
+      "cta": "Open Instagram"
+    }
+  ]
+}
