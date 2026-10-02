@@ -24052,6 +24052,15 @@ SUMMARY:Seton Hall Prep vs Saint Peter's Prep High School (Freshman Boys
 DESCRIPTION:Freshman Boys Football - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101155774@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T093000
+DTEND;TZID=America/New_York:20261003T113000
+SUMMARY:East Side High School vs Union City High School (Freshman Boys Bo
+ ys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101196089@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T093000
@@ -24077,15 +24086,6 @@ DTEND;TZID=America/New_York:20261003T120000
 SUMMARY:Cedar Grove High School vs Newark School of Global Studies (Varsi
  ty Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101155774@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T100000
-DTEND;TZID=America/New_York:20261003T120000
-SUMMARY:East Side High School vs Union City High School (Freshman Boys Bo
- ys Soccer)
-DESCRIPTION:Freshman Boys Boys Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100663710@super-essex-conference
@@ -26219,6 +26219,14 @@ DTEND;TZID=America/New_York:20261007T173000
 SUMMARY:Newark Academy vs Gill St. Bernard's School (Middle School Girls 
  Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104472400@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Columbia High School vs TBD (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100665045@super-essex-conference
@@ -32807,15 +32815,6 @@ SUMMARY:Seton Hall Prep vs Saint Joseph Regional High School (Junior Vars
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102206925@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T160000
-DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Technology High School at Newark School of Data Science (Varsity 
- Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103391650@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
@@ -35835,6 +35834,15 @@ SUMMARY:Saint Benedict's Prep at Peddie School (Junior Varsity Girls Fiel
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104466100@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T161500
+DTEND;TZID=America/New_York:20261028T181500
+SUMMARY:Technology High School at Newark School of Data Science (Varsity 
+ Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103090158@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T163000
@@ -37118,6 +37126,15 @@ DTEND;TZID=America/New_York:20261209T200000
 SUMMARY:East Side High School vs Bayonne High School (Varsity Boys Boys W
  restling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104466204@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T063000
+DTEND;TZID=America/New_York:20261210T083000
+SUMMARY:James Caldwell High School at Nutley High School (Varsity Boys Bo
+ ys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103975932@super-essex-conference
@@ -58859,6 +58876,15 @@ SUMMARY:Malcolm X Shabazz High School at West Side High School (Varsity B
 DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104468597@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270416T160000
+DTEND;TZID=America/New_York:20270416T180000
+SUMMARY:Montclair High School at Morris Hills High School (Junior Varsity
+  Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102615493@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270416T160000
@@ -58884,6 +58910,15 @@ DTEND;TZID=America/New_York:20270416T180000
 SUMMARY:West Essex High School at North Warren Regional High School (Midd
  le School Boys Baseball)
 DESCRIPTION:Middle School Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104468419@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270416T161500
+DTEND;TZID=America/New_York:20270416T181500
+SUMMARY:Montclair High School at Morris Hills High School (Varsity Boys B
+ aseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104367810@super-essex-conference
