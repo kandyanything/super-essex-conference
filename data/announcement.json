@@ -1,6 +1,6 @@
 {
   "_comment": "Site-wide pop-up. mode 'acknowledge' shows it each visit until the visitor clicks 'Don't show this again'; closing with X or Esc dismisses for that session only. Change 'id' for a NEW message. Other modes: 'once', 'untilDate' (with endDate), 'always'.",
-  "active": false,
+  "active": true,
   "id": "welcome-2026",
   "eyebrow": "Announcement",
   "title": "Welcome to the New Super Essex Site",
