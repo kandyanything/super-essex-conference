@@ -65,6 +65,24 @@ const OVERRIDE = {
     "Eagle Academy":              null,
 };
 
+/* The level/gender/sport shown on an event card, e.g. "Varsity Girls Soccer".
+   It sits between the end of the card anchor and the broadcast run time. Two
+   fixtures between the same schools on the same day share an aria-label, so
+   without this they render as identical tiles. */
+const SPORT_WORDS = /(soccer|football|volleyball|basketball|baseball|softball|wrestling|hockey|lacrosse|tennis|golf|swimming|track|cross country|field hockey|water polo|gymnastics|bowling|cheer|rugby|crew|fencing|skiing|diving|band|concert|graduation|ceremony)/i;
+function cardSport(html, anchorIndex) {
+    const open = html.indexOf('>', anchorIndex);
+    if (open < 0) return '';
+    const text = html.slice(open + 1, open + 2500)
+        .replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+    // The first text node after the anchor is the level/gender/sport. A run
+    // time follows it only on games that have aired, so it must not be
+    // required - demanding it dropped 13 of 20 cards.
+    let label = text.split('<')[0].trim();
+    label = label.replace(/\s+\d{1,2}:\d{2}(?::\d{2})?$/, '').trim();
+    if (label.length > 60) return '';
+    return SPORT_WORDS.test(label) ? label : '';
+}
 async function get(url, asBuffer) {
     for (let a = 0; a < 3; a++) {
         try {
@@ -152,6 +170,7 @@ const words = s => String(s).toLowerCase().replace(/[^a-z0-9]+/g, ' ').split(' '
             byGame.set(id, {
                 id, url: `https://www.nfhsnetwork.com${href}`,
                 title: label.replace(/\s+/g, ' ').trim(), date: iso, school: s.name,
+                sport: cardSport(html, c.index),
             });
             added++;
         }
@@ -165,7 +184,7 @@ const words = s => String(s).toLowerCase().replace(/[^a-z0-9]+/g, ' ').split(' '
         if (kept.length >= MAX) break;
         const frame = `https://social.nfhsnetwork.com/thumbnails/${g.id}_nfhs_net.jpg`;
         if (!(await exists(frame))) continue;    // no frame = never aired
-        kept.push({ url: g.url, source: 'nfhs', title: g.title, date: g.date, sport: '' });
+        kept.push({ url: g.url, source: 'nfhs', title: g.title, date: g.date, sport: g.sport || '' });
         await sleep(250);
     }
     console.log(`  ${kept.length} have an aired broadcast frame`);
