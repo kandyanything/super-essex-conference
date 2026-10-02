@@ -1547,12 +1547,12 @@ SUMMARY:Nutley High School vs Union High School (Varsity Girls Girls Tenn
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104353879@super-essex-conference
+UID:arb:104449658@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T160000
-DTEND;TZID=America/New_York:20261006T180000
-SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+DTSTART;TZID=America/New_York:20261006T150000
+DTEND;TZID=America/New_York:20261006T170000
+SUMMARY:Newark Academy vs TBD (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101522840@super-essex-conference
@@ -1570,6 +1570,15 @@ DTSTART;TZID=America/New_York:20261006T160000
 DTEND;TZID=America/New_York:20261006T180000
 SUMMARY:Cedar Grove High School at West Essex High School (Varsity Girls 
  Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104424726@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Livingston High School at Montclair High School (Varsity Girls Gi
+ rls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1600,13 +1609,21 @@ SUMMARY:Columbia High School vs Bergen County Vocational Technical School
 DESCRIPTION:Varsity Girls Girls Tennis - Home
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104424726@super-essex-conference
+UID:arb:104451557@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-SUMMARY:Livingston High School at Montclair High School (Varsity Girls Gi
- rls Tennis)
+SUMMARY:Glen Ridge High School at Whippany Park High School (Varsity Girl
+ s Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104451595@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Millburn High School vs TBD (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104404109@super-essex-conference

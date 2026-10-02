@@ -1957,6 +1957,15 @@ SUMMARY:Livingston High School at Millburn High School (Junior Varsity Gi
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104424726@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Livingston High School at Montclair High School (Varsity Girls Gi
+ rls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101208035@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T160000
@@ -1982,15 +1991,6 @@ DTEND;TZID=America/New_York:20261006T203000
 SUMMARY:Livingston High School vs Newark Academy (Varsity Girls Girls Soc
  cer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104424726@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:Livingston High School at Montclair High School (Varsity Girls Gi
- rls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103067553@super-essex-conference
