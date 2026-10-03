@@ -24137,9 +24137,10 @@ UID:arb:103358766@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T100000
 DTEND;TZID=America/New_York:20261003T120000
-SUMMARY:Saint Benedict's Prep vs Delbarton School (Junior Varsity Boys Bo
- ys Soccer)
+SUMMARY:[Canceled] Saint Benedict's Prep vs Delbarton School (Junior Vars
+ ity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104337456@super-essex-conference
@@ -24217,9 +24218,10 @@ UID:arb:104412910@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T110000
 DTEND;TZID=America/New_York:20261003T130000
-SUMMARY:Saint Benedict's Prep vs Saint Thomas Aquinas High School (Varsit
- y Boys Boys Soccer)
+SUMMARY:[Canceled] Saint Benedict's Prep vs Saint Thomas Aquinas High Sch
+ ool (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102310542@super-essex-conference
@@ -25016,9 +25018,10 @@ UID:arb:102578705@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Malcolm X Shabazz High School at Nutley High School (Varsity Boys
-  Boys Soccer)
+SUMMARY:[Canceled] Malcolm X Shabazz High School at Nutley High School (V
+ arsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:98322740@super-essex-conference
@@ -30357,6 +30360,14 @@ SUMMARY:Central High School at Newark Vocational High School (Junior Vars
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104473702@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T183000
+DTEND;TZID=America/New_York:20261013T203000
+SUMMARY:West Essex High School vs TBD (Middle School Girls Field Hockey)
+DESCRIPTION:Middle School Girls Field Hockey - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023215@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261013
@@ -32813,6 +32824,15 @@ DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Seton Hall Prep vs Saint Joseph Regional High School (Junior Vars
  ity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104476446@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:University High School at Abraham Clark High School (Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103391650@super-essex-conference

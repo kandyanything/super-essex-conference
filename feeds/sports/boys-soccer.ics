@@ -5244,9 +5244,10 @@ UID:arb:103358766@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T100000
 DTEND;TZID=America/New_York:20261003T120000
-SUMMARY:Saint Benedict's Prep vs Delbarton School (Junior Varsity Boys Bo
- ys Soccer)
+SUMMARY:[Canceled] Saint Benedict's Prep vs Delbarton School (Junior Vars
+ ity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104337456@super-essex-conference
@@ -5289,9 +5290,10 @@ UID:arb:104412910@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T110000
 DTEND;TZID=America/New_York:20261003T130000
-SUMMARY:Saint Benedict's Prep vs Saint Thomas Aquinas High School (Varsit
- y Boys Boys Soccer)
+SUMMARY:[Canceled] Saint Benedict's Prep vs Saint Thomas Aquinas High Sch
+ ool (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102310542@super-essex-conference
@@ -5542,9 +5544,10 @@ UID:arb:102578705@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Malcolm X Shabazz High School at Nutley High School (Varsity Boys
-  Boys Soccer)
+SUMMARY:[Canceled] Malcolm X Shabazz High School at Nutley High School (V
+ arsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102575866@super-essex-conference
@@ -7157,6 +7160,15 @@ DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Seton Hall Prep at Delbarton School (Freshman Boys Boys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104476446@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:University High School at Abraham Clark High School (Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101854747@super-essex-conference
