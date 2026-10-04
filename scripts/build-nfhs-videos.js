@@ -34,36 +34,28 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
 const arg = (f, d) => process.argv.includes(f) ? process.argv[process.argv.indexOf(f) + 1] : d;
 const WEEKS = Number(arg('--weeks', 6));
 const MAX = Number(arg('--max', 24));
+const MAP_ONLY = process.argv.includes('--map-only');   // map schools to slugs, then stop
 
-/* Schools whose NFHS name genuinely differs from the conference's. */
-const OVERRIDE = {
-    // Essex is dense with generic names and Newark collisions, so the strict
-    // matcher refuses most of these - correctly. Each is named by hand below.
-    "Arts High School":           "arts-high-school-newark-nj",
-    "Livingston High School":     "livingston-high-school-livingston-nj",
-    "Montclair High School":      "montclair-high-school-montclair-nj",
-    // NFHS spells it Kimberly, the school spells it Kimberley
-    "Montclair Kimberley Academy":"montclair-kimberly-academy-montclair-nj",
-    // Newark Academy is in LIVINGSTON, not Newark
-    "Newark Academy":             "newark-academy-high-school-livingston-nj",
-    "Newark Tech":                "essex-county-newark-tech-newark-nj",
-    "Nutley High School":         "nutley-high-school-nutley-nj",
-    "Orange High School":         "orange-high-school-orange-nj",
-    "Payne Tech":                 "essex-county-donald-payne-tech-newark-nj",
-    "Technology High School":     "technology-high-school-newark-nj",
-    "University High School":     "university-high-school-newark-nj",
-    "West Essex High School":     "west-essex-regional-high-school-north-caldwell-nj",
-    "West Orange High School":    "west-orange-high-school-west-orange-nj",
-    "Bard Early College":         "bard-high-school-newark-nj",
-    "Saint Benedict's Prep":        "st-benedicts-prep-school-newark-nj",
-    // AMBIGUOUS: NFHS carries BOTH central-high-school-newark-nj (17 event
-    // cards) and newark-central-high-school-newark-nj (12). They look like
-    // duplicate records for the same school; the busier one is used. Worth a
-    // human check before this is relied on.
-    "Central High School":        "central-high-school-newark-nj",
-    // not on NFHS Network at all
-    "Eagle Academy":              null,
-};
+/* Per-site configuration. The only thing that differs between conferences is
+   which school names NFHS files under a different slug, so that lives in
+   scripts/nfhs-overrides.json and this script is identical on every site.
+
+     { "conference": "Big North",
+       "overrides": { "Don Bosco Prep": "don-bosco-preparatory-high-school-ramsey-nj",
+                      "Mater Dei High School": null } }
+
+   null means the school is genuinely not on NFHS Network, which is different
+   from being absent (absent = the strict matcher resolves it unaided). */
+const CFG_PATH = path.join(__dirname, 'nfhs-overrides.json');
+let CFG = { conference: '', overrides: {} };
+try {
+    CFG = JSON.parse(fs.readFileSync(CFG_PATH, 'utf8'));
+} catch (e) {
+    if (fs.existsSync(CFG_PATH)) { console.error('  nfhs-overrides.json is unreadable: ' + e.message); process.exit(1); }
+    console.log('  no scripts/nfhs-overrides.json - relying on the strict matcher alone');
+}
+const OVERRIDE = CFG.overrides || {};
+const CONF = CFG.conference || 'Conference';
 
 /* The level/gender/sport shown on an event card, e.g. "Varsity Girls Soccer".
    It sits between the end of the card anchor and the broadcast run time. Two
@@ -146,6 +138,7 @@ const words = s => String(s).toLowerCase().replace(/[^a-z0-9]+/g, ' ').split(' '
     }
     console.log(`  mapped ${map.length}/${schools.length}`);
     unmapped.forEach(u => console.log(`    unmapped: ${u}`));
+    if (MAP_ONLY) return;
 
     /* ---- 3. harvest recent games ---- */
     const cutoff = new Date(Date.now() - WEEKS * 7 * 864e5);
@@ -190,10 +183,11 @@ const words = s => String(s).toLowerCase().replace(/[^a-z0-9]+/g, ' ').split(' '
     console.log(`  ${kept.length} have an aired broadcast frame`);
 
     fs.writeFileSync(path.join(ROOT, 'data', 'videos.json'), JSON.stringify({
-        _comment: 'SEC Vision. NFHS Network broadcasts of member schools, newest first. '
+        _comment: CONF + ' Vision. NFHS Network broadcasts of member schools, newest first. '
             + 'No "thumb" is stored: the renderer derives the broadcast frame from the game id '
             + '(social.nfhsnetwork.com/thumbnails/<id>_nfhs_net.jpg), and every entry here was '
             + 'checked to have one. Rebuild with scripts/build-nfhs-videos.js.',
+        generated: new Date().toISOString(),
         videos: kept,
     }, null, 2) + '\n', 'utf8');
     console.log(`  wrote data/videos.json`);

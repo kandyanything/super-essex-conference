@@ -1,0 +1,23 @@
+{
+  "_comment": "Schools whose NFHS Network slug cannot be derived from the name. The harvester matches strictly - every distinctive word of the school name must appear as a whole hyphen-separated word in the slug, and no slug may serve two schools - so it refuses rather than guessing, and what it refuses is listed here. Resolve each against the sitemap and pick by event-card count when two records compete. null means the school is genuinely not on NFHS Network.",
+  "conference": "Super Essex",
+  "overrides": {
+    "Arts High School": "arts-high-school-newark-nj",
+    "Livingston High School": "livingston-high-school-livingston-nj",
+    "Montclair High School": "montclair-high-school-montclair-nj",
+    "Montclair Kimberley Academy": "montclair-kimberly-academy-montclair-nj",
+    "Newark Academy": "newark-academy-high-school-livingston-nj",
+    "Newark Tech": "essex-county-newark-tech-newark-nj",
+    "Nutley High School": "nutley-high-school-nutley-nj",
+    "Orange High School": "orange-high-school-orange-nj",
+    "Payne Tech": "essex-county-donald-payne-tech-newark-nj",
+    "Technology High School": "technology-high-school-newark-nj",
+    "University High School": "university-high-school-newark-nj",
+    "West Essex High School": "west-essex-regional-high-school-north-caldwell-nj",
+    "West Orange High School": "west-orange-high-school-west-orange-nj",
+    "Bard Early College": "bard-high-school-newark-nj",
+    "Saint Benedict's Prep": "st-benedicts-prep-school-newark-nj",
+    "Central High School": "central-high-school-newark-nj",
+    "Eagle Academy": null
+  }
+}
