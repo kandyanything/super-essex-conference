@@ -543,20 +543,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:99162609@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T160000
-DTEND;TZID=America/New_York:20261012T180000
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
 SUMMARY:Malcolm X Shabazz High School at Weequahic High School (Varsity G
  irls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:99162642@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T171500
-DTEND;TZID=America/New_York:20261012T191500
-SUMMARY:Malcolm X Shabazz High School at Weequahic High School (Junior Va
- rsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102644958@super-essex-conference
@@ -566,6 +557,15 @@ DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Weequahic High School at Eastside High School - Paterson (Varsity
   Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99162642@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T171500
+DTEND;TZID=America/New_York:20261013T191500
+SUMMARY:Malcolm X Shabazz High School at Weequahic High School (Junior Va
+ rsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99140846@super-essex-conference
