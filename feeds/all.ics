@@ -24883,9 +24883,10 @@ UID:arb:99776248@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:East Orange Campus High School at Livingston High School (Junior 
- Varsity Boys Football)
+SUMMARY:[Canceled] East Orange Campus High School at Livingston High Scho
+ ol (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99108080@super-essex-conference
@@ -36674,6 +36675,15 @@ SUMMARY:Montclair Kimberley Academy at Glen Rock High School (Varsity Boy
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 6:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104492637@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261206T190000
+DTEND;TZID=America/New_York:20261206T210000
+SUMMARY:Seton Hall Prep vs Don Bosco Preparatory High School (Junior Vars
+ ity Boys Boys Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103996577@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T160000
@@ -37313,6 +37323,15 @@ SUMMARY:Golda Och Academy at American History High School (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104492657@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T181500
+DTEND;TZID=America/New_York:20261210T201500
+SUMMARY:Seton Hall Prep vs Delbarton School (Junior Varsity Boys Boys Ice
+  Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Home - 6:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101185545@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T160000
@@ -37786,6 +37805,15 @@ DTEND;TZID=America/New_York:20261213T193000
 SUMMARY:Montclair High School at Kearny High School (Varsity Coed Coed Ic
  e Hockey)
 DESCRIPTION:Varsity Coed Coed Ice Hockey - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104492670@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261213T193000
+DTEND;TZID=America/New_York:20261213T213000
+SUMMARY:Seton Hall Prep vs Bergen Catholic High School (Junior Varsity Bo
+ ys Boys Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Home - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103069163@super-essex-conference
@@ -41149,6 +41177,15 @@ SUMMARY:Bloomfield High School at Elizabeth High School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104492683@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270103T190000
+DTEND;TZID=America/New_York:20270103T210000
+SUMMARY:Seton Hall Prep vs Christian Brothers Academy (Junior Varsity Boy
+ s Boys Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103170283@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270103T204500
@@ -43082,6 +43119,15 @@ SUMMARY:East Side High School at West Essex High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104492707@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T201500
+DTEND;TZID=America/New_York:20270108T221500
+SUMMARY:Seton Hall Prep vs Westfield High School (Junior Varsity Boys Boy
+ s Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Home - 8:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103170003@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T203000
@@ -43919,7 +43965,7 @@ SUMMARY:Malcolm X Shabazz High School vs Weequahic High School (Varsity B
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103932115@super-essex-conference
+UID:arb:104492766@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270110T190000
 DTEND;TZID=America/New_York:20270110T210000
@@ -46651,6 +46697,14 @@ DTEND;TZID=America/New_York:20270117T201500
 SUMMARY:Nutley High School at Morris Catholic High School (Varsity Boys B
  oys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 6:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104492738@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270117T190000
+DTEND;TZID=America/New_York:20270117T210000
+SUMMARY:Seton Hall Prep vs TBD (Junior Varsity Boys Boys Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102898926@super-essex-conference
@@ -50218,6 +50272,15 @@ SUMMARY:West Orange High School at Chatham High School (Freshman Girls Gi
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104491742@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T163000
+DTEND;TZID=America/New_York:20270128T183000
+SUMMARY:Payne Tech at North Bergen High School (Freshman Boys Boys Basket
+ ball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102412041@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T163000
@@ -50225,6 +50288,15 @@ DTEND;TZID=America/New_York:20270128T183000
 SUMMARY:Technology High School at Bergen Arts and Science Charter School 
  (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104491746@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T170000
+DTEND;TZID=America/New_York:20270128T190000
+SUMMARY:Payne Tech at North Bergen High School (Junior Varsity Boys Boys 
+ Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104367164@super-essex-conference
@@ -50521,6 +50593,15 @@ DTEND;TZID=America/New_York:20270131T110000
 SUMMARY:Bloomfield High School at Kinnelon High School (Junior Varsity Bo
  ys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104492749@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270131T190000
+DTEND;TZID=America/New_York:20270131T210000
+SUMMARY:Seton Hall Prep vs Saint Joseph Regional High School (Junior Vars
+ ity Boys Boys Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103904087@super-essex-conference
