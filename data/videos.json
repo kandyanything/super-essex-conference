@@ -1,6 +1,147 @@
 {
-  "_comment": "SEC Vision. NFHS Network broadcasts of member schools, newest first. No \"thumb\" is stored: the renderer derives the broadcast frame from the game id (social.nfhsnetwork.com/thumbnails/<id>_nfhs_net.jpg), and every entry here was checked to have one. Rebuild with scripts/build-nfhs-videos.js.",
+  "_comment": "Super Essex Vision. NFHS Network broadcasts of member schools, newest first. No \"thumb\" is stored: the renderer derives the broadcast frame from the game id (social.nfhsnetwork.com/thumbnails/<id>_nfhs_net.jpg), and every entry here was checked to have one. Rebuild with scripts/build-nfhs-videos.js.",
+  "generated": "2026-10-04T15:45:06.693Z",
   "videos": [
+    {
+      "url": "https://www.nfhsnetwork.com/events/d1-media-pro/gamc94b414028",
+      "source": "nfhs",
+      "title": "Weequahic vs. Barringer",
+      "date": "2026-10-03",
+      "sport": "Varsity Boys Football"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/piaa/gam63ee884364",
+      "source": "nfhs",
+      "title": "Varsity Boys Basketball-Jefferson University 2 — East Orange Campus vs. Overlea High School",
+      "date": "2026-10-03",
+      "sport": "Varsity Boys Basketball"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gam7dc3c59f1a",
+      "source": "nfhs",
+      "title": "Clifton vs. Montclair",
+      "date": "2026-10-03",
+      "sport": "Varsity Boys Football"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gam05cd310786",
+      "source": "nfhs",
+      "title": "Warren Hills vs. Montclair",
+      "date": "2026-10-03",
+      "sport": "Junior Varsity Girls Field Hockey"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gam858f1361b2",
+      "source": "nfhs",
+      "title": "B-R vs. Montclair",
+      "date": "2026-10-03",
+      "sport": "Varsity Girls Soccer"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gambe31ddc1ec",
+      "source": "nfhs",
+      "title": "Warren Hills vs. Montclair",
+      "date": "2026-10-03",
+      "sport": "Varsity Girls Field Hockey"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/fair-lawn-high-school-fair-lawn-nj/gam224e7c38e5",
+      "source": "nfhs",
+      "title": "Montclair vs. Fair Lawn",
+      "date": "2026-10-03",
+      "sport": "Junior Varsity Girls Volleyball"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/d1-media-pro/gam0fda807f1e",
+      "source": "nfhs",
+      "title": "Madison vs. West Side",
+      "date": "2026-10-03",
+      "sport": "Varsity Boys Football"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/d1-media-pro/gamb1cdc9783b",
+      "source": "nfhs",
+      "title": "Columbia vs. Belleville",
+      "date": "2026-10-02",
+      "sport": "Varsity Girls Flag Football"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/d1-media-pro/gam4aabe961fe",
+      "source": "nfhs",
+      "title": "Irvington vs. Columbia",
+      "date": "2026-10-02",
+      "sport": "Varsity Boys Football"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/east-side-high-school-newark-nj/gam33592cf53a",
+      "source": "nfhs",
+      "title": "SBP vs. East Side",
+      "date": "2026-10-02",
+      "sport": "Varsity Girls Volleyball"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/east-side-high-school-newark-nj/gam8f888bbab6",
+      "source": "nfhs",
+      "title": "Away vs. East Side",
+      "date": "2026-10-02",
+      "sport": "Junior Varsity Girls Volleyball"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/whippany-park-high-school-whippany-nj/gam74579de311",
+      "source": "nfhs",
+      "title": "James Caldwell vs. Whippany Park",
+      "date": "2026-10-02",
+      "sport": "Varsity Girls Volleyball"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gam06b859f9f1",
+      "source": "nfhs",
+      "title": "James Caldwell vs. Montclair",
+      "date": "2026-10-02",
+      "sport": "Varsity Boys Soccer"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/livingston-high-school-livingston-nj/gameff9337d00",
+      "source": "nfhs",
+      "title": "MKA vs. Livingston",
+      "date": "2026-10-02",
+      "sport": "Varsity Girls Soccer"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/fair-lawn-high-school-fair-lawn-nj/gam5192d7f1a4",
+      "source": "nfhs",
+      "title": "Montclair vs. Fair Lawn",
+      "date": "2026-10-02",
+      "sport": "Varsity Girls Volleyball"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gamc87eb0ab43",
+      "source": "nfhs",
+      "title": "Montclair",
+      "date": "2026-10-02",
+      "sport": "Freshman Girls Field Hockey"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/d1-media-pro/gam84889bfafd",
+      "source": "nfhs",
+      "title": "Orange vs. Newark Central",
+      "date": "2026-10-02",
+      "sport": "Varsity Boys Football"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/d1-media-pro/gamcea4a2106e",
+      "source": "nfhs",
+      "title": "NJ SOCCER GAME OF THE WEEK — Seton Hall Preparatory School vs. St. Benedict&#39;s Prep",
+      "date": "2026-10-02",
+      "sport": "Varsity Boys Soccer"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/d1-media-pro/gamaae9327c29",
+      "source": "nfhs",
+      "title": "Weequahic vs. W. Essex Reg.",
+      "date": "2026-10-02",
+      "sport": "Varsity Boys Football"
+    },
     {
       "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gamb110cdb283",
       "source": "nfhs",
@@ -14,13 +155,6 @@
       "title": "Seton Hall Prep vs. Glen Ridge",
       "date": "2026-10-01",
       "sport": "Varsity Boys Soccer"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/d1-media-pro/gam4aabe961fe",
-      "source": "nfhs",
-      "title": "Irvington vs. Columbia",
-      "date": "2026-10-01",
-      "sport": "Varsity Boys Football"
     },
     {
       "url": "https://www.nfhsnetwork.com/events/a-l-johnson-high-school-clark-nj/gam2575923e8c",
@@ -79,34 +213,6 @@
       "sport": "Varsity Boys Soccer"
     },
     {
-      "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gamcbcaa3b6cd",
-      "source": "nfhs",
-      "title": "Verona vs. Montclair",
-      "date": "2026-09-30",
-      "sport": "Junior Varsity Girls Volleyball"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gam5c5e61a7a1",
-      "source": "nfhs",
-      "title": "Kent Place vs. Montclair",
-      "date": "2026-09-30",
-      "sport": "Varsity Girls Field Hockey"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gam80080aad9e",
-      "source": "nfhs",
-      "title": "Verona vs. Montclair",
-      "date": "2026-09-30",
-      "sport": "Varsity Girls Volleyball"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gam2b439bfaae",
-      "source": "nfhs",
-      "title": "Lakeland Reg. vs. Montclair",
-      "date": "2026-09-30",
-      "sport": "Varsity Girls Soccer"
-    },
-    {
       "url": "https://www.nfhsnetwork.com/events/piaa/gam31a861efda",
       "source": "nfhs",
       "title": "Boys Philly Live 2026-Jefferson University 2 — Upper Dublin High School vs. St. Benedict&#39;s Prep",
@@ -121,6 +227,13 @@
       "sport": "Varsity Boys Soccer"
     },
     {
+      "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gam80080aad9e",
+      "source": "nfhs",
+      "title": "Verona vs. Montclair",
+      "date": "2026-09-30",
+      "sport": "Varsity Girls Volleyball"
+    },
+    {
       "url": "https://www.nfhsnetwork.com/events/hillside-high-school-hillside-nj/gamd800b78abf",
       "source": "nfhs",
       "title": "Malcolm X vs. Hillside",
@@ -133,13 +246,6 @@
       "title": "Varsity Boys Football",
       "date": "2026-09-29",
       "sport": "Varsity Boys Football"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gama9ac05ef56",
-      "source": "nfhs",
-      "title": "Chatham vs. Montclair",
-      "date": "2026-09-29",
-      "sport": "Junior Varsity Girls Field Hockey"
     },
     {
       "url": "https://www.nfhsnetwork.com/events/east-side-high-school-newark-nj/gamb170e1cced",
@@ -198,25 +304,11 @@
       "sport": "Freshman Girls Volleyball"
     },
     {
-      "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gam06b859f9f1",
-      "source": "nfhs",
-      "title": "James Caldwell vs. Montclair",
-      "date": "2026-09-28",
-      "sport": "Varsity Boys Soccer"
-    },
-    {
       "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gam4426f019b6",
       "source": "nfhs",
       "title": "Mt. St. Dominic vs. Montclair",
       "date": "2026-09-28",
       "sport": "Varsity Girls Soccer"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/d1-media-pro/gamaae9327c29",
-      "source": "nfhs",
-      "title": "Weequahic vs. W. Essex Reg.",
-      "date": "2026-09-28",
-      "sport": "Varsity Boys Football"
     },
     {
       "url": "https://www.nfhsnetwork.com/events/east-side-high-school-newark-nj/gam22aeb780a6",
@@ -231,13 +323,6 @@
       "title": "Livingston vs. Montclair",
       "date": "2026-09-25",
       "sport": "Freshman Girls Volleyball"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/d1-media-pro/gamc94b414028",
-      "source": "nfhs",
-      "title": "Weequahic vs. Barringer",
-      "date": "2026-09-25",
-      "sport": "Varsity Boys Football"
     },
     {
       "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gamc0f91848da",
@@ -336,90 +421,6 @@
       "title": "Montclair vs. Livingston",
       "date": "2026-09-19",
       "sport": "Varsity Boys Football"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/villa-walsh-academy-morristown-nj/gama8b96af34a",
-      "source": "nfhs",
-      "title": "Varsity Girls Volleyball",
-      "date": "2026-09-19",
-      "sport": "Varsity Girls Volleyball"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/eastside-high-school-paterson-nj/gam772943a3f4",
-      "source": "nfhs",
-      "title": "Donald Payne vs. Eastside",
-      "date": "2026-09-19",
-      "sport": "Varsity Girls Flag Football"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/d1-media-pro/gam7777a787bf",
-      "source": "nfhs",
-      "title": "M&#39;town-Beard vs. West Side",
-      "date": "2026-09-19",
-      "sport": "Varsity Boys Football"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/d1-media-pro/gam1e010a410c",
-      "source": "nfhs",
-      "title": "Barringer vs. Orange",
-      "date": "2026-09-18",
-      "sport": "Varsity Boys Football"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gam803571b94c",
-      "source": "nfhs",
-      "title": "Bloomfield vs. Montclair",
-      "date": "2026-09-18",
-      "sport": "Junior Varsity Girls Volleyball"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gam376057c08b",
-      "source": "nfhs",
-      "title": "Cedar Grove vs. Montclair",
-      "date": "2026-09-18",
-      "sport": "Freshman Girls Volleyball"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/east-side-high-school-newark-nj/gamd5b5a50a11",
-      "source": "nfhs",
-      "title": "Away vs. East Side",
-      "date": "2026-09-18",
-      "sport": "Varsity Girls Volleyball"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/east-side-high-school-newark-nj/gam21500c5bb0",
-      "source": "nfhs",
-      "title": "Central vs. East Side",
-      "date": "2026-09-18",
-      "sport": "Junior Varsity Girls Volleyball"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/ramapo-high-school-franklin-lakes-nj/gam1a1cffe162",
-      "source": "nfhs",
-      "title": "Livingston vs. Ramapo",
-      "date": "2026-09-18",
-      "sport": "Freshman Girls Soccer"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/mount-saint-dominic-academy-caldwell-nj/gamaeaa2051ab",
-      "source": "nfhs",
-      "title": "Verona vs. Mt. St. Dominic",
-      "date": "2026-09-18",
-      "sport": "Varsity Girls Volleyball"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/kinnelon-high-school-kinnelon-nj/gamd63d437908",
-      "source": "nfhs",
-      "title": "Cedar Grove vs. Kinnelon",
-      "date": "2026-09-17",
-      "sport": "Junior Varsity Boys Soccer"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gam7a0e5467ea",
-      "source": "nfhs",
-      "title": "Livingston vs. Montclair",
-      "date": "2026-09-17",
-      "sport": "Freshman Girls Field Hockey"
     }
   ]
 }
