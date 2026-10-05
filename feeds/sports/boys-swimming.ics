@@ -59,6 +59,15 @@ SUMMARY:Livingston High School at West Essex High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104504736@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T160000
+DTEND;TZID=America/New_York:20261209T180000
+SUMMARY:Montclair High School at Montclair Kimberley Academy (Varsity Boy
+ s Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104231482@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T160000
@@ -149,6 +158,15 @@ SUMMARY:Livingston High School vs Seton Hall Preparatory School (Varsity
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104504759@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T160000
+DTEND;TZID=America/New_York:20270105T180000
+SUMMARY:Montclair Kimberley Academy vs Newark Academy (Varsity Boys Boys 
+ Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104281808@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T200000
@@ -201,6 +219,24 @@ DTEND;TZID=America/New_York:20270109T183000
 SUMMARY:East Side High School at Saint Benedict's Preparatory School (Var
  sity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104505217@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T153000
+DTEND;TZID=America/New_York:20270111T173000
+SUMMARY:Bloomfield High School at Montclair High School (Varsity Boys Boy
+ s Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104504776@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T160000
+DTEND;TZID=America/New_York:20270112T180000
+SUMMARY:Montclair Kimberley Academy vs James Caldwell High School (Varsit
+ y Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104320962@super-essex-conference
@@ -284,12 +320,30 @@ SUMMARY:Livingston High School vs James Caldwell High School (Varsity Boy
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104504569@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T160000
+DTEND;TZID=America/New_York:20270128T180000
+SUMMARY:East Side High School at Science Park High School (Varsity Boys B
+ oys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104231627@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270129T160000
 DTEND;TZID=America/New_York:20270129T180000
 SUMMARY:Glen Ridge High School at West Orange High School (Varsity Boys B
  oys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104504788@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T160000
+DTEND;TZID=America/New_York:20270202T180000
+SUMMARY:East Side High School at Montclair Kimberley Academy (Varsity Boy
+ s Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
 END:VEVENT
 END:VCALENDAR

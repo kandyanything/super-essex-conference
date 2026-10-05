@@ -1400,6 +1400,16 @@ SUMMARY:Montclair Kimberley Academy at Morristown-Beard School (Middle Sc
 DESCRIPTION:Middle School Boys Boys Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102575866@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:[Canceled] Montclair Kimberley Academy at TBD (Freshman Boys Boys
+  Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104076038@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
@@ -1407,16 +1417,6 @@ DTEND;TZID=America/New_York:20261005T180000
 SUMMARY:Columbia High School at Montclair Kimberley Academy (Junior Varsi
  ty Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102575866@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T160000
-DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:[Canceled] Montclair Kimberley Academy at Columbia High School (F
- reshman Boys Boys Soccer)
-DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102311216@super-essex-conference
@@ -1468,9 +1468,10 @@ UID:arb:104411047@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T164500
 DTEND;TZID=America/New_York:20261005T184500
-SUMMARY:Montclair Kimberley Academy at Morristown-Beard School (Middle Sc
- hool Boys Boys Soccer)
+SUMMARY:[Canceled] Montclair Kimberley Academy at Morristown-Beard School
+  (Middle School Boys Boys Soccer)
 DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99085923@super-essex-conference
@@ -2115,6 +2116,15 @@ SUMMARY:Montclair Kimberley Academy vs Newark Lab High School (Varsity Bo
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104504736@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T160000
+DTEND;TZID=America/New_York:20261209T180000
+SUMMARY:Montclair High School at Montclair Kimberley Academy (Varsity Boy
+ s Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103660941@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T161500
@@ -2295,6 +2305,15 @@ SUMMARY:Montclair Kimberley Academy vs American History High School (Juni
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104504759@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T160000
+DTEND;TZID=America/New_York:20270105T180000
+SUMMARY:Montclair Kimberley Academy vs Newark Academy (Varsity Boys Boys 
+ Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100564775@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T160000
@@ -2392,6 +2411,15 @@ DTEND;TZID=America/New_York:20270109T213000
 SUMMARY:Montclair Kimberley Academy at Oratory Prep School (Varsity Boys 
  Boys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 7:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104504776@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T160000
+DTEND;TZID=America/New_York:20270112T180000
+SUMMARY:Montclair Kimberley Academy vs James Caldwell High School (Varsit
+ y Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100564673@super-essex-conference
@@ -2707,6 +2735,15 @@ DTEND;TZID=America/New_York:20270127T220000
 SUMMARY:Montclair Kimberley Academy at Nutley High School (Varsity Boys B
  oys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 8:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104504788@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T160000
+DTEND;TZID=America/New_York:20270202T180000
+SUMMARY:East Side High School at Montclair Kimberley Academy (Varsity Boy
+ s Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100564917@super-essex-conference

@@ -2164,10 +2164,9 @@ UID:arb:103550270@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:[Canceled] Montclair High School vs West Milford Township High Sc
- hool (Freshman Girls Field Hockey)
+SUMMARY:Montclair High School vs West Milford Township High School (Fresh
+ man Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103095905@super-essex-conference
@@ -3264,6 +3263,15 @@ SUMMARY:Montclair High School vs Kearny High School (Varsity Coed Coed Ic
 DESCRIPTION:Varsity Coed Coed Ice Hockey - Home - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104504736@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T160000
+DTEND;TZID=America/New_York:20261209T180000
+SUMMARY:Montclair High School at Montclair Kimberley Academy (Varsity Boy
+ s Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103476131@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T161500
@@ -3703,6 +3711,15 @@ DTEND;TZID=America/New_York:20270109T150000
 SUMMARY:Irvington High School vs Montclair High School (Varsity Boys Boys
   Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104505217@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T153000
+DTEND;TZID=America/New_York:20270111T173000
+SUMMARY:Bloomfield High School at Montclair High School (Varsity Boys Boy
+ s Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100548907@super-essex-conference

@@ -24662,6 +24662,16 @@ SUMMARY:Montclair Kimberley Academy at Morristown-Beard School (Middle Sc
 DESCRIPTION:Middle School Boys Boys Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102575866@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:[Canceled] Montclair Kimberley Academy at TBD (Freshman Boys Boys
+  Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100744483@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
@@ -24773,9 +24783,10 @@ UID:arb:102487580@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Cedar Grove High School at Pequannock Township High School (Junio
- r Varsity Girls Girls Tennis)
+SUMMARY:[Canceled] Cedar Grove High School at Pequannock Township High Sc
+ hool (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102487561@super-essex-conference
@@ -24846,9 +24857,10 @@ UID:arb:104457041@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Columbia High School at Livingston High School (Freshman Girls Fi
- eld Hockey)
+SUMMARY:[Canceled] Columbia High School at Livingston High School (Freshm
+ an Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104279210@super-essex-conference
@@ -25056,10 +25068,9 @@ UID:arb:103550270@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:[Canceled] Montclair High School vs West Milford Township High Sc
- hool (Freshman Girls Field Hockey)
+SUMMARY:Montclair High School vs West Milford Township High School (Fresh
+ man Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103095905@super-essex-conference
@@ -25087,16 +25098,6 @@ DTEND;TZID=America/New_York:20261005T180000
 SUMMARY:Montclair High School at Clifton High School (Junior Varsity Boys
   Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102575866@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T160000
-DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:[Canceled] Montclair Kimberley Academy at Columbia High School (F
- reshman Boys Boys Soccer)
-DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102311216@super-essex-conference
@@ -25453,9 +25454,10 @@ UID:arb:104411047@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T164500
 DTEND;TZID=America/New_York:20261005T184500
-SUMMARY:Montclair Kimberley Academy at Morristown-Beard School (Middle Sc
- hool Boys Boys Soccer)
+SUMMARY:[Canceled] Montclair Kimberley Academy at Morristown-Beard School
+  (Middle School Boys Boys Soccer)
 DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102072968@super-essex-conference
@@ -26333,6 +26335,15 @@ DTEND;TZID=America/New_York:20261007T180000
 SUMMARY:Cedar Grove High School at Columbia High School (Varsity Girls Gi
  rls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104504135@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Central High School at East Side High School - Newark (Varsity Bo
+ ys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104366488@super-essex-conference
@@ -36461,6 +36472,14 @@ SUMMARY:West Orange High School vs TBD (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104504683@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261122T120000
+DTEND;TZID=America/New_York:20261122T140000
+SUMMARY:Glen Ridge High School vs TBD (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104040325@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261124T153000
@@ -37032,6 +37051,15 @@ DTEND;TZID=America/New_York:20261209T180000
 SUMMARY:Millburn High School at Parsippany Regional (Varsity Girls Girls 
  Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104504736@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T160000
+DTEND;TZID=America/New_York:20261209T180000
+SUMMARY:Montclair High School at Montclair Kimberley Academy (Varsity Boy
+ s Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104265987@super-essex-conference
@@ -41511,6 +41539,15 @@ SUMMARY:Montclair High School at Verona High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104504759@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T160000
+DTEND;TZID=America/New_York:20270105T180000
+SUMMARY:Montclair Kimberley Academy vs Newark Academy (Varsity Boys Boys 
+ Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100564775@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T160000
@@ -44011,6 +44048,15 @@ SUMMARY:Millburn High School at Hoboken High School (Varsity Boys Boys Ic
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 7:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104505217@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T153000
+DTEND;TZID=America/New_York:20270111T173000
+SUMMARY:Bloomfield High School at Montclair High School (Varsity Boys Boy
+ s Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104233148@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T160000
@@ -44313,6 +44359,15 @@ DTEND;TZID=America/New_York:20270112T180000
 SUMMARY:Montclair High School at West Essex High School (Varsity Girls Gi
  rls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104504776@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T160000
+DTEND;TZID=America/New_York:20270112T180000
+SUMMARY:Montclair Kimberley Academy vs James Caldwell High School (Varsit
+ y Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100564673@super-essex-conference
@@ -50257,6 +50312,15 @@ SUMMARY:Newark Academy vs Frelinghuysen Middle School (7/8th Boys Basketb
 DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104504569@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T160000
+DTEND;TZID=America/New_York:20270128T180000
+SUMMARY:East Side High School at Science Park High School (Varsity Boys B
+ oys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102280731@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T160000
@@ -50772,6 +50836,15 @@ DTEND;TZID=America/New_York:20270202T180000
 SUMMARY:Columbia High School at James Caldwell High School (Varsity Girls
   Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104504788@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T160000
+DTEND;TZID=America/New_York:20270202T180000
+SUMMARY:East Side High School at Montclair Kimberley Academy (Varsity Boy
+ s Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100559428@super-essex-conference
