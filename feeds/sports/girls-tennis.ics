@@ -2257,6 +2257,15 @@ SUMMARY:Columbia High School at Montclair Kimberley Academy (Junior Varsi
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104507311@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:East Orange Campus High School at Golda Och Academy (Varsity Girl
+ s Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104290594@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
@@ -2302,15 +2311,6 @@ SUMMARY:Mount Saint Dominic Academy at Jonathan Dayton High School (Varsi
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102927630@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T160000
-DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Nutley High School vs Union High School (Varsity Girls Girls Tenn
- is)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104449658@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T150000
@@ -2326,6 +2326,15 @@ DTEND;TZID=America/New_York:20261006T173000
 SUMMARY:Livingston High School at Montclair High School (Varsity Girls Gi
  rls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104451557@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T154500
+DTEND;TZID=America/New_York:20261006T174500
+SUMMARY:Glen Ridge High School at Whippany Park High School (Varsity Girl
+ s Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101522840@super-essex-conference
@@ -2364,13 +2373,13 @@ SUMMARY:Cedar Grove High School at West Essex High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104455898@super-essex-conference
+UID:arb:104506464@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T160000
 DTEND;TZID=America/New_York:20261006T180000
-SUMMARY:Nutley High School vs Union High School (Junior Varsity Girls Gir
- ls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
+SUMMARY:Nutley High School vs Union High School (Varsity Girls Girls Tenn
+ is)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103728664@super-essex-conference
@@ -2400,15 +2409,6 @@ SUMMARY:Columbia High School vs Bergen County Vocational Technical School
 DESCRIPTION:Varsity Girls Girls Tennis - Home
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104451557@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:Glen Ridge High School at Whippany Park High School (Varsity Girl
- s Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104451595@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261006
@@ -2434,6 +2434,15 @@ DTEND;TZID=America/New_York:20261007T180000
 SUMMARY:Bloomfield High School at Nutley High School (Varsity Girls Girls
   Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104510470@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Mount Saint Dominic Academy vs West Essex High School (Varsity Gi
+ rls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104353924@super-essex-conference
@@ -2506,6 +2515,15 @@ DTEND;TZID=America/New_York:20261012T180000
 SUMMARY:Cedar Grove High School at James Caldwell High School (Varsity Gi
  rls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104506423@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Nutley High School vs Union High School (Junior Varsity Girls Gir
+ ls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103224478@super-essex-conference

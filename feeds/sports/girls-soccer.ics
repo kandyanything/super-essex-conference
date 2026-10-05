@@ -3687,6 +3687,15 @@ SUMMARY:Verona High School at TBD (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104507706@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Barringer High School vs East Side High School - Newark (Varsity 
+ Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100663125@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T160000
@@ -3845,13 +3854,14 @@ SUMMARY:Livingston High School vs Newark Academy (Junior Varsity Girls Gi
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102155915@super-essex-conference
+UID:arb:104514815@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T163000
 DTEND;TZID=America/New_York:20261006T183000
-SUMMARY:Millburn High School vs Bernards High School (Varsity Girls Girls
-  Soccer)
+SUMMARY:[Canceled] Millburn High School vs Bernards High School (Varsity 
+ Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100663094@super-essex-conference
@@ -3903,10 +3913,9 @@ UID:arb:101585464@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
 DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:[Canceled] West Essex High School at James Caldwell High School (
- Freshman Girls Girls Soccer)
+SUMMARY:West Essex High School at James Caldwell High School (Freshman Gi
+ rls Girls Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102311501@super-essex-conference
@@ -4195,9 +4204,9 @@ UID:arb:100666404@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T100000
 DTEND;TZID=America/New_York:20261010T120000
-SUMMARY:Montclair High School vs Morris Knolls High School (Freshman Girl
+SUMMARY:Montclair High School at Morris Knolls High School (Freshman Girl
  s Girls Soccer)
-DESCRIPTION:Freshman Girls Girls Soccer - Home - 10:00 AM
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102153363@super-essex-conference
@@ -4516,6 +4525,15 @@ DTSTART;TZID=America/New_York:20261014T161500
 DTEND;TZID=America/New_York:20261014T181500
 SUMMARY:Montclair High School at Watchung Hills Reg High School (Junior V
  arsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104514998@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T161500
+DTEND;TZID=America/New_York:20261014T181500
+SUMMARY:Montclair Kimberley Academy at Ridgewood High School (Junior Vars
+ ity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT

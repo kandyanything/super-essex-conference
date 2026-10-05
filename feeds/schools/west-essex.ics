@@ -2024,9 +2024,10 @@ UID:arb:100195395@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:West Essex High School at James Caldwell High School (Junior Vars
- ity Boys Football)
+SUMMARY:[Canceled] West Essex High School at James Caldwell High School (
+ Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99046420@super-essex-conference
@@ -2129,6 +2130,15 @@ SUMMARY:Livingston High School at West Essex High School (Freshman Boys B
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104510470@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Mount Saint Dominic Academy vs West Essex High School (Varsity Gi
+ rls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99046434@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
@@ -2151,10 +2161,9 @@ UID:arb:101585464@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
 DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:[Canceled] West Essex High School at James Caldwell High School (
- Freshman Girls Girls Soccer)
+SUMMARY:West Essex High School at James Caldwell High School (Freshman Gi
+ rls Girls Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101077208@super-essex-conference
@@ -2374,6 +2383,15 @@ DTEND;TZID=America/New_York:20261010T110000
 SUMMARY:Nutley High School at West Essex High School (Freshman Girls Girl
  s Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104516759@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T090000
+DTEND;TZID=America/New_York:20261010T110000
+SUMMARY:West Essex High School vs Hoboken High School (Freshman Girls Gir
+ ls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102430252@super-essex-conference
@@ -3560,15 +3578,6 @@ SUMMARY:West Essex High School vs West Orange High School (Varsity Boys B
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103804527@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T200000
-DTEND;TZID=America/New_York:20261217T220000
-SUMMARY:James Caldwell High School at Mendham High School (Varsity Boys B
- oys Ice Hockey)
-DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 8:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104266498@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T160000
@@ -3657,6 +3666,15 @@ DTEND;TZID=America/New_York:20261219T153000
 SUMMARY:West Essex High School at Morristown High School (Varsity Girls G
  irls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104510341@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T154500
+DTEND;TZID=America/New_York:20261219T174500
+SUMMARY:James Caldwell High School at Hanover Park High School (Varsity B
+ oys Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549758@super-essex-conference

@@ -792,9 +792,10 @@ UID:arb:100195395@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:West Essex High School at James Caldwell High School (Junior Vars
- ity Boys Football)
+SUMMARY:[Canceled] West Essex High School at James Caldwell High School (
+ Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99665769@super-essex-conference
@@ -1027,9 +1028,10 @@ UID:arb:99663698@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:West Side High School vs Lincoln High School (Junior Varsity Boys
-  Football)
+SUMMARY:[Canceled] West Side High School vs Lincoln High School (Junior V
+ arsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100195214@super-essex-conference
@@ -1091,6 +1093,15 @@ DTEND;TZID=America/New_York:20261019T203000
 SUMMARY:West Essex High School at West Morris Central High School (Junior
   Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104508354@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T184500
+DTEND;TZID=America/New_York:20261019T204500
+SUMMARY:West Side High School at Lincoln High School (Junior Varsity Boys
+  Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 6:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99528994@super-essex-conference

@@ -2004,6 +2004,15 @@ SUMMARY:Livingston High School vs Newark Academy (Varsity Girls Girls Soc
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104510463@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Livingston High School at Nutley High School (Junior Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103067553@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
@@ -3507,6 +3516,15 @@ DTEND;TZID=America/New_York:20270123T103000
 SUMMARY:Livingston High School vs Millburn High School (Freshman Girls Gi
  rls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 8:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104518351@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T090000
+DTEND;TZID=America/New_York:20270123T110000
+SUMMARY:Livingston High School at Newton High School (Varsity Boys Boys W
+ restling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104293420@super-essex-conference

@@ -1419,15 +1419,6 @@ SUMMARY:Columbia High School at Montclair Kimberley Academy (Junior Varsi
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102311216@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T160000
-DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Montclair Kimberley Academy vs Lincoln/Franklin Elementary School
-  (Level: 1-8) (Middle School Girls Field Hockey)
-DESCRIPTION:Middle School Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99085867@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
@@ -1462,6 +1453,15 @@ DTEND;TZID=America/New_York:20261005T181500
 SUMMARY:Columbia High School at Montclair Kimberley Academy (Varsity Boys
   Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102311216@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T163000
+DTEND;TZID=America/New_York:20261005T183000
+SUMMARY:Montclair Kimberley Academy vs Lincoln/Franklin Elementary School
+  (Level: 1-8) (Middle School Girls Field Hockey)
+DESCRIPTION:Middle School Girls Field Hockey - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104411047@super-essex-conference
@@ -1780,6 +1780,15 @@ DTEND;TZID=America/New_York:20261014T180000
 SUMMARY:Montclair Kimberley Academy at Lincoln/Franklin Elementary School
   (Level: 1-8) (Middle School Girls Field Hockey)
 DESCRIPTION:Middle School Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104514998@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T161500
+DTEND;TZID=America/New_York:20261014T181500
+SUMMARY:Montclair Kimberley Academy at Ridgewood High School (Junior Vars
+ ity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102883571@super-essex-conference

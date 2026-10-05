@@ -2515,9 +2515,9 @@ UID:arb:100666404@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T100000
 DTEND;TZID=America/New_York:20261010T120000
-SUMMARY:Montclair High School vs Morris Knolls High School (Freshman Girl
+SUMMARY:Montclair High School at Morris Knolls High School (Freshman Girl
  s Girls Soccer)
-DESCRIPTION:Freshman Girls Girls Soccer - Home - 10:00 AM
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104009138@super-essex-conference
@@ -3236,6 +3236,33 @@ SUMMARY:Montclair High School at Rutherford High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104520526@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261202T154500
+DTEND;TZID=America/New_York:20261202T174500
+SUMMARY:Belleville High School vs Montclair High School (Varsity Girls Gi
+ rls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104520480@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261202T154500
+DTEND;TZID=America/New_York:20261202T174500
+SUMMARY:Belleville High School vs Montclair High School (Varsity Boys Boy
+ s Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104509875@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261202T205000
+DTEND;TZID=America/New_York:20261202T225000
+SUMMARY:Montclair High School at Newton High School (Varsity Boys Boys Ic
+ e Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 8:50 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104281597@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261204T153000
@@ -3522,6 +3549,24 @@ DTEND;TZID=America/New_York:20261223T210000
 SUMMARY:Montclair High School at Mendham High School (Varsity Boys Boys B
  asketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104521566@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T154500
+DTEND;TZID=America/New_York:20270105T174500
+SUMMARY:Belleville High School vs Montclair High School (Varsity Girls Gi
+ rls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104521462@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T154500
+DTEND;TZID=America/New_York:20270105T174500
+SUMMARY:Belleville High School vs Montclair High School (Varsity Boys Boy
+ s Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100548902@super-essex-conference

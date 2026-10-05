@@ -1262,9 +1262,10 @@ UID:arb:100195395@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:West Essex High School at James Caldwell High School (Junior Vars
- ity Boys Football)
+SUMMARY:[Canceled] West Essex High School at James Caldwell High School (
+ Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103947621@super-essex-conference
@@ -1362,10 +1363,9 @@ UID:arb:101585464@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
 DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:[Canceled] West Essex High School at James Caldwell High School (
- Freshman Girls Girls Soccer)
+SUMMARY:West Essex High School at James Caldwell High School (Freshman Gi
+ rls Girls Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99057820@super-essex-conference
@@ -1892,6 +1892,15 @@ SUMMARY:James Caldwell High School at Nutley High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104515256@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T180000
+DTEND;TZID=America/New_York:20261210T200000
+SUMMARY:Nutley High School vs James Caldwell High School (Varsity Boys Bo
+ ys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104221049@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T183000
@@ -1973,15 +1982,6 @@ SUMMARY:James Caldwell High School at Pascack Valley High School (Varsity
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103804527@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T200000
-DTEND;TZID=America/New_York:20261217T220000
-SUMMARY:James Caldwell High School at Mendham High School (Varsity Boys B
- oys Ice Hockey)
-DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 8:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104213625@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T180000
@@ -2025,6 +2025,15 @@ DTEND;TZID=America/New_York:20261219T150000
 SUMMARY:Montclair High School at James Caldwell High School (Varsity Boys
   Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104510341@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T154500
+DTEND;TZID=America/New_York:20261219T174500
+SUMMARY:James Caldwell High School at Hanover Park High School (Varsity B
+ oys Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104213678@super-essex-conference

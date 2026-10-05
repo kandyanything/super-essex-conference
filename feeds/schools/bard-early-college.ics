@@ -371,6 +371,15 @@ SUMMARY:Bard Early College at American History High School (Junior Varsit
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104518381@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T173000
+DTEND;TZID=America/New_York:20261008T193000
+SUMMARY:Bard Early College vs Newark School of Global Studies (Junior Var
+ sity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99183853@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T100000
@@ -918,6 +927,24 @@ DTEND;TZID=America/New_York:20270126T194500
 SUMMARY:Bard Early College at American History High School (Junior Varsit
  y Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104506414@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T133000
+DTEND;TZID=America/New_York:20270206T153000
+SUMMARY:Bard Early College vs Newark School of Global Studies (Varsity Bo
+ ys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104506420@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T150000
+DTEND;TZID=America/New_York:20270206T170000
+SUMMARY:Bard Early College vs Newark School of Global Studies (Junior Var
+ sity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568520@super-essex-conference

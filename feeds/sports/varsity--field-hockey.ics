@@ -1063,6 +1063,15 @@ SUMMARY:Millburn High School vs Scotch Plains-Fanwood High School (Varsit
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100667311@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Mount Saint Dominic Academy at Koinonia Academy (Varsity Girls Fi
+ eld Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100743438@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
@@ -1079,15 +1088,6 @@ DTEND;TZID=America/New_York:20261005T181500
 SUMMARY:Columbia High School vs Montclair Kimberley Academy (Varsity Girl
  s Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100667311@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T163000
-DTEND;TZID=America/New_York:20261005T183000
-SUMMARY:Mount Saint Dominic Academy at Koinonia Academy (Varsity Girls Fi
- eld Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101405309@super-essex-conference
@@ -1362,6 +1362,15 @@ DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Columbia High School at Newark Academy (Varsity Girls Field Hocke
  y)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104510131@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Millburn High School vs South Brunswick HS / Crossroads MS (Varsi
+ ty Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103967532@super-essex-conference

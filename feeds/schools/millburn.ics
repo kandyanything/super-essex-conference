@@ -2044,13 +2044,14 @@ SUMMARY:Millburn High School vs Newark Academy (Junior Varsity Boys Footb
 DESCRIPTION:Junior Varsity Boys Football - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102155915@super-essex-conference
+UID:arb:104514815@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T163000
 DTEND;TZID=America/New_York:20261006T183000
-SUMMARY:Millburn High School vs Bernards High School (Varsity Girls Girls
-  Soccer)
+SUMMARY:[Canceled] Millburn High School vs Bernards High School (Varsity 
+ Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104451595@super-essex-conference
@@ -2444,6 +2445,15 @@ DTEND;TZID=America/New_York:20261017T110000
 SUMMARY:Millburn High School vs Cranford High School (Freshman Girls Girl
  s Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104510131@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Millburn High School vs South Brunswick HS / Crossroads MS (Varsi
+ ty Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103768369@super-essex-conference
@@ -3371,6 +3381,24 @@ DTEND;TZID=America/New_York:20270202T210000
 SUMMARY:East Side High School at Millburn High School (Varsity Girls Girl
  s Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104523751@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T170000
+DTEND;TZID=America/New_York:20270203T190000
+SUMMARY:Millburn High School at Arthur L. Johnson High School (Junior Var
+ sity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104523560@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T173000
+DTEND;TZID=America/New_York:20270203T193000
+SUMMARY:Millburn High School at Arthur L. Johnson High School (Varsity Bo
+ ys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103928096@super-essex-conference

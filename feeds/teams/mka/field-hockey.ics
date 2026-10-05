@@ -325,15 +325,6 @@ SUMMARY:Montclair Kimberley Academy vs Summit High School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102311216@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T160000
-DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Montclair Kimberley Academy vs Lincoln/Franklin Elementary School
-  (Level: 1-8) (Middle School Girls Field Hockey)
-DESCRIPTION:Middle School Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101333287@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T161500
@@ -341,6 +332,15 @@ DTEND;TZID=America/New_York:20261005T181500
 SUMMARY:Columbia High School vs Montclair Kimberley Academy (Varsity Girl
  s Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102311216@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T163000
+DTEND;TZID=America/New_York:20261005T183000
+SUMMARY:Montclair Kimberley Academy vs Lincoln/Franklin Elementary School
+  (Level: 1-8) (Middle School Girls Field Hockey)
+DESCRIPTION:Middle School Girls Field Hockey - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101622417@super-essex-conference

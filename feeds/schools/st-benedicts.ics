@@ -643,11 +643,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102487755@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T160000
-DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Saint Benedict's Prep at Horace Mann School (Varsity Coed Coed Wa
- ter Polo)
-DESCRIPTION:Varsity Coed Coed Water Polo - Away - 4:00 PM
+DTSTART;TZID=America/New_York:20260928T163000
+DTEND;TZID=America/New_York:20260928T183000
+SUMMARY:Saint Benedict's Prep at Riverdale Country School (Varsity Coed C
+ oed Water Polo)
+DESCRIPTION:Varsity Coed Coed Water Polo - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99059253@super-essex-conference
@@ -1201,6 +1201,15 @@ DTEND;TZID=America/New_York:20270106T180000
 SUMMARY:Payne Tech vs Saint Benedict's Preparatory School (Freshman Boys 
  Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104508468@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T190000
+DTEND;TZID=America/New_York:20270106T210000
+SUMMARY:Nutley High School at Saint Benedict's Preparatory School (Varsit
+ y Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100569837@super-essex-conference

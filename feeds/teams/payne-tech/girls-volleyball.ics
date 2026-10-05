@@ -348,9 +348,10 @@ UID:arb:104279210@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Columbia High School vs Essex County-Payne Tech High School (Fres
- hman Girls Girls Volleyball)
+SUMMARY:[Canceled] Columbia High School vs Essex County-Payne Tech High S
+ chool (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104279175@super-essex-conference
@@ -414,6 +415,15 @@ DTEND;TZID=America/New_York:20261014T191500
 SUMMARY:Payne Tech vs Science Park High School (Junior Varsity Girls Girl
  s Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104518617@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Payne Tech at Science Park High School (Freshman Girls Girls Voll
+ eyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103300776@super-essex-conference

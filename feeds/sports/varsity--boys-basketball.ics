@@ -194,6 +194,15 @@ SUMMARY:Livingston High School at Whippany Park High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104508206@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T161500
+DTEND;TZID=America/New_York:20261210T181500
+SUMMARY:Central High School at Newark School of Global Studies (Varsity B
+ oys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100553185@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T161500
@@ -328,6 +337,15 @@ DTEND;TZID=America/New_York:20261212T150000
 SUMMARY:Livingston High School at West Morris Central High School (Varsit
  y Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104508236@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T133000
+DTEND;TZID=America/New_York:20261212T153000
+SUMMARY:East Side High School at Newark School of Global Studies (Varsity
+  Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104429431@super-essex-conference
@@ -2976,6 +2994,15 @@ DTEND;TZID=America/New_York:20270206T150000
 SUMMARY:West Essex High School vs Ramsey High School (Varsity Boys Boys B
  asketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104506414@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T133000
+DTEND;TZID=America/New_York:20270206T153000
+SUMMARY:Bard Early College vs Newark School of Global Studies (Varsity Bo
+ ys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103991118@super-essex-conference

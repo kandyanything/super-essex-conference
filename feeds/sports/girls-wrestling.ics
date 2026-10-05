@@ -32,6 +32,14 @@ SUMMARY:Columbia High School vs East Orange Campus High School (Varsity G
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104518956@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T173000
+DTEND;TZID=America/New_York:20261211T193000
+SUMMARY:Orange High School vs TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102615797@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T110000
@@ -100,6 +108,15 @@ DTEND;TZID=America/New_York:20270103T110000
 SUMMARY:Bloomfield High School at Elizabeth High School (Varsity Girls Gi
  rls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104519578@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T173000
+DTEND;TZID=America/New_York:20270106T193000
+SUMMARY:Columbia High School at Orange High School (Varsity Girls Girls W
+ restling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102741990@super-essex-conference
