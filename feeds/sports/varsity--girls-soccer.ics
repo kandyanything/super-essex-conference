@@ -2110,15 +2110,6 @@ SUMMARY:Millburn High School vs Jonathan Dayton High School (Varsity Girl
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102090281@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261010T100000
-DTEND;TZID=America/New_York:20261010T120000
-SUMMARY:Montclair High School at Morris Knolls High School (Varsity Girls
-  Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102153351@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T100000
@@ -2135,6 +2126,15 @@ DTEND;TZID=America/New_York:20261010T120000
 SUMMARY:West Essex High School at New Providence High School (Varsity Gir
  ls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102090281@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T170000
+DTEND;TZID=America/New_York:20261010T190000
+SUMMARY:Montclair High School at Morris Knolls High School (Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103727938@super-essex-conference
