@@ -29177,21 +29177,20 @@ SUMMARY:Central High School at Columbia High School (Varsity Boys Boys So
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100967147@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T160000
+DTEND;TZID=America/New_York:20261012T180000
+SUMMARY:Barringer High School at TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100792519@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T160000
 DTEND;TZID=America/New_York:20261012T180000
 SUMMARY:Livingston High School vs TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103727938@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T160000
-DTEND;TZID=America/New_York:20261012T180000
-SUMMARY:Barringer High School at Hillside High School (Varsity Girls Girl
- s Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99058727@super-essex-conference
@@ -30094,6 +30093,15 @@ DTEND;TZID=America/New_York:20261013T180000
 SUMMARY:Columbia High School at James Caldwell High School (Freshman Girl
  s Girls Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104530754@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:East Orange Campus High School vs Irvington High School (Varsity 
+ Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102336353@super-essex-conference
@@ -33255,6 +33263,15 @@ SUMMARY:[Canceled] Weequahic High School at West Side High School (Junior
   Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104530451@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T173000
+DTEND;TZID=America/New_York:20261019T193000
+SUMMARY:Arts High School at University High School (Junior Varsity Girls 
+ Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104019000@super-essex-conference
@@ -38709,6 +38726,24 @@ SUMMARY:Golda Och Academy vs Technology High School (Newark) (Junior Vars
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104529682@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T180000
+DTEND;TZID=America/New_York:20261215T200000
+SUMMARY:Livingston High School vs Millburn High School (Varsity Girls Gir
+ ls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104529572@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T180000
+DTEND;TZID=America/New_York:20261215T200000
+SUMMARY:Livingston High School vs Millburn High School (Varsity Boys Boys
+  Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104221059@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T183000
@@ -42385,6 +42420,24 @@ SUMMARY:Eagle Academy at Newark Lab High School (Junior Varsity Boys Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104529715@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
+SUMMARY:Livingston High School vs Montclair Kimberley Academy (Varsity Gi
+ rls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104529707@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
+SUMMARY:Livingston High School vs Montclair Kimberley Academy (Varsity Bo
+ ys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104136383@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T180000
@@ -45396,6 +45449,15 @@ SUMMARY:Golda Och Academy at Newark Lab High School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104529788@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T180000
+DTEND;TZID=America/New_York:20270112T200000
+SUMMARY:Livingston High School vs Oak Knoll School of the Holy Child (Var
+ sity Girls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101242781@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T180000
@@ -48117,6 +48179,24 @@ DTEND;TZID=America/New_York:20270119T200000
 SUMMARY:Barringer High School at Newark Lab High School (Junior Varsity B
  oys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104529816@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T180000
+DTEND;TZID=America/New_York:20270119T200000
+SUMMARY:Livingston High School vs West Essex High School (Varsity Girls G
+ irls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104529804@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T180000
+DTEND;TZID=America/New_York:20270119T200000
+SUMMARY:Livingston High School vs West Essex High School (Varsity Boys Bo
+ ys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100535805@super-essex-conference

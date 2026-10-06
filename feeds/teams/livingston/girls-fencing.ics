@@ -23,6 +23,42 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:104529682@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T180000
+DTEND;TZID=America/New_York:20261215T200000
+SUMMARY:Livingston High School vs Millburn High School (Varsity Girls Gir
+ ls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104529715@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
+SUMMARY:Livingston High School vs Montclair Kimberley Academy (Varsity Gi
+ rls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104529788@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T180000
+DTEND;TZID=America/New_York:20270112T200000
+SUMMARY:Livingston High School vs Oak Knoll School of the Holy Child (Var
+ sity Girls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104529816@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T180000
+DTEND;TZID=America/New_York:20270119T200000
+SUMMARY:Livingston High School vs West Essex High School (Varsity Girls G
+ irls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104312136@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T183000

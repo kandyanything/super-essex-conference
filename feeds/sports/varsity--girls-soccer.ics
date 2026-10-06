@@ -2147,12 +2147,11 @@ SUMMARY:Montclair High School at Morris Knolls High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103727938@super-essex-conference
+UID:arb:100967147@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T160000
 DTEND;TZID=America/New_York:20261012T180000
-SUMMARY:Barringer High School at Hillside High School (Varsity Girls Girl
- s Soccer)
+SUMMARY:Barringer High School at TBD (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2198,6 +2197,15 @@ DTSTART;TZID=America/New_York:20261013T160000
 DTEND;TZID=America/New_York:20261013T180000
 SUMMARY:Bloomfield High School vs Kearny High School (Varsity Girls Girls
   Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104530754@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:East Orange Campus High School vs Irvington High School (Varsity 
+ Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT

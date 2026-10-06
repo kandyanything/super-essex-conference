@@ -4283,12 +4283,11 @@ SUMMARY:Montclair High School at Morris Knolls High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103727938@super-essex-conference
+UID:arb:100967147@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T160000
 DTEND;TZID=America/New_York:20261012T180000
-SUMMARY:Barringer High School at Hillside High School (Varsity Girls Girl
- s Soccer)
+SUMMARY:Barringer High School at TBD (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -4408,6 +4407,15 @@ DTEND;TZID=America/New_York:20261013T180000
 SUMMARY:Columbia High School at James Caldwell High School (Freshman Girl
  s Girls Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104530754@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:East Orange Campus High School vs Irvington High School (Varsity 
+ Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103504697@super-essex-conference
