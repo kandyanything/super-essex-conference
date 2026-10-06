@@ -3817,9 +3817,10 @@ UID:arb:100780446@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T171500
 DTEND;TZID=America/New_York:20261012T191500
-SUMMARY:Golda Och Academy at Irvington High School (Junior Varsity Girls 
- Girls Volleyball)
+SUMMARY:[Canceled] Golda Och Academy at Irvington High School (Junior Var
+ sity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99040886@super-essex-conference
@@ -4513,6 +4514,15 @@ SUMMARY:Central High School at West Caldwell Tech (Junior Varsity Girls G
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104537106@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T171500
+DTEND;TZID=America/New_York:20261022T191500
+SUMMARY:Golda Och Academy at Irvington High School (Junior Varsity Girls 
+ Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101756582@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T171500
@@ -4575,6 +4585,15 @@ DTSTART;TZID=America/New_York:20261023T171500
 DTEND;TZID=America/New_York:20261023T191500
 SUMMARY:Central High School vs Newark School of Data Science (Junior Vars
  ity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104537054@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T171500
+DTEND;TZID=America/New_York:20261023T191500
+SUMMARY:Irvington High School vs Weequahic High School (Junior Varsity Gi
+ rls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
