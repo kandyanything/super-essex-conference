@@ -5764,15 +5764,6 @@ SUMMARY:Cedar Grove High School vs Newark Collegiate Academy (Junior Vars
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104504135@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T160000
-DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Central High School at East Side High School - Newark (Varsity Bo
- ys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104197414@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
@@ -5889,6 +5880,15 @@ DTEND;TZID=America/New_York:20261007T183000
 SUMMARY:Barringer High School at Columbia High School (Junior Varsity Boy
  s Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104504135@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T163000
+DTEND;TZID=America/New_York:20261007T183000
+SUMMARY:Central High School at East Side High School - Newark (Varsity Bo
+ ys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102582456@super-essex-conference
@@ -6037,9 +6037,10 @@ UID:arb:102155091@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
 DTEND;TZID=America/New_York:20261008T180000
-SUMMARY:Millburn High School vs Bridgewater-Raritan High School (Freshman
-  Boys Boys Soccer)
+SUMMARY:[Canceled] Millburn High School vs Bridgewater-Raritan High Schoo
+ l (Freshman Boys Boys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102155052@super-essex-conference
@@ -6219,16 +6220,17 @@ UID:arb:102984188@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T160000
 DTEND;TZID=America/New_York:20261009T180000
-SUMMARY:Newark Tech at Essex County-Payne Tech High School (Junior Varsit
- y Boys Boys Soccer)
+SUMMARY:[Canceled] Newark Tech at Essex County-Payne Tech High School (Ju
+ nior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101144524@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T160000
 DTEND;TZID=America/New_York:20261009T180000
-SUMMARY:Technology High School at West Side High School (Varsity Boys Boy
+SUMMARY:University High School at West Side High School (Varsity Boys Boy
  s Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
@@ -6246,9 +6248,10 @@ UID:arb:102575821@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T161500
 DTEND;TZID=America/New_York:20261009T181500
-SUMMARY:Columbia High School vs Clifton High School (Junior Varsity Boys 
- Boys Soccer)
+SUMMARY:[Canceled] Columbia High School vs Clifton High School (Junior Va
+ rsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103373116@super-essex-conference
@@ -6288,6 +6291,15 @@ SUMMARY:Cedar Grove High School vs Weehawken High School (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104553979@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T120000
+SUMMARY:Barringer High School at East Side High School - Newark (Varsity 
+ Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102308417@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T100000
@@ -6304,15 +6316,6 @@ DTEND;TZID=America/New_York:20261010T120000
 SUMMARY:Livingston High School at Montclair Kimberley Academy (Varsity Bo
  ys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102011098@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261010T100000
-DTEND;TZID=America/New_York:20261010T120000
-SUMMARY:Montclair High School at Union City High School (Freshman Boys Bo
- ys Soccer)
-DESCRIPTION:Freshman Boys Boys Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101719234@super-essex-conference
@@ -6360,22 +6363,13 @@ SUMMARY:Cedar Grove High School vs Weehawken High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100866963@super-essex-conference
+UID:arb:104398103@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T110000
 DTEND;TZID=America/New_York:20261010T130000
-SUMMARY:Columbia High School at Morris Hills High School (Freshman Boys B
- oys Soccer)
+SUMMARY:[Canceled] Columbia High School at Morris Hills High School (Fres
+ hman Boys Boys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100866955@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261010T110000
-DTEND;TZID=America/New_York:20261010T130000
-SUMMARY:[Canceled] Columbia High School at Morris Hills High School (Juni
- or Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 11:00 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
@@ -6467,15 +6461,6 @@ DTEND;TZID=America/New_York:20261010T170000
 SUMMARY:Saint Benedict's Prep vs Salesianum School (Varsity Boys Boys Soc
  cer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104398103@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261010T160000
-DTEND;TZID=America/New_York:20261010T180000
-SUMMARY:Columbia High School vs Ewing High School (Freshman Boys Boys Soc
- cer)
-DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102639876@super-essex-conference
@@ -6816,6 +6801,15 @@ SUMMARY:Central High School vs Newark School of Global Studies (Varsity B
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104543710@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T160000
+DTEND;TZID=America/New_York:20261015T180000
+SUMMARY:Columbia High School vs Ewing High School (Freshman Boys Boys Soc
+ cer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102981360@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T160000
@@ -6884,9 +6878,10 @@ UID:arb:103070424@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T160000
 DTEND;TZID=America/New_York:20261015T180000
-SUMMARY:Verona High School at West Essex High School (Varsity Boys Boys S
- occer)
+SUMMARY:[Canceled] Verona High School at West Essex High School (Varsity 
+ Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103366833@super-essex-conference

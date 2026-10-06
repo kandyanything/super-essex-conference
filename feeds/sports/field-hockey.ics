@@ -2299,6 +2299,15 @@ SUMMARY:Columbia High School vs Cranford High School (Junior Varsity Girl
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103034502@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T153000
+DTEND;TZID=America/New_York:20261005T173000
+SUMMARY:Newark Academy vs Far Brook School (Middle School Girls Field Hoc
+ key)
+DESCRIPTION:Middle School Girls Field Hockey - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101796674@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
@@ -2426,15 +2435,6 @@ SUMMARY:Montclair High School at Governor Livingston High School (Varsity
 DESCRIPTION:Varsity Girls Field Hockey - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103034502@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T153000
-DTEND;TZID=America/New_York:20261006T173000
-SUMMARY:Newark Academy vs Far Brook School (Middle School Girls Field Hoc
- key)
-DESCRIPTION:Middle School Girls Field Hockey - Home - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102621035@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T160000
@@ -2451,14 +2451,6 @@ DTEND;TZID=America/New_York:20261006T180000
 SUMMARY:West Essex High School vs Peck School (Middle School Girls Field 
  Hockey)
 DESCRIPTION:Middle School Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104472400@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T160000
-DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Columbia High School vs TBD (Freshman Girls Field Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99608470@super-essex-conference
@@ -2564,9 +2556,9 @@ UID:arb:101621971@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T173000
 DTEND;TZID=America/New_York:20261007T193000
-SUMMARY:Livingston High School vs Oak Knoll School of the Holy Child (Jun
+SUMMARY:Livingston High School at Oak Knoll School of the Holy Child (Jun
  ior Varsity Girls Field Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:98323115@super-essex-conference
@@ -2594,6 +2586,14 @@ DTEND;TZID=America/New_York:20261007T193000
 SUMMARY:West Essex High School vs Kent Place School (Varsity Girls Field 
  Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104472400@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T160000
+DTEND;TZID=America/New_York:20261008T180000
+SUMMARY:Columbia High School vs TBD (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101774240@super-essex-conference
@@ -2724,15 +2724,6 @@ SUMMARY:Montclair Kimberley Academy vs Oak Knoll School of the Holy Child
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101406484@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T160000
-DTEND;TZID=America/New_York:20261012T180000
-SUMMARY:Mount Saint Dominic Academy vs Newark Academy (Varsity Girls Fiel
- d Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102344740@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T160000
@@ -2830,6 +2821,15 @@ DTEND;TZID=America/New_York:20261013T180000
 SUMMARY:Livingston High School vs West Essex High School (Freshman Girls 
  Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101406484@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Mount Saint Dominic Academy vs Newark Academy (Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103852981@super-essex-conference

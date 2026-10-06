@@ -505,6 +505,24 @@ SUMMARY:East Orange Campus High School at Irvington High School (Varsity
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104552501@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+SUMMARY:Belleville High School at University High School (Varsity Girls G
+ irls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101144524@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+SUMMARY:University High School at West Side High School (Varsity Boys Boy
+ s Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100761118@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T163000
@@ -630,6 +648,15 @@ DTEND;TZID=America/New_York:20261022T180000
 SUMMARY:University High School at Roselle Catholic High School (Varsity G
  irls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104544075@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T163000
+DTEND;TZID=America/New_York:20261023T183000
+SUMMARY:Barringer High School vs University High School (Varsity Girls Gi
+ rls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103758735@super-essex-conference

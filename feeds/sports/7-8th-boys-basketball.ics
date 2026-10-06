@@ -23,6 +23,49 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:104550062@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T154500
+DTEND;TZID=America/New_York:20261210T174500
+SUMMARY:Montclair Kimberley Academy vs Pingry (7/8th Boys Basketball)
+DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104550104@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T170000
+DTEND;TZID=America/New_York:20261210T190000
+SUMMARY:Montclair Kimberley Academy vs Pingry (7/8th Boys Basketball)
+DESCRIPTION:7/8th Boys Basketball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104550406@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T154500
+DTEND;TZID=America/New_York:20261214T174500
+SUMMARY:Montclair Kimberley Academy vs Oratory Prep School (7/8th Boys Ba
+ sketball)
+DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104550416@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T170000
+DTEND;TZID=America/New_York:20261214T190000
+SUMMARY:Montclair Kimberley Academy vs Oratory Prep School (7/8th Boys Ba
+ sketball)
+DESCRIPTION:7/8th Boys Basketball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104550497@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T160000
+DTEND;TZID=America/New_York:20270105T180000
+SUMMARY:Montclair Kimberley Academy vs Woodrow Wilson Middle School - Cli
+ fton (7/8th Boys Basketball)
+DESCRIPTION:7/8th Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104082291@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T153000
@@ -39,6 +82,15 @@ SUMMARY:Newark Academy vs Morristown-Beard School (7/8th Boys Basketball)
 DESCRIPTION:7/8th Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104550616@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T160000
+DTEND;TZID=America/New_York:20270115T180000
+SUMMARY:Montclair Kimberley Academy vs Delbarton School (7/8th Boys Baske
+ tball)
+DESCRIPTION:7/8th Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104082346@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T154500
@@ -53,6 +105,24 @@ DTSTART;TZID=America/New_York:20270121T154500
 DTEND;TZID=America/New_York:20270121T174500
 SUMMARY:Newark Academy vs TBD (7/8th Boys Basketball)
 DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104550710@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T154500
+DTEND;TZID=America/New_York:20270121T174500
+SUMMARY:Montclair Kimberley Academy vs Newark Academy (7/8th Boys Basketb
+ all)
+DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104550726@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T170000
+DTEND;TZID=America/New_York:20270121T190000
+SUMMARY:Montclair Kimberley Academy vs Newark Academy (7/8th Boys Basketb
+ all)
+DESCRIPTION:7/8th Boys Basketball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104082372@super-essex-conference
@@ -80,6 +150,15 @@ DTEND;TZID=America/New_York:20270128T174500
 SUMMARY:Newark Academy vs Frelinghuysen Middle School (7/8th Boys Basketb
  all)
 DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104550880@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T160000
+DTEND;TZID=America/New_York:20270128T180000
+SUMMARY:Montclair Kimberley Academy vs Christopher Columbus Middle School
+  - Clifton (7/8th Boys Basketball)
+DESCRIPTION:7/8th Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104082456@super-essex-conference

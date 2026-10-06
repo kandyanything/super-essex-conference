@@ -2111,15 +2111,6 @@ SUMMARY:Livingston High School at Kearny High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102156039@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261010T100000
-DTEND;TZID=America/New_York:20261010T120000
-SUMMARY:Millburn High School vs Jonathan Dayton High School (Varsity Girl
- s Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102153351@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T100000
@@ -2136,6 +2127,15 @@ DTEND;TZID=America/New_York:20261010T120000
 SUMMARY:West Essex High School at New Providence High School (Varsity Gir
  ls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102156039@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T120000
+DTEND;TZID=America/New_York:20261010T140000
+SUMMARY:Millburn High School vs Jonathan Dayton High School (Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102090281@super-essex-conference
@@ -2222,9 +2222,10 @@ UID:arb:102314357@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T163000
 DTEND;TZID=America/New_York:20261013T183000
-SUMMARY:Livingston High School vs Watchung Hills Reg High School (Varsity
-  Girls Girls Soccer)
+SUMMARY:[Canceled] Livingston High School vs Watchung Hills Reg High Scho
+ ol (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664902@super-essex-conference
@@ -2539,6 +2540,15 @@ DTEND;TZID=America/New_York:20261023T180000
 SUMMARY:Technology High School vs Passaic Arts & Science Charter School (
  Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104544075@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T163000
+DTEND;TZID=America/New_York:20261023T183000
+SUMMARY:Barringer High School vs University High School (Varsity Girls Gi
+ rls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103520489@super-essex-conference

@@ -139,6 +139,15 @@ SUMMARY:Montclair Kimberley Academy at Heritage Middle School (Middle Sch
 DESCRIPTION:Middle School Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103034502@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T153000
+DTEND;TZID=America/New_York:20261005T173000
+SUMMARY:Newark Academy vs Far Brook School (Middle School Girls Field Hoc
+ key)
+DESCRIPTION:Middle School Girls Field Hockey - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101796674@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
@@ -154,15 +163,6 @@ DTEND;TZID=America/New_York:20261005T183000
 SUMMARY:Montclair Kimberley Academy vs Lincoln/Franklin Elementary School
   (Level: 1-8) (Middle School Girls Field Hockey)
 DESCRIPTION:Middle School Girls Field Hockey - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103034502@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T153000
-DTEND;TZID=America/New_York:20261006T173000
-SUMMARY:Newark Academy vs Far Brook School (Middle School Girls Field Hoc
- key)
-DESCRIPTION:Middle School Girls Field Hockey - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101796679@super-essex-conference

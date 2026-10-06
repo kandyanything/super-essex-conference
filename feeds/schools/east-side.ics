@@ -1037,15 +1037,6 @@ SUMMARY:Barringer High School vs East Side High School - Newark (Varsity
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104504135@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T160000
-DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Central High School at East Side High School - Newark (Varsity Bo
- ys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99062215@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T161500
@@ -1053,6 +1044,15 @@ DTEND;TZID=America/New_York:20261007T181500
 SUMMARY:East Side High School vs Technology High School (Newark) (Varsity
   Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104504135@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T163000
+DTEND;TZID=America/New_York:20261007T183000
+SUMMARY:Central High School at East Side High School - Newark (Varsity Bo
+ ys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99062207@super-essex-conference
@@ -1116,6 +1116,15 @@ DTEND;TZID=America/New_York:20261009T191500
 SUMMARY:East Side High School at Science Park High School (Junior Varsity
   Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104553979@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T120000
+SUMMARY:Barringer High School at East Side High School - Newark (Varsity 
+ Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103340116@super-essex-conference
@@ -1689,9 +1698,10 @@ UID:arb:100537211@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T090000
 DTEND;TZID=America/New_York:20270109T110000
-SUMMARY:East Side High School at Essex County-Newark Tech High School (Fr
- eshman Boys Boys Basketball)
+SUMMARY:[Canceled] East Side High School at Essex County-Newark Tech High
+  School (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 9:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100537130@super-essex-conference

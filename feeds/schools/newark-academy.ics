@@ -1315,6 +1315,15 @@ SUMMARY:East Side High School vs Newark Academy (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103034502@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T153000
+DTEND;TZID=America/New_York:20261005T173000
+SUMMARY:Newark Academy vs Far Brook School (Middle School Girls Field Hoc
+ key)
+DESCRIPTION:Middle School Girls Field Hockey - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103017435@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T153000
@@ -1384,15 +1393,6 @@ DTSTART;TZID=America/New_York:20261006T150000
 DTEND;TZID=America/New_York:20261006T170000
 SUMMARY:Newark Academy vs TBD (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103034502@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T153000
-DTEND;TZID=America/New_York:20261006T173000
-SUMMARY:Newark Academy vs Far Brook School (Middle School Girls Field Hoc
- key)
-DESCRIPTION:Middle School Girls Field Hockey - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102314546@super-essex-conference
@@ -1560,15 +1560,6 @@ SUMMARY:James Caldwell High School at Newark Academy (Junior Varsity Girl
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101406484@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T160000
-DTEND;TZID=America/New_York:20261012T180000
-SUMMARY:Mount Saint Dominic Academy vs Newark Academy (Varsity Girls Fiel
- d Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103467526@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T154500
@@ -1576,6 +1567,15 @@ DTEND;TZID=America/New_York:20261013T174500
 SUMMARY:Montclair Kimberley Academy at Newark Academy (Middle School Girl
  s Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101406484@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Mount Saint Dominic Academy vs Newark Academy (Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99092213@super-essex-conference
@@ -2524,6 +2524,15 @@ SUMMARY:Newark Academy vs TBD (7/8th Boys Basketball)
 DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104550710@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T154500
+DTEND;TZID=America/New_York:20270121T174500
+SUMMARY:Montclair Kimberley Academy vs Newark Academy (7/8th Boys Basketb
+ all)
+DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100551290@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T160000
@@ -2540,6 +2549,15 @@ DTEND;TZID=America/New_York:20270121T183000
 SUMMARY:Central High School vs Newark Academy (Varsity Girls Girls Basket
  ball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104550726@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T170000
+DTEND;TZID=America/New_York:20270121T190000
+SUMMARY:Montclair Kimberley Academy vs Newark Academy (7/8th Boys Basketb
+ all)
+DESCRIPTION:7/8th Boys Basketball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551329@super-essex-conference
