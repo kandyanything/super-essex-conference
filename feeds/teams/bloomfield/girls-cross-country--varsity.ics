@@ -52,10 +52,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:103339897@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:Barringer High School vs Bloomfield High School (Varsity Girls Gi
- rls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Home
+DTSTART;TZID=America/New_York:20261017T090000
+DTEND;TZID=America/New_York:20261017T110000
+SUMMARY:Bloomfield High School at Cedar Grove High School (Varsity Girls 
+ Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:00 AM
 END:VEVENT
 END:VCALENDAR

@@ -546,9 +546,9 @@ UID:arb:99415746@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T120000
 DTEND;TZID=America/New_York:20261017T140000
-SUMMARY:[Canceled] Glen Ridge High School vs Newark Collegiate Academy (V
+SUMMARY:[Canceled] Newark Collegiate Academy at Glen Ridge High School (V
  arsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 12:00 PM
+DESCRIPTION:Varsity Boys Football - Away - 12:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
@@ -622,6 +622,15 @@ DTEND;TZID=America/New_York:20261215T180000
 SUMMARY:East Side High School at Newark Collegiate Academy (Freshman Boys
   Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104582369@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T170000
+DTEND;TZID=America/New_York:20261215T190000
+SUMMARY:Newark Collegiate Academy at Abraham Clark High School (Varsity B
+ oys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100539300@super-essex-conference

@@ -1732,16 +1732,6 @@ SUMMARY:Newark Academy at Blair Academy (Junior Varsity Girls Girls Socce
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102291173@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T173000
-DTEND;TZID=America/New_York:20261016T193000
-SUMMARY:[Canceled] Newark Academy vs TBD (Junior Varsity Girls Field Hock
- ey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103634572@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T173000
@@ -2670,6 +2660,15 @@ SUMMARY:Newark Academy at University High School (Varsity Girls Girls Bas
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104582442@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T170000
+DTEND;TZID=America/New_York:20270125T190000
+SUMMARY:Newark Academy at Abraham Clark High School (Varsity Boys Boys Wr
+ estling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104082372@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T153000
@@ -2794,6 +2793,15 @@ DTSTART;TZID=America/New_York:20270128T160000
 DTEND;TZID=America/New_York:20270128T180000
 SUMMARY:Newark Academy vs Oratory Prep School (Varsity Boys Boys Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104576108@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T193000
+DTEND;TZID=America/New_York:20270128T213000
+SUMMARY:Millburn High School vs Newark Academy (Varsity Boys Boys Swimmin
+ g)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104463562@super-essex-conference

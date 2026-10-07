@@ -2449,15 +2449,6 @@ SUMMARY:West Essex High School at Villa Maria Academy (Varsity Girls Fiel
 DESCRIPTION:Varsity Girls Field Hockey - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99231553@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T160000
-DTEND;TZID=America/New_York:20261012T180000
-SUMMARY:Central High School at West Essex High School (Junior Varsity Boy
- s Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102552966@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T160000
@@ -2492,6 +2483,15 @@ DTEND;TZID=America/New_York:20261012T180000
 SUMMARY:West Essex High School at Summit High School (Varsity Girls Field
   Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99231553@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T163000
+DTEND;TZID=America/New_York:20261012T183000
+SUMMARY:Central High School at West Essex High School (Junior Varsity Boy
+ s Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101382409@super-essex-conference
@@ -2717,6 +2717,15 @@ SUMMARY:[Canceled] West Essex High School vs Madison High School (Freshma
  n Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 5:15 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104572704@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:West Essex High School at Passaic County Tech Institute (Freshman
+  Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103489961@super-essex-conference
@@ -3756,6 +3765,15 @@ DTEND;TZID=America/New_York:20270102T110000
 SUMMARY:West Essex High School at Mount Olive Township School District (V
  arsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104572908@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T160000
+DTEND;TZID=America/New_York:20270104T180000
+SUMMARY:West Essex High School vs COPELAND MIDDLE SCHOOL (Middle School B
+ oys Boys Basketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103017387@super-essex-conference

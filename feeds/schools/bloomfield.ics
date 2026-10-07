@@ -2230,6 +2230,24 @@ SUMMARY:Bloomfield High School vs Rutherford High School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103339897@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T090000
+DTEND;TZID=America/New_York:20261017T110000
+SUMMARY:Bloomfield High School at Cedar Grove High School (Varsity Girls 
+ Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103339878@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T090000
+DTEND;TZID=America/New_York:20261017T110000
+SUMMARY:Bloomfield High School at Cedar Grove High School (Varsity Boys B
+ oys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99189397@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T090000
@@ -2246,24 +2264,6 @@ DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:Bloomfield High School at Bayonne High School (Varsity Boys Footb
  all)
 DESCRIPTION:Varsity Boys Football - Away - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103339897@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:Barringer High School vs Bloomfield High School (Varsity Girls Gi
- rls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103339878@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:Barringer High School vs Bloomfield High School (Varsity Boys Boy
- s Cross Country)
-DESCRIPTION:Varsity Boys Boys Cross Country - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103844105@super-essex-conference

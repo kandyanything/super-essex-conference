@@ -2786,15 +2786,6 @@ SUMMARY:Cedar Grove High School vs Mountain Lakes High School (Junior Var
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99231553@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T160000
-DTEND;TZID=America/New_York:20261012T180000
-SUMMARY:Central High School at West Essex High School (Junior Varsity Boy
- s Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103344614@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T160000
@@ -2848,12 +2839,12 @@ SUMMARY:Millburn High School vs TBD (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102678962@super-essex-conference
+UID:arb:99231553@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T163000
 DTEND;TZID=America/New_York:20261012T183000
-SUMMARY:Irvington High School at Bayonne High School (Junior Varsity Boys
-  Football)
+SUMMARY:Central High School at West Essex High School (Junior Varsity Boy
+ s Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -3069,9 +3060,9 @@ UID:arb:99415746@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T120000
 DTEND;TZID=America/New_York:20261017T140000
-SUMMARY:[Canceled] Glen Ridge High School vs Newark Collegiate Academy (V
+SUMMARY:[Canceled] Newark Collegiate Academy at Glen Ridge High School (V
  arsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 12:00 PM
+DESCRIPTION:Varsity Boys Football - Away - 12:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT

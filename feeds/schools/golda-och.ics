@@ -1274,21 +1274,14 @@ SUMMARY:Golda Och Academy vs Newark Lab High School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100553927@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270211T163000
-DTEND;TZID=America/New_York:20270211T183000
-SUMMARY:Eagle Academy vs Golda Och Academy (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100553943@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T180000
 DTEND;TZID=America/New_York:20270211T200000
-SUMMARY:Eagle Academy vs Golda Och Academy (Junior Varsity Boys Boys Bask
- etball)
+SUMMARY:[Canceled] Eagle Academy vs Golda Och Academy (Junior Varsity Boy
+ s Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 6:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103257888@super-essex-conference
@@ -1298,6 +1291,14 @@ DTEND;TZID=America/New_York:20270216T183000
 SUMMARY:Golda Och Academy vs Essex County-West Caldwell Tech High School 
  (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104577569@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270218T163000
+DTEND;TZID=America/New_York:20270218T183000
+SUMMARY:Eagle Academy vs Golda Och Academy (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103257893@super-essex-conference
