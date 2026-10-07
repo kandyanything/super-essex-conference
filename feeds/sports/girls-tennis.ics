@@ -1434,6 +1434,14 @@ DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103095888@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T160000
+DTEND;TZID=America/New_York:20260923T180000
+SUMMARY:Nutley High School at TBD (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101527367@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T160000
@@ -2445,11 +2453,11 @@ SUMMARY:Mount Saint Dominic Academy vs West Essex High School (Varsity Gi
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104353924@super-essex-conference
+UID:arb:104186351@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
 DTEND;TZID=America/New_York:20261008T180000
-SUMMARY:Montclair High School at TBD (Varsity Girls Girls Tennis)
+SUMMARY:Nutley High School at TBD (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2460,25 +2468,6 @@ DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Cedar Grove High School vs East Orange Campus High School (Varsit
  y Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104186351@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T160000
-DTEND;TZID=America/New_York:20261008T180000
-SUMMARY:Montclair High School vs Nutley High School (Varsity Girls Girls 
- Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103095888@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T160000
-DTEND;TZID=America/New_York:20261008T180000
-SUMMARY:[Canceled] Montclair High School vs Nutley High School (Junior Va
- rsity Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104565509@super-essex-conference
@@ -2505,15 +2494,6 @@ DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Newark Academy vs Academy of the Holy Angels (Varsity Girls Girls
   Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104565261@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Newark Academy vs Dwight Englewood High School (Varsity Girls Gir
- ls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home
 END:VEVENT
 BEGIN:VEVENT

@@ -16897,6 +16897,14 @@ SUMMARY:Newark Academy vs TBD (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103095888@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T160000
+DTEND;TZID=America/New_York:20260923T180000
+SUMMARY:Nutley High School at TBD (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99183667@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T160000
@@ -26599,6 +26607,15 @@ SUMMARY:Nutley High School vs West Orange High School (Junior Varsity Gir
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104566968@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Orange High School at Linden High School (Varsity Girls Girls Soc
+ cer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101688419@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
@@ -27136,11 +27153,11 @@ SUMMARY:Millburn High School at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104353924@super-essex-conference
+UID:arb:104186351@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
 DTEND;TZID=America/New_York:20261008T180000
-SUMMARY:Montclair High School at TBD (Varsity Girls Girls Tennis)
+SUMMARY:Nutley High School at TBD (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -27422,25 +27439,6 @@ DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Millburn High School vs Bridgewater-Raritan High School (Varsity 
  Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104186351@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T160000
-DTEND;TZID=America/New_York:20261008T180000
-SUMMARY:Montclair High School vs Nutley High School (Varsity Girls Girls 
- Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103095888@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T160000
-DTEND;TZID=America/New_York:20261008T180000
-SUMMARY:[Canceled] Montclair High School vs Nutley High School (Junior Va
- rsity Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100666364@super-essex-conference
@@ -27905,15 +27903,6 @@ DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Newark Academy vs Academy of the Holy Angels (Varsity Girls Girls
   Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104565261@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Newark Academy vs Dwight Englewood High School (Varsity Girls Gir
- ls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home
 END:VEVENT
 BEGIN:VEVENT
@@ -28960,9 +28949,10 @@ UID:arb:101240840@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T120000
 DTEND;TZID=America/New_York:20261010T140000
-SUMMARY:Livingston High School at Kearny High School (Junior Varsity Girl
- s Girls Soccer)
+SUMMARY:[Canceled] Livingston High School at Kearny High School (Junior V
+ arsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 12:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100250226@super-essex-conference
@@ -29832,6 +29822,15 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104567415@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T173000
+DTEND;TZID=America/New_York:20261012T193000
+SUMMARY:Bloomfield High School vs Hoboken High School (Varsity Girls Girl
+ s Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103026823@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T173000
@@ -30522,6 +30521,15 @@ DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Columbia High School vs TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104566721@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T154500
+DTEND;TZID=America/New_York:20261014T174500
+SUMMARY:Newark Academy vs Gill St. Bernard's School (Varsity Girls Girls 
+ Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100784281@super-essex-conference
