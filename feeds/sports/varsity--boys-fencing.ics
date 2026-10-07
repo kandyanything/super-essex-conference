@@ -194,6 +194,15 @@ SUMMARY:Livingston High School vs West Essex High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104562049@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T133000
+DTEND;TZID=America/New_York:20270123T153000
+SUMMARY:Saint Benedict's Prep at Lawrenceville Prep (Varsity Boys Boys Fe
+ ncing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104463242@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T163000
@@ -262,5 +271,14 @@ DTEND;TZID=America/New_York:20270203T183000
 SUMMARY:Montclair Kimberley Academy at Saint Peter's Prep High School (Va
  rsity Boys Boys Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104564697@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T183000
+DTEND;TZID=America/New_York:20270203T203000
+SUMMARY:Livingston High School at Chatham High School (Varsity Boys Boys 
+ Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:30 PM
 END:VEVENT
 END:VCALENDAR

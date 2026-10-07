@@ -2516,15 +2516,6 @@ SUMMARY:Verona High School at Summit High School (Varsity Girls Field Hoc
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101626071@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T160000
-DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:West Essex High School vs Kent Place School (Junior Varsity Girls
-  Field Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101077208@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
@@ -2532,6 +2523,15 @@ DTEND;TZID=America/New_York:20261007T180000
 SUMMARY:West Essex High School at Boonton High School (Middle School Girl
  s Field Hockey)
 DESCRIPTION:Middle School Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101626071@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T163000
+DTEND;TZID=America/New_York:20261007T183000
+SUMMARY:West Essex High School vs Kent Place School (Junior Varsity Girls
+  Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99608476@super-essex-conference
@@ -2581,11 +2581,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:101456015@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T173000
-DTEND;TZID=America/New_York:20261007T193000
+DTSTART;TZID=America/New_York:20261007T180000
+DTEND;TZID=America/New_York:20261007T200000
 SUMMARY:West Essex High School vs Kent Place School (Varsity Girls Field 
  Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 5:30 PM
+DESCRIPTION:Varsity Girls Field Hockey - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104472400@super-essex-conference

@@ -229,9 +229,10 @@ UID:arb:102779726@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T160000
 DTEND;TZID=America/New_York:20261009T180000
-SUMMARY:James Caldwell High School at Newark Academy (Varsity Girls Girls
-  Volleyball)
+SUMMARY:[Canceled] James Caldwell High School at Newark Academy (Varsity 
+ Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103900061@super-essex-conference
@@ -260,6 +261,15 @@ DTEND;TZID=America/New_York:20261017T120000
 SUMMARY:James Caldwell High School vs Saint Benedict's Preparatory School
   (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104564439@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:James Caldwell High School at Newark Academy (Varsity Girls Girls
+  Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102800266@super-essex-conference
