@@ -1497,15 +1497,6 @@ SUMMARY:Cedar Grove High School vs Kearny High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101410984@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T171500
-DTEND;TZID=America/New_York:20261008T191500
-SUMMARY:Cedar Grove High School vs Kearny High School (Junior Varsity Gir
- ls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104580723@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T180000
@@ -1630,6 +1621,24 @@ SUMMARY:Cedar Grove High School vs TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104610612@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Belleville High School at Cedar Grove High School (Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104616099@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T163000
+DTEND;TZID=America/New_York:20261014T183000
+SUMMARY:Cedar Grove High School vs Newark School of Data Science (Varsity
+  Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101415959@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T173000
@@ -1738,7 +1747,7 @@ SUMMARY:Cedar Grove High School at James Caldwell High School (Varsity Bo
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103941190@super-essex-conference
+UID:arb:104605575@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T160000
 DTEND;TZID=America/New_York:20261022T180000
@@ -1756,13 +1765,22 @@ SUMMARY:Cedar Grove High School vs Jonathan Dayton High School (Varsity G
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103941208@super-essex-conference
+UID:arb:103403608@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T171500
 DTEND;TZID=America/New_York:20261022T191500
 SUMMARY:Cedar Grove High School vs Nutley High School (Junior Varsity Gir
  ls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104605583@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T181500
+DTEND;TZID=America/New_York:20261022T201500
+SUMMARY:Cedar Grove High School vs Nutley High School (Junior Varsity Gir
+ ls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 6:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102683457@super-essex-conference
@@ -2717,6 +2735,15 @@ SUMMARY:Cedar Grove High School at West Essex High School (Varsity Boys B
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104615287@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270315T163000
+DTEND;TZID=America/New_York:20270315T183000
+SUMMARY:Cedar Grove High School vs Ramsey High School (Varsity Girls Soft
+ ball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104412874@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270317T163000
@@ -2724,6 +2751,33 @@ DTEND;TZID=America/New_York:20270317T183000
 SUMMARY:Cedar Grove High School vs Morris Hills High School (Varsity Boys
   Boys Lacrosse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104615736@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270327T090000
+DTEND;TZID=America/New_York:20270327T110000
+SUMMARY:Cedar Grove High School vs Hanover Park High School (Varsity Girl
+ s Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104615770@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270327T110000
+DTEND;TZID=America/New_York:20270327T130000
+SUMMARY:Cedar Grove High School vs Ramapo High School (Varsity Girls Soft
+ ball)
+DESCRIPTION:Varsity Girls Softball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104616454@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270329T161500
+DTEND;TZID=America/New_York:20270329T181500
+SUMMARY:Cedar Grove High School vs Summit High School (Varsity Girls Soft
+ ball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102568654@super-essex-conference

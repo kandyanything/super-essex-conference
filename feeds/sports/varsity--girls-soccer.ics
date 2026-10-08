@@ -2200,6 +2200,24 @@ SUMMARY:Montclair High School at Mendham High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104616393@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T183000
+DTEND;TZID=America/New_York:20261012T203000
+SUMMARY:West Essex High School at Hackensack High School (Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104610612@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Belleville High School at Cedar Grove High School (Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101856862@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T160000
@@ -2218,6 +2236,24 @@ SUMMARY:East Orange Campus High School vs Irvington High School (Varsity
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104611609@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Irvington High School at Nutley High School (Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104609161@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Millburn High School vs Essex County-Newark Tech High School (Var
+ sity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103871159@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T160000
@@ -2225,6 +2261,15 @@ DTEND;TZID=America/New_York:20261013T180000
 SUMMARY:Verona High School vs Passaic County Tech Institute (Varsity Girl
  s Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104611904@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T163000
+DTEND;TZID=America/New_York:20261013T183000
+SUMMARY:East Side High School vs Essex County-Payne Tech High School (Var
+ sity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102314357@super-essex-conference
@@ -2235,6 +2280,15 @@ SUMMARY:[Canceled] Livingston High School vs Watchung Hills Reg High Scho
  ol (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:30 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104612420@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T154500
+DTEND;TZID=America/New_York:20261014T174500
+SUMMARY:Mount Saint Dominic Academy vs Peddie School (Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664902@super-essex-conference
@@ -2250,9 +2304,10 @@ UID:arb:102525452@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T180000
-SUMMARY:Newark Academy vs Parsippany Hills High School (Varsity Girls Gir
- ls Soccer)
+SUMMARY:[Canceled] Newark Academy vs Parsippany Hills High School (Varsit
+ y Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104575155@super-essex-conference
@@ -2322,9 +2377,10 @@ UID:arb:101729644@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T170000
 DTEND;TZID=America/New_York:20261015T190000
-SUMMARY:West Essex High School vs North Arlington High School (Varsity Gi
- rls Girls Soccer)
+SUMMARY:[Canceled] West Essex High School vs North Arlington High School 
+ (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 5:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101640940@super-essex-conference
@@ -2354,6 +2410,15 @@ SUMMARY:Nutley High School at Clifton High School (Varsity Girls Girls So
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104609272@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T154500
+DTEND;TZID=America/New_York:20261016T174500
+SUMMARY:Mount Saint Dominic Academy vs West Essex High School (Varsity Gi
+ rls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104406044@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T160000
@@ -2380,6 +2445,15 @@ SUMMARY:[Canceled] Nutley High School vs Rutherford High School (Varsity
  Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 11:30 AM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104612584@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T140000
+DTEND;TZID=America/New_York:20261017T160000
+SUMMARY:Newark Academy vs James Caldwell High School (Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103966869@super-essex-conference

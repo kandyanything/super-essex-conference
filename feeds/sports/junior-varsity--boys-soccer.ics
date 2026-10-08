@@ -2048,9 +2048,10 @@ UID:arb:103145871@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T180000
-SUMMARY:Seton Hall Prep vs Bergen Catholic High School (Junior Varsity Bo
- ys Boys Soccer)
+SUMMARY:[Canceled] Seton Hall Prep vs Bergen Catholic High School (Junior
+  Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101611974@super-essex-conference
@@ -2185,6 +2186,14 @@ DTSTART;TZID=America/New_York:20261021T160000
 DTEND;TZID=America/New_York:20261021T180000
 SUMMARY:Cedar Grove High School vs James Caldwell High School (Junior Var
  sity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104613486@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Newark Academy vs Blair Academy (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT

@@ -1612,6 +1612,15 @@ SUMMARY:Millburn High School at Scotch Plains-Fanwood High School (Junior
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101619847@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T160000
+DTEND;TZID=America/New_York:20261015T180000
+SUMMARY:Nutley High School at Clifton High School (Junior Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102918237@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T161500
@@ -1635,18 +1644,10 @@ UID:arb:101729565@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T170000
 DTEND;TZID=America/New_York:20261015T190000
-SUMMARY:West Essex High School vs North Arlington High School (Junior Var
- sity Girls Girls Soccer)
+SUMMARY:[Canceled] West Essex High School vs North Arlington High School 
+ (Junior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101619847@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T160000
-DTEND;TZID=America/New_York:20261016T180000
-SUMMARY:Nutley High School at Clifton High School (Junior Varsity Girls G
- irls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102302615@super-essex-conference

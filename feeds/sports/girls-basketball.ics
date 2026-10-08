@@ -402,6 +402,15 @@ SUMMARY:Montclair High School vs Essex County-Payne Tech High School (Var
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100560192@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
+SUMMARY:Mount Saint Dominic Academy vs James Caldwell High School (Varsit
+ y Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104266495@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T160000
@@ -409,6 +418,15 @@ DTEND;TZID=America/New_York:20261216T180000
 SUMMARY:West Essex High School vs Mount Olive Township School District (M
  iddle School Girls Girls Basketball)
 DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100560260@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T173000
+DTEND;TZID=America/New_York:20261216T193000
+SUMMARY:Mount Saint Dominic Academy vs James Caldwell High School (Junior
+  Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100563058@super-essex-conference
@@ -480,15 +498,6 @@ DTSTART;TZID=America/New_York:20261217T160000
 DTEND;TZID=America/New_York:20261217T180000
 SUMMARY:Glen Ridge High School vs University High School (Varsity Girls G
  irls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100560192@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T160000
-DTEND;TZID=America/New_York:20261217T180000
-SUMMARY:Mount Saint Dominic Academy vs James Caldwell High School (Varsit
- y Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -641,15 +650,6 @@ DTSTART;TZID=America/New_York:20261217T173000
 DTEND;TZID=America/New_York:20261217T193000
 SUMMARY:Montclair High School vs Newark Academy (Junior Varsity Girls Gir
  ls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100560260@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T173000
-DTEND;TZID=America/New_York:20261217T193000
-SUMMARY:Mount Saint Dominic Academy vs James Caldwell High School (Junior
-  Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT

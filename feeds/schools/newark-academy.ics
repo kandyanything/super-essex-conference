@@ -1580,6 +1580,23 @@ SUMMARY:Montclair Kimberley Academy at Newark Academy (Middle School Girl
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104610501@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Newark Academy vs TBD (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104611096@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Belleville High School at Newark Academy (Varsity Boys Boys Socce
+ r)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101406484@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T160000
@@ -1629,9 +1646,10 @@ UID:arb:102525452@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T180000
-SUMMARY:Newark Academy vs Parsippany Hills High School (Varsity Girls Gir
- ls Soccer)
+SUMMARY:[Canceled] Newark Academy vs Parsippany Hills High School (Varsit
+ y Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102311513@super-essex-conference
@@ -1741,6 +1759,15 @@ SUMMARY:Newark Academy vs Elizabeth High School (Junior Varsity Girls Gir
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104612584@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T140000
+DTEND;TZID=America/New_York:20261017T160000
+SUMMARY:Newark Academy vs James Caldwell High School (Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103018028@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T153000
@@ -1783,6 +1810,14 @@ DTEND;TZID=America/New_York:20261019T191500
 SUMMARY:Mount Saint Dominic Academy vs Newark Academy (Junior Varsity Gir
  ls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104613486@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Newark Academy vs Blair Academy (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102525063@super-essex-conference
@@ -2144,14 +2179,6 @@ SUMMARY:East Orange Campus High School vs Newark Academy (Varsity Girls G
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101769973@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270102T093000
-DTEND;TZID=America/New_York:20270102T113000
-SUMMARY:Newark Academy vs TBD (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104319021@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T160000
@@ -2222,6 +2249,14 @@ DTEND;TZID=America/New_York:20270105T203000
 SUMMARY:Montclair High School vs Newark Academy (Varsity Boys Boys Fencin
  g)
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104617933@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T154500
+DTEND;TZID=America/New_York:20270107T174500
+SUMMARY:Newark Academy vs Rutgers Prep School (7/8th Boys Basketball)
+DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100560573@super-essex-conference
@@ -2544,14 +2579,6 @@ SUMMARY:Newark Academy vs West Orange High School (Varsity Coed Coed Swim
 DESCRIPTION:Varsity Coed Coed Swimming - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104082360@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270121T154500
-DTEND;TZID=America/New_York:20270121T174500
-SUMMARY:Newark Academy vs TBD (7/8th Boys Basketball)
-DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104550710@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T154500
@@ -2559,6 +2586,15 @@ DTEND;TZID=America/New_York:20270121T174500
 SUMMARY:Montclair Kimberley Academy vs Newark Academy (7/8th Boys Basketb
  all)
 DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104082360@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T154500
+DTEND;TZID=America/New_York:20270121T174500
+SUMMARY:Newark Academy vs Montclair Kimberley Academy (7/8th Girls Basket
+ ball)
+DESCRIPTION:7/8th Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551290@super-essex-conference
@@ -2586,6 +2622,15 @@ DTEND;TZID=America/New_York:20270121T190000
 SUMMARY:Montclair Kimberley Academy vs Newark Academy (7/8th Boys Basketb
  all)
 DESCRIPTION:7/8th Boys Basketball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104617494@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T171500
+DTEND;TZID=America/New_York:20270121T191500
+SUMMARY:Montclair Kimberley Academy at Newark Academy (7/8th Girls Basket
+ ball)
+DESCRIPTION:7/8th Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551329@super-essex-conference
@@ -2944,14 +2989,6 @@ DTEND;TZID=America/New_York:20270211T193000
 SUMMARY:Newark Academy at Verona High School (Junior Varsity Boys Boys Ba
  sketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104082579@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270218T154500
-DTEND;TZID=America/New_York:20270218T174500
-SUMMARY:Newark Academy vs TBD (7/8th Boys Basketball)
-DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103675812@super-essex-conference

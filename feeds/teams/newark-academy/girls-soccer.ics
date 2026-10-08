@@ -369,9 +369,10 @@ UID:arb:102525452@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T180000
-SUMMARY:Newark Academy vs Parsippany Hills High School (Varsity Girls Gir
- ls Soccer)
+SUMMARY:[Canceled] Newark Academy vs Parsippany Hills High School (Varsit
+ y Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102311513@super-essex-conference
@@ -390,6 +391,15 @@ DTEND;TZID=America/New_York:20261016T183000
 SUMMARY:Newark Academy at Blair Academy (Junior Varsity Girls Girls Socce
  r)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104612584@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T140000
+DTEND;TZID=America/New_York:20261017T160000
+SUMMARY:Newark Academy vs James Caldwell High School (Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102684747@super-essex-conference

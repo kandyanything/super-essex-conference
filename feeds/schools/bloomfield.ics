@@ -1979,6 +1979,15 @@ SUMMARY:Bloomfield High School vs West Orange High School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104399244@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T160000
+DTEND;TZID=America/New_York:20261008T180000
+SUMMARY:Bloomfield High School at Nutley High School (Junior Varsity Girl
+ s Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100663392@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
@@ -1986,15 +1995,6 @@ DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Bloomfield High School at Cedar Grove High School (Varsity Girls 
  Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104399244@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261009T160000
-DTEND;TZID=America/New_York:20261009T180000
-SUMMARY:Bloomfield High School at Nutley High School (Junior Varsity Girl
- s Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102914517@super-essex-conference
@@ -2076,6 +2076,15 @@ DTEND;TZID=America/New_York:20261010T133000
 SUMMARY:Bloomfield High School at Cedar Grove High School (Junior Varsity
   Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104615295@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T110000
+DTEND;TZID=America/New_York:20261012T130000
+SUMMARY:Bloomfield High School vs Newark Collegiate Academy (Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103223940@super-essex-conference
@@ -2168,15 +2177,6 @@ SUMMARY:Bloomfield High School at Nutley High School (Junior Varsity Girl
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101486061@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T160000
-DTEND;TZID=America/New_York:20261014T180000
-SUMMARY:Bloomfield High School vs Glen Ridge High School (Varsity Boys Bo
- ys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101426159@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
@@ -2219,6 +2219,15 @@ DTEND;TZID=America/New_York:20261015T180000
 SUMMARY:Bloomfield High School vs Rutherford High School (Junior Varsity 
  Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101486061@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T160000
+DTEND;TZID=America/New_York:20261015T180000
+SUMMARY:Bloomfield High School vs Glen Ridge High School (Varsity Boys Bo
+ ys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103339897@super-essex-conference
@@ -2568,6 +2577,15 @@ DTSTART;TZID=America/New_York:20261214T170000
 DTEND;TZID=America/New_York:20261214T190000
 SUMMARY:Bloomfield High School vs TBD (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104607064@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T160000
+DTEND;TZID=America/New_York:20261215T180000
+SUMMARY:Bloomfield High School at Science Park High School (Varsity Boys 
+ Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104521328@super-essex-conference

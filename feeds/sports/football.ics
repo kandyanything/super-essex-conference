@@ -2544,6 +2544,15 @@ SUMMARY:Columbia High School vs Perth Amboy High School (Middle School Bo
 DESCRIPTION:Middle School Boys Football - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100121606@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T180000
+DTEND;TZID=America/New_York:20261008T200000
+SUMMARY:Central High School vs West Essex High School (Varsity Boys Footb
+ all)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99188952@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T183000
@@ -2559,15 +2568,6 @@ DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Belleville High School vs Millburn High School (Varsity Boys Foot
  ball)
-DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100121606@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T190000
-DTEND;TZID=America/New_York:20261008T210000
-SUMMARY:Central High School vs West Essex High School (Varsity Boys Footb
- all)
 DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2714,6 +2714,15 @@ SUMMARY:West Orange High School at Clifton High School (Freshman Boys Foo
 DESCRIPTION:Freshman Boys Football - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:99231553@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T120000
+SUMMARY:Central High School at West Essex High School (Junior Varsity Boy
+ s Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102553627@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T100000
@@ -2837,15 +2846,6 @@ DTSTART;TZID=America/New_York:20261012T163000
 DTEND;TZID=America/New_York:20261012T183000
 SUMMARY:Millburn High School vs TBD (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:99231553@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T163000
-DTEND;TZID=America/New_York:20261012T183000
-SUMMARY:Central High School at West Essex High School (Junior Varsity Boy
- s Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99310901@super-essex-conference
@@ -3170,8 +3170,9 @@ UID:arb:100195214@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T163000
 DTEND;TZID=America/New_York:20261019T183000
-SUMMARY:West Orange High School vs TBD (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:30 PM
+SUMMARY:Barringer High School at West Orange High School (Junior Varsity 
+ Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99189393@super-essex-conference

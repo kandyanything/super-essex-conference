@@ -3604,15 +3604,6 @@ SUMMARY:Belleville High School vs Hoboken High School (Junior Varsity Gir
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101410984@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T171500
-DTEND;TZID=America/New_York:20261008T191500
-SUMMARY:Cedar Grove High School vs Kearny High School (Junior Varsity Gir
- ls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104518381@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T173000
@@ -4251,6 +4242,15 @@ SUMMARY:Arts High School at Technology High School (Newark) (Junior Varsi
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104605645@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T171500
+DTEND;TZID=America/New_York:20261016T191500
+SUMMARY:Columbia High School vs Pascack Valley High School (Junior Varsit
+ y Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104222610@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T171500
@@ -4514,7 +4514,7 @@ SUMMARY:Belleville High School vs Essex County-Newark Tech High School (J
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103941208@super-essex-conference
+UID:arb:103403608@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T171500
 DTEND;TZID=America/New_York:20261022T191500
@@ -4586,6 +4586,15 @@ DTEND;TZID=America/New_York:20261022T200000
 SUMMARY:Bloomfield High School at Hoboken High School (Junior Varsity Gir
  ls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104605583@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T181500
+DTEND;TZID=America/New_York:20261022T201500
+SUMMARY:Cedar Grove High School vs Nutley High School (Junior Varsity Gir
+ ls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 6:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102856114@super-essex-conference

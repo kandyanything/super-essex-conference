@@ -1314,6 +1314,15 @@ SUMMARY:Mount Saint Dominic Academy vs Newark Academy (Varsity Girls Fiel
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104612420@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T154500
+DTEND;TZID=America/New_York:20261014T174500
+SUMMARY:Mount Saint Dominic Academy vs Peddie School (Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101277853@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T180000
@@ -1321,6 +1330,15 @@ DTEND;TZID=America/New_York:20261014T200000
 SUMMARY:Mount Saint Dominic Academy at Scotch Plains-Fanwood High School 
  (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104609272@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T154500
+DTEND;TZID=America/New_York:20261016T174500
+SUMMARY:Mount Saint Dominic Academy vs West Essex High School (Varsity Gi
+ rls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103582677@super-essex-conference
@@ -1443,8 +1461,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100560192@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T160000
-DTEND;TZID=America/New_York:20261217T180000
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
 SUMMARY:Mount Saint Dominic Academy vs James Caldwell High School (Varsit
  y Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
@@ -1452,8 +1470,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100560260@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T173000
-DTEND;TZID=America/New_York:20261217T193000
+DTSTART;TZID=America/New_York:20261216T173000
+DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Mount Saint Dominic Academy vs James Caldwell High School (Junior
   Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM

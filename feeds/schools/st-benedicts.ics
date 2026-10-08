@@ -908,11 +908,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104573322@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T160000
-DTEND;TZID=America/New_York:20261012T180000
+DTSTART;TZID=America/New_York:20261012T190000
+DTEND;TZID=America/New_York:20261012T210000
 SUMMARY:Saint Benedict's Prep vs Saint Thomas Aquinas High School (Varsit
  y Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103502367@super-essex-conference
@@ -1635,6 +1635,15 @@ DTEND;TZID=America/New_York:20270126T180000
 SUMMARY:Payne Tech at Saint Benedict's Preparatory School (Freshman Boys 
  Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104607118@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T160000
+DTEND;TZID=America/New_York:20270126T180000
+SUMMARY:Saint Benedict's Prep at Science Park High School (Varsity Boys B
+ oys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100569762@super-essex-conference

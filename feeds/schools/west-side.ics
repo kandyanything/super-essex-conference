@@ -491,6 +491,15 @@ SUMMARY:West Side High School at Paramus High School (Varsity Boys Footba
 DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104617707@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T123000
+DTEND;TZID=America/New_York:20261010T143000
+SUMMARY:West Side High School at Newark School of Data Science (Varsity B
+ oys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100761118@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T163000
@@ -551,9 +560,10 @@ UID:arb:101854747@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:University High School at West Side High School (Varsity Boys Boy
- s Soccer)
+SUMMARY:[Canceled] University High School at West Side High School (Varsi
+ ty Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99663698@super-essex-conference

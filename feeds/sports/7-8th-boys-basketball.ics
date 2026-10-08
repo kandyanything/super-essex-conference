@@ -66,6 +66,14 @@ SUMMARY:Montclair Kimberley Academy vs Woodrow Wilson Middle School - Cli
 DESCRIPTION:7/8th Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104617933@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T154500
+DTEND;TZID=America/New_York:20270107T174500
+SUMMARY:Newark Academy vs Rutgers Prep School (7/8th Boys Basketball)
+DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104082291@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T153000
@@ -96,14 +104,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T154500
 DTEND;TZID=America/New_York:20270119T174500
 SUMMARY:Newark Academy vs Oratory Prep School (7/8th Boys Basketball)
-DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104082360@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270121T154500
-DTEND;TZID=America/New_York:20270121T174500
-SUMMARY:Newark Academy vs TBD (7/8th Boys Basketball)
 DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -165,14 +165,6 @@ UID:arb:104082456@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T154500
 DTEND;TZID=America/New_York:20270202T174500
-SUMMARY:Newark Academy vs TBD (7/8th Boys Basketball)
-DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104082579@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270218T154500
-DTEND;TZID=America/New_York:20270218T174500
 SUMMARY:Newark Academy vs TBD (7/8th Boys Basketball)
 DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
 END:VEVENT

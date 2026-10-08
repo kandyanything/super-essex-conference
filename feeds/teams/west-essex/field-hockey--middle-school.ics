@@ -131,15 +131,6 @@ SUMMARY:West Essex High School vs Mount Olive Township School District (M
 DESCRIPTION:Middle School Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102344740@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T160000
-DTEND;TZID=America/New_York:20261012T180000
-SUMMARY:West Essex High School vs Summit High School (Middle School Girls
-  Field Hockey)
-DESCRIPTION:Middle School Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103852981@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T160000
@@ -172,5 +163,14 @@ DTSTART;TZID=America/New_York:20261017T090000
 DTEND;TZID=America/New_York:20261017T110000
 SUMMARY:West Essex High School vs TBA (Middle School Girls Field Hockey)
 DESCRIPTION:Middle School Girls Field Hockey - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102344740@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:West Essex High School vs Summit High School (Middle School Girls
+  Field Hockey)
+DESCRIPTION:Middle School Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 END:VCALENDAR

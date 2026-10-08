@@ -1563,6 +1563,15 @@ SUMMARY:Belleville High School at Nutley High School (Freshman Girls Girl
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104399244@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T160000
+DTEND;TZID=America/New_York:20261008T180000
+SUMMARY:Bloomfield High School at Nutley High School (Junior Varsity Girl
+ s Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99417388@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
@@ -1598,15 +1607,6 @@ DTEND;VALUE=DATE:20261009
 SUMMARY:Nutley High School vs Seton Hall Preparatory School (Varsity Boys
   Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104399244@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261009T160000
-DTEND;TZID=America/New_York:20261009T180000
-SUMMARY:Bloomfield High School at Nutley High School (Junior Varsity Girl
- s Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104598463@super-essex-conference
@@ -1766,6 +1766,24 @@ SUMMARY:Bloomfield High School at Nutley High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104611635@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Central High School at Nutley High School (Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104611609@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Irvington High School at Nutley High School (Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103729153@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T171500
@@ -1837,6 +1855,15 @@ SUMMARY:Nutley High School vs Kearny High School (Freshman Girls Girls Vo
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101619847@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T160000
+DTEND;TZID=America/New_York:20261015T180000
+SUMMARY:Nutley High School at Clifton High School (Junior Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102578705@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T163000
@@ -1880,15 +1907,6 @@ DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Nutley High School at Clifton High School (Varsity Girls Girls So
  ccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101619847@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T160000
-DTEND;TZID=America/New_York:20261016T180000
-SUMMARY:Nutley High School at Clifton High School (Junior Varsity Girls G
- irls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100309213@super-essex-conference
@@ -1973,7 +1991,7 @@ SUMMARY:Nutley High School vs Lyndhurst High School (Junior Varsity Girls
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103941190@super-essex-conference
+UID:arb:104605575@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T160000
 DTEND;TZID=America/New_York:20261022T180000
@@ -1982,7 +2000,7 @@ SUMMARY:Cedar Grove High School vs Nutley High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103941208@super-essex-conference
+UID:arb:103403608@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T171500
 DTEND;TZID=America/New_York:20261022T191500
@@ -1998,6 +2016,15 @@ DTEND;TZID=America/New_York:20261022T200000
 SUMMARY:Nutley High School vs West Essex High School (Freshman Boys Footb
  all)
 DESCRIPTION:Freshman Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104605583@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T181500
+DTEND;TZID=America/New_York:20261022T201500
+SUMMARY:Cedar Grove High School vs Nutley High School (Junior Varsity Gir
+ ls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 6:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103550556@super-essex-conference
@@ -2700,9 +2727,10 @@ UID:arb:104509019@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T090000
 DTEND;TZID=America/New_York:20270109T110000
-SUMMARY:Nutley High School at Dover High School (Varsity Boys Boys Wrestl
- ing)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+SUMMARY:[Canceled] Nutley High School vs Dover High School (Varsity Boys 
+ Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551485@super-essex-conference

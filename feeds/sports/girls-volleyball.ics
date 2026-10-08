@@ -9090,15 +9090,6 @@ SUMMARY:Belleville High School vs Hoboken High School (Junior Varsity Gir
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101410984@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T171500
-DTEND;TZID=America/New_York:20261008T191500
-SUMMARY:Cedar Grove High School vs Kearny High School (Junior Varsity Gir
- ls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104518381@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T173000
@@ -9259,8 +9250,8 @@ UID:arb:99698427@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T160000
 DTEND;TZID=America/New_York:20261009T180000
-SUMMARY:West Essex High School vs Pequannock Township High School (Varsit
- y Girls Girls Volleyball)
+SUMMARY:West Essex High School vs Passaic High School (Varsity Girls Girl
+ s Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -9469,10 +9460,8 @@ UID:arb:101756739@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T090000
 DTEND;TZID=America/New_York:20261010T110000
-SUMMARY:[Canceled] West Essex High School vs TBD (Freshman Girls Girls Vo
- lleyball)
+SUMMARY:West Essex High School vs TBD (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 9:00 AM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102772713@super-essex-conference
@@ -10861,6 +10850,15 @@ SUMMARY:Arts High School at Technology High School (Newark) (Junior Varsi
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104605645@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T171500
+DTEND;TZID=America/New_York:20261016T191500
+SUMMARY:Columbia High School vs Pascack Valley High School (Junior Varsit
+ y Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104222610@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T171500
@@ -10909,8 +10907,10 @@ UID:arb:103169751@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T090000
 DTEND;TZID=America/New_York:20261017T110000
-SUMMARY:West Essex High School vs TBD (Freshman Girls Girls Volleyball)
+SUMMARY:[Canceled] West Essex High School vs TBD (Freshman Girls Girls Vo
+ lleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 9:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101137115@super-essex-conference
@@ -11474,7 +11474,7 @@ SUMMARY:Belleville High School vs Essex County-Newark Tech High School (V
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103941190@super-essex-conference
+UID:arb:104605575@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T160000
 DTEND;TZID=America/New_York:20261022T180000
@@ -11601,7 +11601,7 @@ SUMMARY:Belleville High School vs Essex County-Newark Tech High School (J
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103941208@super-essex-conference
+UID:arb:103403608@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T171500
 DTEND;TZID=America/New_York:20261022T191500
@@ -11682,6 +11682,15 @@ DTEND;TZID=America/New_York:20261022T200000
 SUMMARY:Bloomfield High School at Hoboken High School (Junior Varsity Gir
  ls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104605583@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T181500
+DTEND;TZID=America/New_York:20261022T201500
+SUMMARY:Cedar Grove High School vs Nutley High School (Junior Varsity Gir
+ ls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 6:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103966649@super-essex-conference

@@ -331,12 +331,30 @@ SUMMARY:Nutley High School vs Hackettstown High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104611609@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Irvington High School at Nutley High School (Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103846636@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T180000
 SUMMARY:Nutley High School at Hackettstown High School (Junior Varsity Gi
  rls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101619847@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T160000
+DTEND;TZID=America/New_York:20261015T180000
+SUMMARY:Nutley High School at Clifton High School (Junior Varsity Girls G
+ irls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -347,15 +365,6 @@ DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Nutley High School at Clifton High School (Varsity Girls Girls So
  ccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101619847@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T160000
-DTEND;TZID=America/New_York:20261016T180000
-SUMMARY:Nutley High School at Clifton High School (Junior Varsity Girls G
- irls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103883084@super-essex-conference

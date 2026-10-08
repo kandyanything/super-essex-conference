@@ -1580,6 +1580,15 @@ DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104613625@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T163000
+DTEND;TZID=America/New_York:20261014T183000
+SUMMARY:East Side High School vs James Caldwell High School (Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102314665@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T160000
@@ -1623,6 +1632,15 @@ DTEND;TZID=America/New_York:20261017T133000
 SUMMARY:James Caldwell High School vs Saint Benedict's Preparatory School
   (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104612584@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T140000
+DTEND;TZID=America/New_York:20261017T160000
+SUMMARY:Newark Academy vs James Caldwell High School (Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103224478@super-essex-conference
@@ -1931,6 +1949,15 @@ SUMMARY:East Side High School at James Caldwell High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100560192@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
+SUMMARY:Mount Saint Dominic Academy vs James Caldwell High School (Varsit
+ y Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102615869@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T170000
@@ -1940,13 +1967,13 @@ SUMMARY:Bloomfield High School vs James Caldwell High School (Varsity Boy
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100560192@super-essex-conference
+UID:arb:100560260@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T160000
-DTEND;TZID=America/New_York:20261217T180000
-SUMMARY:Mount Saint Dominic Academy vs James Caldwell High School (Varsit
- y Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+DTSTART;TZID=America/New_York:20261216T173000
+DTEND;TZID=America/New_York:20261216T193000
+SUMMARY:Mount Saint Dominic Academy vs James Caldwell High School (Junior
+  Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100541688@super-essex-conference
@@ -1974,15 +2001,6 @@ DTEND;TZID=America/New_York:20261217T193000
 SUMMARY:East Side High School vs James Caldwell High School (Junior Varsi
  ty Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100560260@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T173000
-DTEND;TZID=America/New_York:20261217T193000
-SUMMARY:Mount Saint Dominic Academy vs James Caldwell High School (Junior
-  Varsity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103804458@super-essex-conference
@@ -2135,6 +2153,15 @@ DTEND;TZID=America/New_York:20270104T193000
 SUMMARY:Newark Academy at James Caldwell High School (Junior Varsity Boys
   Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104607075@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T160000
+DTEND;TZID=America/New_York:20270105T180000
+SUMMARY:Science Park High School vs James Caldwell High School (Varsity B
+ oys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100559557@super-essex-conference

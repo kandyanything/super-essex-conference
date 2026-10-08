@@ -440,6 +440,15 @@ SUMMARY:West Essex High School at New Providence High School (Varsity Gir
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104616393@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T183000
+DTEND;TZID=America/New_York:20261012T203000
+SUMMARY:West Essex High School at Hackensack High School (Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103504697@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T160000
@@ -463,18 +472,29 @@ UID:arb:101729644@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T170000
 DTEND;TZID=America/New_York:20261015T190000
-SUMMARY:West Essex High School vs North Arlington High School (Varsity Gi
- rls Girls Soccer)
+SUMMARY:[Canceled] West Essex High School vs North Arlington High School 
+ (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 5:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101729565@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T170000
 DTEND;TZID=America/New_York:20261015T190000
-SUMMARY:West Essex High School vs North Arlington High School (Junior Var
- sity Girls Girls Soccer)
+SUMMARY:[Canceled] West Essex High School vs North Arlington High School 
+ (Junior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 5:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104609272@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T154500
+DTEND;TZID=America/New_York:20261016T174500
+SUMMARY:Mount Saint Dominic Academy vs West Essex High School (Varsity Gi
+ rls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104572704@super-essex-conference

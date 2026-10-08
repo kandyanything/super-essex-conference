@@ -790,6 +790,15 @@ SUMMARY:Barringer High School at Belleville High School (Junior Varsity G
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104607195@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Barringer High School at Livingston High School (Varsity Boys Boy
+ s Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103005896@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T160000
@@ -813,9 +822,10 @@ UID:arb:103637661@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T180000
-SUMMARY:Barringer High School at Essex County-Newark Tech High School (Va
- rsity Boys Boys Soccer)
+SUMMARY:[Canceled] Barringer High School at Essex County-Newark Tech High
+  School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99066407@super-essex-conference
@@ -906,6 +916,15 @@ DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Barringer High School at East Side High School - Newark (Varsity 
  Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100195214@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T163000
+DTEND;TZID=America/New_York:20261019T183000
+SUMMARY:Barringer High School at West Orange High School (Junior Varsity 
+ Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103634091@super-essex-conference
