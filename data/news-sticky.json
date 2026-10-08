@@ -1,0 +1,27 @@
+{
+  "_comment": "Hand-picked articles pinned to the TOP of the news area. This file is never rewritten by the news bot, unlike data/news.json, which is rebuilt from scratch every three hours - so an article added here stays put instead of rotating off within a day. Each entry reserves its own slot, so the day's scraped news cannot push it off. To add one, copy a block and fill it in. To take one down early, delete the block or change 'until' to a past date.",
+
+  "_fields": {
+    "title": "required - shown as the headline",
+    "url": "required - where the card links to",
+    "date": "YYYY-MM-DD, shown on the card",
+    "image": "full https url to the article's picture; omit for no image",
+    "excerpt": "one or two sentences shown under the headline",
+    "outlet": "publication name, e.g. TAPinto or NJ.com",
+    "school": "optional, which member school it concerns",
+    "until": "LAST day it shows, YYYY-MM-DD. It disappears by itself the next day. Omit to keep it until removed by hand."
+  },
+
+  "sticky": [
+    {
+      "title": "19th Cheer for the Cure a Huge Success at Bloomfield High, with Tremendous Enthusiasm and Accolades Honoring the Late Karen Centinaro",
+      "url": "https://www.tapinto.net/towns/bloomfield/sections/arts-and-entertainment/articles/19th-cheer-for-the-cure-a-huge-success-at-bloomfield-high-with-tremendous-enthusiasm-and-accolades-honoring-the-late-karen-centinaro",
+      "date": "2026-10-07",
+      "image": "https://assets.tapinto.net/uploads/articles/im/facebook_4c65be94b4d28856c2f7_IMG_5237.jpeg",
+      "excerpt": "The 19th annual Cheer for the Cure cheerleading competition filled Foley Field in Bloomfield on the evening of Oct. 6, honoring the late Karen Centinaro.",
+      "outlet": "TAPinto",
+      "school": "Bloomfield High School",
+      "until": "2026-10-23"
+    }
+  ]
+}
