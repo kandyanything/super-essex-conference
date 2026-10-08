@@ -60,15 +60,6 @@ SUMMARY:Newark Tech at Seton Hall Preparatory School (Freshman Boys Boys
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100534866@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T093000
-DTEND;TZID=America/New_York:20270109T113000
-SUMMARY:Newark Collegiate Academy at Seton Hall Preparatory School (Fresh
- man Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 9:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100536227@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T160000
@@ -122,6 +113,15 @@ DTSTART;TZID=America/New_York:20270128T160000
 DTEND;TZID=America/New_York:20270128T180000
 SUMMARY:Seton Hall Prep at Saint Peter's Prep High School (Freshman Boys 
  Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100534866@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T160000
+DTEND;TZID=America/New_York:20270204T180000
+SUMMARY:Newark Collegiate Academy at Seton Hall Preparatory School (Fresh
+ man Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT

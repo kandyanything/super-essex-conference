@@ -195,33 +195,6 @@ SUMMARY:Newark Collegiate Academy at James Caldwell High School (Varsity
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100534866@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T093000
-DTEND;TZID=America/New_York:20270109T113000
-SUMMARY:Newark Collegiate Academy at Seton Hall Preparatory School (Fresh
- man Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 9:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100534771@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T110000
-DTEND;TZID=America/New_York:20270109T130000
-SUMMARY:Newark Collegiate Academy at Seton Hall Preparatory School (Junio
- r Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100534697@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T130000
-DTEND;TZID=America/New_York:20270109T150000
-SUMMARY:Newark Collegiate Academy at Seton Hall Preparatory School (Varsi
- ty Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101920165@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T163000
@@ -356,6 +329,33 @@ DTEND;TZID=America/New_York:20270202T210000
 SUMMARY:Newark Collegiate Academy vs James Caldwell High School (Varsity 
  Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100534866@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T160000
+DTEND;TZID=America/New_York:20270204T180000
+SUMMARY:Newark Collegiate Academy at Seton Hall Preparatory School (Fresh
+ man Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100534771@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T173000
+DTEND;TZID=America/New_York:20270204T193000
+SUMMARY:Newark Collegiate Academy at Seton Hall Preparatory School (Junio
+ r Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100534697@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T190000
+DTEND;TZID=America/New_York:20270204T210000
+SUMMARY:Newark Collegiate Academy at Seton Hall Preparatory School (Varsi
+ ty Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100542226@super-essex-conference

@@ -683,15 +683,6 @@ DESCRIPTION:Freshman Boys Boys Basketball - Away - 9:00 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100534866@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T093000
-DTEND;TZID=America/New_York:20270109T113000
-SUMMARY:Newark Collegiate Academy at Seton Hall Preparatory School (Fresh
- man Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 9:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100535674@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T093000
@@ -971,6 +962,14 @@ DTEND;TZID=America/New_York:20270114T181500
 SUMMARY:East Side High School vs West Side High School (Freshman Boys Boy
  s Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104589512@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T160000
+DTEND;TZID=America/New_York:20270115T180000
+SUMMARY:Bard Early College vs TBD (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101841770@super-essex-conference
@@ -1535,6 +1534,15 @@ DTEND;TZID=America/New_York:20270204T180000
 SUMMARY:Millburn High School vs Madison High School (Freshman Boys Boys B
  asketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100534866@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T160000
+DTEND;TZID=America/New_York:20270204T180000
+SUMMARY:Newark Collegiate Academy at Seton Hall Preparatory School (Fresh
+ man Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103987078@super-essex-conference

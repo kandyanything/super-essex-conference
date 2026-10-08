@@ -1600,9 +1600,10 @@ UID:arb:102072985@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T120000
 DTEND;TZID=America/New_York:20261010T140000
-SUMMARY:West Orange High School vs South Brunswick HS / Crossroads MS (Ju
- nior Varsity Boys Boys Soccer)
+SUMMARY:[Canceled] West Orange High School vs South Brunswick HS / Crossr
+ oads MS (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 12:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102068625@super-essex-conference
@@ -2035,6 +2036,15 @@ DTEND;TZID=America/New_York:20261211T190000
 SUMMARY:Verona High School vs West Orange High School (Varsity Boys Boys 
  Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104581530@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261213T113000
+DTEND;TZID=America/New_York:20261213T133000
+SUMMARY:West Orange High School vs Abington Heights High School (Varsity 
+ Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104307330@super-essex-conference
