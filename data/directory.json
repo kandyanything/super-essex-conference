@@ -114,7 +114,8 @@
       "colors": [
         "#13315c",
         "#f2c413"
-      ]
+      ],
+      "colorsSource": "supplied"
     },
     {
       "school": "East Orange Campus High School",
@@ -292,7 +293,8 @@
       "colors": [
         "#0e2149",
         "#ffffff"
-      ]
+      ],
+      "colorsSource": "supplied"
     },
     {
       "school": "Newark Lab High School",
@@ -505,5 +507,6 @@
         "#fcfdfd"
       ]
     }
-  ]
+  ],
+  "_colorsNote": "Entries marked \"colorsSource\": \"supplied\" had their colours given by the conference because their crest could not provide them. logo-colours-extract.js skips those, so re-running it cannot overwrite them."
 }
