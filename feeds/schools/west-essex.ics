@@ -2611,9 +2611,10 @@ UID:arb:102858561@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T180000
-SUMMARY:Livingston High School at West Essex High School (Freshman Girls 
- Girls Volleyball)
+SUMMARY:[Canceled] Livingston High School at West Essex High School (Fres
+ hman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102858129@super-essex-conference
@@ -2706,6 +2707,15 @@ DTEND;TZID=America/New_York:20261015T180000
 SUMMARY:West Essex High School at Madison High School (Varsity Girls Girl
  s Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102639748@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T163000
+DTEND;TZID=America/New_York:20261015T183000
+SUMMARY:Orange High School at West Essex High School (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101729644@super-essex-conference
@@ -2811,14 +2821,6 @@ DESCRIPTION:Freshman Girls Girls Volleyball - Home - 9:00 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104199109@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261017T090000
-DTEND;TZID=America/New_York:20261017T110000
-SUMMARY:West Essex High School vs TBA (Middle School Girls Field Hockey)
-DESCRIPTION:Middle School Girls Field Hockey - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99666363@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T090000
@@ -2828,22 +2830,22 @@ SUMMARY:West Essex High School at West Morris Central High School (Freshm
 DESCRIPTION:Freshman Boys Football - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104648374@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T100000
+DTEND;TZID=America/New_York:20261017T120000
+SUMMARY:West Essex High School vs TBD (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102765176@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T100000
 DTEND;TZID=America/New_York:20261017T120000
-SUMMARY:Orange High School at West Essex High School (Freshman Boys Boys 
- Soccer)
+SUMMARY:[Canceled] Orange High School at West Essex High School (Freshman
+  Boys Boys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102639892@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261017T100000
-DTEND;TZID=America/New_York:20261017T120000
-SUMMARY:Orange High School vs West Essex High School (Junior Varsity Boys
-  Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103961236@super-essex-conference
@@ -2865,13 +2867,13 @@ DESCRIPTION:Freshman Girls Girls Soccer - Home - 10:00 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102639748@super-essex-conference
+UID:arb:102639892@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261017T113000
-DTEND;TZID=America/New_York:20261017T133000
-SUMMARY:Orange High School vs West Essex High School (Varsity Boys Boys S
- occer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:30 AM
+DTSTART;TZID=America/New_York:20261017T163000
+DTEND;TZID=America/New_York:20261017T183000
+SUMMARY:Orange High School at West Essex High School (Junior Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104331967@super-essex-conference

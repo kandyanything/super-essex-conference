@@ -2116,6 +2116,14 @@ SUMMARY:Newark Academy vs Newark School of Global Studies (Varsity Boys B
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104647168@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T154500
+DTEND;TZID=America/New_York:20261216T174500
+SUMMARY:Newark Academy vs The Pingry School (6/7/8th Coed Fencing)
+DESCRIPTION:6/7/8th Coed Fencing - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104319014@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T160000
@@ -2979,6 +2987,23 @@ DTSTART;TZID=America/New_York:20270204T171500
 DTEND;TZID=America/New_York:20270204T191500
 SUMMARY:Newark Academy vs Pingry (7/8th Girls Basketball)
 DESCRIPTION:7/8th Girls Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104646991@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T170000
+DTEND;TZID=America/New_York:20270205T190000
+SUMMARY:Eagle Academy at Newark Academy (Varsity Boys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104647026@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T170000
+DTEND;TZID=America/New_York:20270205T190000
+SUMMARY:Newark Academy vs Oak Knoll School of the Holy Child (Varsity Gir
+ ls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104082538@super-essex-conference

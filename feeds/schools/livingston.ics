@@ -2353,9 +2353,10 @@ UID:arb:102858561@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T180000
-SUMMARY:Livingston High School at West Essex High School (Freshman Girls 
- Girls Volleyball)
+SUMMARY:[Canceled] Livingston High School at West Essex High School (Fres
+ hman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102858129@super-essex-conference
@@ -2482,6 +2483,15 @@ DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Livingston High School at Passaic County Tech Institute (Junior V
  arsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104647569@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Livingston High School at Seton Hall Preparatory School (Freshman
+  Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104584431@super-essex-conference

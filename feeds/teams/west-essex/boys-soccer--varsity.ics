@@ -180,11 +180,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102639748@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261017T113000
-DTEND;TZID=America/New_York:20261017T133000
-SUMMARY:Orange High School vs West Essex High School (Varsity Boys Boys S
+DTSTART;TZID=America/New_York:20261015T163000
+DTEND;TZID=America/New_York:20261015T183000
+SUMMARY:Orange High School at West Essex High School (Varsity Boys Boys S
  occer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:30 AM
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104648374@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T100000
+DTEND;TZID=America/New_York:20261017T120000
+SUMMARY:West Essex High School vs TBD (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102430434@super-essex-conference

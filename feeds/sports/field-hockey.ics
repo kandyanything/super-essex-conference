@@ -2805,6 +2805,15 @@ SUMMARY:Montclair High School at James Caldwell High School (Varsity Girl
 DESCRIPTION:Varsity Girls Field Hockey - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104650845@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Columbia High School vs Union High School (Varsity Girls Field Ho
+ ckey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104382468@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T160000
@@ -2847,6 +2856,15 @@ DTSTART;TZID=America/New_York:20261013T183000
 DTEND;TZID=America/New_York:20261013T203000
 SUMMARY:West Essex High School vs TBD (Middle School Girls Field Hockey)
 DESCRIPTION:Middle School Girls Field Hockey - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104650867@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Columbia High School vs Saint Benedict's Preparatory School (Fres
+ hman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103890598@super-essex-conference
@@ -3036,14 +3054,6 @@ DTSTART;TZID=America/New_York:20261016T160000
 DTEND;TZID=America/New_York:20261016T180000
 SUMMARY:Newark Academy vs Verona High School (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104199109@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261017T090000
-DTEND;TZID=America/New_York:20261017T110000
-SUMMARY:West Essex High School vs TBA (Middle School Girls Field Hockey)
-DESCRIPTION:Middle School Girls Field Hockey - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103144112@super-essex-conference

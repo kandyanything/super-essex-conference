@@ -1947,15 +1947,6 @@ SUMMARY:Columbia High School at Verona High School (Junior Varsity Girls
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100663524@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261009T160000
-DTEND;TZID=America/New_York:20261009T180000
-SUMMARY:Columbia High School at Verona High School (Varsity Girls Girls S
- occer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102575821@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T161500
@@ -1991,6 +1982,15 @@ DTEND;TZID=America/New_York:20261009T193000
 SUMMARY:Columbia High School at Verona High School (Varsity Girls Girls V
  olleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100663524@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T180000
+DTEND;TZID=America/New_York:20261009T200000
+SUMMARY:Columbia High School at Verona High School (Varsity Girls Girls S
+ occer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100250510@super-essex-conference
@@ -2042,11 +2042,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104288342@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T140000
-DTEND;TZID=America/New_York:20261012T160000
-SUMMARY:Central High School at Columbia High School (Varsity Boys Boys So
- ccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
+DTSTART;TZID=America/New_York:20261012T160000
+DTEND;TZID=America/New_York:20261012T180000
+SUMMARY:Columbia High School vs Mount Olive Township School District (Var
+ sity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103344614@super-essex-conference
@@ -2104,6 +2104,15 @@ SUMMARY:Columbia High School vs Westfield High School (Varsity Girls Fiel
 DESCRIPTION:Varsity Girls Field Hockey - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104650845@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Columbia High School vs Union High School (Varsity Girls Field Ho
+ ckey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101585472@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T160000
@@ -2127,6 +2136,15 @@ DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Columbia High School vs TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104650867@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Columbia High School vs Saint Benedict's Preparatory School (Fres
+ hman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103890598@super-essex-conference
@@ -2235,6 +2253,24 @@ DTEND;TZID=America/New_York:20261017T113000
 SUMMARY:Columbia High School at River Dell Regional High School (Junior V
  arsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104645641@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T140000
+DTEND;TZID=America/New_York:20261017T160000
+SUMMARY:Bloomfield High School at Columbia High School (Varsity Boys Boys
+  Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104647633@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T160000
+DTEND;TZID=America/New_York:20261017T180000
+SUMMARY:Columbia High School vs West Orange High School (Varsity Girls Gi
+ rls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103847590@super-essex-conference
