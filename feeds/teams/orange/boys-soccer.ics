@@ -197,31 +197,32 @@ SUMMARY:East Orange Campus High School at Orange High School (Varsity Boy
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102639827@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261010T140000
-DTEND;TZID=America/New_York:20261010T160000
-SUMMARY:Orange High School vs Elizabeth High School (Freshman Boys Boys S
- occer)
-DESCRIPTION:Freshman Boys Boys Soccer - Home - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102639876@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261010T160000
-DTEND;TZID=America/New_York:20261010T180000
+DTSTART;TZID=America/New_York:20261010T093000
+DTEND;TZID=America/New_York:20261010T113000
 SUMMARY:Orange High School vs Elizabeth High School (Junior Varsity Boys 
  Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102639705@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261010T180000
-DTEND;TZID=America/New_York:20261010T200000
+DTSTART;TZID=America/New_York:20261010T110000
+DTEND;TZID=America/New_York:20261010T130000
 SUMMARY:Orange High School vs Elizabeth High School (Varsity Boys Boys So
  ccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102639827@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T140000
+DTEND;TZID=America/New_York:20261010T160000
+SUMMARY:[Canceled] Orange High School vs Elizabeth High School (Freshman 
+ Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 2:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102639715@super-essex-conference
