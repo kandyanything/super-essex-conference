@@ -1554,7 +1554,7 @@ SUMMARY:Nutley High School at TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102127844@super-essex-conference
+UID:arb:104620502@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
 DTEND;TZID=America/New_York:20261008T180000
@@ -1748,6 +1748,14 @@ SUMMARY:Nutley High School at West Orange High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104626274@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T153000
+DTEND;TZID=America/New_York:20261013T173000
+SUMMARY:Nutley High School at TBD (Varsity Coed Coed Cross Country)
+DESCRIPTION:Varsity Coed Coed Cross Country - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102907035@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T160000
@@ -1925,6 +1933,15 @@ DTEND;TZID=America/New_York:20261017T110000
 SUMMARY:Montclair High School vs Nutley High School (Freshman Boys Footba
  ll)
 DESCRIPTION:Freshman Boys Football - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104626298@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T093000
+DTEND;TZID=America/New_York:20261017T113000
+SUMMARY:Cedar Grove High School vs Nutley High School (Varsity Coed Coed 
+ Cross Country)
+DESCRIPTION:Varsity Coed Coed Cross Country - Home - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103883084@super-essex-conference

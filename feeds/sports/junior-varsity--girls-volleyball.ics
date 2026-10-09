@@ -3626,9 +3626,10 @@ UID:arb:104580723@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T180000
 DTEND;TZID=America/New_York:20261008T200000
-SUMMARY:Cedar Grove High School vs Kearny High School (Junior Varsity Gir
- ls Girls Volleyball)
+SUMMARY:[Canceled] Cedar Grove High School vs Kearny High School (Junior 
+ Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 6:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102898319@super-essex-conference
@@ -3639,6 +3640,15 @@ SUMMARY:[Canceled] Montclair Kimberley Academy at Union City High School
  (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 6:00 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104629813@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+SUMMARY:Bloomfield High School vs Ridge High School (Junior Varsity Girls
+  Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101764897@super-essex-conference
@@ -4548,6 +4558,15 @@ DTEND;TZID=America/New_York:20261022T191500
 SUMMARY:James Caldwell High School at Newark Academy (Junior Varsity Girl
  s Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104628676@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T171500
+DTEND;TZID=America/New_York:20261022T191500
+SUMMARY:Orange High School vs Union City High School (Junior Varsity Girl
+ s Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101756582@super-essex-conference

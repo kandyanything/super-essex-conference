@@ -8970,6 +8970,15 @@ SUMMARY:Nutley High School at TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104620502@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T160000
+DTEND;TZID=America/New_York:20261008T180000
+SUMMARY:Belleville High School at Nutley High School (Freshman Girls Girl
+ s Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102864627@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
@@ -8977,15 +8986,6 @@ DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Belleville High School vs Hoboken High School (Varsity Girls Girl
  s Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102127844@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T160000
-DTEND;TZID=America/New_York:20261008T180000
-SUMMARY:Belleville High School at Nutley High School (Freshman Girls Girl
- s Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101410976@super-essex-conference
@@ -9122,9 +9122,10 @@ UID:arb:104580723@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T180000
 DTEND;TZID=America/New_York:20261008T200000
-SUMMARY:Cedar Grove High School vs Kearny High School (Junior Varsity Gir
- ls Girls Volleyball)
+SUMMARY:[Canceled] Cedar Grove High School vs Kearny High School (Junior 
+ Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 6:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102898319@super-essex-conference
@@ -9135,6 +9136,15 @@ SUMMARY:[Canceled] Montclair Kimberley Academy at Union City High School
  (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 6:00 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104629813@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+SUMMARY:Bloomfield High School vs Ridge High School (Junior Varsity Girls
+  Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102914517@super-essex-conference
@@ -9371,6 +9381,15 @@ DTEND;TZID=America/New_York:20261009T191500
 SUMMARY:Newark Tech vs Technology High School (Newark) (Junior Varsity Gi
  rls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104629818@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T173000
+DTEND;TZID=America/New_York:20261009T193000
+SUMMARY:Bloomfield High School vs Ridge High School (Varsity Girls Girls 
+ Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101764851@super-essex-conference
@@ -11528,6 +11547,15 @@ SUMMARY:James Caldwell High School vs West Essex High School (Freshman Gi
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104628672@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Orange High School vs Union City High School (Varsity Girls Girls
+  Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101756523@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T160000
@@ -11635,6 +11663,15 @@ DTEND;TZID=America/New_York:20261022T191500
 SUMMARY:James Caldwell High School at Newark Academy (Junior Varsity Girl
  s Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104628676@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T171500
+DTEND;TZID=America/New_York:20261022T191500
+SUMMARY:Orange High School vs Union City High School (Junior Varsity Girl
+ s Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101756582@super-essex-conference

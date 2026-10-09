@@ -4273,6 +4273,15 @@ SUMMARY:West Essex High School vs Passaic High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104629818@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T173000
+DTEND;TZID=America/New_York:20261009T193000
+SUMMARY:Bloomfield High School vs Ridge High School (Varsity Girls Girls 
+ Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101764851@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T173000
@@ -5253,6 +5262,15 @@ DTEND;TZID=America/New_York:20261022T180000
 SUMMARY:James Caldwell High School at Newark Academy (Varsity Girls Girls
   Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104628672@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Orange High School vs Union City High School (Varsity Girls Girls
+  Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101756523@super-essex-conference
