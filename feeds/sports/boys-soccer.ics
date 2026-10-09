@@ -6176,9 +6176,10 @@ UID:arb:103466035@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T160000
 DTEND;TZID=America/New_York:20261009T180000
-SUMMARY:Barringer High School vs Science Park High School (Varsity Boys B
- oys Soccer)
+SUMMARY:[Canceled] Barringer High School vs Science Park High School (Var
+ sity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100799948@super-essex-conference
@@ -6601,15 +6602,6 @@ SUMMARY:Nutley High School at West Orange High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104616218@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T183000
-DTEND;TZID=America/New_York:20261012T203000
-SUMMARY:Technology High School at Verona High School (Varsity Boys Boys S
- occer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104573322@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T190000
@@ -6724,6 +6716,15 @@ SUMMARY:Millburn High School vs Westfield High School (Freshman Boys Boys
 DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104613625@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T163000
+DTEND;TZID=America/New_York:20261013T183000
+SUMMARY:East Side High School vs James Caldwell High School (Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102160148@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T163000
@@ -6767,6 +6768,15 @@ DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Weequahic High School at Eastside High School - Paterson (Varsity
   Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104616218@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T183000
+DTEND;TZID=America/New_York:20261013T203000
+SUMMARY:Technology High School at Verona High School (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103637661@super-essex-conference
@@ -6838,9 +6848,10 @@ UID:arb:101698230@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T180000
-SUMMARY:Weequahic High School vs Newark School of Data Science (Varsity B
- oys Boys Soccer)
+SUMMARY:[Canceled] Weequahic High School vs Newark School of Data Science
+  (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101611974@super-essex-conference
@@ -6861,21 +6872,21 @@ SUMMARY:Cedar Grove High School vs Newark School of Data Science (Varsity
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104613625@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T163000
-DTEND;TZID=America/New_York:20261014T183000
-SUMMARY:East Side High School vs James Caldwell High School (Varsity Boys
-  Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103558761@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T163000
 DTEND;TZID=America/New_York:20261014T183000
 SUMMARY:Golda Och Academy vs Newark Collegiate Academy (Varsity Boys Boys
   Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104633211@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T163000
+DTEND;TZID=America/New_York:20261014T183000
+SUMMARY:Montclair High School vs Technology High School (Newark) (Varsity
+  Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -7048,15 +7059,6 @@ DTEND;TZID=America/New_York:20261015T183000
 SUMMARY:Golda Och Academy vs Saint Benedict's Preparatory School (Middle 
  School Boys Boys Soccer)
 DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102578705@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261015T163000
-DTEND;TZID=America/New_York:20261015T183000
-SUMMARY:Malcolm X Shabazz High School at Nutley High School (Varsity Boys
-  Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104050541@super-essex-conference
@@ -7493,6 +7495,15 @@ DTEND;TZID=America/New_York:20261021T180000
 SUMMARY:West Essex High School vs Boonton High School (Junior Varsity Boy
  s Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102578705@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T163000
+DTEND;TZID=America/New_York:20261021T183000
+SUMMARY:Malcolm X Shabazz High School at Nutley High School (Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103561261@super-essex-conference
@@ -8026,6 +8037,14 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T160000
 DTEND;TZID=America/New_York:20261029T180000
 SUMMARY:Eagle Academy at University High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104639901@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Newark Academy at Oratory Prep School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT

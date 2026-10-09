@@ -1709,9 +1709,10 @@ UID:arb:102779812@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T160000
 DTEND;TZID=America/New_York:20261015T180000
-SUMMARY:Newark Academy vs Rutgers Prep School (Varsity Girls Girls Volley
- ball)
+SUMMARY:[Canceled] Newark Academy vs Rutgers Prep School (Varsity Girls G
+ irls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102525206@super-essex-conference
@@ -1736,9 +1737,10 @@ UID:arb:102779763@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T173000
 DTEND;TZID=America/New_York:20261015T193000
-SUMMARY:Newark Academy vs Rutgers Prep School (Junior Varsity Girls Girls
-  Volleyball)
+SUMMARY:[Canceled] Newark Academy vs Rutgers Prep School (Junior Varsity 
+ Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103634417@super-essex-conference
@@ -1962,6 +1964,14 @@ SUMMARY:Livingston High School at Newark Academy (Varsity Girls Field Hoc
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104639901@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Newark Academy at Oratory Prep School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102525464@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T160000
@@ -2059,6 +2069,15 @@ DTEND;TZID=America/New_York:20261214T203000
 SUMMARY:Newark Academy at West Essex High School (Varsity Boys Boys Fenci
  ng)
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104640547@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T153000
+DTEND;TZID=America/New_York:20261215T173000
+SUMMARY:Newark Academy vs Peck School (Middle School Girls Girls Volleyba
+ ll)
+DESCRIPTION:Middle School Girls Girls Volleyball - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104319010@super-essex-conference
@@ -2268,6 +2287,15 @@ SUMMARY:Montclair High School vs Newark Academy (Varsity Boys Boys Fencin
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104640574@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T153000
+DTEND;TZID=America/New_York:20270107T173000
+SUMMARY:Newark Academy vs Gill St. Bernard's School (Middle School Girls 
+ Girls Volleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104617933@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T154500
@@ -2347,6 +2375,15 @@ SUMMARY:[Canceled] Glen Ridge High School at Newark Academy (Junior Varsi
  ty Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 12:30 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104640597@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T153000
+DTEND;TZID=America/New_York:20270112T173000
+SUMMARY:Newark Academy vs Rutgers Prep School (Middle School Girls Girls 
+ Volleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104082291@super-essex-conference
@@ -2926,6 +2963,22 @@ DTEND;TZID=America/New_York:20270202T210000
 SUMMARY:Bloomfield High School vs Newark Academy (Varsity Boys Boys Baske
  tball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104641241@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T153000
+DTEND;TZID=America/New_York:20270204T173000
+SUMMARY:Newark Academy vs Pingry (7/8th Girls Basketball)
+DESCRIPTION:7/8th Girls Basketball - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104641247@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T171500
+DTEND;TZID=America/New_York:20270204T191500
+SUMMARY:Newark Academy vs Pingry (7/8th Girls Basketball)
+DESCRIPTION:7/8th Girls Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104082538@super-essex-conference

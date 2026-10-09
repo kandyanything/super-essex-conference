@@ -59,11 +59,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104233319@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T040000
-DTEND;TZID=America/New_York:20270113T060000
+DTSTART;TZID=America/New_York:20270113T160000
+DTEND;TZID=America/New_York:20270113T180000
 SUMMARY:Belleville High School at TBD (Varsity Coed Track & Field - Indoo
  r)
-DESCRIPTION:Varsity Coed Track & Field - Indoor - Away - 4:00 AM
+DESCRIPTION:Varsity Coed Track & Field - Indoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104252949@super-essex-conference
@@ -72,6 +72,15 @@ DTSTART;TZID=America/New_York:20270113T160000
 DTEND;TZID=America/New_York:20270113T180000
 SUMMARY:Nutley High School at TBD (Varsity Coed Track & Field - Indoor)
 DESCRIPTION:Varsity Coed Track & Field - Indoor - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104634655@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T163000
+DTEND;TZID=America/New_York:20270115T183000
+SUMMARY:Belleville High School at TBD (Varsity Coed Track & Field - Indoo
+ r)
+DESCRIPTION:Varsity Coed Track & Field - Indoor - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104253057@super-essex-conference

@@ -412,18 +412,20 @@ UID:arb:102779812@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T160000
 DTEND;TZID=America/New_York:20261015T180000
-SUMMARY:Newark Academy vs Rutgers Prep School (Varsity Girls Girls Volley
- ball)
+SUMMARY:[Canceled] Newark Academy vs Rutgers Prep School (Varsity Girls G
+ irls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102779763@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T173000
 DTEND;TZID=America/New_York:20261015T193000
-SUMMARY:Newark Academy vs Rutgers Prep School (Junior Varsity Girls Girls
-  Volleyball)
+SUMMARY:[Canceled] Newark Academy vs Rutgers Prep School (Junior Varsity 
+ Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103634417@super-essex-conference
@@ -532,6 +534,33 @@ DTEND;TZID=America/New_York:20261030T193000
 SUMMARY:Newark Academy vs Chatham High School (Junior Varsity Girls Girls
   Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104640547@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T153000
+DTEND;TZID=America/New_York:20261215T173000
+SUMMARY:Newark Academy vs Peck School (Middle School Girls Girls Volleyba
+ ll)
+DESCRIPTION:Middle School Girls Girls Volleyball - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104640574@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T153000
+DTEND;TZID=America/New_York:20270107T173000
+SUMMARY:Newark Academy vs Gill St. Bernard's School (Middle School Girls 
+ Girls Volleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104640597@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T153000
+DTEND;TZID=America/New_York:20270112T173000
+SUMMARY:Newark Academy vs Rutgers Prep School (Middle School Girls Girls 
+ Volleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104197458@super-essex-conference

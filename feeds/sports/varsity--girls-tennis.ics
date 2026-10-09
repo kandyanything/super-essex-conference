@@ -1479,9 +1479,10 @@ UID:arb:104082954@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T160000
 DTEND;TZID=America/New_York:20261002T180000
-SUMMARY:Cedar Grove High School vs Nutley High School (Varsity Girls Girl
- s Tennis)
+SUMMARY:[Postponed] Cedar Grove High School vs Nutley High School (Varsit
+ y Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103031605@super-essex-conference
@@ -1741,6 +1742,15 @@ DTEND;TZID=America/New_York:20261012T180000
 SUMMARY:Cedar Grove High School at James Caldwell High School (Varsity Gi
  rls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104634486@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Cedar Grove High School vs Nutley High School (Varsity Girls Girl
+ s Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104630924@super-essex-conference

@@ -2195,9 +2195,10 @@ UID:arb:102338818@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T161500
 DTEND;TZID=America/New_York:20261012T181500
-SUMMARY:Montclair High School at Mendham High School (Varsity Girls Girls
-  Soccer)
+SUMMARY:[Canceled] Montclair High School at Mendham High School (Varsity 
+ Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104616393@super-essex-conference
@@ -2258,9 +2259,10 @@ UID:arb:103871159@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T160000
 DTEND;TZID=America/New_York:20261013T180000
-SUMMARY:Verona High School vs Passaic County Tech Institute (Varsity Girl
- s Girls Soccer)
+SUMMARY:[Canceled] Verona High School vs Passaic County Tech Institute (V
+ arsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104611904@super-essex-conference
@@ -2326,6 +2328,15 @@ DTEND;TZID=America/New_York:20261014T201500
 SUMMARY:Montclair High School at Watchung Hills Reg High School (Varsity 
  Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104633995@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T160000
+DTEND;TZID=America/New_York:20261015T180000
+SUMMARY:Bloomfield High School vs Glen Ridge High School (Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102918213@super-essex-conference
@@ -2408,6 +2419,14 @@ DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Nutley High School at Clifton High School (Varsity Girls Girls So
  ccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104633222@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T150000
+DTEND;TZID=America/New_York:20261016T170000
+SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104609272@super-essex-conference

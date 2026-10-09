@@ -3415,15 +3415,6 @@ SUMMARY:Livingston High School vs Malcolm X Shabazz High School (Varsity
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104576090@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270114T193000
-DTEND;TZID=America/New_York:20270114T213000
-SUMMARY:Livingston High School at Millburn High School (Varsity Boys Boys
-  Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103019018@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T180000
@@ -3431,6 +3422,15 @@ DTEND;TZID=America/New_York:20270115T200000
 SUMMARY:Livingston High School vs Bayonne High School (Varsity Boys Boys 
  Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104576090@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T193000
+DTEND;TZID=America/New_York:20270115T213000
+SUMMARY:Livingston High School at Millburn High School (Varsity Boys Boys
+  Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100540759@super-essex-conference
@@ -3675,6 +3675,15 @@ SUMMARY:Livingston High School vs Hillside High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102732406@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T160000
+DTEND;TZID=America/New_York:20270125T180000
+SUMMARY:Belleville High School at Livingston High School (7/8th Girls Vol
+ leyball)
+DESCRIPTION:7/8th Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104059177@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T160000
@@ -3801,6 +3810,15 @@ SUMMARY:Livingston High School vs Chatham High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103554228@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T160000
+DTEND;TZID=America/New_York:20270201T180000
+SUMMARY:Belleville High School vs Livingston High School (Middle School B
+ oys Boys Volleyball)
+DESCRIPTION:Middle School Boys Boys Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102089752@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270201T183000
@@ -3808,15 +3826,6 @@ DTEND;TZID=America/New_York:20270201T203000
 SUMMARY:Livingston High School at Governor Livingston High School (Varsit
  y Coed Coed Fencing)
 DESCRIPTION:Varsity Coed Coed Fencing - Away - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102732406@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T160000
-DTEND;TZID=America/New_York:20270202T180000
-SUMMARY:Belleville High School at Livingston High School (7/8th Girls Vol
- leyball)
-DESCRIPTION:7/8th Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100564682@super-essex-conference
@@ -3871,15 +3880,6 @@ DTEND;TZID=America/New_York:20270203T203000
 SUMMARY:Livingston High School at Chatham High School (Varsity Boys Boys 
  Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103554228@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270204T160000
-DTEND;TZID=America/New_York:20270204T180000
-SUMMARY:Belleville High School vs Livingston High School (Middle School B
- oys Boys Volleyball)
-DESCRIPTION:Middle School Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104344812@super-essex-conference
@@ -4060,6 +4060,24 @@ DTEND;TZID=America/New_York:20270212T180000
 SUMMARY:Livingston High School vs James Caldwell High School (Freshman Gi
  rls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104644112@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T103000
+DTEND;TZID=America/New_York:20270213T123000
+SUMMARY:Livingston High School vs Randolph High School (Junior Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104644125@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T120000
+DTEND;TZID=America/New_York:20270213T140000
+SUMMARY:Livingston High School vs Randolph High School (Varsity Girls Gir
+ ls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103928182@super-essex-conference

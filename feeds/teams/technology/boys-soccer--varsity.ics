@@ -172,11 +172,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104616218@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T183000
-DTEND;TZID=America/New_York:20261012T203000
+DTSTART;TZID=America/New_York:20261013T183000
+DTEND;TZID=America/New_York:20261013T203000
 SUMMARY:Technology High School at Verona High School (Varsity Boys Boys S
  occer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104633211@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T163000
+DTEND;TZID=America/New_York:20261014T183000
+SUMMARY:Montclair High School vs Technology High School (Newark) (Varsity
+  Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102668838@super-essex-conference

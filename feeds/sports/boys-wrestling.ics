@@ -825,15 +825,6 @@ SUMMARY:Belleville High School at Passaic Valley High School (Varsity Boy
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103169236@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270110T090000
-DTEND;TZID=America/New_York:20270110T110000
-SUMMARY:Bloomfield High School at North Bergen High School (Junior Varsit
- y Boys Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100906657@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T170000
@@ -1141,6 +1132,15 @@ DTEND;TZID=America/New_York:20270123T120000
 SUMMARY:Bloomfield High School at Montclair High School (Varsity Boys Boy
  s Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103169236@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270124T090000
+DTEND;TZID=America/New_York:20270124T110000
+SUMMARY:Bloomfield High School at North Bergen High School (Junior Varsit
+ y Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102615828@super-essex-conference

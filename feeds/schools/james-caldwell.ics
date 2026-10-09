@@ -1561,6 +1561,15 @@ SUMMARY:Columbia High School at James Caldwell High School (Freshman Girl
 DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104613625@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T163000
+DTEND;TZID=America/New_York:20261013T183000
+SUMMARY:East Side High School vs James Caldwell High School (Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103890598@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
@@ -1578,15 +1587,6 @@ SUMMARY:[Canceled] James Caldwell High School vs Livingston High School (
  Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104613625@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T163000
-DTEND;TZID=America/New_York:20261014T183000
-SUMMARY:East Side High School vs James Caldwell High School (Varsity Boys
-  Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102314665@super-essex-conference

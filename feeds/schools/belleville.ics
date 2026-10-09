@@ -2314,15 +2314,6 @@ SUMMARY:Belleville High School vs Essex County-West Caldwell Tech High Sc
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104233319@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T040000
-DTEND;TZID=America/New_York:20270113T060000
-SUMMARY:Belleville High School at TBD (Varsity Coed Track & Field - Indoo
- r)
-DESCRIPTION:Varsity Coed Track & Field - Indoor - Away - 4:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104522052@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T154500
@@ -2339,6 +2330,15 @@ DTEND;TZID=America/New_York:20270113T174500
 SUMMARY:Belleville High School vs Newark Lab High School (Varsity Boys Bo
  ys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104233319@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T160000
+DTEND;TZID=America/New_York:20270113T180000
+SUMMARY:Belleville High School at TBD (Varsity Coed Track & Field - Indoo
+ r)
+DESCRIPTION:Varsity Coed Track & Field - Indoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100906657@super-essex-conference
@@ -2393,6 +2393,15 @@ DTEND;TZID=America/New_York:20270114T210000
 SUMMARY:Belleville High School at Nutley High School (Varsity Boys Boys B
  asketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104634655@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T163000
+DTEND;TZID=America/New_York:20270115T183000
+SUMMARY:Belleville High School at TBD (Varsity Coed Track & Field - Indoo
+ r)
+DESCRIPTION:Varsity Coed Track & Field - Indoor - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100906663@super-essex-conference
@@ -2581,6 +2590,15 @@ SUMMARY:Belleville High School vs Bogota High School (Freshman Boys Boys
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102732406@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T160000
+DTEND;TZID=America/New_York:20270125T180000
+SUMMARY:Belleville High School at Livingston High School (7/8th Girls Vol
+ leyball)
+DESCRIPTION:7/8th Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103882406@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T173000
@@ -2689,6 +2707,15 @@ SUMMARY:Belleville High School vs Lodi-Saddle Brook Wrestling (Varsity Bo
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103554228@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T160000
+DTEND;TZID=America/New_York:20270201T180000
+SUMMARY:Belleville High School vs Livingston High School (Middle School B
+ oys Boys Volleyball)
+DESCRIPTION:Middle School Boys Boys Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104522512@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T154500
@@ -2705,15 +2732,6 @@ DTEND;TZID=America/New_York:20270202T174500
 SUMMARY:Barringer High School at Belleville High School (Varsity Boys Boy
  s Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102732406@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T160000
-DTEND;TZID=America/New_York:20270202T180000
-SUMMARY:Belleville High School at Livingston High School (7/8th Girls Vol
- leyball)
-DESCRIPTION:7/8th Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100552435@super-essex-conference
@@ -2777,15 +2795,6 @@ DTEND;TZID=America/New_York:20270203T190000
 SUMMARY:Belleville High School vs Coop - Henry P. Becton Regional High Sc
  hool & Wall (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103554228@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270204T160000
-DTEND;TZID=America/New_York:20270204T180000
-SUMMARY:Belleville High School vs Livingston High School (Middle School B
- oys Boys Volleyball)
-DESCRIPTION:Middle School Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102617113@super-essex-conference

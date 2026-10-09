@@ -1745,15 +1745,6 @@ SUMMARY:Livingston High School at Verona High School (Junior Varsity Girl
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104616218@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T183000
-DTEND;TZID=America/New_York:20261012T203000
-SUMMARY:Technology High School at Verona High School (Varsity Boys Boys S
- occer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102876395@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T150000
@@ -1775,9 +1766,19 @@ UID:arb:103871159@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T160000
 DTEND;TZID=America/New_York:20261013T180000
-SUMMARY:Verona High School vs Passaic County Tech Institute (Varsity Girl
- s Girls Soccer)
+SUMMARY:[Canceled] Verona High School vs Passaic County Tech Institute (V
+ arsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104616218@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T183000
+DTEND;TZID=America/New_York:20261013T203000
+SUMMARY:Technology High School at Verona High School (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101422396@super-essex-conference
