@@ -4237,15 +4237,6 @@ SUMMARY:Montclair High School at Orange High School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104312153@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T183000
-DTEND;TZID=America/New_York:20270202T203000
-SUMMARY:Montclair High School vs Oak Knoll School of the Holy Child (Vars
- ity Girls Girls Fencing)
-DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104312147@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T183000
@@ -4253,6 +4244,15 @@ DTEND;TZID=America/New_York:20270202T203000
 SUMMARY:Montclair High School vs Saint Peter's Prep High School (Varsity 
  Boys Boys Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104312153@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T183000
+DTEND;TZID=America/New_York:20270204T203000
+SUMMARY:Montclair High School vs Oak Knoll School of the Holy Child (Vars
+ ity Girls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100562398@super-essex-conference

@@ -53227,15 +53227,6 @@ SUMMARY:Livingston High School at Summit High School (Varsity Boys Boys I
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104312153@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T183000
-DTEND;TZID=America/New_York:20270202T203000
-SUMMARY:Montclair High School vs Oak Knoll School of the Holy Child (Vars
- ity Girls Girls Fencing)
-DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104312147@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T183000
@@ -53620,6 +53611,15 @@ DTEND;TZID=America/New_York:20270204T200000
 SUMMARY:Livingston High School vs Kinnelon High School (Junior Varsity Gi
  rls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104312153@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T183000
+DTEND;TZID=America/New_York:20270204T203000
+SUMMARY:Montclair High School vs Oak Knoll School of the Holy Child (Vars
+ ity Girls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103884256@super-essex-conference
