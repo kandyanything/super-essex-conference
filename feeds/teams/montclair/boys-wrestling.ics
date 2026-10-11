@@ -41,6 +41,15 @@ SUMMARY:Montclair High School vs Orange High School (Varsity Boys Boys Wr
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104672307@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T180000
+DTEND;TZID=America/New_York:20261221T200000
+SUMMARY:Montclair High School vs Saint Benedict's Preparatory School (Var
+ sity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103231267@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T170000
@@ -101,5 +110,14 @@ DTEND;TZID=America/New_York:20270127T200000
 SUMMARY:Irvington High School at Montclair High School (Varsity Boys Boys
   Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104672292@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T180000
+DTEND;TZID=America/New_York:20270129T200000
+SUMMARY:Montclair High School vs Passaic Valley High School (Varsity Boys
+  Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 END:VCALENDAR
