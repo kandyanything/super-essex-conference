@@ -1600,11 +1600,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:101640940@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261015T180000
-DTEND;TZID=America/New_York:20261015T200000
+DTSTART;TZID=America/New_York:20261015T183000
+DTEND;TZID=America/New_York:20261015T203000
 SUMMARY:Payne Tech at James Caldwell High School (Varsity Girls Girls Soc
  cer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102083491@super-essex-conference
@@ -1857,6 +1857,15 @@ DTEND;TZID=America/New_York:20261031T140000
 SUMMARY:West Orange High School at James Caldwell High School (Junior Var
  sity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104684123@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261130T193000
+DTEND;TZID=America/New_York:20261130T213000
+SUMMARY:James Caldwell High School vs Howell High School (Varsity Boys Bo
+ ys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103179990@super-essex-conference
