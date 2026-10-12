@@ -24,38 +24,21 @@ function norm(s) {
 const BY_KEY = new Map();
 for (const s of LIST) BY_KEY.set(norm(s.name), s.slug);
 
-// Shorter spellings opponents commonly use that the canonical normalisation
-// misses. "Northern Valley Regional High" with no Demarest/Old Tappan suffix is
-// intentionally absent - it cannot be told apart from the other NV school, so
-// those games show one crest rather than risk the wrong one.
+// Spellings this conference’s own feeds use that the canonical
+// normalisation misses. Read off data/schedule.json and checked against the
+// roster one at a time.
+//
+// Deliberately conservative - a wrong crest is worse than a missing one. A
+// name that could mean more than one school is left showing no crest rather
+// than guessed at, however often it appears.
 const ALIASES = {
-    'holy angels': 'holy-angels',
-    'academy of holy angels': 'holy-angels',
-    'iha': 'immaculate-heart',
-    'immaculate heart': 'immaculate-heart',
-    'st joseph': 'st-joseph',
-    'st joseph montvale': 'st-joseph',
-    'st josephs': 'st-joseph',
-    'bergen tech': 'bergen-tech',
-    'bergen county tech': 'bergen-tech',
-    'bergen county technical': 'bergen-tech',
-    'depaul': 'depaul-catholic',
-    'de paul': 'depaul-catholic',
-    'de paul catholic': 'depaul-catholic',
-    'don bosco': 'don-bosco',
-    'don bosco prep': 'don-bosco',
-    'dwight morrow': 'dwight-morrow',
-    'fairlawn': 'fair-lawn',
-    'pcti': 'passaic-county-tech',
-    'passaic county tech': 'passaic-county-tech',
-    'passaic county technical': 'passaic-county-tech',
-    'passaic tech': 'passaic-county-tech',
-    'nv demarest': 'nv-demarest',
-    'northern valley demarest': 'nv-demarest',
-    'demarest': 'nv-demarest',
-    'nv old tappan': 'nv-old-tappan',
-    'northern valley old tappan': 'nv-old-tappan',
-    'old tappan': 'nv-old-tappan',
+    'caldwell': 'james-caldwell',
+    'east side newark': 'east-side',
+    'essex county newark tech': 'newark-tech',
+    'essex county payne tech': 'payne-tech',
+    'seton hall preparatory': 'seton-hall-prep',
+    'st benedict s preparatory': 'st-benedicts',
+    'technology newark': 'technology',
 };
 
 function logoSlug(name) {
