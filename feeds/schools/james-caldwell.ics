@@ -1507,13 +1507,13 @@ SUMMARY:Columbia High School at James Caldwell High School (Freshman Girl
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99051611@super-essex-conference
+UID:arb:99051616@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T160000
 DTEND;TZID=America/New_York:20261012T180000
-SUMMARY:Columbia High School vs James Caldwell High School (Varsity Girls
-  Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+SUMMARY:Columbia High School vs James Caldwell High School (Junior Varsit
+ y Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99415780@super-essex-conference
@@ -1525,15 +1525,6 @@ SUMMARY:Glen Ridge High School vs James Caldwell High School (Junior Vars
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99051616@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T171500
-DTEND;TZID=America/New_York:20261012T191500
-SUMMARY:Columbia High School vs James Caldwell High School (Junior Varsit
- y Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101156341@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T173000
@@ -1541,6 +1532,15 @@ DTEND;TZID=America/New_York:20261012T193000
 SUMMARY:Montclair High School at James Caldwell High School (Junior Varsi
  ty Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99051611@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T180000
+DTEND;TZID=America/New_York:20261012T200000
+SUMMARY:Columbia High School vs James Caldwell High School (Varsity Girls
+  Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101156259@super-essex-conference
@@ -1570,15 +1570,6 @@ SUMMARY:East Side High School vs James Caldwell High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103890598@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T160000
-DTEND;TZID=America/New_York:20261014T180000
-SUMMARY:Columbia High School at James Caldwell High School (Junior Varsit
- y Girls Field Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102083488@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
@@ -1587,6 +1578,15 @@ SUMMARY:[Canceled] James Caldwell High School vs Livingston High School (
  Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103890598@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T170000
+DTEND;TZID=America/New_York:20261014T190000
+SUMMARY:Columbia High School at James Caldwell High School (Junior Varsit
+ y Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102314665@super-essex-conference
@@ -1665,9 +1665,10 @@ UID:arb:104331967@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:West Essex High School vs James Caldwell High School (Junior Vars
- ity Girls Girls Soccer)
+SUMMARY:[Canceled] West Essex High School vs James Caldwell High School (
+ Junior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104331768@super-essex-conference
@@ -3091,6 +3092,15 @@ DTEND;TZID=America/New_York:20270414T180000
 SUMMARY:James Caldwell High School at Montclair High School (Varsity Boys
   Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104714304@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270415T160000
+DTEND;TZID=America/New_York:20270415T180000
+SUMMARY:James Caldwell High School at New Providence High School (Varsity
+  Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102757726@super-essex-conference

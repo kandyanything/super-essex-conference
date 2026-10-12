@@ -4298,9 +4298,10 @@ UID:arb:102314657@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T160000
 DTEND;TZID=America/New_York:20261012T180000
-SUMMARY:Livingston High School vs Madison High School (Freshman Girls Gir
- ls Soccer)
+SUMMARY:[Canceled] Livingston High School vs Madison High School (Freshma
+ n Girls Girls Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102576305@super-essex-conference
@@ -4354,9 +4355,10 @@ UID:arb:102338482@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T161500
 DTEND;TZID=America/New_York:20261012T181500
-SUMMARY:Montclair High School at Mendham High School (Freshman Girls Girl
- s Soccer)
+SUMMARY:[Canceled] Montclair High School at Mendham High School (Freshman
+  Girls Girls Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104616393@super-essex-conference
@@ -4567,6 +4569,15 @@ DTEND;TZID=America/New_York:20261014T180000
 SUMMARY:Payne Tech at Verona High School (Junior Varsity Girls Girls Socc
  er)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104689233@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:West Essex High School vs Frelinghuysen Middle School (Middle Sch
+ ool Girls Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102866866@super-essex-conference
@@ -4879,6 +4890,15 @@ SUMMARY:East Orange Campus High School at Eastside High School - Paterson
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104689337@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T161500
+DTEND;TZID=America/New_York:20261016T181500
+SUMMARY:Newark Tech at West Essex High School (Junior Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102302615@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T163000
@@ -5018,9 +5038,10 @@ UID:arb:104331967@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:West Essex High School vs James Caldwell High School (Junior Vars
- ity Girls Girls Soccer)
+SUMMARY:[Canceled] West Essex High School vs James Caldwell High School (
+ Junior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104331768@super-essex-conference
@@ -5129,6 +5150,15 @@ DTEND;TZID=America/New_York:20261020T183000
 SUMMARY:Belleville High School at Roselle Park High School (Varsity Girls
   Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104690624@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Columbia High School vs Millburn High School (Junior Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103016697@super-essex-conference

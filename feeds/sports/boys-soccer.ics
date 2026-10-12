@@ -6804,6 +6804,15 @@ SUMMARY:Bloomfield High School at Glen Ridge High School (Freshman Boys B
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104691216@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Eagle Academy vs Newark School of Global Studies (Varsity Boys Bo
+ ys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102578858@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
@@ -7179,9 +7188,10 @@ UID:arb:102011124@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T100000
 DTEND;TZID=America/New_York:20261017T120000
-SUMMARY:Saint Benedict's Prep at Union City High School (Freshman Boys Bo
- ys Soccer)
+SUMMARY:[Canceled] Saint Benedict's Prep at Union City High School (Fresh
+ man Boys Boys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101342709@super-essex-conference
@@ -7483,6 +7493,15 @@ DTEND;TZID=America/New_York:20261021T180000
 SUMMARY:Central High School vs American History High School (Varsity Boys
   Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104690545@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Livingston High School vs Millburn High School (Junior Varsity Bo
+ ys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104647569@super-essex-conference

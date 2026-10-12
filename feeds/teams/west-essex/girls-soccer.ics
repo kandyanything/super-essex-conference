@@ -458,6 +458,15 @@ SUMMARY:Millburn High School vs West Essex High School (Freshman Girls Gi
 DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104689233@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:West Essex High School vs Frelinghuysen Middle School (Middle Sch
+ ool Girls Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103224594@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T160000
@@ -524,6 +533,15 @@ SUMMARY:West Essex High School at Kinnelon High School (Middle School Gir
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104689337@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T161500
+DTEND;TZID=America/New_York:20261016T181500
+SUMMARY:Newark Tech at West Essex High School (Junior Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103209484@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T100000
@@ -538,9 +556,10 @@ UID:arb:104331967@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:West Essex High School vs James Caldwell High School (Junior Vars
- ity Girls Girls Soccer)
+SUMMARY:[Canceled] West Essex High School vs James Caldwell High School (
+ Junior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104331768@super-essex-conference
