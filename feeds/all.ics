@@ -29300,6 +29300,15 @@ SUMMARY:Columbia High School at Arthur L. Johnson High School (Junior Var
 DESCRIPTION:Junior Varsity Boys Football - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104679015@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T100000
+DTEND;TZID=America/New_York:20261012T120000
+SUMMARY:Montclair High School vs Mount Saint Dominic Academy (Freshman Gi
+ rls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104615295@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T110000
@@ -29681,6 +29690,15 @@ DTEND;TZID=America/New_York:20261012T180000
 SUMMARY:Technology High School vs Passaic Arts & Science Charter School (
  Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104678037@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T160000
+DTEND;TZID=America/New_York:20261012T180000
+SUMMARY:Verona High School vs Jefferson Township High School (Junior Vars
+ ity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104552306@super-essex-conference
@@ -31144,6 +31162,15 @@ DTEND;TZID=America/New_York:20261014T180000
 SUMMARY:Orange High School at American History High School (Varsity Girls
   Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104677972@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Payne Tech at Verona High School (Junior Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101223335@super-essex-conference
@@ -32802,6 +32829,15 @@ SUMMARY:Livingston High School at Passaic County Tech Institute (Freshman
 DESCRIPTION:Freshman Boys Football - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104680732@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T090000
+DTEND;TZID=America/New_York:20261017T110000
+SUMMARY:Malcolm X Shabazz High School vs Pope John XXIII High School (Fre
+ shman Boys Football)
+DESCRIPTION:Freshman Boys Football - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103392610@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T090000
@@ -32877,9 +32913,10 @@ UID:arb:102883376@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T100000
 DTEND;TZID=America/New_York:20261017T120000
-SUMMARY:Malcolm X Shabazz High School vs Hillside High School (Junior Var
- sity Boys Football)
+SUMMARY:[Canceled] Malcolm X Shabazz High School vs Hillside High School 
+ (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102765176@super-essex-conference
@@ -34966,6 +35003,14 @@ DTEND;TZID=America/New_York:20261022T194000
 SUMMARY:Livingston High School at Hunterdon Central Reg. High School (Var
  sity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:40 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104677949@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T180000
+DTEND;TZID=America/New_York:20261022T200000
+SUMMARY:Millburn High School vs TBD (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104509419@super-essex-conference
@@ -63607,15 +63652,6 @@ DTEND;TZID=America/New_York:20270430T191500
 SUMMARY:North Star Academy at Saint Benedict's Preparatory School (Junior
   Varsity Boys Boys Volleyball)
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102615695@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270430T171500
-DTEND;TZID=America/New_York:20270430T191500
-SUMMARY:University High School vs West Side High School (Junior Varsity B
- oys Boys Volleyball)
-DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102593320@super-essex-conference

@@ -1719,6 +1719,15 @@ DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104678037@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T160000
+DTEND;TZID=America/New_York:20261012T180000
+SUMMARY:Verona High School vs Jefferson Township High School (Junior Vars
+ ity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104376239@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T171500
@@ -1789,6 +1798,15 @@ DTEND;TZID=America/New_York:20261014T180000
 SUMMARY:Millburn High School at Verona High School (Varsity Girls Field H
  ockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104677972@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Payne Tech at Verona High School (Junior Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101415959@super-essex-conference
