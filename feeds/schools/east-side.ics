@@ -1477,6 +1477,15 @@ SUMMARY:East Side High School at Newark Collegiate Academy (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104721706@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T163000
+DTEND;TZID=America/New_York:20261216T183000
+SUMMARY:East Side High School vs Cranford High School (Varsity Girls Girl
+ s Ice Hockey)
+DESCRIPTION:Varsity Girls Girls Ice Hockey - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103851036@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T170000
@@ -1809,6 +1818,15 @@ DTEND;TZID=America/New_York:20270112T210000
 SUMMARY:East Side High School at Columbia High School (Varsity Boys Boys 
  Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104721711@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T163000
+DTEND;TZID=America/New_York:20270113T183000
+SUMMARY:East Side High School vs Glen Rock High School (Varsity Girls Gir
+ ls Ice Hockey)
+DESCRIPTION:Varsity Girls Girls Ice Hockey - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102734065@super-essex-conference

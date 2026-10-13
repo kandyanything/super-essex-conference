@@ -4392,9 +4392,10 @@ UID:arb:101856873@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T160000
 DTEND;TZID=America/New_York:20261013T180000
-SUMMARY:Bloomfield High School vs Kearny High School (Junior Varsity Girl
- s Girls Soccer)
+SUMMARY:[Canceled] Bloomfield High School vs Kearny High School (Junior V
+ arsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101856862@super-essex-conference
@@ -4477,6 +4478,15 @@ SUMMARY:[Canceled] Montclair Kimberley Academy vs Kent Place School (Midd
  le School Girls Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104723028@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T161500
+DTEND;TZID=America/New_York:20261013T181500
+SUMMARY:Orange High School vs Plainfield High School (Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103727938@super-essex-conference
@@ -4912,9 +4922,10 @@ UID:arb:102302615@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T163000
 DTEND;TZID=America/New_York:20261016T183000
-SUMMARY:Newark Academy at Blair Academy (Junior Varsity Girls Girls Socce
- r)
+SUMMARY:[Canceled] Newark Academy at Blair Academy (Junior Varsity Girls 
+ Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103392610@super-essex-conference
@@ -5154,11 +5165,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:101238516@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261020T163000
-DTEND;TZID=America/New_York:20261020T183000
+DTSTART;TZID=America/New_York:20261020T183000
+DTEND;TZID=America/New_York:20261020T203000
 SUMMARY:Belleville High School at Roselle Park High School (Varsity Girls
   Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:30 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104690624@super-essex-conference
