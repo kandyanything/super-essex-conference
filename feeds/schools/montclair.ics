@@ -2667,6 +2667,24 @@ SUMMARY:Montclair High School vs Randolph High School (Varsity Girls Gymn
 DESCRIPTION:Varsity Girls Gymnastics - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104719160@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Montclair High School vs Verona High School (Varsity Girls Girls 
+ Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104633211@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Montclair High School vs Technology High School (Varsity Boys Boy
+ s Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102578858@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
@@ -2711,15 +2729,6 @@ DTEND;TZID=America/New_York:20261014T181500
 SUMMARY:Montclair High School at Watchung Hills Reg High School (Junior V
  arsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104633211@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T163000
-DTEND;TZID=America/New_York:20261014T183000
-SUMMARY:Montclair High School vs Technology High School (Varsity Boys Boy
- s Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101732467@super-essex-conference

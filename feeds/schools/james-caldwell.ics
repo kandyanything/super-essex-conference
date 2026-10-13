@@ -2120,6 +2120,15 @@ SUMMARY:Central High School vs James Caldwell High School (Varsity Boys B
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104716539@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261227T120000
+DTEND;TZID=America/New_York:20261227T140000
+SUMMARY:Verona High School at James Caldwell High School (Junior Varsity 
+ Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103180411@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261227T130000
@@ -2127,6 +2136,33 @@ DTEND;TZID=America/New_York:20261227T150000
 SUMMARY:James Caldwell High School vs Ridge High School (Varsity Boys Boy
  s Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104716562@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261227T133000
+DTEND;TZID=America/New_York:20261227T153000
+SUMMARY:Cedar Grove High School at James Caldwell High School (Junior Var
+ sity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104716122@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261227T173000
+DTEND;TZID=America/New_York:20261227T193000
+SUMMARY:Verona High School at James Caldwell High School (Varsity Boys Bo
+ ys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104716138@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261227T190000
+DTEND;TZID=America/New_York:20261227T210000
+SUMMARY:Cedar Grove High School at James Caldwell High School (Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103180423@super-essex-conference

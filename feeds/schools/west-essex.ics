@@ -2592,9 +2592,10 @@ UID:arb:104259576@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T160000
 DTEND;TZID=America/New_York:20261013T180000
-SUMMARY:West Essex High School at Morris County School of Technology (Var
- sity Girls Girls Volleyball)
+SUMMARY:[Canceled] West Essex High School at Morris County School of Tech
+ nology (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103852981@super-essex-conference
@@ -2619,9 +2620,10 @@ UID:arb:104259553@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T171500
 DTEND;TZID=America/New_York:20261013T191500
-SUMMARY:West Essex High School at Morris County School of Technology (Jun
- ior Varsity Girls Girls Volleyball)
+SUMMARY:[Canceled] West Essex High School at Morris County School of Tech
+ nology (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104473702@super-essex-conference
@@ -3842,6 +3844,24 @@ SUMMARY:West Essex High School at West Orange High School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104716523@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261227T090000
+DTEND;TZID=America/New_York:20261227T110000
+SUMMARY:Cedar Grove High School vs West Essex High School (Junior Varsity
+  Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104716554@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261227T103000
+DTEND;TZID=America/New_York:20261227T123000
+SUMMARY:Verona High School at West Essex High School (Junior Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103180411@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261227T130000
@@ -3849,6 +3869,24 @@ DTEND;TZID=America/New_York:20261227T150000
 SUMMARY:James Caldwell High School vs Ridge High School (Varsity Boys Boy
  s Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104716109@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261227T143000
+DTEND;TZID=America/New_York:20261227T163000
+SUMMARY:Cedar Grove High School at West Essex High School (Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104716131@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261227T160000
+DTEND;TZID=America/New_York:20261227T180000
+SUMMARY:Verona High School at West Essex High School (Varsity Girls Girls
+  Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103180423@super-essex-conference
