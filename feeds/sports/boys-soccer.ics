@@ -6661,6 +6661,15 @@ SUMMARY:Central High School at Nutley High School (Varsity Boys Boys Socc
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104725141@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:East Orange Campus High School at Irvington High School (Varsity 
+ Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102046926@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T160000
@@ -6674,8 +6683,10 @@ UID:arb:102759491@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T160000
 DTEND;TZID=America/New_York:20261013T180000
-SUMMARY:Seton Hall Prep vs Life Center Academy (Varsity Boys Boys Soccer)
+SUMMARY:[Canceled] Seton Hall Prep vs Life Center Academy (Varsity Boys B
+ oys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104368133@super-essex-conference
@@ -6745,9 +6756,10 @@ UID:arb:103502367@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T163000
 DTEND;TZID=America/New_York:20261013T183000
-SUMMARY:Saint Benedict's Prep vs Don Bosco Preparatory High School (Fresh
- man Boys Boys Soccer)
+SUMMARY:[Canceled] Saint Benedict's Prep vs Don Bosco Preparatory High Sc
+ hool (Freshman Boys Boys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102644958@super-essex-conference
@@ -6927,9 +6939,10 @@ UID:arb:103092905@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T160000
 DTEND;TZID=America/New_York:20261015T180000
-SUMMARY:Central High School vs Newark School of Global Studies (Varsity B
- oys Boys Soccer)
+SUMMARY:[Canceled] Central High School vs Newark School of Global Studies
+  (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104543710@super-essex-conference
@@ -7058,6 +7071,15 @@ SUMMARY:[Canceled] Golda Och Academy vs Saint Benedict's Prep (Middle Sch
  ool Boys Boys Soccer)
 DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:30 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102639892@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T163000
+DTEND;TZID=America/New_York:20261015T183000
+SUMMARY:Orange High School at West Essex High School (Junior Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102639748@super-essex-conference
@@ -7194,6 +7216,14 @@ DESCRIPTION:Freshman Boys Boys Soccer - Away - 10:00 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104736817@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T110000
+DTEND;TZID=America/New_York:20261017T130000
+SUMMARY:Glen Ridge High School vs TBD (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101342709@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T110000
@@ -7233,36 +7263,30 @@ UID:arb:102554395@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T163000
 DTEND;TZID=America/New_York:20261017T183000
-SUMMARY:Glen Ridge High School at Elizabeth High School (Freshman Boys Bo
- ys Soccer)
+SUMMARY:[Canceled] Glen Ridge High School at Elizabeth High School (Fresh
+ man Boys Boys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102554317@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T163000
 DTEND;TZID=America/New_York:20261017T183000
-SUMMARY:Glen Ridge High School at Elizabeth High School (Junior Varsity B
- oys Boys Soccer)
+SUMMARY:[Canceled] Glen Ridge High School at Elizabeth High School (Junio
+ r Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102639892@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261017T163000
-DTEND;TZID=America/New_York:20261017T183000
-SUMMARY:Orange High School at West Essex High School (Junior Varsity Boys
-  Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102554227@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T183000
 DTEND;TZID=America/New_York:20261017T203000
-SUMMARY:Glen Ridge High School at Elizabeth High School (Varsity Boys Boy
- s Soccer)
+SUMMARY:[Canceled] Glen Ridge High School at Elizabeth High School (Varsi
+ ty Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102325428@super-essex-conference

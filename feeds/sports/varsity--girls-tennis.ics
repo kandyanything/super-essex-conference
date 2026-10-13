@@ -1753,6 +1753,14 @@ SUMMARY:Millburn High School vs Ridge High School (Varsity Girls Girls Te
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104630938@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T150000
+DTEND;TZID=America/New_York:20261013T170000
+SUMMARY:Newark Academy at Pingry (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104634486@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T160000
@@ -1760,14 +1768,6 @@ DTEND;TZID=America/New_York:20261013T180000
 SUMMARY:Cedar Grove High School vs Nutley High School (Varsity Girls Girl
  s Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104630938@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Newark Academy at Pingry (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104719160@super-essex-conference

@@ -1709,9 +1709,10 @@ UID:arb:100551445@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T113000
 DTEND;TZID=America/New_York:20270116T133000
-SUMMARY:Verona High School vs West Orange High School (Junior Varsity Boy
- s Boys Basketball)
+SUMMARY:[Canceled] Verona High School vs West Orange High School (Junior 
+ Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:30 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100552397@super-essex-conference
@@ -2466,9 +2467,10 @@ UID:arb:100550345@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T173000
 DTEND;TZID=America/New_York:20270202T193000
-SUMMARY:Malcolm X Shabazz High School at West Essex High School (Junior V
- arsity Boys Boys Basketball)
+SUMMARY:[Canceled] Malcolm X Shabazz High School at West Essex High Schoo
+ l (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549273@super-essex-conference
@@ -2603,6 +2605,15 @@ DTSTART;TZID=America/New_York:20270204T173000
 DTEND;TZID=America/New_York:20270204T193000
 SUMMARY:North Star Academy vs Bayonne High School (Junior Varsity Boys Bo
  ys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104737317@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T173000
+DTEND;TZID=America/New_York:20270204T193000
+SUMMARY:West Essex High School vs Leonia High School (Junior Varsity Boys
+  Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT

@@ -4374,9 +4374,10 @@ UID:arb:103467526@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T154500
 DTEND;TZID=America/New_York:20261013T174500
-SUMMARY:Montclair Kimberley Academy at Newark Academy (Middle School Girl
- s Girls Soccer)
+SUMMARY:[Canceled] Montclair Kimberley Academy at Newark Academy (Middle 
+ School Girls Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104610612@super-essex-conference
@@ -4553,6 +4554,14 @@ SUMMARY:Golda Och Academy vs Chatham Day School (Middle School Girls Girl
 DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104731344@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Newark Academy vs Summit High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102525499@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
@@ -4603,9 +4612,10 @@ UID:arb:102866866@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T161500
 DTEND;TZID=America/New_York:20261014T181500
-SUMMARY:Montclair High School vs Lakeland Regional High School (Freshman 
- Girls Girls Soccer)
+SUMMARY:[Canceled] Montclair High School vs Lakeland Regional High School
+  (Freshman Girls Girls Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100666366@super-essex-conference
@@ -4786,9 +4796,10 @@ UID:arb:103848218@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T163000
 DTEND;TZID=America/New_York:20261015T183000
-SUMMARY:East Side High School at Bayonne High School (Middle School Girls
-  Girls Soccer)
+SUMMARY:[Canceled] East Side High School at Bayonne High School (Middle S
+ chool Girls Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101729644@super-essex-conference
@@ -5036,6 +5047,15 @@ SUMMARY:Bloomfield High School at Union High School (Junior Varsity Girls
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104738568@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Columbia High School vs Millburn High School (Junior Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102332880@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
@@ -5052,6 +5072,15 @@ DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Livingston High School vs Immaculate Heart Academy (Freshman Girl
  s Girls Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104730379@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Nutley High School vs Pequannock Township High School (Varsity Gi
+ rls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104331967@super-essex-conference
@@ -5088,6 +5117,15 @@ DTSTART;TZID=America/New_York:20261020T120000
 DTEND;TZID=America/New_York:20261020T140000
 SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104726549@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Bloomfield High School vs Newark Academy (Junior Varsity Girls Gi
+ rls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103382610@super-essex-conference

@@ -1570,13 +1570,22 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104630938@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T150000
+DTEND;TZID=America/New_York:20261013T170000
+SUMMARY:Newark Academy at Pingry (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103467526@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T154500
 DTEND;TZID=America/New_York:20261013T174500
-SUMMARY:Montclair Kimberley Academy at Newark Academy (Middle School Girl
- s Girls Soccer)
+SUMMARY:[Canceled] Montclair Kimberley Academy at Newark Academy (Middle 
+ School Girls Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104610501@super-essex-conference
@@ -1600,9 +1609,10 @@ UID:arb:101406484@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T160000
 DTEND;TZID=America/New_York:20261013T180000
-SUMMARY:Mount Saint Dominic Academy vs Newark Academy (Varsity Girls Fiel
- d Hockey)
+SUMMARY:[Canceled] Mount Saint Dominic Academy vs Newark Academy (Varsity
+  Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99092213@super-essex-conference
@@ -1623,15 +1633,7 @@ SUMMARY:Newark Academy at West Orange High School (Varsity Girls Girls Vo
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104630938@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Newark Academy at Pingry (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104627384@super-essex-conference
+UID:arb:104727667@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T150000
 DTEND;TZID=America/New_York:20261014T170000
@@ -1647,6 +1649,14 @@ DTEND;TZID=America/New_York:20261014T174500
 SUMMARY:Newark Academy vs Gill St. Bernard's School (Varsity Girls Girls 
  Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104731344@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Newark Academy vs Summit High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102525499@super-essex-conference
@@ -1829,6 +1839,15 @@ DTEND;TZID=America/New_York:20261019T191500
 SUMMARY:Mount Saint Dominic Academy vs Newark Academy (Junior Varsity Gir
  ls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104726549@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Bloomfield High School vs Newark Academy (Junior Varsity Girls Gi
+ rls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104613486@super-essex-conference

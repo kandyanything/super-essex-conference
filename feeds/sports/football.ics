@@ -2824,15 +2824,6 @@ SUMMARY:East Orange Campus High School vs Montclair High School (Junior V
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99415780@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T160000
-DTEND;TZID=America/New_York:20261012T180000
-SUMMARY:Glen Ridge High School vs James Caldwell High School (Junior Vars
- ity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99665058@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T160000
@@ -2880,6 +2871,15 @@ SUMMARY:Orange High School vs Clifton High School (Junior Varsity Boys Fo
 DESCRIPTION:Junior Varsity Boys Football - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:99415780@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Glen Ridge High School vs James Caldwell High School (Junior Vars
+ ity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100444193@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T163000
@@ -2899,7 +2899,7 @@ SUMMARY:Malcolm X Shabazz High School vs Hudson Catholic Regional High Sc
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104627384@super-essex-conference
+UID:arb:104727667@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T150000
 DTEND;TZID=America/New_York:20261014T170000
@@ -3098,6 +3098,15 @@ DESCRIPTION:Junior Varsity Boys Football - Home - 10:00 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104728638@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T100000
+DTEND;TZID=America/New_York:20261017T120000
+SUMMARY:Millburn High School vs North Bergen High School (Junior Varsity 
+ Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100223131@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T120000
@@ -3239,9 +3248,10 @@ UID:arb:100194383@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T163000
 DTEND;TZID=America/New_York:20261019T183000
-SUMMARY:Montclair Kimberley Academy at Morristown-Beard School (Junior Va
- rsity Boys Football)
+SUMMARY:[Canceled] Montclair Kimberley Academy at Morristown-Beard School
+  (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99665551@super-essex-conference

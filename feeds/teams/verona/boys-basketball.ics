@@ -225,27 +225,30 @@ UID:arb:100551487@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T100000
 DTEND;TZID=America/New_York:20270116T120000
-SUMMARY:Verona High School vs West Orange High School (Freshman Boys Boys
-  Basketball)
+SUMMARY:[Canceled] Verona High School vs West Orange High School (Freshma
+ n Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551394@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T100000
 DTEND;TZID=America/New_York:20270116T120000
-SUMMARY:Verona High School vs West Orange High School (Varsity Boys Boys 
- Basketball)
+SUMMARY:[Canceled] Verona High School vs West Orange High School (Varsity
+  Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551445@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T113000
 DTEND;TZID=America/New_York:20270116T133000
-SUMMARY:Verona High School vs West Orange High School (Junior Varsity Boy
- s Boys Basketball)
+SUMMARY:[Canceled] Verona High School vs West Orange High School (Junior 
+ Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:30 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551525@super-essex-conference
@@ -255,6 +258,15 @@ DTEND;TZID=America/New_York:20270119T180000
 SUMMARY:Montclair Kimberley Academy vs Verona High School (Varsity Boys B
  oys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104727379@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T160000
+DTEND;TZID=America/New_York:20270119T180000
+SUMMARY:Verona High School at James Caldwell High School (Freshman Boys B
+ oys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551590@super-essex-conference

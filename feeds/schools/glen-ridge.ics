@@ -1841,15 +1841,6 @@ SUMMARY:Glen Ridge High School vs West Orange High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99415780@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T160000
-DTEND;TZID=America/New_York:20261012T180000
-SUMMARY:Glen Ridge High School vs James Caldwell High School (Junior Vars
- ity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103340116@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T163000
@@ -1885,14 +1876,13 @@ SUMMARY:Glen Ridge High School at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104581813@super-essex-conference
+UID:arb:99415780@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261013T163000
-DTEND;TZID=America/New_York:20261013T183000
-SUMMARY:[Canceled] Glen Ridge High School at Voorhees High School (Junior
-  Varsity Girls Field Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:30 PM
-STATUS:CANCELLED
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Glen Ridge High School vs James Caldwell High School (Junior Vars
+ ity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101426159@super-essex-conference
@@ -1949,6 +1939,14 @@ SUMMARY:Glen Ridge High School at Montclair High School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104736817@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T110000
+DTEND;TZID=America/New_York:20261017T130000
+SUMMARY:Glen Ridge High School vs TBD (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99415746@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T120000
@@ -1963,27 +1961,30 @@ UID:arb:102554395@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T163000
 DTEND;TZID=America/New_York:20261017T183000
-SUMMARY:Glen Ridge High School at Elizabeth High School (Freshman Boys Bo
- ys Soccer)
+SUMMARY:[Canceled] Glen Ridge High School at Elizabeth High School (Fresh
+ man Boys Boys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102554317@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T163000
 DTEND;TZID=America/New_York:20261017T183000
-SUMMARY:Glen Ridge High School at Elizabeth High School (Junior Varsity B
- oys Boys Soccer)
+SUMMARY:[Canceled] Glen Ridge High School at Elizabeth High School (Junio
+ r Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102554227@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T183000
 DTEND;TZID=America/New_York:20261017T203000
-SUMMARY:Glen Ridge High School at Elizabeth High School (Varsity Boys Boy
- s Soccer)
+SUMMARY:[Canceled] Glen Ridge High School at Elizabeth High School (Varsi
+ ty Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103224478@super-essex-conference

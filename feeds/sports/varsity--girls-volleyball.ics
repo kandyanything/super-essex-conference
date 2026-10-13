@@ -4611,7 +4611,7 @@ SUMMARY:Central High School at Newark Vocational High School (Varsity Gir
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103386258@super-essex-conference
+UID:arb:104724952@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T163000
 DTEND;TZID=America/New_York:20261013T183000
@@ -4906,6 +4906,15 @@ DTEND;TZID=America/New_York:20261015T193000
 SUMMARY:Science Park High School at West Orange High School (Varsity Girl
  s Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99102248@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T183000
+DTEND;TZID=America/New_York:20261015T203000
+SUMMARY:Bloomfield High School at Governor Livingston High School (Varsit
+ y Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103917684@super-essex-conference
@@ -5388,9 +5397,10 @@ UID:arb:102904095@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T160000
 DTEND;TZID=America/New_York:20261023T180000
-SUMMARY:Saint Vincent Academy vs Lacordaire Academy (Varsity Girls Girls 
- Volleyball)
+SUMMARY:[Canceled] Saint Vincent Academy vs Lacordaire Academy (Varsity G
+ irls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102130966@super-essex-conference
