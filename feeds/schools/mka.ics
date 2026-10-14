@@ -1807,9 +1807,10 @@ UID:arb:102311513@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T161500
 DTEND;TZID=America/New_York:20261014T181500
-SUMMARY:Montclair Kimberley Academy vs Newark Academy (Middle School Girl
- s Girls Soccer)
+SUMMARY:[Canceled] Montclair Kimberley Academy vs Newark Academy (Middle 
+ School Girls Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104444206@super-essex-conference
@@ -1900,6 +1901,15 @@ DTEND;TZID=America/New_York:20261016T181500
 SUMMARY:Montclair Kimberley Academy vs Henry P. Becton Regional High Scho
  ol (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104757067@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T173000
+DTEND;TZID=America/New_York:20261016T193000
+SUMMARY:Montclair Kimberley Academy vs TBD (Junior Varsity Girls Field Ho
+ ckey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99699340@super-essex-conference
