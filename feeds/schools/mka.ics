@@ -1876,6 +1876,14 @@ SUMMARY:Montclair Kimberley Academy at Oak Knoll School of the Holy Child
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104753852@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Montclair Kimberley Academy vs TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100920431@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T160000
@@ -2304,6 +2312,15 @@ DTEND;TZID=America/New_York:20261215T193000
 SUMMARY:Montclair Kimberley Academy at Verona High School (Junior Varsity
   Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104751195@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T201500
+DTEND;TZID=America/New_York:20261215T221500
+SUMMARY:Columbia High School vs Montclair Kimberley Academy (Varsity Coed
+  Coed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Home - 8:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104551954@super-essex-conference

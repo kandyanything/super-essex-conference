@@ -2982,9 +2982,10 @@ UID:arb:102627871@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T160000
 DTEND;TZID=America/New_York:20261015T180000
-SUMMARY:Columbia High School at Livingston High School (Junior Varsity Gi
- rls Field Hockey)
+SUMMARY:[Canceled] Columbia High School at Livingston High School (Junior
+  Varsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102104619@super-essex-conference
@@ -3018,9 +3019,27 @@ UID:arb:102627859@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
-SUMMARY:Columbia High School at Livingston High School (Varsity Girls Fie
- ld Hockey)
+SUMMARY:[Canceled] Columbia High School at Livingston High School (Varsit
+ y Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 6:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104753845@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T181500
+DTEND;TZID=America/New_York:20261015T201500
+SUMMARY:Livingston High School vs Mount Saint Dominic Academy (Varsity Gi
+ rls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 6:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104753852@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Montclair Kimberley Academy vs TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102037831@super-essex-conference

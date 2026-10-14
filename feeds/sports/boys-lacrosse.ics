@@ -94,6 +94,24 @@ SUMMARY:Seton Hall Prep vs Verona High School (Varsity Boys Boys Lacrosse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104754337@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270402T163000
+DTEND;TZID=America/New_York:20270402T183000
+SUMMARY:West Essex High School at Summit High School (Varsity Boys Boys L
+ acrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104755084@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270402T180000
+DTEND;TZID=America/New_York:20270402T200000
+SUMMARY:West Essex High School at Summit High School (Junior Varsity Boys
+  Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104412882@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270403T110000
@@ -164,6 +182,15 @@ DTEND;TZID=America/New_York:20270413T183000
 SUMMARY:Glen Ridge High School at West Morris Central High School (Varsit
  y Boys Boys Lacrosse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104755052@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270413T163000
+DTEND;TZID=America/New_York:20270413T183000
+SUMMARY:Seton Hall Prep at Summit High School (Freshman Boys Boys Lacross
+ e)
+DESCRIPTION:Freshman Boys Boys Lacrosse - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104297621@super-essex-conference
@@ -368,6 +395,15 @@ DTEND;TZID=America/New_York:20270508T130000
 SUMMARY:Seton Hall Prep vs Iona Preparatory School (Varsity Boys Boys Lac
  rosse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104755060@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270513T163000
+DTEND;TZID=America/New_York:20270513T183000
+SUMMARY:James Caldwell High School at Summit High School (Freshman Boys B
+ oys Lacrosse)
+DESCRIPTION:Freshman Boys Boys Lacrosse - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102880836@super-essex-conference
