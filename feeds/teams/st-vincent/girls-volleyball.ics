@@ -164,9 +164,10 @@ UID:arb:103328378@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T163000
 DTEND;TZID=America/New_York:20261016T183000
-SUMMARY:Newark Lab High School vs Saint Vincent Academy (Varsity Girls Gi
- rls Volleyball)
+SUMMARY:[Canceled] Newark Lab High School vs Saint Vincent Academy (Varsi
+ ty Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99234971@super-essex-conference
@@ -195,6 +196,15 @@ SUMMARY:[Canceled] Saint Vincent Academy vs Lacordaire Academy (Varsity G
  irls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102131227@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T163000
+DTEND;TZID=America/New_York:20261026T183000
+SUMMARY:Newark Lab High School vs Saint Vincent Academy (Varsity Girls Gi
+ rls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104353685@super-essex-conference

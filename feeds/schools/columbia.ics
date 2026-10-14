@@ -2238,6 +2238,14 @@ SUMMARY:Columbia High School vs Union City High School (Varsity Boys Foot
 DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104768131@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T090000
+DTEND;TZID=America/New_York:20261017T110000
+SUMMARY:Columbia High School vs TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99801574@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T090000
@@ -2321,9 +2329,10 @@ UID:arb:103021715@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Columbia High School at Newark Academy (Varsity Girls Field Hocke
- y)
+SUMMARY:[Canceled] Columbia High School at Newark Academy (Varsity Girls 
+ Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99801557@super-essex-conference

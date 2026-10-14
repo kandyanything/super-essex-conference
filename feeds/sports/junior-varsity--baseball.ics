@@ -293,15 +293,6 @@ SUMMARY:Montclair High School at Morris Hills High School (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102634319@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270419T040000
-DTEND;TZID=America/New_York:20270419T060000
-SUMMARY:Belleville High School at Newark Tech (Junior Varsity Boys Baseba
- ll)
-DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103010597@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T160000
@@ -329,6 +320,15 @@ SUMMARY:Seton Hall Prep at Columbia High School (Junior Varsity Boys Base
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104764025@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270420T160000
+DTEND;TZID=America/New_York:20270420T180000
+SUMMARY:Belleville High School at Newark Tech (Junior Varsity Boys Baseba
+ ll)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103009277@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270421T160000
@@ -344,6 +344,15 @@ DTSTART;TZID=America/New_York:20270421T160000
 DTEND;TZID=America/New_York:20270421T180000
 SUMMARY:Seton Hall Prep vs Columbia High School (Junior Varsity Boys Base
  ball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104764065@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T160000
+DTEND;TZID=America/New_York:20270422T180000
+SUMMARY:Belleville High School vs Newark Tech (Junior Varsity Boys Baseba
+ ll)
 DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT

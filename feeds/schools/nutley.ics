@@ -1823,24 +1823,6 @@ SUMMARY:Nutley High School vs TBD (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102578858@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T160000
-DTEND;TZID=America/New_York:20261014T180000
-SUMMARY:Montclair High School at Nutley High School (Junior Varsity Boys 
- Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102578717@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T160000
-DTEND;TZID=America/New_York:20261014T180000
-SUMMARY:Montclair High School at Nutley High School (Varsity Boys Boys So
- ccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104520305@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
@@ -2072,9 +2054,10 @@ UID:arb:103550511@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T160000
 DTEND;TZID=America/New_York:20261023T180000
-SUMMARY:Nutley High School vs Lyndhurst High School (Varsity Girls Girls 
- Soccer)
+SUMMARY:[Postponed] Nutley High School vs Lyndhurst High School (Varsity 
+ Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99231540@super-essex-conference
@@ -2086,6 +2069,15 @@ SUMMARY:Nutley High School at West Essex High School (Varsity Boys Footba
 DESCRIPTION:Varsity Boys Football - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103549909@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T080000
+DTEND;TZID=America/New_York:20261024T100000
+SUMMARY:Nutley High School vs Cliffside Park High School (Junior Varsity 
+ Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104031977@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T090000
@@ -2094,15 +2086,6 @@ SUMMARY:[Canceled] Nutley High School at Pequannock Township High School
  (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 9:00 AM
 STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103549909@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261024T090000
-DTEND;TZID=America/New_York:20261024T110000
-SUMMARY:Nutley High School vs Cliffside Park High School (Junior Varsity 
- Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100309543@super-essex-conference
@@ -2344,11 +2327,12 @@ SUMMARY:Nutley High School vs Verona High School (Varsity Boys Boys Ice H
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 8:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104508268@super-essex-conference
+UID:arb:104763930@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T090000
 DTEND;TZID=America/New_York:20261212T110000
-SUMMARY:Nutley High School at TBD (Varsity Boys Boys Wrestling)
+SUMMARY:Nutley High School at Delaware Valley Regional High School (Varsi
+ ty Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -3332,15 +3316,6 @@ DTSTART;TZID=America/New_York:20270206T100000
 DTEND;TZID=America/New_York:20270206T120000
 SUMMARY:Nutley High School at TBD (Varsity Coed Track & Field - Indoor)
 DESCRIPTION:Varsity Coed Track & Field - Indoor - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104509962@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270206T180000
-DTEND;TZID=America/New_York:20270206T200000
-SUMMARY:Nutley High School at Fair Lawn High School (Varsity Boys Boys Wr
- estling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100564921@super-essex-conference

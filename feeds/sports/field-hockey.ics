@@ -2850,13 +2850,13 @@ SUMMARY:Columbia High School vs Saint Benedict's Prep (Freshman Girls Fie
 DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101422396@super-essex-conference
+UID:arb:101587119@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T180000
-SUMMARY:Millburn High School at Verona High School (Varsity Girls Field H
- ockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+SUMMARY:Millburn High School at Verona High School (Junior Varsity Girls 
+ Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101732198@super-essex-conference
@@ -2914,13 +2914,13 @@ SUMMARY:Columbia High School at James Caldwell High School (Junior Varsit
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101587119@super-essex-conference
+UID:arb:101422396@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T173000
 DTEND;TZID=America/New_York:20261014T193000
-SUMMARY:Millburn High School at Verona High School (Junior Varsity Girls 
- Field Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+SUMMARY:Millburn High School at Verona High School (Varsity Girls Field H
+ ockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101732467@super-essex-conference
@@ -3034,14 +3034,6 @@ SUMMARY:Livingston High School vs Mount Saint Dominic Academy (Varsity Gi
 DESCRIPTION:Varsity Girls Field Hockey - Home - 6:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104753852@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T160000
-DTEND;TZID=America/New_York:20261016T180000
-SUMMARY:Montclair Kimberley Academy vs TBD (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102037831@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T160000
@@ -3050,13 +3042,12 @@ SUMMARY:Newark Academy vs Verona High School (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104757067@super-essex-conference
+UID:arb:104768131@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T173000
-DTEND;TZID=America/New_York:20261016T193000
-SUMMARY:Montclair Kimberley Academy vs TBD (Junior Varsity Girls Field Ho
- ckey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+DTSTART;TZID=America/New_York:20261017T090000
+DTEND;TZID=America/New_York:20261017T110000
+SUMMARY:Columbia High School vs TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103144112@super-essex-conference
@@ -3076,6 +3067,23 @@ SUMMARY:[Canceled] West Essex High School at Chatham High School (Freshma
  n Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 10:00 AM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104753852@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T140000
+DTEND;TZID=America/New_York:20261017T160000
+SUMMARY:Montclair Kimberley Academy vs TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104757067@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T153000
+DTEND;TZID=America/New_York:20261017T173000
+SUMMARY:Montclair Kimberley Academy vs TBD (Junior Varsity Girls Field Ho
+ ckey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103967496@super-essex-conference
@@ -3098,9 +3106,10 @@ UID:arb:103021715@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Columbia High School at Newark Academy (Varsity Girls Field Hocke
- y)
+SUMMARY:[Canceled] Columbia High School at Newark Academy (Varsity Girls 
+ Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104510131@super-essex-conference
@@ -3129,6 +3138,24 @@ SUMMARY:West Essex High School vs TBD (Middle School Girls Field Hockey)
 DESCRIPTION:Middle School Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102323743@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Glen Ridge High School vs Morristown-Beard School (Varsity Girls 
+ Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104759898@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Newark Academy vs Stuart Country Day School (Varsity Girls Field 
+ Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102292791@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T161500
@@ -3136,6 +3163,15 @@ DTEND;TZID=America/New_York:20261020T181500
 SUMMARY:Montclair High School at Morris Knolls High School (Freshman Girl
  s Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102323762@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T173000
+DTEND;TZID=America/New_York:20261020T193000
+SUMMARY:Glen Ridge High School vs Morristown-Beard School (Junior Varsity
+  Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103967532@super-essex-conference
@@ -3182,6 +3218,22 @@ SUMMARY:Verona High School at Governor Livingston High School (Junior Var
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104767153@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Glen Ridge High School vs TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104767160@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:West Essex High School vs TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102344740@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T160000
@@ -3189,15 +3241,6 @@ DTEND;TZID=America/New_York:20261022T180000
 SUMMARY:West Essex High School vs Summit High School (Middle School Girls
   Field Hockey)
 DESCRIPTION:Middle School Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102323743@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261023T160000
-DTEND;TZID=America/New_York:20261023T180000
-SUMMARY:Glen Ridge High School vs Morristown-Beard School (Varsity Girls 
- Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104338518@super-essex-conference
@@ -3224,15 +3267,6 @@ DTEND;TZID=America/New_York:20261023T180000
 SUMMARY:West Essex High School vs Summit High School (Freshman Girls Fiel
  d Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102323762@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261023T173000
-DTEND;TZID=America/New_York:20261023T193000
-SUMMARY:Glen Ridge High School vs Morristown-Beard School (Junior Varsity
-  Girls Field Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104442572@super-essex-conference

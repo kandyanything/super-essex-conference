@@ -1663,9 +1663,10 @@ UID:arb:102525499@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T180000
-SUMMARY:Newark Academy vs Parsippany Hills High School (Junior Varsity Gi
- rls Girls Soccer)
+SUMMARY:[Canceled] Newark Academy vs Parsippany Hills High School (Junior
+  Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102525452@super-essex-conference
@@ -1789,6 +1790,15 @@ SUMMARY:Newark Academy vs Elizabeth High School (Junior Varsity Girls Gir
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104761722@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T140000
+DTEND;TZID=America/New_York:20261017T160000
+SUMMARY:Newark Academy at West Orange High School (Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104612584@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T140000
@@ -1811,9 +1821,10 @@ UID:arb:103021715@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Columbia High School at Newark Academy (Varsity Girls Field Hocke
- y)
+SUMMARY:[Canceled] Columbia High School at Newark Academy (Varsity Girls 
+ Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102685952@super-essex-conference
@@ -1823,6 +1834,15 @@ DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Mount Saint Dominic Academy vs Newark Academy (Varsity Girls Girl
  s Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104763415@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T163000
+DTEND;TZID=America/New_York:20261019T183000
+SUMMARY:Bard Early College at Newark Academy (Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99665551@super-essex-conference
@@ -1849,6 +1869,15 @@ DTEND;TZID=America/New_York:20261020T180000
 SUMMARY:Bloomfield High School vs Newark Academy (Junior Varsity Girls Gi
  rls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104759898@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Newark Academy vs Stuart Country Day School (Varsity Girls Field 
+ Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104613486@super-essex-conference
@@ -3086,6 +3115,15 @@ SUMMARY:Newark Academy at Verona High School (Junior Varsity Girls Girls
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104771423@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270210T153000
+DTEND;TZID=America/New_York:20270210T173000
+SUMMARY:Newark Academy vs Pope John XXIII High School (7/8th Coed Swimmin
+ g)
+DESCRIPTION:7/8th Coed Swimming - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100562502@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T160000
@@ -3343,6 +3381,14 @@ SUMMARY:Glen Ridge High School vs Newark Academy (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102581795@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270503T160000
+DTEND;TZID=America/New_York:20270503T180000
+SUMMARY:Belleville High School vs Newark Academy (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102568610@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T160000
@@ -3357,14 +3403,6 @@ DTSTART;TZID=America/New_York:20270505T160000
 DTEND;TZID=America/New_York:20270505T180000
 SUMMARY:Millburn High School at Newark Academy (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102581795@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270508T130000
-DTEND;TZID=America/New_York:20270508T150000
-SUMMARY:Belleville High School vs Newark Academy (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102880836@super-essex-conference

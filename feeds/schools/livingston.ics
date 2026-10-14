@@ -2461,6 +2461,15 @@ SUMMARY:Livingston High School vs Mount Saint Dominic Academy (Varsity Gi
 DESCRIPTION:Varsity Girls Field Hockey - Home - 6:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104769189@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Livingston High School at Seton Hall Prep (Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99776219@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T190000
@@ -2477,6 +2486,15 @@ DTEND;TZID=America/New_York:20261017T110000
 SUMMARY:Livingston High School at Passaic County Tech Institute (Freshman
   Boys Football)
 DESCRIPTION:Freshman Boys Football - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104760753@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T110000
+DTEND;TZID=America/New_York:20261017T130000
+SUMMARY:Cedar Grove High School at Livingston High School (Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103068808@super-essex-conference
