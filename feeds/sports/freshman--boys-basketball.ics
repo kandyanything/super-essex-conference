@@ -456,6 +456,15 @@ SUMMARY:West Orange High School at Delbarton School (Freshman Boys Boys B
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104774368@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T100000
+DTEND;TZID=America/New_York:20261228T120000
+SUMMARY:Millburn High School vs Jonathan Dayton High School (Freshman Boy
+ s Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104156907@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261228T120000
@@ -463,6 +472,15 @@ DTEND;TZID=America/New_York:20261228T140000
 SUMMARY:Seton Hall Prep at Mendham High School (Freshman Boys Boys Basket
  ball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104774376@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T100000
+DTEND;TZID=America/New_York:20261229T120000
+SUMMARY:Millburn High School vs Verona High School (Freshman Boys Boys Ba
+ sketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102748912@super-essex-conference
@@ -1841,5 +1859,14 @@ DTEND;TZID=America/New_York:20270218T180000
 SUMMARY:Millburn High School vs New Providence High School (Freshman Boys
   Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104775977@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T100000
+DTEND;TZID=America/New_York:20270220T120000
+SUMMARY:West Essex High School at Passaic Valley High School (Freshman Bo
+ ys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
 END:VEVENT
 END:VCALENDAR

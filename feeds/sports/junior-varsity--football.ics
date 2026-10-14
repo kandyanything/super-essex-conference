@@ -1056,6 +1056,15 @@ SUMMARY:Seton Hall Prep vs Saint Joseph Regional High School (Junior Vars
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104778060@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:West Orange High School at Edison High School (Junior Varsity Boy
+ s Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99663698@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
@@ -1136,6 +1145,15 @@ DTEND;TZID=America/New_York:20261019T204500
 SUMMARY:West Side High School at Lincoln High School (Junior Varsity Boys
   Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 6:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104775347@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Glen Ridge High School vs Montclair Kimberley Academy (Junior Var
+ sity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99528994@super-essex-conference

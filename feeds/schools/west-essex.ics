@@ -2968,6 +2968,15 @@ SUMMARY:West Essex High School at West Morris Central High School (Junior
 DESCRIPTION:Junior Varsity Boys Football - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104773349@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:West Essex High School at Bergen County Technical High School (Fr
+ eshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104712976@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T160000
@@ -3069,9 +3078,10 @@ UID:arb:102344740@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T160000
 DTEND;TZID=America/New_York:20261022T180000
-SUMMARY:West Essex High School vs Summit High School (Middle School Girls
-  Field Hockey)
+SUMMARY:[Canceled] West Essex High School vs Summit High School (Middle S
+ chool Girls Field Hockey)
 DESCRIPTION:Middle School Girls Field Hockey - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101756523@super-essex-conference
@@ -4928,6 +4938,15 @@ SUMMARY:Cedar Grove High School at West Essex High School (Varsity Boys B
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104775977@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T100000
+DTEND;TZID=America/New_York:20270220T120000
+SUMMARY:West Essex High School at Passaic Valley High School (Freshman Bo
+ ys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101726565@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270220T110000
@@ -4937,6 +4956,15 @@ SUMMARY:West Essex High School vs Randolph High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104775986@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T113000
+DTEND;TZID=America/New_York:20270220T133000
+SUMMARY:West Essex High School at Passaic Valley High School (Junior Vars
+ ity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101726583@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270220T123000
@@ -4944,6 +4972,15 @@ DTEND;TZID=America/New_York:20270220T143000
 SUMMARY:West Essex High School vs Randolph High School (Junior Varsity Gi
  rls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104775966@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T130000
+DTEND;TZID=America/New_York:20270220T150000
+SUMMARY:West Essex High School at Passaic Valley High School (Varsity Boy
+ s Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102416331@super-essex-conference
