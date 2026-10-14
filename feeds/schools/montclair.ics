@@ -3265,9 +3265,8 @@ UID:arb:104677017@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261202T160000
 DTEND;TZID=America/New_York:20261202T180000
-SUMMARY:Belleville High School at Montclair High School (Varsity Coed Coe
- d Bowling)
-DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
+SUMMARY:Montclair High School vs TBD (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104509875@super-essex-conference
@@ -3652,9 +3651,8 @@ UID:arb:104677048@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T160000
 DTEND;TZID=America/New_York:20270105T180000
-SUMMARY:Belleville High School at Montclair High School (Varsity Coed Coe
- d Bowling)
-DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
+SUMMARY:Montclair High School vs TBD (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100548902@super-essex-conference
@@ -4349,14 +4347,6 @@ SUMMARY:Montclair High School vs Bayonne High School (Varsity Boys Boys I
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101664807@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270201T163000
-DTEND;TZID=America/New_York:20270201T183000
-SUMMARY:Montclair High School vs TBD (Varsity Boys Boys Fencing)
-DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104677570@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T160000
@@ -4375,15 +4365,6 @@ SUMMARY:Montclair High School vs American History High School (Varsity Co
 DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100562489@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T160000
-DTEND;TZID=America/New_York:20270202T180000
-SUMMARY:Montclair High School at Newark Academy (Varsity Girls Girls Bask
- etball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100549294@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T160000
@@ -4400,15 +4381,6 @@ DTEND;TZID=America/New_York:20270202T180000
 SUMMARY:Montclair High School at Orange High School (Varsity Boys Boys Ba
  sketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100562564@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T173000
-DTEND;TZID=America/New_York:20270202T193000
-SUMMARY:Montclair High School at Newark Academy (Junior Varsity Girls Gir
- ls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549273@super-essex-conference
@@ -4444,6 +4416,24 @@ DTEND;TZID=America/New_York:20270204T203000
 SUMMARY:Montclair High School vs Oak Knoll School of the Holy Child (Vars
  ity Girls Girls Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100562564@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T160000
+DTEND;TZID=America/New_York:20270205T180000
+SUMMARY:Montclair High School at Newark Academy (Junior Varsity Girls Gir
+ ls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100562489@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T173000
+DTEND;TZID=America/New_York:20270205T193000
+SUMMARY:Montclair High School at Newark Academy (Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100562398@super-essex-conference

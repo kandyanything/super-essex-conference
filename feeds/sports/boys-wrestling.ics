@@ -788,6 +788,15 @@ SUMMARY:West Essex High School vs TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102611630@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
+SUMMARY:Belleville High School at Passaic Valley High School (Varsity Boy
+ s Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103036235@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T090000
@@ -850,15 +859,6 @@ DTEND;TZID=America/New_York:20270109T120000
 SUMMARY:Bloomfield High School vs Clifton High School (Varsity Boys Boys 
  Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102611630@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T210000
-DTEND;TZID=America/New_York:20270109T230000
-SUMMARY:Belleville High School at Passaic Valley High School (Varsity Boy
- s Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100906657@super-essex-conference

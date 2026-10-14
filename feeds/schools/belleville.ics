@@ -1697,15 +1697,6 @@ SUMMARY:Belleville High School vs Montclair High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104677017@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261202T160000
-DTEND;TZID=America/New_York:20261202T180000
-SUMMARY:Belleville High School at Montclair High School (Varsity Coed Coe
- d Bowling)
-DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104520711@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T154500
@@ -1776,26 +1767,6 @@ DTEND;TZID=America/New_York:20261209T183000
 SUMMARY:Belleville High School at Memorial High School (Varsity Boys Boys
   Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103975932@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261210T160000
-DTEND;TZID=America/New_York:20261210T180000
-SUMMARY:[Canceled] Belleville High School vs Abundant Life Academy (Varsi
- ty Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103975941@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261210T174500
-DTEND;TZID=America/New_York:20261210T194500
-SUMMARY:[Canceled] Belleville High School vs Abundant Life Academy (Varsi
- ty Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:45 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102557943@super-essex-conference
@@ -2112,15 +2083,6 @@ SUMMARY:Belleville High School vs Montclair High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104677048@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270105T160000
-DTEND;TZID=America/New_York:20270105T180000
-SUMMARY:Belleville High School at Montclair High School (Varsity Coed Coe
- d Bowling)
-DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100568601@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T160000
@@ -2220,13 +2182,13 @@ SUMMARY:Belleville High School vs Bloomfield High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102742045@super-essex-conference
+UID:arb:102611630@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T180000
-DTEND;TZID=America/New_York:20270108T200000
-SUMMARY:Belleville High School vs Bloomfield High School (Varsity Girls G
- irls Wrestling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
+SUMMARY:Belleville High School at Passaic Valley High School (Varsity Boy
+ s Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553349@super-essex-conference
@@ -2245,15 +2207,6 @@ DTEND;TZID=America/New_York:20270109T133000
 SUMMARY:Belleville High School vs Newark Academy (Varsity Boys Boys Baske
  tball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102611630@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T210000
-DTEND;TZID=America/New_York:20270109T230000
-SUMMARY:Belleville High School at Passaic Valley High School (Varsity Boy
- s Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104233148@super-essex-conference

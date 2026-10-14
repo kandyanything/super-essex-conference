@@ -2954,13 +2954,13 @@ SUMMARY:Newark Academy vs TBD (7/8th Boys Basketball)
 DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100562489@super-essex-conference
+UID:arb:104750952@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T160000
 DTEND;TZID=America/New_York:20270202T180000
-SUMMARY:Montclair High School at Newark Academy (Varsity Girls Girls Bask
- etball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+SUMMARY:Newark Academy vs North Star Academy (Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664938@super-essex-conference
@@ -2972,13 +2972,13 @@ SUMMARY:Bloomfield High School vs Newark Academy (Junior Varsity Boys Boy
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100562564@super-essex-conference
+UID:arb:104750949@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T173000
 DTEND;TZID=America/New_York:20270202T193000
-SUMMARY:Montclair High School at Newark Academy (Junior Varsity Girls Gir
- ls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
+SUMMARY:Newark Academy vs North Star Academy (Junior Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664909@super-essex-conference
@@ -3006,6 +3006,15 @@ SUMMARY:Newark Academy vs Pingry (7/8th Girls Basketball)
 DESCRIPTION:7/8th Girls Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100562564@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T160000
+DTEND;TZID=America/New_York:20270205T180000
+SUMMARY:Montclair High School at Newark Academy (Junior Varsity Girls Gir
+ ls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104646991@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T170000
@@ -3021,6 +3030,15 @@ DTEND;TZID=America/New_York:20270205T190000
 SUMMARY:Newark Academy vs Oak Knoll School of the Holy Child (Varsity Gir
  ls Girls Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100562489@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T173000
+DTEND;TZID=America/New_York:20270205T193000
+SUMMARY:Montclair High School at Newark Academy (Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104082538@super-essex-conference
