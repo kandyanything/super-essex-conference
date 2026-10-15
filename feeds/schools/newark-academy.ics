@@ -1893,6 +1893,15 @@ SUMMARY:Newark Academy vs Stuart Country Day School (Varsity Girls Field
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104714245@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Montclair Kimberley Academy at Newark Academy (Varsity Girls Girl
+ s Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104613486@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T160000
@@ -1913,9 +1922,10 @@ UID:arb:104564439@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T160000
 DTEND;TZID=America/New_York:20261022T180000
-SUMMARY:James Caldwell High School at Newark Academy (Varsity Girls Girls
-  Volleyball)
+SUMMARY:[Canceled] James Caldwell High School at Newark Academy (Varsity 
+ Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102684747@super-essex-conference
@@ -1950,9 +1960,10 @@ UID:arb:104564456@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T171500
 DTEND;TZID=America/New_York:20261022T191500
-SUMMARY:James Caldwell High School at Newark Academy (Junior Varsity Girl
- s Girls Volleyball)
+SUMMARY:[Canceled] James Caldwell High School at Newark Academy (Junior V
+ arsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104338518@super-essex-conference

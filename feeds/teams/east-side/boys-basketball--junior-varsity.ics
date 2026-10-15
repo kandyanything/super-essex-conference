@@ -51,15 +51,6 @@ SUMMARY:East Side High School vs Orange High School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102651297@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270104T173000
-DTEND;TZID=America/New_York:20270104T193000
-SUMMARY:East Side High School vs Rahway High School (Junior Varsity Boys 
- Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104763903@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T173000
@@ -85,6 +76,15 @@ DTEND;TZID=America/New_York:20270109T123000
 SUMMARY:East Side High School at Newark Tech (Junior Varsity Boys Boys Ba
  sketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102651297@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T120000
+DTEND;TZID=America/New_York:20270109T140000
+SUMMARY:East Side High School vs Rahway High School (Junior Varsity Boys 
+ Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100540257@super-essex-conference
