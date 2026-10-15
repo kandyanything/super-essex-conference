@@ -1348,8 +1348,10 @@ UID:arb:102037831@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T160000
 DTEND;TZID=America/New_York:20261016T180000
-SUMMARY:Newark Academy vs Verona High School (Varsity Girls Field Hockey)
+SUMMARY:[Canceled] Newark Academy vs Verona High School (Varsity Girls Fi
+ eld Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104768131@super-essex-conference
@@ -1373,7 +1375,8 @@ UID:arb:104753852@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T140000
 DTEND;TZID=America/New_York:20261017T160000
-SUMMARY:Montclair Kimberley Academy vs TBD (Varsity Girls Field Hockey)
+SUMMARY:Montclair Kimberley Academy vs Verona High School (Varsity Girls 
+ Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1460,9 +1463,17 @@ UID:arb:102359892@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T163000
 DTEND;TZID=America/New_York:20261021T183000
-SUMMARY:Millburn High School at Union High School (Varsity Girls Field Ho
+SUMMARY:Millburn High School vs Union High School (Varsity Girls Field Ho
  ckey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 4:30 PM
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104767160@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T153000
+DTEND;TZID=America/New_York:20261022T173000
+SUMMARY:West Essex High School vs TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104767153@super-essex-conference
@@ -1470,14 +1481,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T160000
 DTEND;TZID=America/New_York:20261022T180000
 SUMMARY:Glen Ridge High School vs TBD (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104767160@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T160000
-DTEND;TZID=America/New_York:20261022T180000
-SUMMARY:West Essex High School vs TBD (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT

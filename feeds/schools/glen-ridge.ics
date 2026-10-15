@@ -1987,6 +1987,15 @@ DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:30 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104790654@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Glen Ridge High School vs Montclair High School (Junior Varsity G
+ irls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103224478@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
@@ -2144,6 +2153,15 @@ DTEND;TZID=America/New_York:20261024T140000
 SUMMARY:Glen Ridge High School vs Whippany Park High School (Varsity Boys
   Football)
 DESCRIPTION:Varsity Boys Football - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104799057@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:Glen Ridge High School at James Caldwell High School (Junior Vars
+ ity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101423565@super-essex-conference

@@ -1344,6 +1344,15 @@ SUMMARY:East Orange Campus High School vs Irvington High School (Varsity
 DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104793988@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T140000
+DTEND;TZID=America/New_York:20261017T160000
+SUMMARY:Irvington High School at Montclair Kimberley Academy (Varsity Boy
+ s Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104081482@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
@@ -1360,6 +1369,15 @@ DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:East Orange Campus High School at Irvington High School (Junior V
  arsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104792317@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:East Orange Campus High School vs Irvington High School (Varsity 
+ Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103414168@super-essex-conference

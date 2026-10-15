@@ -146,9 +146,10 @@ UID:arb:102918213@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T160000
 DTEND;TZID=America/New_York:20261015T180000
-SUMMARY:Montclair Kimberley Academy vs Immaculata High School (Varsity Gi
- rls Girls Soccer)
+SUMMARY:[Canceled] Montclair Kimberley Academy vs Immaculata High School 
+ (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104760669@super-essex-conference
@@ -158,6 +159,15 @@ DTEND;TZID=America/New_York:20261017T120000
 SUMMARY:East Side High School at Montclair Kimberley Academy (Varsity Gir
  ls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104800176@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T161500
+DTEND;TZID=America/New_York:20261022T181500
+SUMMARY:Montclair Kimberley Academy vs Newark Academy (Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102311245@super-essex-conference

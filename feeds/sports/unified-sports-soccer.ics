@@ -49,6 +49,15 @@ SUMMARY:Bloomfield High School vs Union City High School (Unified Sports
 DESCRIPTION:Unified Sports Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103844105@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:[Canceled] Bloomfield High School vs TBD (Unified Sports Soccer)
+DESCRIPTION:Unified Sports Soccer - Home - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104418991@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261027T160000

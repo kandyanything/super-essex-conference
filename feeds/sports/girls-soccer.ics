@@ -4734,9 +4734,10 @@ UID:arb:102918213@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T160000
 DTEND;TZID=America/New_York:20261015T180000
-SUMMARY:Montclair Kimberley Academy vs Immaculata High School (Varsity Gi
- rls Girls Soccer)
+SUMMARY:[Canceled] Montclair Kimberley Academy vs Immaculata High School 
+ (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101619847@super-essex-conference
@@ -4871,11 +4872,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104609272@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T154500
-DTEND;TZID=America/New_York:20261016T174500
+DTSTART;TZID=America/New_York:20261016T153000
+DTEND;TZID=America/New_York:20261016T173000
 SUMMARY:Mount Saint Dominic Academy vs West Essex High School (Varsity Gi
  rls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104406044@super-essex-conference
@@ -5150,6 +5151,15 @@ SUMMARY:West Essex High School at Heritage Middle School (Middle School G
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104798432@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T161500
+DTEND;TZID=America/New_York:20261019T181500
+SUMMARY:Cedar Grove High School at Livingston High School (Junior Varsity
+  Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103966879@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T120000
@@ -5174,6 +5184,15 @@ DTEND;TZID=America/New_York:20261020T180000
 SUMMARY:Bloomfield High School vs Newark Academy (Junior Varsity Girls Gi
  rls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104792317@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:East Orange Campus High School vs Irvington High School (Varsity 
+ Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103382610@super-essex-conference
@@ -5263,9 +5282,10 @@ UID:arb:104690624@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T160000
 DTEND;TZID=America/New_York:20261021T180000
-SUMMARY:Columbia High School vs Millburn High School (Junior Varsity Girl
- s Girls Soccer)
+SUMMARY:[Canceled] Columbia High School vs TBD (Junior Varsity Girls Girl
+ s Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103016697@super-essex-conference
@@ -5368,6 +5388,15 @@ SUMMARY:University High School at Roselle Catholic High School (Varsity G
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104800176@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T161500
+DTEND;TZID=America/New_York:20261022T181500
+SUMMARY:Montclair Kimberley Academy vs Newark Academy (Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104539746@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T161500
@@ -5467,15 +5496,6 @@ DTEND;TZID=America/New_York:20261023T183000
 SUMMARY:Belleville High School vs William L. Dickinson High School (Varsi
  ty Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:98490277@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261024T093000
-DTEND;TZID=America/New_York:20261024T113000
-SUMMARY:West Essex High School vs Henry P. Becton Regional High School (J
- unior Varsity Girls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:98490265@super-essex-conference
@@ -5592,6 +5612,15 @@ DTEND;TZID=America/New_York:20261026T200000
 SUMMARY:Millburn High School vs North Hunterdon High School (Varsity Girl
  s Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104798471@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T160000
+DTEND;TZID=America/New_York:20261027T180000
+SUMMARY:East Orange Campus High School at University High School (Varsity
+  Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103503097@super-essex-conference

@@ -165,8 +165,19 @@ UID:arb:102037831@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T160000
 DTEND;TZID=America/New_York:20261016T180000
-SUMMARY:Newark Academy vs Verona High School (Varsity Girls Field Hockey)
+SUMMARY:[Canceled] Newark Academy vs Verona High School (Varsity Girls Fi
+ eld Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104753852@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T140000
+DTEND;TZID=America/New_York:20261017T160000
+SUMMARY:Montclair Kimberley Academy vs Verona High School (Varsity Girls 
+ Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104305824@super-essex-conference

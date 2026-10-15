@@ -2493,10 +2493,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104686645@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T160000
-DTEND;TZID=America/New_York:20261016T180000
+DTSTART;TZID=America/New_York:20261016T150000
+DTEND;TZID=America/New_York:20261016T170000
 SUMMARY:Millburn High School vs TBD (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104758860@super-essex-conference
@@ -2616,15 +2616,6 @@ SUMMARY:Millburn High School vs Chatham High School (Junior Varsity Girls
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104690624@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261021T160000
-DTEND;TZID=America/New_York:20261021T180000
-SUMMARY:Columbia High School vs Millburn High School (Junior Varsity Girl
- s Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104690545@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T160000
@@ -2647,9 +2638,9 @@ UID:arb:102359892@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T163000
 DTEND;TZID=America/New_York:20261021T183000
-SUMMARY:Millburn High School at Union High School (Varsity Girls Field Ho
+SUMMARY:Millburn High School vs Union High School (Varsity Girls Field Ho
  ckey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 4:30 PM
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103989550@super-essex-conference

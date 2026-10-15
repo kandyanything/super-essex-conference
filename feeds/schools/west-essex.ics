@@ -2786,11 +2786,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104609272@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T154500
-DTEND;TZID=America/New_York:20261016T174500
+DTSTART;TZID=America/New_York:20261016T153000
+DTEND;TZID=America/New_York:20261016T173000
 SUMMARY:Mount Saint Dominic Academy vs West Essex High School (Varsity Gi
  rls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104572704@super-essex-conference
@@ -2866,14 +2866,6 @@ SUMMARY:West Essex High School at West Morris Central High School (Freshm
 DESCRIPTION:Freshman Boys Football - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104648374@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261017T100000
-DTEND;TZID=America/New_York:20261017T120000
-SUMMARY:West Essex High School vs TBD (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102765176@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T100000
@@ -2882,6 +2874,15 @@ SUMMARY:[Canceled] Orange High School at West Essex High School (Freshman
   Boys Boys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 10:00 AM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104648374@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T100000
+DTEND;TZID=America/New_York:20261017T120000
+SUMMARY:West Essex High School vs Verona High School (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103961236@super-essex-conference
@@ -2939,15 +2940,6 @@ DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:West Essex High School at Heritage Middle School (Middle School G
  irls Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102830120@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T161500
-DTEND;TZID=America/New_York:20261019T181500
-SUMMARY:Montclair High School at West Essex High School (Freshman Girls F
- ield Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102751624@super-essex-conference
@@ -3030,6 +3022,15 @@ SUMMARY:West Essex High School vs Boonton High School (Junior Varsity Boy
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102830120@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T161500
+DTEND;TZID=America/New_York:20261021T181500
+SUMMARY:Montclair High School at West Essex High School (Freshman Girls F
+ ield Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103423010@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T173000
@@ -3048,6 +3049,14 @@ SUMMARY:West Essex High School vs Boonton High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104767160@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T153000
+DTEND;TZID=America/New_York:20261022T173000
+SUMMARY:West Essex High School vs TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101826120@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T154500
@@ -3055,14 +3064,6 @@ DTEND;TZID=America/New_York:20261022T174500
 SUMMARY:West Essex High School at Pequannock Township High School (Junior
   Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104767160@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T160000
-DTEND;TZID=America/New_York:20261022T180000
-SUMMARY:West Essex High School vs TBD (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102126307@super-essex-conference
@@ -3157,15 +3158,6 @@ DTEND;TZID=America/New_York:20261024T110000
 SUMMARY:West Essex High School at Passaic County Tech Institute (Freshman
   Boys Football)
 DESCRIPTION:Freshman Boys Football - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:98490277@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261024T093000
-DTEND;TZID=America/New_York:20261024T113000
-SUMMARY:West Essex High School vs Henry P. Becton Regional High School (J
- unior Varsity Girls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:98490265@super-essex-conference

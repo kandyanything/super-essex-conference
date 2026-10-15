@@ -1023,6 +1023,15 @@ SUMMARY:East Orange Campus High School vs Irvington High School (Varsity
 DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104792265@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:East Orange Campus High School vs Newark School of Global Studies
+  (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100270995@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
@@ -1030,6 +1039,24 @@ DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:East Orange Campus High School at Irvington High School (Junior V
  arsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104792317@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:East Orange Campus High School vs Irvington High School (Varsity 
+ Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104792287@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:East Orange Campus High School vs Golda Och Academy (Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101105244@super-essex-conference
@@ -1066,6 +1093,15 @@ DTEND;TZID=America/New_York:20261026T183000
 SUMMARY:Central High School vs East Orange Campus High School (Junior Var
  sity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104798471@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T160000
+DTEND;TZID=America/New_York:20261027T180000
+SUMMARY:East Orange Campus High School at University High School (Varsity
+  Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100384867@super-essex-conference

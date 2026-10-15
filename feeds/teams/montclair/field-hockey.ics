@@ -534,13 +534,13 @@ SUMMARY:Montclair High School vs TBD (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102830120@super-essex-conference
+UID:arb:104790654@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T161500
-DTEND;TZID=America/New_York:20261019T181500
-SUMMARY:Montclair High School at West Essex High School (Freshman Girls F
- ield Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Away - 4:15 PM
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Glen Ridge High School vs Montclair High School (Junior Varsity G
+ irls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102292791@super-essex-conference
@@ -558,6 +558,15 @@ DTSTART;TZID=America/New_York:20261021T160000
 DTEND;TZID=America/New_York:20261021T180000
 SUMMARY:Montclair High School vs TBD (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102830120@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T161500
+DTEND;TZID=America/New_York:20261021T181500
+SUMMARY:Montclair High School at West Essex High School (Freshman Girls F
+ ield Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103967548@super-essex-conference
