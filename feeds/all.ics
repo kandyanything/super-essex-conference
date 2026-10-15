@@ -34433,9 +34433,10 @@ UID:arb:101238516@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T183000
 DTEND;TZID=America/New_York:20261020T203000
-SUMMARY:Belleville High School at Roselle Park High School (Varsity Girls
-  Girls Soccer)
+SUMMARY:[Canceled] Belleville High School at Roselle Park High School (Va
+ rsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101342719@super-essex-conference
@@ -36094,6 +36095,15 @@ DTEND;TZID=America/New_York:20261024T120000
 SUMMARY:Bloomfield High School vs Glen Ridge High School (Varsity Girls G
  irls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104783050@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T100000
+DTEND;TZID=America/New_York:20261024T120000
+SUMMARY:Montclair High School vs Morristown High School (Varsity Boys Boy
+ s Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102308388@super-essex-conference
