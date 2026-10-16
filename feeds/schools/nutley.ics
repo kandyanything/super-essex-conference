@@ -1895,6 +1895,15 @@ SUMMARY:Nutley High School at Clifton High School (Varsity Girls Girls So
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104633222@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T150000
+DTEND;TZID=America/New_York:20261016T170000
+SUMMARY:Montclair High School vs Nutley High School (Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100309213@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T183000
@@ -1920,6 +1929,15 @@ DTEND;TZID=America/New_York:20261017T113000
 SUMMARY:Cedar Grove High School vs Nutley High School (Varsity Coed Coed 
  Cross Country)
 DESCRIPTION:Varsity Coed Coed Cross Country - Home - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104736817@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T110000
+DTEND;TZID=America/New_York:20261017T130000
+SUMMARY:Glen Ridge High School vs Nutley High School (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103883084@super-essex-conference

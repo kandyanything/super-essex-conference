@@ -2816,11 +2816,21 @@ SUMMARY:Glen Ridge High School at Montclair High School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104686645@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T150000
+DTEND;TZID=America/New_York:20261016T170000
+SUMMARY:Millburn High School vs Montclair High School (Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104633222@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T150000
 DTEND;TZID=America/New_York:20261016T170000
-SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Soccer)
+SUMMARY:Montclair High School vs Nutley High School (Varsity Girls Girls 
+ Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2985,6 +2995,14 @@ DTSTART;TZID=America/New_York:20261020T120000
 DTEND;TZID=America/New_York:20261020T140000
 SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104818227@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Montclair High School vs TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103382610@super-essex-conference

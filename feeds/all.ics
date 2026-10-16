@@ -32447,7 +32447,8 @@ UID:arb:104686645@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T150000
 DTEND;TZID=America/New_York:20261016T170000
-SUMMARY:Millburn High School vs TBD (Varsity Boys Boys Soccer)
+SUMMARY:Millburn High School vs Montclair High School (Varsity Boys Boys 
+ Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -32455,7 +32456,8 @@ UID:arb:104633222@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T150000
 DTEND;TZID=America/New_York:20261016T170000
-SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Soccer)
+SUMMARY:Montclair High School vs Nutley High School (Varsity Girls Girls 
+ Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -32902,14 +32904,6 @@ SUMMARY:Montclair High School at TBD (Varsity Coed Coed Cross Country)
 DESCRIPTION:Varsity Coed Coed Cross Country - Away - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104768131@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261017T090000
-DTEND;TZID=America/New_York:20261017T110000
-SUMMARY:Columbia High School vs TBD (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103582677@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T090000
@@ -32972,6 +32966,15 @@ DTEND;TZID=America/New_York:20261017T110000
 SUMMARY:Cedar Grove High School vs Verona High School (Varsity Girls Girl
  s Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104768131@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T090000
+DTEND;TZID=America/New_York:20261017T110000
+SUMMARY:Columbia High School vs Livingston High School (Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99801574@super-essex-conference
@@ -33149,14 +33152,6 @@ DESCRIPTION:Freshman Girls Girls Soccer - Home - 10:00 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104736817@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261017T110000
-DTEND;TZID=America/New_York:20261017T130000
-SUMMARY:Glen Ridge High School vs TBD (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104760753@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T110000
@@ -33164,6 +33159,15 @@ DTEND;TZID=America/New_York:20261017T130000
 SUMMARY:Cedar Grove High School at Livingston High School (Varsity Girls 
  Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104736817@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T110000
+DTEND;TZID=America/New_York:20261017T130000
+SUMMARY:Glen Ridge High School vs Nutley High School (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104758768@super-essex-conference
@@ -33554,9 +33558,10 @@ UID:arb:102979423@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Belleville High School at Payne Tech (Junior Varsity Girls Girls 
- Soccer)
+SUMMARY:[Canceled] Belleville High School at Payne Tech (Junior Varsity G
+ irls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102910218@super-essex-conference
@@ -33802,6 +33807,15 @@ SUMMARY:Nutley High School vs Pequannock Township High School (Varsity Gi
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104818064@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Orange High School at Technology High School (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103394791@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
@@ -33934,9 +33948,8 @@ UID:arb:104798432@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T161500
 DTEND;TZID=America/New_York:20261019T181500
-SUMMARY:Cedar Grove High School at Livingston High School (Junior Varsity
-  Girls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
+SUMMARY:Livingston High School vs TBD (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104757953@super-essex-conference
@@ -33973,6 +33986,16 @@ DTEND;TZID=America/New_York:20261019T181500
 SUMMARY:Montclair Kimberley Academy vs Morristown-Beard School (Middle Sc
  hool Boys Boys Soccer)
 DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102582467@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T163000
+DTEND;TZID=America/New_York:20261019T183000
+SUMMARY:[Canceled] Technology High School vs TBD (Varsity Boys Boys Socce
+ r)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104763415@super-essex-conference
@@ -34055,14 +34078,6 @@ DTSTART;TZID=America/New_York:20261019T163000
 DTEND;TZID=America/New_York:20261019T183000
 SUMMARY:Newark Collegiate Academy vs Science Park High School (Varsity Bo
  ys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102582467@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T163000
-DTEND;TZID=America/New_York:20261019T183000
-SUMMARY:Newark Tech vs Technology High School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -34299,6 +34314,14 @@ DTEND;TZID=America/New_York:20261020T174500
 SUMMARY:Newark Tech at Morris County School of Technology (Varsity Girls 
  Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104818227@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Montclair High School vs TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104712976@super-essex-conference
@@ -36875,6 +36898,15 @@ DTSTART;TZID=America/New_York:20261027T040000
 DTEND;TZID=America/New_York:20261027T060000
 SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104816943@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T154500
+DTEND;TZID=America/New_York:20261027T174500
+SUMMARY:Montclair Kimberley Academy at Morristown-Beard School (Middle Sc
+ hool Girls Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104418991@super-essex-conference

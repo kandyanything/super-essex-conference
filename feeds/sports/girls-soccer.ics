@@ -4857,7 +4857,8 @@ UID:arb:104633222@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T150000
 DTEND;TZID=America/New_York:20261016T170000
-SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Soccer)
+SUMMARY:Montclair High School vs Nutley High School (Varsity Girls Girls 
+ Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -5056,9 +5057,10 @@ UID:arb:102979423@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Belleville High School at Payne Tech (Junior Varsity Girls Girls 
- Soccer)
+SUMMARY:[Canceled] Belleville High School at Payne Tech (Junior Varsity G
+ irls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102910218@super-essex-conference
@@ -5155,9 +5157,8 @@ UID:arb:104798432@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T161500
 DTEND;TZID=America/New_York:20261019T181500
-SUMMARY:Cedar Grove High School at Livingston High School (Junior Varsity
-  Girls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
+SUMMARY:Livingston High School vs TBD (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103966879@super-essex-conference
@@ -5621,6 +5622,15 @@ DTEND;TZID=America/New_York:20261026T200000
 SUMMARY:Millburn High School vs North Hunterdon High School (Varsity Girl
  s Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104816943@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T154500
+DTEND;TZID=America/New_York:20261027T174500
+SUMMARY:Montclair Kimberley Academy at Morristown-Beard School (Middle Sc
+ hool Girls Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104798471@super-essex-conference
