@@ -3326,14 +3326,6 @@ SUMMARY:Columbia High School vs Passaic County Tech Institute (Freshman B
 DESCRIPTION:Freshman Boys Football - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104677949@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T180000
-DTEND;TZID=America/New_York:20261022T200000
-SUMMARY:Millburn High School vs TBD (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99189387@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T180000
@@ -3350,6 +3342,15 @@ DTEND;TZID=America/New_York:20261022T200000
 SUMMARY:Columbia High School at Passaic County Tech Institute (Varsity Bo
  ys Football)
 DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104677949@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T180000
+DTEND;TZID=America/New_York:20261022T200000
+SUMMARY:Millburn High School vs Pascack Hills High School (Varsity Boys F
+ ootball)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104189522@super-essex-conference
