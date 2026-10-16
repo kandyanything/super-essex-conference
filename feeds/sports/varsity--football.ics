@@ -1350,15 +1350,6 @@ SUMMARY:Montclair High School at Nutley High School (Varsity Boys Footbal
 DESCRIPTION:Varsity Boys Football - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99231539@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T183000
-DTEND;TZID=America/New_York:20261016T203000
-SUMMARY:West Essex High School vs West Morris Central High School (Varsit
- y Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99528922@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T190000
@@ -1466,6 +1457,15 @@ DTEND;TZID=America/New_York:20261017T150000
 SUMMARY:Seton Hall Prep vs Saint Joseph Regional High School (Varsity Boy
  s Football)
 DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99231539@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T133000
+DTEND;TZID=America/New_York:20261017T153000
+SUMMARY:West Essex High School vs West Morris Central High School (Varsit
+ y Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99189387@super-essex-conference

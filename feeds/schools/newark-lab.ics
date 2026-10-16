@@ -383,9 +383,10 @@ UID:arb:102131075@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T173000
 DTEND;TZID=America/New_York:20261023T193000
-SUMMARY:Newark Lab High School vs Beloved Community Charter School (Junio
- r Varsity Girls Girls Volleyball)
+SUMMARY:[Canceled] Newark Lab High School vs Beloved Community Charter Sc
+ hool (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102131227@super-essex-conference
@@ -394,6 +395,15 @@ DTSTART;TZID=America/New_York:20261026T163000
 DTEND;TZID=America/New_York:20261026T183000
 SUMMARY:Newark Lab High School vs Saint Vincent Academy (Varsity Girls Gi
  rls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104821330@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T163000
+DTEND;TZID=America/New_York:20261027T183000
+SUMMARY:Newark Lab High School vs Hoboken High School (Varsity Girls Girl
+ s Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT

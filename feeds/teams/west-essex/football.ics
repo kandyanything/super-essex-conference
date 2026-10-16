@@ -224,15 +224,6 @@ SUMMARY:West Essex High School at West Orange High School (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99231539@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T183000
-DTEND;TZID=America/New_York:20261016T203000
-SUMMARY:West Essex High School vs West Morris Central High School (Varsit
- y Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:99666363@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T090000
@@ -240,6 +231,15 @@ DTEND;TZID=America/New_York:20261017T110000
 SUMMARY:West Essex High School at West Morris Central High School (Freshm
  an Boys Football)
 DESCRIPTION:Freshman Boys Football - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99231539@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T133000
+DTEND;TZID=America/New_York:20261017T153000
+SUMMARY:West Essex High School vs West Morris Central High School (Varsit
+ y Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99666391@super-essex-conference

@@ -2816,6 +2816,14 @@ SUMMARY:Glen Ridge High School at Montclair High School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104819722@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T210000
+DTEND;TZID=America/New_York:20261015T230000
+SUMMARY:Montclair High School vs TBD (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 9:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104686645@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T150000
@@ -2834,6 +2842,15 @@ SUMMARY:Montclair High School vs Nutley High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104828958@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Montclair High School vs Newark Tech (Freshman Girls Girls Volley
+ ball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104223290@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T160000
@@ -2841,15 +2858,6 @@ DTEND;TZID=America/New_York:20261016T180000
 SUMMARY:Montclair High School at Verona High School (Varsity Girls Girls 
  Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103768070@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T160000
-DTEND;TZID=America/New_York:20261016T180000
-SUMMARY:Montclair High School at Newark Tech (Freshman Girls Girls Volley
- ball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104222610@super-essex-conference
@@ -2898,11 +2906,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102230908@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261017T143000
-DTEND;TZID=America/New_York:20261017T163000
+DTSTART;TZID=America/New_York:20261017T113000
+DTEND;TZID=America/New_York:20261017T133000
 SUMMARY:Montclair High School at East Brunswick High School (Junior Varsi
  ty Girls Field Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 2:30 PM
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103967496@super-essex-conference
