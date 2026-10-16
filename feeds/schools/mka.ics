@@ -2053,10 +2053,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104801344@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T140000
-DTEND;TZID=America/New_York:20261022T160000
+DTSTART;TZID=America/New_York:20261022T133000
+DTEND;TZID=America/New_York:20261022T153000
 SUMMARY:Montclair Kimberley Academy vs TBD (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104800176@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T154500
+DTEND;TZID=America/New_York:20261022T174500
+SUMMARY:Montclair Kimberley Academy vs Newark Academy (Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102311642@super-essex-conference
@@ -2066,15 +2075,6 @@ DTEND;TZID=America/New_York:20261022T174500
 SUMMARY:Montclair Kimberley Academy vs Elisabeth Morrow School (Middle Sc
  hool Boys Boys Soccer)
 DESCRIPTION:Middle School Boys Boys Soccer - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104800176@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T161500
-DTEND;TZID=America/New_York:20261022T181500
-SUMMARY:Montclair Kimberley Academy vs Newark Academy (Varsity Girls Girl
- s Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104539746@super-essex-conference
