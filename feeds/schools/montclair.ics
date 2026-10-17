@@ -3005,6 +3005,15 @@ SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104842389@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T150000
+DTEND;TZID=America/New_York:20261020T170000
+SUMMARY:Montclair High School vs Mount Saint Dominic Academy (Varsity Gir
+ ls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104818227@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T160000
@@ -3026,9 +3035,10 @@ UID:arb:103382597@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T160000
 DTEND;TZID=America/New_York:20261020T180000
-SUMMARY:Glen Ridge High School at Montclair High School (Varsity Girls Gi
- rls Soccer)
+SUMMARY:[Canceled] Glen Ridge High School at Montclair High School (Varsi
+ ty Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102292791@super-essex-conference
@@ -3626,6 +3636,15 @@ DTEND;TZID=America/New_York:20261218T200000
 SUMMARY:Montclair High School vs Orange High School (Varsity Boys Boys Wr
  estling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104841882@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T184500
+DTEND;TZID=America/New_York:20261218T204500
+SUMMARY:Montclair High School at Bayonne High School (Varsity Boys Boys I
+ ce Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 6:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100539895@super-essex-conference
