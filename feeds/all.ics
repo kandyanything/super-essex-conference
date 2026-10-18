@@ -34354,6 +34354,15 @@ SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104853983@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T133000
+DTEND;TZID=America/New_York:20261020T153000
+SUMMARY:Bloomfield High School at Montclair Kimberley Academy (Varsity Gi
+ rls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104842389@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T150000
@@ -34370,6 +34379,14 @@ DTEND;TZID=America/New_York:20261020T171500
 SUMMARY:Newark Academy vs Gill St. Bernard's School (Middle School Boys B
  oys Soccer)
 DESCRIPTION:Middle School Boys Boys Soccer - Home - 3:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104853994@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T154500
+DTEND;TZID=America/New_York:20261020T174500
+SUMMARY:Montclair Kimberley Academy vs TBD (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104760859@super-essex-conference
@@ -34552,15 +34569,6 @@ SUMMARY:Nutley High School at Governor Livingston High School (Varsity Gi
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104518617@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261020T160000
-DTEND;TZID=America/New_York:20261020T180000
-SUMMARY:Payne Tech at Science Park High School (Freshman Girls Girls Voll
- eyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101191141@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T160000
@@ -34641,6 +34649,15 @@ DTEND;TZID=America/New_York:20261020T183000
 SUMMARY:Montclair Kimberley Academy vs LINCOLN PARK ELEMENTARY SCHOOL (Mi
  ddle School Boys Boys Soccer)
 DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104518617@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T171500
+DTEND;TZID=America/New_York:20261020T191500
+SUMMARY:Payne Tech at Science Park High School (Freshman Girls Girls Voll
+ eyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102323762@super-essex-conference
@@ -34746,9 +34763,10 @@ UID:arb:101396627@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T160000
 DTEND;TZID=America/New_York:20261021T180000
-SUMMARY:Cedar Grove High School vs James Caldwell High School (Junior Var
- sity Boys Boys Soccer)
+SUMMARY:[Canceled] Cedar Grove High School vs James Caldwell High School 
+ (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103092933@super-essex-conference
@@ -35579,15 +35597,6 @@ SUMMARY:Irvington High School vs Oratory Prep School (Varsity Boys Boys S
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104539746@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T161500
-DTEND;TZID=America/New_York:20261022T181500
-SUMMARY:Montclair Kimberley Academy vs Morristown-Beard School (Junior Va
- rsity Girls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104824859@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T163000
@@ -36133,6 +36142,15 @@ DTEND;TZID=America/New_York:20261023T181500
 SUMMARY:Central High School at Newark School of Data Science (Varsity Boy
  s Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104539746@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T161500
+DTEND;TZID=America/New_York:20261023T181500
+SUMMARY:Montclair Kimberley Academy vs Morristown-Beard School (Junior Va
+ rsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103338175@super-essex-conference
