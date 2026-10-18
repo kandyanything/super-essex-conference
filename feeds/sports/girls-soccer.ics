@@ -5211,9 +5211,10 @@ UID:arb:103382610@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T160000
 DTEND;TZID=America/New_York:20261020T180000
-SUMMARY:Glen Ridge High School at Montclair High School (Junior Varsity G
- irls Girls Soccer)
+SUMMARY:[Canceled] Glen Ridge High School at Montclair High School (Junio
+ r Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103382597@super-essex-conference
@@ -5296,6 +5297,15 @@ SUMMARY:[Canceled] Belleville High School at Roselle Park High School (Ju
  nior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:30 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104853115@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T163000
+DTEND;TZID=America/New_York:20261020T183000
+SUMMARY:Livingston High School vs West Orange High School (Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101238516@super-essex-conference
