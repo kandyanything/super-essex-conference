@@ -5243,6 +5243,15 @@ SUMMARY:Montclair Kimberley Academy at Newark Academy (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104875868@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Mount Saint Dominic Academy at Mount Saint Mary Academy (Varsity 
+ Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99247857@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T160000
@@ -5801,5 +5810,13 @@ DTEND;TZID=America/New_York:20261030T180000
 SUMMARY:Newark Academy vs Chatham High School (Varsity Girls Girls Volley
  ball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104875068@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T163000
+DTEND;TZID=America/New_York:20261030T183000
+SUMMARY:University High School vs TBD (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 END:VCALENDAR

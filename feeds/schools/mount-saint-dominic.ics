@@ -1407,6 +1407,15 @@ SUMMARY:Montclair High School vs Mount Saint Dominic Academy (Varsity Gir
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104875868@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Mount Saint Dominic Academy at Mount Saint Mary Academy (Varsity 
+ Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101774170@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T160000
@@ -1430,8 +1439,8 @@ UID:arb:102684736@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T160000
 DTEND;TZID=America/New_York:20261022T180000
-SUMMARY:Mount Saint Dominic Academy vs Newark Academy (Varsity Girls Girl
- s Soccer)
+SUMMARY:Mount Saint Dominic Academy vs Bayonne High School (Varsity Girls
+  Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1460,6 +1469,15 @@ DTEND;TZID=America/New_York:20261027T180000
 SUMMARY:Livingston High School at Mount Saint Dominic Academy (Varsity Gi
  rls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104878378@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T161500
+DTEND;TZID=America/New_York:20261029T181500
+SUMMARY:Mount Saint Dominic Academy vs Ramapo High School (Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103582738@super-essex-conference

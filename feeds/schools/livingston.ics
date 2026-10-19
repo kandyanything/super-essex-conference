@@ -2546,9 +2546,10 @@ UID:arb:100194814@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Livingston High School at Passaic County Tech Institute (Junior V
- arsity Boys Football)
+SUMMARY:[Canceled] Livingston High School at Passaic County Tech Institut
+ e (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104798432@super-essex-conference
@@ -2566,6 +2567,15 @@ DTEND;TZID=America/New_York:20261019T193000
 SUMMARY:Livingston High School at Ridge High School (Varsity Girls Girls 
  Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104868000@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T183000
+DTEND;TZID=America/New_York:20261019T203000
+SUMMARY:Livingston High School at Woodbridge High School (Varsity Boys Bo
+ ys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104826549@super-essex-conference
@@ -2602,6 +2612,15 @@ DTEND;TZID=America/New_York:20261021T180000
 SUMMARY:Livingston High School at Seton Hall Prep (Freshman Boys Boys Soc
  cer)
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104877489@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Columbia High School at Livingston High School (Freshman Girls Fi
+ eld Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104831844@super-essex-conference
@@ -2683,15 +2702,6 @@ DTEND;TZID=America/New_York:20261023T180000
 SUMMARY:James Caldwell High School at Livingston High School (Freshman Gi
  rls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103224485@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261023T160000
-DTEND;TZID=America/New_York:20261023T180000
-SUMMARY:Livingston High School vs Glen Ridge High School (Junior Varsity 
- Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99776236@super-essex-conference

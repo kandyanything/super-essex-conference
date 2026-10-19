@@ -135,9 +135,10 @@ UID:arb:103873548@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T161500
 DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:Columbia High School at River Dell Regional High School (Freshman
-  Girls Field Hockey)
+SUMMARY:[Canceled] Columbia High School at River Dell Regional High Schoo
+ l (Freshman Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 4:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102666818@super-essex-conference
@@ -489,5 +490,23 @@ SUMMARY:[Canceled] Columbia High School at Newark Academy (Varsity Girls
  Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104769232@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Columbia High School at James Caldwell High School (Varsity Girls
+  Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104877489@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Columbia High School at Livingston High School (Freshman Girls Fi
+ eld Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 END:VCALENDAR

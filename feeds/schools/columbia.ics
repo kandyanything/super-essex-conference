@@ -808,9 +808,10 @@ UID:arb:103873548@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T161500
 DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:Columbia High School at River Dell Regional High School (Freshman
-  Girls Field Hockey)
+SUMMARY:[Canceled] Columbia High School at River Dell Regional High Schoo
+ l (Freshman Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 4:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102666818@super-essex-conference
@@ -2351,9 +2352,10 @@ UID:arb:99801557@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T170000
 DTEND;TZID=America/New_York:20261019T190000
-SUMMARY:Columbia High School at Union City High School (Junior Varsity Bo
- ys Football)
+SUMMARY:[Canceled] Columbia High School at Union City High School (Junior
+  Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 5:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103877165@super-essex-conference
@@ -2373,6 +2375,23 @@ DTEND;TZID=America/New_York:20261019T193000
 SUMMARY:Columbia High School vs New Brunswick Middle School (Middle Schoo
  l Boys Football)
 DESCRIPTION:Middle School Boys Football - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104868816@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Columbia High School at Seton Hall Prep (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104769232@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Columbia High School at James Caldwell High School (Varsity Girls
+  Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99376470@super-essex-conference
@@ -2401,6 +2420,15 @@ DTEND;TZID=America/New_York:20261021T183000
 SUMMARY:Columbia High School vs Passaic County Tech Institute (Freshman B
  oys Football)
 DESCRIPTION:Freshman Boys Football - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104877489@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Columbia High School at Livingston High School (Freshman Girls Fi
+ eld Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101766399@super-essex-conference

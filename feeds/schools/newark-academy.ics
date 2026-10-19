@@ -1935,6 +1935,15 @@ SUMMARY:Newark Academy vs Blair Academy (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104878028@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T150000
+DTEND;TZID=America/New_York:20261022T170000
+SUMMARY:Newark Academy vs Morristown-Beard School (Middle School Boys Foo
+ tball)
+DESCRIPTION:Middle School Boys Football - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104832039@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T151500
@@ -1971,15 +1980,6 @@ SUMMARY:[Canceled] Mount Saint Dominic Academy vs Newark Academy (Junior
  Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
 STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102684736@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T160000
-DTEND;TZID=America/New_York:20261022T180000
-SUMMARY:Mount Saint Dominic Academy vs Newark Academy (Varsity Girls Girl
- s Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104564456@super-essex-conference
@@ -3059,6 +3059,15 @@ DTEND;TZID=America/New_York:20270128T213000
 SUMMARY:Millburn High School vs Newark Academy (Varsity Boys Boys Swimmin
  g)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104869508@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T173000
+DTEND;TZID=America/New_York:20270129T193000
+SUMMARY:Newark Academy at Lawrenceville Prep (Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104463562@super-essex-conference

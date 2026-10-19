@@ -349,8 +349,17 @@ UID:arb:102684736@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T160000
 DTEND;TZID=America/New_York:20261022T180000
-SUMMARY:Mount Saint Dominic Academy vs Newark Academy (Varsity Girls Girl
- s Soccer)
+SUMMARY:Mount Saint Dominic Academy vs Bayonne High School (Varsity Girls
+  Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104878378@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T161500
+DTEND;TZID=America/New_York:20261029T181500
+SUMMARY:Mount Saint Dominic Academy vs Ramapo High School (Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 END:VCALENDAR
