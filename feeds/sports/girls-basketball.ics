@@ -203,6 +203,15 @@ SUMMARY:Nutley High School at North Arlington High School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104899464@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T160000
+DTEND;TZID=America/New_York:20261210T180000
+SUMMARY:Cedar Grove High School vs Clifton High School (Varsity Girls Gir
+ ls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100686002@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T160000
@@ -785,6 +794,24 @@ DTEND;TZID=America/New_York:20261218T180000
 SUMMARY:West Essex High School vs Pope John XXIII High School (Middle Sch
  ool Girls Girls Basketball)
 DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104899473@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T163000
+DTEND;TZID=America/New_York:20261218T183000
+SUMMARY:Cedar Grove High School vs West Side High School (Varsity Girls G
+ irls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104899488@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T180000
+DTEND;TZID=America/New_York:20261218T200000
+SUMMARY:Cedar Grove High School vs West Side High School (Junior Varsity 
+ Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104213625@super-essex-conference
@@ -1961,13 +1988,13 @@ SUMMARY:West Essex High School vs Kinnelon High School (Middle School Gir
 DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100567002@super-essex-conference
+UID:arb:100567071@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T100000
 DTEND;TZID=America/New_York:20270109T120000
-SUMMARY:Cedar Grove High School vs North Star Academy (Varsity Girls Girl
- s Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
+SUMMARY:Cedar Grove High School vs North Star Academy (Junior Varsity Gir
+ ls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568541@super-essex-conference
@@ -2024,13 +2051,13 @@ SUMMARY:Bloomfield High School at Newark Collegiate Academy (Junior Varsi
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100567071@super-essex-conference
+UID:arb:100567002@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T113000
 DTEND;TZID=America/New_York:20270109T133000
-SUMMARY:Cedar Grove High School vs North Star Academy (Junior Varsity Gir
- ls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 11:30 AM
+SUMMARY:Cedar Grove High School vs North Star Academy (Varsity Girls Girl
+ s Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100562996@super-essex-conference
@@ -3878,6 +3905,15 @@ SUMMARY:Barringer High School at American History High School (Varsity Gi
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104899499@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T130000
+DTEND;TZID=America/New_York:20270123T150000
+SUMMARY:Cedar Grove High School vs Academy of St. Elizabeth (Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100560454@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T130000
@@ -4690,6 +4726,15 @@ SUMMARY:Bloomfield High School at Montclair Kimberley Academy (Varsity Gi
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104899512@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T100000
+DTEND;TZID=America/New_York:20270206T120000
+SUMMARY:Cedar Grove High School vs Montclair High School (Junior Varsity 
+ Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102984858@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T100000
@@ -4706,6 +4751,15 @@ DTEND;TZID=America/New_York:20270206T133000
 SUMMARY:Bloomfield High School at Montclair Kimberley Academy (Junior Var
  sity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104899506@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T113000
+DTEND;TZID=America/New_York:20270206T133000
+SUMMARY:Cedar Grove High School vs Montclair High School (Varsity Girls G
+ irls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102623619@super-essex-conference
@@ -5416,6 +5470,15 @@ SUMMARY:Belleville High School vs Bergenfield High School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104899518@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T100000
+DTEND;TZID=America/New_York:20270213T120000
+SUMMARY:Cedar Grove High School vs Roselle Park High School (Junior Varsi
+ ty Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101726576@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270213T100000
@@ -5432,6 +5495,15 @@ DTEND;TZID=America/New_York:20270213T123000
 SUMMARY:Livingston High School vs Randolph High School (Junior Varsity Gi
  rls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104899523@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T113000
+DTEND;TZID=America/New_York:20270213T133000
+SUMMARY:Cedar Grove High School vs Roselle Park High School (Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101726552@super-essex-conference

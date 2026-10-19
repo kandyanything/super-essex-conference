@@ -15635,9 +15635,10 @@ UID:arb:102430192@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260921T160000
 DTEND;TZID=America/New_York:20260921T180000
-SUMMARY:East Side High School at West Essex High School (Junior Varsity B
- oys Boys Soccer)
+SUMMARY:[Canceled] East Side High School at West Essex High School (Junio
+ r Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100660553@super-essex-conference
@@ -33698,9 +33699,10 @@ UID:arb:104825823@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Livingston High School at Ridge High School (Freshman Girls Girls
-  Volleyball)
+SUMMARY:[Canceled] Livingston High School at Ridge High School (Freshman 
+ Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104825782@super-essex-conference
@@ -34570,6 +34572,15 @@ SUMMARY:Montclair High School vs Montclair Kimberley Academy (Varsity Gir
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:99376464@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Mount Saint Dominic Academy vs Glen Ridge High School (Varsity Gi
+ rls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104848821@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T160000
@@ -34612,6 +34623,15 @@ DTEND;TZID=America/New_York:20261020T180000
 SUMMARY:Science Park High School vs Hillside High School (Varsity Girls G
  irls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104880283@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:West Essex High School at Mount Olive Township School District (M
+ iddle School Girls Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102952465@super-essex-conference
@@ -35092,6 +35112,15 @@ SUMMARY:Newark Lab High School at West Side High School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104879151@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T163000
+DTEND;TZID=America/New_York:20261021T183000
+SUMMARY:Newark Tech at McNair-Academic High School (Varsity Boys Boys Soc
+ cer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104187584@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T163000
@@ -35570,6 +35599,14 @@ SUMMARY:Mount Saint Dominic Academy vs Bayonne High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104883497@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Newark Tech vs Payne Tech (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104628672@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T160000
@@ -35622,6 +35659,15 @@ DTEND;TZID=America/New_York:20261022T180000
 SUMMARY:Verona High School at Montville Township High School (Freshman Bo
  ys Boys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104880302@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:West Essex High School at Mount Olive Township School District (M
+ iddle School Girls Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102344740@super-essex-conference
@@ -35890,6 +35936,15 @@ SUMMARY:Bloomfield High School vs Livingston High School (Varsity Boys Fo
 DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103493057@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T180000
+DTEND;TZID=America/New_York:20261022T200000
+SUMMARY:Columbia High School at Bayonne High School (Middle School Boys F
+ ootball)
+DESCRIPTION:Middle School Boys Football - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100194801@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T180000
@@ -35924,15 +35979,6 @@ DTEND;TZID=America/New_York:20261022T201500
 SUMMARY:Cedar Grove High School vs Nutley High School (Junior Varsity Gir
  ls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 6:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103493057@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T183000
-DTEND;TZID=America/New_York:20261022T203000
-SUMMARY:Columbia High School at Bayonne High School (Middle School Boys F
- ootball)
-DESCRIPTION:Middle School Boys Football - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104267488@super-essex-conference
@@ -36016,6 +36062,14 @@ DTSTART;TZID=America/New_York:20261023T150000
 DTEND;TZID=America/New_York:20261023T170000
 SUMMARY:Montclair High School at TBD (Varsity Coed Coed Cross Country)
 DESCRIPTION:Varsity Coed Coed Cross Country - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104880632@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:West Essex High School vs TBD (Middle School Girls Field Hockey)
+DESCRIPTION:Middle School Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104807657@super-essex-conference
@@ -36127,6 +36181,15 @@ SUMMARY:Millburn High School vs Union High School (Varsity Girls Girls So
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104884290@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:Montclair Kimberley Academy at Chatham High School (Freshman Boys
+  Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104338518@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T160000
@@ -36152,6 +36215,23 @@ SUMMARY:[Postponed] Nutley High School vs Lyndhurst High School (Varsity
  Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104881547@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:Payne Tech at Roselle Park High School (Junior Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104881514@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:Payne Tech at Roselle Park High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102904095@super-essex-conference
@@ -36189,15 +36269,6 @@ DTEND;TZID=America/New_York:20261023T180000
 SUMMARY:West Essex High School vs James Caldwell High School (Freshman Gi
  rls Girls Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101772247@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261023T160000
-DTEND;TZID=America/New_York:20261023T180000
-SUMMARY:West Essex High School vs Summit High School (Freshman Girls Fiel
- d Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102206935@super-essex-conference
@@ -36252,6 +36323,15 @@ DTEND;TZID=America/New_York:20261023T183000
 SUMMARY:East Orange Campus High School at McNair-Academic High School (Va
  rsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104883074@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T163000
+DTEND;TZID=America/New_York:20261023T183000
+SUMMARY:East Side High School vs Newark School of Data Science (Varsity B
+ oys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102130966@super-essex-conference
@@ -36530,6 +36610,15 @@ DTEND;TZID=America/New_York:20261024T110000
 SUMMARY:West Essex High School at Passaic County Tech Institute (Freshman
   Boys Football)
 DESCRIPTION:Freshman Boys Football - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104884178@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T093000
+DTEND;TZID=America/New_York:20261024T113000
+SUMMARY:Cedar Grove High School at Hoboken High School (Varsity Girls Gir
+ ls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102787354@super-essex-conference
@@ -36979,6 +37068,15 @@ DTEND;TZID=America/New_York:20261026T180000
 SUMMARY:West Essex High School at Morris Knolls High School (Freshman Gir
  ls Girls Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101772247@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:West Essex High School vs Summit High School (Freshman Girls Fiel
+ d Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101132020@super-essex-conference
@@ -37872,6 +37970,24 @@ SUMMARY:Columbia High School at Newark Academy (Junior Varsity Girls Girl
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104885495@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Glen Ridge High School vs West Essex High School (Junior Varsity 
+ Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104885177@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Glen Ridge High School vs West Essex High School (Varsity Boys Bo
+ ys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103461626@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T160000
@@ -38077,6 +38193,14 @@ SUMMARY:Columbia High School vs Lincoln High School (Varsity Boys Footbal
 DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104883719@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T183000
+DTEND;TZID=America/New_York:20261029T203000
+SUMMARY:Nutley High School vs Clifton High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101342742@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261029
@@ -38092,6 +38216,15 @@ DTEND;TZID=America/New_York:20261030T180000
 SUMMARY:Montclair Kimberley Academy vs The Pingry School (Varsity Girls G
  irls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104886509@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T160000
+DTEND;TZID=America/New_York:20261030T180000
+SUMMARY:Mount Saint Dominic Academy at West Morris Central High School (V
+ arsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102779883@super-essex-conference
@@ -38921,12 +39054,39 @@ SUMMARY:Barringer High School at Montclair High School (Varsity Coed Coed
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104888075@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Bloomfield High School vs Newark Tech (Freshman Boys Boys Basketb
+ all)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100664919@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
 DTEND;TZID=America/New_York:20261208T180000
 SUMMARY:Bloomfield High School vs Newark Tech (Varsity Boys Boys Basketba
  ll)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104899292@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Cedar Grove High School vs Whippany Park High School (Freshman Bo
+ ys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104899273@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Cedar Grove High School vs Whippany Park High School (Varsity Boy
+ s Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -39412,6 +39572,15 @@ DTEND;TZID=America/New_York:20261210T180000
 SUMMARY:Bloomfield High School vs Verona High School (Varsity Boys Boys T
  rack & Field - Outdoor)
 DESCRIPTION:Varsity Boys Boys Track & Field - Outdoor - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104899464@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T160000
+DTEND;TZID=America/New_York:20261210T180000
+SUMMARY:Cedar Grove High School vs Clifton High School (Varsity Girls Gir
+ ls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100908324@super-essex-conference
@@ -40022,6 +40191,15 @@ SUMMARY:Bloomfield High School vs Orange High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104899348@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T110000
+DTEND;TZID=America/New_York:20261212T130000
+SUMMARY:Cedar Grove High School vs Manchester Regional High School (Varsi
+ ty Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103675801@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T110000
@@ -40423,6 +40601,15 @@ DTEND;TZID=America/New_York:20261215T180000
 SUMMARY:Cedar Grove High School at University High School (Varsity Boys B
  oys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104895836@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T160000
+DTEND;TZID=America/New_York:20261215T180000
+SUMMARY:Eagle Academy at Passaic Valley High School (Varsity Boys Boys Fe
+ ncing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100564895@super-essex-conference
@@ -41997,6 +42184,15 @@ SUMMARY:Columbia High School at West Orange High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104892648@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T160000
+DTEND;TZID=America/New_York:20261218T180000
+SUMMARY:Livingston High School at Clifton High School (Varsity Boys Boys 
+ Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104142374@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T160000
@@ -42022,6 +42218,15 @@ DTEND;TZID=America/New_York:20261218T180000
 SUMMARY:West Essex High School at Pope John XXIII High School (Middle Sch
  ool Boys Boys Basketball)
 DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104899473@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T163000
+DTEND;TZID=America/New_York:20261218T183000
+SUMMARY:Cedar Grove High School vs West Side High School (Varsity Girls G
+ irls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104834517@super-essex-conference
@@ -42076,6 +42281,15 @@ DTEND;TZID=America/New_York:20261218T193000
 SUMMARY:North Star Academy at Abraham Clark High School (Junior Varsity B
  oys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104899488@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T180000
+DTEND;TZID=America/New_York:20261218T200000
+SUMMARY:Cedar Grove High School vs West Side High School (Junior Varsity 
+ Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103851085@super-essex-conference
@@ -43536,6 +43750,15 @@ DTEND;TZID=America/New_York:20261223T120000
 SUMMARY:Livingston High School at West Morris Central High School (Varsit
  y Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104899358@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T110000
+DTEND;TZID=America/New_York:20261223T130000
+SUMMARY:Cedar Grove High School vs Harrison High School (Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104496629@super-essex-conference
@@ -46474,13 +46697,13 @@ SUMMARY:Bloomfield High School at West Orange High School (Freshman Boys
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100567002@super-essex-conference
+UID:arb:100567071@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T100000
 DTEND;TZID=America/New_York:20270109T120000
-SUMMARY:Cedar Grove High School vs North Star Academy (Varsity Girls Girl
- s Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
+SUMMARY:Cedar Grove High School vs North Star Academy (Junior Varsity Gir
+ ls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549475@super-essex-conference
@@ -46699,13 +46922,13 @@ SUMMARY:Bloomfield High School at West Orange High School (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100567071@super-essex-conference
+UID:arb:100567002@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T113000
 DTEND;TZID=America/New_York:20270109T133000
-SUMMARY:Cedar Grove High School vs North Star Academy (Junior Varsity Gir
- ls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 11:30 AM
+SUMMARY:Cedar Grove High School vs North Star Academy (Varsity Girls Girl
+ s Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100562996@super-essex-conference
@@ -47167,6 +47390,14 @@ DTEND;TZID=America/New_York:20270110T170000
 SUMMARY:Malcolm X Shabazz High School vs Weequahic High School (Varsity B
  oys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103932115@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270110T190000
+DTEND;TZID=America/New_York:20270110T210000
+SUMMARY:Seton Hall Prep vs TBD (Junior Varsity Boys Boys Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104492766@super-essex-conference
@@ -51358,15 +51589,6 @@ SUMMARY:Cedar Grove High School at Nutley High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100551808@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270121T160000
-DTEND;TZID=America/New_York:20270121T180000
-SUMMARY:Cedar Grove High School vs Montclair Kimberley Academy (Varsity B
- oys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100534877@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T160000
@@ -51922,6 +52144,15 @@ DTEND;TZID=America/New_York:20270121T210000
 SUMMARY:Bloomfield High School at East Orange Campus High School (Varsity
   Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100551808@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T190000
+DTEND;TZID=America/New_York:20270121T210000
+SUMMARY:Cedar Grove High School vs Montclair Kimberley Academy (Varsity B
+ oys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100534704@super-essex-conference
@@ -52671,6 +52902,15 @@ DTEND;TZID=America/New_York:20270123T150000
 SUMMARY:Barringer High School at American History High School (Varsity Gi
  rls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104899499@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T130000
+DTEND;TZID=America/New_York:20270123T150000
+SUMMARY:Cedar Grove High School vs Academy of St. Elizabeth (Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100548773@super-essex-conference
@@ -55154,15 +55394,6 @@ SUMMARY:Livingston High School at Summit High School (Varsity Boys Boys I
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104312147@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T183000
-DTEND;TZID=America/New_York:20270202T203000
-SUMMARY:Montclair High School vs Saint Peter's Prep High School (Varsity 
- Boys Boys Fencing)
-DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100552386@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T190000
@@ -55638,6 +55869,15 @@ SUMMARY:Montclair High School vs Oak Knoll School of the Holy Child (Vars
 DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104312147@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T183000
+DTEND;TZID=America/New_York:20270204T203000
+SUMMARY:Montclair High School vs Saint Peter's Prep High School (Varsity 
+ Boys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103884256@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T190000
@@ -55924,6 +56164,15 @@ SUMMARY:Bloomfield High School vs Union High School (Varsity Boys Boys Wr
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104899512@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T100000
+DTEND;TZID=America/New_York:20270206T120000
+SUMMARY:Cedar Grove High School vs Montclair High School (Junior Varsity 
+ Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102984858@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T100000
@@ -55960,6 +56209,15 @@ SUMMARY:West Essex High School vs Ramsey High School (Freshman Boys Boys
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104885882@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T100000
+DTEND;TZID=America/New_York:20270206T120000
+SUMMARY:West Orange High School at Pompton Lakes High School (Varsity Boy
+ s Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103928151@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T103000
@@ -55994,6 +56252,15 @@ DTEND;TZID=America/New_York:20270206T133000
 SUMMARY:Bloomfield High School at Montclair Kimberley Academy (Junior Var
  sity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104899506@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T113000
+DTEND;TZID=America/New_York:20270206T133000
+SUMMARY:Cedar Grove High School vs Montclair High School (Varsity Girls G
+ irls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102623619@super-essex-conference
@@ -56965,15 +57232,6 @@ SUMMARY:Cedar Grove High School at East Side High School (Varsity Girls G
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100551853@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270211T160000
-DTEND;TZID=America/New_York:20270211T180000
-SUMMARY:Cedar Grove High School vs Newark School of Global Studies (Varsi
- ty Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100548912@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T160000
@@ -57503,6 +57761,15 @@ SUMMARY:Bloomfield High School vs Millburn High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100551853@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T190000
+DTEND;TZID=America/New_York:20270211T210000
+SUMMARY:Cedar Grove High School vs Newark School of Global Studies (Varsi
+ ty Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100548863@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T190000
@@ -57674,6 +57941,15 @@ SUMMARY:Bloomfield High School at Nutley High School (Varsity Boys Boys W
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104899518@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T100000
+DTEND;TZID=America/New_York:20270213T120000
+SUMMARY:Cedar Grove High School vs Roselle Park High School (Junior Varsi
+ ty Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104828538@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270213T100000
@@ -57708,6 +57984,15 @@ DTEND;TZID=America/New_York:20270213T123000
 SUMMARY:Newark Lab High School vs Beloved Community Charter School (Junio
  r Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104899523@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T113000
+DTEND;TZID=America/New_York:20270213T133000
+SUMMARY:Cedar Grove High School vs Roselle Park High School (Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101726552@super-essex-conference
@@ -57836,6 +58121,24 @@ SUMMARY:Newark Collegiate Academy vs West Side High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104899373@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270216T160000
+DTEND;TZID=America/New_York:20270216T180000
+SUMMARY:Cedar Grove High School vs Henry P. Becton Regional High School (
+ Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104899369@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270216T160000
+DTEND;TZID=America/New_York:20270216T180000
+SUMMARY:Cedar Grove High School vs Henry P. Becton Regional High School (
+ Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100566894@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270216T160000
@@ -57924,6 +58227,15 @@ DTEND;TZID=America/New_York:20270216T190000
 SUMMARY:James Caldwell High School at Colts Neck High School (Varsity Gir
  ls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104899378@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270216T173000
+DTEND;TZID=America/New_York:20270216T193000
+SUMMARY:Cedar Grove High School vs Henry P. Becton Regional High School (
+ Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103928174@super-essex-conference

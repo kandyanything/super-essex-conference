@@ -2519,9 +2519,10 @@ UID:arb:104825823@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Livingston High School at Ridge High School (Freshman Girls Girls
-  Volleyball)
+SUMMARY:[Canceled] Livingston High School at Ridge High School (Freshman 
+ Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104825782@super-essex-conference
@@ -3052,6 +3053,15 @@ DTEND;TZID=America/New_York:20261217T210000
 SUMMARY:Livingston High School vs North Star Academy (Varsity Girls Girls
   Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104892648@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T160000
+DTEND;TZID=America/New_York:20261218T180000
+SUMMARY:Livingston High School at Clifton High School (Varsity Boys Boys 
+ Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100560858@super-essex-conference

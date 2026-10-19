@@ -33,6 +33,15 @@ SUMMARY:Cedar Grove High School at Paterson Arts & Science Charter School
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104899273@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Cedar Grove High School vs Whippany Park High School (Varsity Boy
+ s Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100908324@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T160000
@@ -40,6 +49,15 @@ DTEND;TZID=America/New_York:20261210T180000
 SUMMARY:Cedar Grove High School at Kearny High School (Varsity Boys Boys 
  Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104899348@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T110000
+DTEND;TZID=America/New_York:20261212T130000
+SUMMARY:Cedar Grove High School vs Manchester Regional High School (Varsi
+ ty Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551273@super-essex-conference
@@ -85,6 +103,15 @@ DTEND;TZID=America/New_York:20261221T200000
 SUMMARY:Cedar Grove High School at Hopatcong High School (Varsity Boys Bo
  ys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104899358@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T110000
+DTEND;TZID=America/New_York:20261223T130000
+SUMMARY:Cedar Grove High School vs Harrison High School (Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104716109@super-essex-conference
@@ -152,11 +179,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551808@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270121T160000
-DTEND;TZID=America/New_York:20270121T180000
+DTSTART;TZID=America/New_York:20270121T190000
+DTEND;TZID=America/New_York:20270121T210000
 SUMMARY:Cedar Grove High School vs Montclair Kimberley Academy (Varsity B
  oys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551834@super-essex-conference
@@ -197,10 +224,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551853@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270211T160000
-DTEND;TZID=America/New_York:20270211T180000
+DTSTART;TZID=America/New_York:20270211T190000
+DTEND;TZID=America/New_York:20270211T210000
 SUMMARY:Cedar Grove High School vs Newark School of Global Studies (Varsi
  ty Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104899369@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270216T160000
+DTEND;TZID=America/New_York:20270216T180000
+SUMMARY:Cedar Grove High School vs Henry P. Becton Regional High School (
+ Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT

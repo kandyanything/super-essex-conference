@@ -3299,6 +3299,14 @@ DESCRIPTION:Middle School Girls Field Hockey - Home - 4:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104880632@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:West Essex High School vs TBD (Middle School Girls Field Hockey)
+DESCRIPTION:Middle School Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104338518@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T160000
@@ -3314,15 +3322,6 @@ DTEND;TZID=America/New_York:20261023T180000
 SUMMARY:Verona High School vs Mount Saint Mary Academy (Varsity Girls Fie
  ld Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101772247@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261023T160000
-DTEND;TZID=America/New_York:20261023T180000
-SUMMARY:West Essex High School vs Summit High School (Freshman Girls Fiel
- d Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104442572@super-essex-conference
@@ -3358,6 +3357,15 @@ DTEND;TZID=America/New_York:20261026T180000
 SUMMARY:Glen Ridge High School vs Kent Place School (Varsity Girls Field 
  Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101772247@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:West Essex High School vs Summit High School (Freshman Girls Fiel
+ d Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103211368@super-essex-conference

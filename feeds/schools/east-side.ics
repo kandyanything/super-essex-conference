@@ -616,9 +616,10 @@ UID:arb:102430192@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260921T160000
 DTEND;TZID=America/New_York:20260921T180000
-SUMMARY:East Side High School at West Essex High School (Junior Varsity B
- oys Boys Soccer)
+SUMMARY:[Canceled] East Side High School at West Essex High School (Junio
+ r Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100660553@super-essex-conference
@@ -1333,6 +1334,15 @@ DTEND;TZID=America/New_York:20261023T180000
 SUMMARY:Bard Early College vs East Side High School (Varsity Girls Girls 
  Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104883074@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T163000
+DTEND;TZID=America/New_York:20261023T183000
+SUMMARY:East Side High School vs Newark School of Data Science (Varsity B
+ oys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102856114@super-essex-conference
