@@ -2733,6 +2733,15 @@ SUMMARY:Bloomfield High School at Livingston High School (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104929164@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:Livingston High School at Phillipsburg High School (Freshman Boys
+  Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102336616@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T160000
@@ -2798,11 +2807,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:103303860@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261030T163000
-DTEND;TZID=America/New_York:20261030T183000
+DTSTART;TZID=America/New_York:20261030T183000
+DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Livingston High School vs North Arlington High School (Varsity Gi
  rls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:30 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104333770@super-essex-conference
@@ -3563,6 +3572,15 @@ DTEND;TZID=America/New_York:20270113T210000
 SUMMARY:East Side High School at Livingston High School (Varsity Boys Boy
  s Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104912698@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Livingston High School at Oratory Prep School (Varsity Boys Boys 
+ Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100563116@super-essex-conference
