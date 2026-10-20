@@ -79,11 +79,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:103257817@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270105T171500
-DTEND;TZID=America/New_York:20270105T191500
-SUMMARY:Golda Och Academy vs North Star Academy (Middle School Girls Girl
- s Basketball)
-DESCRIPTION:Middle School Girls Girls Basketball - Home - 5:15 PM
+DTSTART;TZID=America/New_York:20270105T163000
+DTEND;TZID=America/New_York:20270105T183000
+SUMMARY:Golda Och Academy vs Gill St. Bernard's School (Middle School Gir
+ ls Girls Basketball)
+DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100897938@super-essex-conference
@@ -104,6 +104,15 @@ SUMMARY:West Essex High School vs Kinnelon High School (Middle School Gir
 DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103257827@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T160000
+DTEND;TZID=America/New_York:20270111T180000
+SUMMARY:Golda Och Academy vs Kent Place School (Middle School Girls Girls
+  Basketball)
+DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104266511@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T160000
@@ -111,15 +120,6 @@ DTEND;TZID=America/New_York:20270111T180000
 SUMMARY:West Essex High School vs Sparta High School (Middle School Girls
   Girls Basketball)
 DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103257827@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270111T163000
-DTEND;TZID=America/New_York:20270111T183000
-SUMMARY:Golda Och Academy vs Kent Place School (Middle School Girls Girls
-  Basketball)
-DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104266518@super-essex-conference

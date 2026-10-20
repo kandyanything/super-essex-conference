@@ -1475,6 +1475,15 @@ SUMMARY:Bard Early College vs American History High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103257817@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T163000
+DTEND;TZID=America/New_York:20270105T183000
+SUMMARY:Golda Och Academy vs Gill St. Bernard's School (Middle School Gir
+ ls Girls Basketball)
+DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100569687@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T163000
@@ -1482,15 +1491,6 @@ DTEND;TZID=America/New_York:20270105T183000
 SUMMARY:Malcolm X Shabazz High School vs Saint Benedict's Prep (Varsity G
  irls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103257817@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270105T171500
-DTEND;TZID=America/New_York:20270105T191500
-SUMMARY:Golda Och Academy vs North Star Academy (Middle School Girls Girl
- s Basketball)
-DESCRIPTION:Middle School Girls Girls Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100563179@super-essex-conference
@@ -2216,6 +2216,15 @@ SUMMARY:West Side High School at Fair Lawn High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103257827@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T160000
+DTEND;TZID=America/New_York:20270111T180000
+SUMMARY:Golda Och Academy vs Kent Place School (Middle School Girls Girls
+  Basketball)
+DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104266511@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T160000
@@ -2241,15 +2250,6 @@ DTEND;TZID=America/New_York:20270111T183000
 SUMMARY:Belleville High School vs Lumen Gentium Academy (Varsity Girls Gi
  rls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103257827@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270111T163000
-DTEND;TZID=America/New_York:20270111T183000
-SUMMARY:Golda Och Academy vs Kent Place School (Middle School Girls Girls
-  Basketball)
-DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100569372@super-essex-conference
@@ -3977,6 +3977,15 @@ SUMMARY:Central High School at Mount Saint Dominic Academy (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100562802@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T160000
+DTEND;TZID=America/New_York:20270125T180000
+SUMMARY:Montclair High School at Payne Tech (Junior Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100560284@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T173000
@@ -3984,6 +3993,15 @@ DTEND;TZID=America/New_York:20270125T193000
 SUMMARY:Central High School at Mount Saint Dominic Academy (Junior Varsit
  y Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100562733@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T173000
+DTEND;TZID=America/New_York:20270125T193000
+SUMMARY:Montclair High School at Payne Tech (Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100563133@super-essex-conference
@@ -4056,15 +4074,6 @@ DTEND;TZID=America/New_York:20270126T180000
 SUMMARY:East Side High School vs Nutley High School (Varsity Girls Girls 
  Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100562733@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T160000
-DTEND;TZID=America/New_York:20270126T180000
-SUMMARY:Montclair High School at Payne Tech (Varsity Girls Girls Basketba
- ll)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100562481@super-essex-conference
@@ -4218,15 +4227,6 @@ DTEND;TZID=America/New_York:20270126T193000
 SUMMARY:Millburn High School vs North Star Academy (Junior Varsity Girls 
  Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100562802@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T173000
-DTEND;TZID=America/New_York:20270126T193000
-SUMMARY:Montclair High School at Payne Tech (Junior Varsity Girls Girls B
- asketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100562559@super-essex-conference

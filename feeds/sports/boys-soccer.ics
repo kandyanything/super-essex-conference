@@ -7580,7 +7580,8 @@ UID:arb:104853994@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T154500
 DTEND;TZID=America/New_York:20261020T174500
-SUMMARY:Montclair Kimberley Academy vs TBD (Varsity Boys Boys Soccer)
+SUMMARY:Montclair Kimberley Academy vs Glen Ridge High School (Varsity Bo
+ ys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -7614,9 +7615,10 @@ UID:arb:104826549@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T160000
 DTEND;TZID=America/New_York:20261020T180000
-SUMMARY:Livingston High School at Linden High School (Varsity Boys Boys S
- occer)
+SUMMARY:[Canceled] Livingston High School at Linden High School (Varsity 
+ Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104848895@super-essex-conference
@@ -7724,8 +7726,10 @@ UID:arb:104613486@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T160000
 DTEND;TZID=America/New_York:20261021T180000
-SUMMARY:Newark Academy vs Blair Academy (Junior Varsity Boys Boys Soccer)
+SUMMARY:[Canceled] Newark Academy vs Blair Academy (Junior Varsity Boys B
+ oys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102981365@super-essex-conference
@@ -7777,8 +7781,10 @@ UID:arb:102525063@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T163000
 DTEND;TZID=America/New_York:20261021T183000
-SUMMARY:Newark Academy vs Blair Academy (Varsity Boys Boys Soccer)
+SUMMARY:[Canceled] Newark Academy vs Blair Academy (Varsity Boys Boys Soc
+ cer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104879151@super-essex-conference
@@ -7976,6 +7982,15 @@ DTEND;TZID=America/New_York:20261022T181500
 SUMMARY:Irvington High School vs Oratory Prep School (Varsity Boys Boys S
  occer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104910340@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T161500
+DTEND;TZID=America/New_York:20261022T181500
+SUMMARY:Technology High School at James Caldwell High School (Varsity Boy
+ s Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104647384@super-essex-conference
