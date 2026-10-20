@@ -4657,9 +4657,10 @@ UID:arb:102856114@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T171500
 DTEND;TZID=America/New_York:20261023T191500
-SUMMARY:Bard Early College vs East Side High School (Junior Varsity Girls
-  Girls Volleyball)
+SUMMARY:[Canceled] Bard Early College vs East Side High School (Junior Va
+ rsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102083769@super-essex-conference
@@ -4712,9 +4713,9 @@ UID:arb:104911207@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T080000
 DTEND;TZID=America/New_York:20261024T100000
-SUMMARY:Payne Tech at Union High School (Junior Varsity Girls Girls Volle
+SUMMARY:Payne Tech vs Union High School (Junior Varsity Girls Girls Volle
  yball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 8:00 AM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103174654@super-essex-conference
@@ -4730,8 +4731,8 @@ UID:arb:104903959@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T113000
 DTEND;TZID=America/New_York:20261024T133000
-SUMMARY:Columbia High School vs TBD (Junior Varsity Girls Girls Volleybal
- l)
+SUMMARY:Columbia High School vs Mendham High School (Junior Varsity Girls
+  Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -4779,6 +4780,15 @@ DTEND;TZID=America/New_York:20261027T180000
 SUMMARY:James Caldwell High School at Pequannock Township High School (Ju
  nior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104937304@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T171500
+DTEND;TZID=America/New_York:20261027T191500
+SUMMARY:Barringer High School vs Central High School (Junior Varsity Girl
+ s Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103900642@super-essex-conference

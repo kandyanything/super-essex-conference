@@ -3268,16 +3268,9 @@ UID:arb:104767160@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T153000
 DTEND;TZID=America/New_York:20261022T173000
-SUMMARY:West Essex High School vs TBD (Varsity Girls Field Hockey)
+SUMMARY:West Essex High School vs James Caldwell High School (Varsity Gir
+ ls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104767153@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T160000
-DTEND;TZID=America/New_York:20261022T180000
-SUMMARY:Glen Ridge High School vs TBD (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104877489@super-essex-conference
@@ -3287,6 +3280,15 @@ DTEND;TZID=America/New_York:20261022T180000
 SUMMARY:Columbia High School at Livingston High School (Freshman Girls Fi
  eld Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104767153@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Glen Ridge High School vs Montclair High School (Varsity Girls Fi
+ eld Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102344740@super-essex-conference
@@ -3331,6 +3333,24 @@ DTEND;TZID=America/New_York:20261023T193000
 SUMMARY:Verona High School vs Mount Saint Mary Academy (Junior Varsity Gi
  rls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104938098@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T100000
+DTEND;TZID=America/New_York:20261024T120000
+SUMMARY:Montclair Kimberley Academy vs Morristown-Beard School (Varsity G
+ irls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104938112@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T113000
+DTEND;TZID=America/New_York:20261024T133000
+SUMMARY:Montclair Kimberley Academy vs Morristown High School (Junior Var
+ sity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103967548@super-essex-conference
