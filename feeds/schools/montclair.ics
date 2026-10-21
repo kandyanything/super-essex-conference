@@ -3289,6 +3289,24 @@ SUMMARY:Montclair High School vs TBD (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104946669@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T160000
+DTEND;TZID=America/New_York:20261028T180000
+SUMMARY:Montclair High School at Westfield High School (Junior Varsity Bo
+ ys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104946575@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T160000
+DTEND;TZID=America/New_York:20261028T180000
+SUMMARY:Montclair High School at Westfield High School (Varsity Boys Boys
+  Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103966669@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T040000
@@ -4297,6 +4315,24 @@ DTEND;TZID=America/New_York:20270119T210000
 SUMMARY:Bloomfield High School at Montclair High School (Varsity Boys Boy
  s Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104947698@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Montclair High School vs Kinnelon High School (Varsity Girls Girl
+ s Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104947561@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Montclair High School vs Kinnelon High School (Varsity Boys Boys 
+ Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104189482@super-essex-conference
