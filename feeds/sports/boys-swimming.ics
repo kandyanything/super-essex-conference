@@ -59,6 +59,15 @@ SUMMARY:Livingston High School at West Essex High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104504736@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Montclair High School at Montclair Kimberley Academy (Varsity Boy
+ s Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104607054@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
@@ -66,15 +75,6 @@ DTEND;TZID=America/New_York:20261208T180000
 SUMMARY:Science Park High School vs Passaic High School (Varsity Boys Boy
  s Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104504736@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261209T160000
-DTEND;TZID=America/New_York:20261209T180000
-SUMMARY:Montclair High School at Montclair Kimberley Academy (Varsity Boy
- s Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104231482@super-essex-conference

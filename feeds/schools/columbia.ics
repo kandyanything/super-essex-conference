@@ -2511,6 +2511,15 @@ SUMMARY:Columbia High School at Governor Livingston High School (Freshman
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:99376194@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:Columbia High School vs Bard High School Early College Newark (Va
+ rsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103020988@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261023
@@ -2519,13 +2528,22 @@ SUMMARY:Columbia High School at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104903951@super-essex-conference
+UID:arb:104956977@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T100000
 DTEND;TZID=America/New_York:20261024T120000
 SUMMARY:Columbia High School vs Mendham High School (Varsity Girls Girls 
- Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:00 AM
+ Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104956908@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T100000
+DTEND;TZID=America/New_York:20261024T120000
+SUMMARY:Columbia High School vs Millburn High School (Junior Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100920524@super-essex-conference
@@ -2541,9 +2559,18 @@ UID:arb:104903959@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T113000
 DTEND;TZID=America/New_York:20261024T133000
-SUMMARY:Columbia High School vs Mendham High School (Junior Varsity Girls
-  Girls Volleyball)
+SUMMARY:Columbia High School vs TBD (Junior Varsity Girls Girls Volleybal
+ l)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104959963@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:Columbia High School vs Newark Academy (Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102538657@super-essex-conference
@@ -2659,6 +2686,15 @@ DTEND;VALUE=DATE:20261029
 SUMMARY:Columbia High School at TBD (Junior Varsity Girls Girls Cross Cou
  ntry)
 DESCRIPTION:Junior Varsity Girls Girls Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104954282@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Columbia High School at Millburn High School (Varsity Girls Field
+  Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102525488@super-essex-conference

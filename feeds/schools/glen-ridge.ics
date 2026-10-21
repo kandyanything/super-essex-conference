@@ -2080,15 +2080,6 @@ SUMMARY:Glen Ridge High School vs Morristown-Beard School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104872427@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T160000
-DTEND;TZID=America/New_York:20261022T180000
-SUMMARY:Glen Ridge High School at Jonathan Dayton High School (Freshman B
- oys Boys Soccer)
-DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104767153@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T160000
@@ -2126,10 +2117,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:103223522@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
+DTSTART;TZID=America/New_York:20261023T141500
+DTEND;TZID=America/New_York:20261023T161500
 SUMMARY:Glen Ridge High School vs TBD (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Home
+DESCRIPTION:Varsity Girls Girls Cross Country - Home - 2:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104910709@super-essex-conference
@@ -2283,9 +2274,10 @@ UID:arb:104885495@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T160000
 DTEND;TZID=America/New_York:20261029T180000
-SUMMARY:Glen Ridge High School vs West Essex High School (Junior Varsity 
- Boys Boys Soccer)
+SUMMARY:[Canceled] Glen Ridge High School vs West Essex High School (Juni
+ or Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104885177@super-essex-conference

@@ -2345,18 +2345,19 @@ UID:arb:102308388@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T100000
 DTEND;TZID=America/New_York:20261024T120000
-SUMMARY:Montclair Kimberley Academy vs Randolph High School (Junior Varsi
- ty Boys Boys Soccer)
+SUMMARY:[Canceled] Montclair Kimberley Academy vs Randolph High School (J
+ unior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100713324@super-essex-conference
+UID:arb:104963719@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T110000
 DTEND;TZID=America/New_York:20261024T130000
-SUMMARY:Bloomfield High School at Memorial High School (Junior Varsity Bo
+SUMMARY:Bloomfield High School vs Memorial High School (Junior Varsity Bo
  ys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 11:00 AM
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103987574@super-essex-conference
@@ -2384,6 +2385,15 @@ DTEND;TZID=America/New_York:20261026T180000
 SUMMARY:Livingston High School vs Phillipsburg High School (Junior Varsit
  y Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104955086@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T161500
+DTEND;TZID=America/New_York:20261027T181500
+SUMMARY:Verona High School vs Kearny High School (Junior Varsity Boys Boy
+ s Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100565668@super-essex-conference
@@ -2426,9 +2436,10 @@ UID:arb:104885495@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T160000
 DTEND;TZID=America/New_York:20261029T180000
-SUMMARY:Glen Ridge High School vs West Essex High School (Junior Varsity 
- Boys Boys Soccer)
+SUMMARY:[Canceled] Glen Ridge High School vs West Essex High School (Juni
+ or Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103066778@super-essex-conference
