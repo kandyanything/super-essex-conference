@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:104973117@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T203000
+DTEND;TZID=America/New_York:20261210T223000
+SUMMARY:Montclair High School at Verona High School (Varsity Boys Boys Sw
+ imming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 8:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104457159@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T160000
@@ -32,6 +41,15 @@ SUMMARY:Saint Benedict's Prep vs Verona High School (Varsity Boys Boys Sw
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104973158@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T203000
+DTEND;TZID=America/New_York:20261217T223000
+SUMMARY:Bloomfield High School at Verona High School (Varsity Boys Boys S
+ wimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 8:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104607086@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T160000
@@ -39,6 +57,15 @@ DTEND;TZID=America/New_York:20270107T180000
 SUMMARY:Science Park High School vs Verona High School (Varsity Boys Boys
   Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104973176@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T203000
+DTEND;TZID=America/New_York:20270114T223000
+SUMMARY:Verona High School vs James Caldwell High School (Varsity Boys Bo
+ ys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 8:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104913194@super-essex-conference

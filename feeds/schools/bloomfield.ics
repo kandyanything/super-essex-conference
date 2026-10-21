@@ -2624,17 +2624,28 @@ UID:arb:104888075@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
 DTEND;TZID=America/New_York:20261208T180000
-SUMMARY:Bloomfield High School vs Newark Tech (Freshman Boys Boys Basketb
- all)
+SUMMARY:[Canceled] Bloomfield High School vs Newark Tech (Freshman Boys B
+ oys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664919@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
 DTEND;TZID=America/New_York:20261208T180000
-SUMMARY:Bloomfield High School vs Newark Tech (Varsity Boys Boys Basketba
- ll)
+SUMMARY:[Canceled] Bloomfield High School vs Newark Tech (Varsity Boys Bo
+ ys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104971249@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T160000
+DTEND;TZID=America/New_York:20261209T180000
+SUMMARY:Bloomfield High School vs Elizabeth High School (Varsity Boys Boy
+ s Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2645,6 +2656,15 @@ DTEND;TZID=America/New_York:20261209T190000
 SUMMARY:Bloomfield High School vs Secaucus High School (Varsity Boys Boys
   Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104971266@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T173000
+DTEND;TZID=America/New_York:20261209T193000
+SUMMARY:Bloomfield High School vs Elizabeth High School (Junior Varsity B
+ oys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101044022@super-essex-conference
@@ -2815,6 +2835,15 @@ DTEND;TZID=America/New_York:20261217T210000
 SUMMARY:Bloomfield High School vs Montclair High School (Varsity Boys Boy
  s Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104973158@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T203000
+DTEND;TZID=America/New_York:20261217T223000
+SUMMARY:Bloomfield High School at Verona High School (Varsity Boys Boys S
+ wimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 8:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104947747@super-essex-conference
