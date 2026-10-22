@@ -256,8 +256,24 @@
     line-height: 1.2;
 }
 
-.directory-body h3 a { color: inherit; text-decoration: none; }
-.directory-body h3 a:hover { color: var(--red); }
+/* A school name is a link only for schools that gave us an athletics site
+   (directory.json -> website). With no resting cue it is undiscoverable, and
+   on touch there is no :hover at all - so mark it with a gold underline.
+   text-decoration, not a border, so it survives a name wrapping to 2 lines. */
+.directory-body h3 a {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-color: var(--silver);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+    transition: color .18s, text-decoration-color .18s;
+}
+
+.directory-body h3 a:hover,
+.directory-body h3 a:focus-visible {
+    color: var(--red);
+    text-decoration-color: var(--red);
+}
 
 .directory-ad {
     margin: 0 0 6px;
