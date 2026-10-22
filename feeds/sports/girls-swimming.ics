@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:104975664@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T201500
+DTEND;TZID=America/New_York:20261215T221500
+SUMMARY:Columbia High School vs Montclair Kimberley Academy (Varsity Girl
+ s Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 8:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104320969@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T160000
@@ -30,5 +39,23 @@ DTEND;TZID=America/New_York:20270112T180000
 SUMMARY:Mount Saint Dominic Academy at Newark Academy (Varsity Girls Girl
  s Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104976266@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T201500
+DTEND;TZID=America/New_York:20270126T221500
+SUMMARY:Columbia High School vs Livingston High School (Varsity Girls Gir
+ ls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 8:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104976181@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T201500
+DTEND;TZID=America/New_York:20270128T221500
+SUMMARY:Columbia High School vs West Essex High School (Varsity Girls Gir
+ ls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 8:15 PM
 END:VEVENT
 END:VCALENDAR

@@ -32,6 +32,15 @@ SUMMARY:Columbia High School at James Caldwell High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104975679@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T201500
+DTEND;TZID=America/New_York:20261215T221500
+SUMMARY:Columbia High School vs Montclair Kimberley Academy (Varsity Boys
+  Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 8:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104231511@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T160000
@@ -66,5 +75,23 @@ DTEND;TZID=America/New_York:20270122T180000
 SUMMARY:Columbia High School at Seton Hall Prep (Varsity Boys Boys Swimmi
  ng)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104975959@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T201500
+DTEND;TZID=America/New_York:20270126T221500
+SUMMARY:Columbia High School vs Livingston High School (Varsity Boys Boys
+  Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 8:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104976133@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T201500
+DTEND;TZID=America/New_York:20270128T221500
+SUMMARY:Columbia High School vs West Essex High School (Varsity Boys Boys
+  Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 8:15 PM
 END:VEVENT
 END:VCALENDAR

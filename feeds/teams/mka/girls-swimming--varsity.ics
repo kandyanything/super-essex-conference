@@ -24,12 +24,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:arb:104137868@super-essex-conference
+UID:arb:104975664@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T200000
-DTEND;TZID=America/New_York:20261215T220000
+DTSTART;TZID=America/New_York:20261215T201500
+DTEND;TZID=America/New_York:20261215T221500
 SUMMARY:Columbia High School vs Montclair Kimberley Academy (Varsity Girl
  s Girls Swimming)
-DESCRIPTION:Varsity Girls Girls Swimming - Home - 8:00 PM
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 8:15 PM
 END:VEVENT
 END:VCALENDAR

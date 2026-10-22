@@ -3961,9 +3961,10 @@ UID:arb:101766072@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T160000
 DTEND;TZID=America/New_York:20261022T180000
-SUMMARY:Columbia High School at Verona High School (Varsity Boys Boys Soc
- cer)
+SUMMARY:[Canceled] Columbia High School at Verona High School (Varsity Bo
+ ys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102535781@super-essex-conference
@@ -4078,9 +4079,10 @@ UID:arb:102206935@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T161500
 DTEND;TZID=America/New_York:20261023T181500
-SUMMARY:Central High School at Newark School of Data Science (Varsity Boy
- s Boys Soccer)
+SUMMARY:[Canceled] Central High School at Newark School of Data Science (
+ Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101105244@super-essex-conference
@@ -4191,6 +4193,15 @@ DTEND;TZID=America/New_York:20261024T140000
 SUMMARY:Livingston High School at Point Pleasant Borough High School (Var
  sity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104975711@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T123000
+DTEND;TZID=America/New_York:20261024T143000
+SUMMARY:Columbia High School vs East Brunswick High School (Varsity Boys 
+ Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103967320@super-essex-conference
