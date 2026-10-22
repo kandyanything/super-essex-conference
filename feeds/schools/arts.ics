@@ -1256,6 +1256,14 @@ SUMMARY:Arts High School vs Science Park High School (Varsity Girls Softb
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104992976@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T160000
+DTEND;TZID=America/New_York:20270427T180000
+SUMMARY:Arts High School vs Golda Och Academy (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102474716@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270430T160000
@@ -1292,11 +1300,12 @@ SUMMARY:Arts High School at Montclair High School (Junior Varsity Boys Bo
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102587030@super-essex-conference
+UID:arb:104993090@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270505T160000
-DTEND;TZID=America/New_York:20270505T180000
-SUMMARY:Arts High School vs Golda Och Academy (Varsity Girls Softball)
+DTSTART;TZID=America/New_York:20270504T160000
+DTEND;TZID=America/New_York:20270504T180000
+SUMMARY:Arts High School vs East Orange Campus High School (Varsity Girls
+  Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1316,15 +1325,6 @@ DTEND;TZID=America/New_York:20270507T191500
 SUMMARY:Arts High School at West Orange High School (Varsity Boys Boys Vo
  lleyball)
 DESCRIPTION:Varsity Boys Boys Volleyball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102587036@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270508T130000
-DTEND;TZID=America/New_York:20270508T150000
-SUMMARY:Arts High School vs East Orange Campus High School (Varsity Girls
-  Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102641506@super-essex-conference
@@ -1361,15 +1361,6 @@ SUMMARY:Arts High School at Orange High School (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102587259@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270513T160000
-DTEND;TZID=America/New_York:20270513T180000
-SUMMARY:Arts High School at Malcolm X Shabazz High School (Varsity Girls 
- Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102474730@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270514T160000
@@ -1377,5 +1368,14 @@ DTEND;TZID=America/New_York:20270514T180000
 SUMMARY:Arts High School vs Eagle Academy of Newark (Varsity Boys Boys Vo
  lleyball)
 DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104993397@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270517T160000
+DTEND;TZID=America/New_York:20270517T180000
+SUMMARY:Arts High School at Malcolm X Shabazz High School (Varsity Girls 
+ Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 END:VCALENDAR

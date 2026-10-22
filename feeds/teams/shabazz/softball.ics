@@ -105,6 +105,15 @@ SUMMARY:Malcolm X Shabazz High School vs Technology High School (Varsity
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104993266@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T160000
+DTEND;TZID=America/New_York:20270504T180000
+SUMMARY:Malcolm X Shabazz High School vs Weequahic High School (Varsity G
+ irls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102587532@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270505T160000
@@ -112,15 +121,6 @@ DTEND;TZID=America/New_York:20270505T180000
 SUMMARY:East Orange Campus High School vs Malcolm X Shabazz High School (
  Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102587253@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270508T130000
-DTEND;TZID=America/New_York:20270508T150000
-SUMMARY:Malcolm X Shabazz High School vs Weequahic High School (Varsity G
- irls Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102587306@super-essex-conference
@@ -132,21 +132,21 @@ SUMMARY:Malcolm X Shabazz High School at Orange High School (Varsity Girl
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102587259@super-essex-conference
+UID:arb:104993938@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270513T160000
 DTEND;TZID=America/New_York:20270513T180000
+SUMMARY:Golda Och Academy vs Malcolm X Shabazz High School (Varsity Girls
+  Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104993397@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270517T160000
+DTEND;TZID=America/New_York:20270517T180000
 SUMMARY:Arts High School at Malcolm X Shabazz High School (Varsity Girls 
  Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102748778@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270515T130000
-DTEND;TZID=America/New_York:20270515T150000
-SUMMARY:Golda Och Academy vs Malcolm X Shabazz High School (Varsity Girls
-  Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 1:00 PM
 END:VEVENT
 END:VCALENDAR

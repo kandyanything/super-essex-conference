@@ -1621,14 +1621,6 @@ SUMMARY:Newark Academy vs Verona High School (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102587502@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270422T160000
-DTEND;TZID=America/New_York:20270422T180000
-SUMMARY:East Orange Campus High School vs TBD (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102587647@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270422T160000
@@ -1653,6 +1645,15 @@ DTSTART;TZID=America/New_York:20270422T160000
 DTEND;TZID=America/New_York:20270422T180000
 SUMMARY:Central High School vs West Side High School (Varsity Girls Softb
  all)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102587502@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T160000
+DTEND;TZID=America/New_York:20270422T180000
+SUMMARY:East Orange Campus High School vs Golda Och Academy (Varsity Girl
+ s Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1921,6 +1922,14 @@ SUMMARY:Saint Vincent Academy vs Verona High School (Varsity Girls Softba
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104992976@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T160000
+DTEND;TZID=America/New_York:20270427T180000
+SUMMARY:Arts High School vs Golda Och Academy (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102583591@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270427T160000
@@ -1928,6 +1937,15 @@ DTEND;TZID=America/New_York:20270427T180000
 SUMMARY:Barringer High School at East Side High School (Varsity Girls Sof
  tball)
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104994542@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T160000
+DTEND;TZID=America/New_York:20270427T180000
+SUMMARY:Central High School vs Science Park High School (Varsity Girls So
+ ftball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102583257@super-essex-conference
@@ -1944,6 +1962,33 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270427T160000
 DTEND;TZID=America/New_York:20270427T180000
 SUMMARY:Newark Tech at Saint Vincent Academy (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104994274@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T160000
+DTEND;TZID=America/New_York:20270427T180000
+SUMMARY:North Star Academy at Technology High School (Varsity Girls Softb
+ all)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104994069@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T160000
+DTEND;TZID=America/New_York:20270427T180000
+SUMMARY:Orange High School at American History High School (Varsity Girls
+  Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104994764@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T160000
+DTEND;TZID=America/New_York:20270427T180000
+SUMMARY:University High School at West Side High School (Varsity Girls So
+ ftball)
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2080,6 +2125,15 @@ SUMMARY:Montclair Kimberley Academy vs Nutley High School (Varsity Girls
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104993090@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T160000
+DTEND;TZID=America/New_York:20270504T180000
+SUMMARY:Arts High School vs East Orange Campus High School (Varsity Girls
+  Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102583964@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270504T160000
@@ -2087,6 +2141,14 @@ DTEND;TZID=America/New_York:20270504T180000
 SUMMARY:Barringer High School vs West Caldwell Tech (Varsity Girls Softba
  ll)
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104995053@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T160000
+DTEND;TZID=America/New_York:20270504T180000
+SUMMARY:Central High School at North Star Academy (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102583634@super-essex-conference
@@ -2098,6 +2160,15 @@ SUMMARY:East Side High School vs Saint Vincent Academy (Varsity Girls Sof
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104993883@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T160000
+DTEND;TZID=America/New_York:20270504T180000
+SUMMARY:Golda Och Academy vs American History High School (Varsity Girls 
+ Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102583762@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270504T160000
@@ -2106,12 +2177,31 @@ SUMMARY:Irvington High School at Newark Tech (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102587030@super-essex-conference
+UID:arb:104993266@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270505T160000
-DTEND;TZID=America/New_York:20270505T180000
-SUMMARY:Arts High School vs Golda Och Academy (Varsity Girls Softball)
+DTSTART;TZID=America/New_York:20270504T160000
+DTEND;TZID=America/New_York:20270504T180000
+SUMMARY:Malcolm X Shabazz High School vs Weequahic High School (Varsity G
+ irls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104995508@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T160000
+DTEND;TZID=America/New_York:20270504T180000
+SUMMARY:Science Park High School at University High School (Varsity Girls
+  Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104994884@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T160000
+DTEND;TZID=America/New_York:20270504T180000
+SUMMARY:Technology High School at West Side High School (Varsity Girls So
+ ftball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102581627@super-essex-conference
@@ -2131,15 +2221,6 @@ SUMMARY:Belleville High School at Verona High School (Varsity Girls Softb
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102585240@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270505T160000
-DTEND;TZID=America/New_York:20270505T180000
-SUMMARY:Central High School vs Science Park High School (Varsity Girls So
- ftball)
-DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102587532@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270505T160000
@@ -2157,51 +2238,6 @@ SUMMARY:Millburn High School at Newark Academy (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102584164@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270505T160000
-DTEND;TZID=America/New_York:20270505T180000
-SUMMARY:North Star Academy at Technology High School (Varsity Girls Softb
- all)
-DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102587654@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270505T160000
-DTEND;TZID=America/New_York:20270505T180000
-SUMMARY:Orange High School at American History High School (Varsity Girls
-  Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102585313@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270505T160000
-DTEND;TZID=America/New_York:20270505T180000
-SUMMARY:University High School at West Side High School (Varsity Girls So
- ftball)
-DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102748767@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270507T160000
-DTEND;TZID=America/New_York:20270507T180000
-SUMMARY:Golda Och Academy vs American History High School (Varsity Girls 
- Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102587036@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270508T130000
-DTEND;TZID=America/New_York:20270508T150000
-SUMMARY:Arts High School vs East Orange Campus High School (Varsity Girls
-  Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102582051@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270508T130000
@@ -2211,47 +2247,12 @@ SUMMARY:Bard Early College vs Millburn High School (Varsity Girls Softbal
 DESCRIPTION:Varsity Girls Softball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102585975@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270508T130000
-DTEND;TZID=America/New_York:20270508T150000
-SUMMARY:Central High School at North Star Academy (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102587253@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270508T130000
-DTEND;TZID=America/New_York:20270508T150000
-SUMMARY:Malcolm X Shabazz High School vs Weequahic High School (Varsity G
- irls Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102581641@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270508T130000
 DTEND;TZID=America/New_York:20270508T150000
 SUMMARY:Payne Tech vs Verona High School (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102586343@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270508T130000
-DTEND;TZID=America/New_York:20270508T150000
-SUMMARY:Science Park High School at University High School (Varsity Girls
-  Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102636321@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270508T130000
-DTEND;TZID=America/New_York:20270508T150000
-SUMMARY:Technology High School at West Side High School (Varsity Girls So
- ftball)
-DESCRIPTION:Varsity Girls Softball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102641506@super-essex-conference
@@ -2438,13 +2439,13 @@ SUMMARY:Arts High School at Orange High School (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102587259@super-essex-conference
+UID:arb:104993938@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270513T160000
 DTEND;TZID=America/New_York:20270513T180000
-SUMMARY:Arts High School at Malcolm X Shabazz High School (Varsity Girls 
- Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+SUMMARY:Golda Och Academy vs Malcolm X Shabazz High School (Varsity Girls
+  Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102587419@super-essex-conference
@@ -2483,13 +2484,13 @@ SUMMARY:Glen Ridge High School at Westfield High School (Varsity Girls So
 DESCRIPTION:Varsity Girls Softball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102748778@super-essex-conference
+UID:arb:104993397@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270515T130000
-DTEND;TZID=America/New_York:20270515T150000
-SUMMARY:Golda Och Academy vs Malcolm X Shabazz High School (Varsity Girls
-  Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 1:00 PM
+DTSTART;TZID=America/New_York:20270517T160000
+DTEND;TZID=America/New_York:20270517T180000
+SUMMARY:Arts High School at Malcolm X Shabazz High School (Varsity Girls 
+ Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102587540@super-essex-conference
