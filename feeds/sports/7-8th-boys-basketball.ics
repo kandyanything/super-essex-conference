@@ -66,12 +66,30 @@ SUMMARY:Montclair Kimberley Academy vs Woodrow Wilson Middle School - Cli
 DESCRIPTION:7/8th Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104982361@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T153000
+DTEND;TZID=America/New_York:20270107T173000
+SUMMARY:Montclair Kimberley Academy at Elisabeth Morrow School (7/8th Boy
+ s Basketball)
+DESCRIPTION:7/8th Boys Basketball - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104617933@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T154500
 DTEND;TZID=America/New_York:20270107T174500
 SUMMARY:Newark Academy vs Rutgers Prep School (7/8th Boys Basketball)
 DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104982371@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T164500
+DTEND;TZID=America/New_York:20270107T184500
+SUMMARY:Montclair Kimberley Academy at Elisabeth Morrow School (7/8th Boy
+ s Basketball)
+DESCRIPTION:7/8th Boys Basketball - Away - 4:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104082291@super-essex-conference
@@ -167,5 +185,23 @@ DTSTART;TZID=America/New_York:20270202T154500
 DTEND;TZID=America/New_York:20270202T174500
 SUMMARY:Newark Academy vs TBD (7/8th Boys Basketball)
 DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104982404@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T154500
+DTEND;TZID=America/New_York:20270211T174500
+SUMMARY:Montclair Kimberley Academy vs Elisabeth Morrow School (7/8th Boy
+ s Basketball)
+DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104982407@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T170000
+DTEND;TZID=America/New_York:20270211T190000
+SUMMARY:Montclair Kimberley Academy vs Elisabeth Morrow School (7/8th Boy
+ s Basketball)
+DESCRIPTION:7/8th Boys Basketball - Home - 5:00 PM
 END:VEVENT
 END:VCALENDAR
