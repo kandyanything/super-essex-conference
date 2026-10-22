@@ -33,6 +33,15 @@ SUMMARY:Livingston High School vs Millburn High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104978994@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
+SUMMARY:Columbia High School at Millburn High School (Varsity Girls Girls
+  Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104971828@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T163000
@@ -49,5 +58,32 @@ DTEND;TZID=America/New_York:20270120T180000
 SUMMARY:Millburn High School at Oak Knoll School of the Holy Child (Varsi
  ty Girls Girls Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104979026@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T180000
+DTEND;TZID=America/New_York:20270125T200000
+SUMMARY:Millburn High School vs Montclair Kimberley Academy (Varsity Girl
+ s Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104979054@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T160000
+DTEND;TZID=America/New_York:20270128T180000
+SUMMARY:Millburn High School vs Saint Benedict's Prep (Varsity Girls Girl
+ s Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104979115@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T180000
+DTEND;TZID=America/New_York:20270201T200000
+SUMMARY:Millburn High School vs Montclair High School (Varsity Girls Girl
+ s Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
 END:VEVENT
 END:VCALENDAR
