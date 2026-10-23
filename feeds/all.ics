@@ -44116,6 +44116,15 @@ SUMMARY:North Star Academy at Newark School of Global Studies (Varsity Bo
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105007088@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T163000
+DTEND;TZID=America/New_York:20261222T183000
+SUMMARY:Malcolm X Shabazz High School vs Newark School of Global Studies 
+ (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100567949@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T163000
@@ -47538,9 +47547,10 @@ UID:arb:104241156@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T100000
 DTEND;TZID=America/New_York:20270109T120000
-SUMMARY:Malcolm X Shabazz High School vs Science Park High School (Freshm
- an Boys Boys Basketball)
+SUMMARY:[Canceled] Malcolm X Shabazz High School vs Science Park High Sch
+ ool (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100564902@super-essex-conference
@@ -47781,9 +47791,10 @@ UID:arb:100549341@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T113000
 DTEND;TZID=America/New_York:20270109T133000
-SUMMARY:Malcolm X Shabazz High School vs Science Park High School (Junior
-  Varsity Boys Boys Basketball)
+SUMMARY:[Canceled] Malcolm X Shabazz High School vs Science Park High Sch
+ ool (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:30 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100564940@super-essex-conference
