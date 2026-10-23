@@ -377,3 +377,23 @@ section[id],
 .page-head[id] {
     scroll-margin-top: 76px;
 }
+
+/* ---------- Instagram + Facebook, top right ---------------------------------
+   The utility bar rather than the masthead: the masthead's right side is the
+   crest strip's runway, and this bar is on every page. 32px marks - big enough
+   to read as the brands at a glance - icons only so they fit a phone. */
+.topbar .wrap { min-height: 52px; }
+.topbar-links { align-items: center; }
+.topbar-socials { display: inline-flex; align-items: center; gap: 10px; padding-left: 20px; margin-left: 4px; border-left: 1px solid rgba(255, 255, 255, .18); }
+.topbar-social { display: block; line-height: 0; border-radius: 9px; }
+.topbar-social svg { width: 32px; height: 32px; display: block; transition: transform .2s, box-shadow .2s; border-radius: 9px; }
+.topbar-social.fb svg { border-radius: 50%; }
+.topbar-social:hover svg, .topbar-social:focus-visible svg { transform: translateY(-2px) scale(1.06); }
+.topbar-social.ig:hover svg { box-shadow: 0 3px 10px rgba(214, 41, 118, .55); }
+.topbar-social.fb:hover svg { box-shadow: 0 3px 10px rgba(24, 119, 242, .55); }
+.topbar-social:focus-visible { outline: 2px solid var(--silver); outline-offset: 3px; }
+@media (max-width: 760px) {
+    /* the bar stacks here; the icons get their own line with no dangling divider */
+    .topbar-socials { padding-left: 0; margin-left: 0; border-left: 0; padding-top: 4px; }
+    .topbar-social svg { width: 30px; height: 30px; }
+}
