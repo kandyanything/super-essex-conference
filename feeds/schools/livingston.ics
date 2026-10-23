@@ -2721,9 +2721,10 @@ UID:arb:104945735@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T160000
 DTEND;TZID=America/New_York:20261023T180000
-SUMMARY:Livingston High School vs Montclair Kimberley Academy (Varsity Gi
- rls Field Hockey)
+SUMMARY:[Canceled] Livingston High School vs Montclair Kimberley Academy 
+ (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99776236@super-essex-conference
@@ -2742,6 +2743,15 @@ DTEND;TZID=America/New_York:20261024T140000
 SUMMARY:Livingston High School at Point Pleasant Borough High School (Var
  sity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104613758@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T133000
+DTEND;TZID=America/New_York:20261024T153000
+SUMMARY:Mount Saint Dominic Academy at Livingston High School (Varsity Gi
+ rls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104995876@super-essex-conference

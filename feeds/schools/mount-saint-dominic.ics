@@ -1481,6 +1481,15 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Away - 10:00 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104613758@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T133000
+DTEND;TZID=America/New_York:20261024T153000
+SUMMARY:Mount Saint Dominic Academy at Livingston High School (Varsity Gi
+ rls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103211368@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261027T160000

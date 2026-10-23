@@ -86,6 +86,24 @@ SUMMARY:Cedar Grove High School at TBD (Varsity Girls Competitive Cheerle
 DESCRIPTION:Varsity Girls Competitive Cheerleading - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105016879@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T180000
+DTEND;TZID=America/New_York:20261211T200000
+SUMMARY:Nutley High School at Fair Lawn High School (Varsity Girls Compet
+ itive Cheerleading)
+DESCRIPTION:Varsity Girls Competitive Cheerleading - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105016903@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T120000
+DTEND;TZID=America/New_York:20270109T140000
+SUMMARY:Nutley High School at Hopatcong High School (Varsity Girls Compet
+ itive Cheerleading)
+DESCRIPTION:Varsity Girls Competitive Cheerleading - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104258414@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270109
@@ -104,6 +122,14 @@ SUMMARY:Cedar Grove High School at TBD (Varsity Girls Competitive Cheerle
 DESCRIPTION:Varsity Girls Competitive Cheerleading - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105016972@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T120000
+DTEND;TZID=America/New_York:20270123T140000
+SUMMARY:Nutley High School at TBD (Varsity Girls Competitive Cheerleading)
+DESCRIPTION:Varsity Girls Competitive Cheerleading - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104259104@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270123
@@ -111,6 +137,15 @@ DTEND;VALUE=DATE:20270124
 SUMMARY:Cedar Grove High School at TBD (Varsity Girls Competitive Cheerle
  ading)
 DESCRIPTION:Varsity Girls Competitive Cheerleading - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105016987@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T120000
+DTEND;TZID=America/New_York:20270130T140000
+SUMMARY:Nutley High School at David Brearley High School (Varsity Girls C
+ ompetitive Cheerleading)
+DESCRIPTION:Varsity Girls Competitive Cheerleading - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104259558@super-essex-conference
@@ -131,12 +166,37 @@ SUMMARY:Cedar Grove High School at TBD (Varsity Girls Competitive Cheerle
 DESCRIPTION:Varsity Girls Competitive Cheerleading - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105017020@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T120000
+DTEND;TZID=America/New_York:20270213T140000
+SUMMARY:Nutley High School at Saddle Brook High School (Varsity Girls Com
+ petitive Cheerleading)
+DESCRIPTION:Varsity Girls Competitive Cheerleading - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104260165@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:Cedar Grove High School at TBD (Varsity Girls Competitive Cheerle
  ading)
+DESCRIPTION:Varsity Girls Competitive Cheerleading - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105017048@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270217T190000
+DTEND;TZID=America/New_York:20270217T210000
+SUMMARY:Nutley High School at TBD (Varsity Girls Competitive Cheerleading)
+DESCRIPTION:Varsity Girls Competitive Cheerleading - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105017161@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Nutley High School at TBD (Varsity Girls Competitive Cheerleading)
 DESCRIPTION:Varsity Girls Competitive Cheerleading - Away
 END:VEVENT
 END:VCALENDAR

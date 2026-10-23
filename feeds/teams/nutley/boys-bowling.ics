@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:105018591@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T034500
+DTEND;TZID=America/New_York:20261201T054500
+SUMMARY:Belleville High School at Nutley High School (Varsity Boys Boys B
+ owling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104520393@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261201T154500
@@ -32,6 +41,59 @@ SUMMARY:Belleville High School vs Nutley High School (Varsity Boys Boys B
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105018601@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261202T154500
+DTEND;TZID=America/New_York:20261202T174500
+SUMMARY:Nutley High School vs TBD (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105018625@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T154500
+DTEND;TZID=America/New_York:20261208T174500
+SUMMARY:Irvington High School at Nutley High School (Varsity Boys Boys Bo
+ wling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105018638@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T154500
+DTEND;TZID=America/New_York:20261215T174500
+SUMMARY:Nutley High School vs American History High School (Varsity Boys 
+ Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105018659@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T154500
+DTEND;TZID=America/New_York:20261216T174500
+SUMMARY:Montclair High School at Nutley High School (Varsity Boys Boys Bo
+ wling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105018673@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T154500
+DTEND;TZID=America/New_York:20261222T174500
+SUMMARY:Newark Lab High School at Nutley High School (Varsity Boys Boys B
+ owling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105018690@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T154500
+DTEND;TZID=America/New_York:20270105T174500
+SUMMARY:Bloomfield High School at Nutley High School (Varsity Boys Boys B
+ owling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104521850@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T154500
@@ -39,5 +101,99 @@ DTEND;TZID=America/New_York:20270106T174500
 SUMMARY:Belleville High School vs Nutley High School (Varsity Boys Boys B
  owling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105018906@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T034500
+DTEND;TZID=America/New_York:20270112T054500
+SUMMARY:Irvington High School at Nutley High School (Varsity Boys Boys Bo
+ wling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105018933@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T034500
+DTEND;TZID=America/New_York:20270113T054500
+SUMMARY:Barringer High School at Nutley High School (Varsity Boys Boys Bo
+ wling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105019013@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T034500
+DTEND;TZID=America/New_York:20270115T054500
+SUMMARY:Nutley High School at Seton Hall Prep (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105019511@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T140000
+DTEND;TZID=America/New_York:20270119T160000
+SUMMARY:Nutley High School vs TBD (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105019514@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T140000
+DTEND;TZID=America/New_York:20270120T160000
+SUMMARY:Nutley High School vs TBD (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105019518@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T140000
+DTEND;TZID=America/New_York:20270121T160000
+SUMMARY:Nutley High School vs TBD (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105019032@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T034500
+DTEND;TZID=America/New_York:20270126T054500
+SUMMARY:Nutley High School vs American History High School (Varsity Boys 
+ Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105019050@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T034500
+DTEND;TZID=America/New_York:20270127T054500
+SUMMARY:Montclair High School at Nutley High School (Varsity Boys Boys Bo
+ wling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105019069@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T034500
+DTEND;TZID=America/New_York:20270202T054500
+SUMMARY:Newark Lab High School at Nutley High School (Varsity Boys Boys B
+ owling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105019545@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T154500
+DTEND;TZID=America/New_York:20270203T174500
+SUMMARY:Nutley High School vs TBD (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105019239@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T034500
+DTEND;TZID=America/New_York:20270204T054500
+SUMMARY:Nutley High School at Morris Knolls High School (Varsity Boys Boy
+ s Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 AM
 END:VEVENT
 END:VCALENDAR

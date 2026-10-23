@@ -32,6 +32,15 @@ SUMMARY:Belleville High School vs Newark Lab High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105018673@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T154500
+DTEND;TZID=America/New_York:20261222T174500
+SUMMARY:Newark Lab High School at Nutley High School (Varsity Boys Boys B
+ owling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104522008@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T154500
@@ -39,5 +48,14 @@ DTEND;TZID=America/New_York:20270113T174500
 SUMMARY:Belleville High School vs Newark Lab High School (Varsity Boys Bo
  ys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105019069@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T034500
+DTEND;TZID=America/New_York:20270202T054500
+SUMMARY:Newark Lab High School at Nutley High School (Varsity Boys Boys B
+ owling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 AM
 END:VEVENT
 END:VCALENDAR

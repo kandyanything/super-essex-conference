@@ -1702,6 +1702,15 @@ SUMMARY:Belleville High School vs Abundant Life Academy (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105017480@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T161500
+DTEND;TZID=America/New_York:20261027T181500
+SUMMARY:Barringer High School at Belleville High School (Varsity Boys Boy
+ s Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104818648@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T160000
@@ -1727,6 +1736,15 @@ DTEND;TZID=America/New_York:20261103T120000
 SUMMARY:Belleville High School at TBD (Varsity Girls Competitive Cheerlea
  ding)
 DESCRIPTION:Varsity Girls Competitive Cheerleading - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105018591@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T034500
+DTEND;TZID=America/New_York:20261201T054500
+SUMMARY:Belleville High School at Nutley High School (Varsity Boys Boys B
+ owling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104520431@super-essex-conference
@@ -2205,13 +2223,22 @@ SUMMARY:Belleville High School vs Nutley High School (Varsity Boys Boys B
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105021978@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T170000
+DTEND;TZID=America/New_York:20270106T190000
+SUMMARY:Belleville High School at Irvington High School (Varsity Girls Gi
+ rls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102611593@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270106
-DTEND;VALUE=DATE:20270107
+DTSTART;TZID=America/New_York:20270106T180000
+DTEND;TZID=America/New_York:20270106T200000
 SUMMARY:Belleville High School at Irvington High School (Varsity Boys Boy
  s Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100569366@super-essex-conference

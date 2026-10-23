@@ -3643,6 +3643,24 @@ SUMMARY:Montclair High School vs Payne Tech (Varsity Girls Girls Basketba
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105019802@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T154500
+DTEND;TZID=America/New_York:20261216T174500
+SUMMARY:Montclair High School at Nutley High School (Varsity Girls Girls 
+ Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105018659@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T154500
+DTEND;TZID=America/New_York:20261216T174500
+SUMMARY:Montclair High School at Nutley High School (Varsity Boys Boys Bo
+ wling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104676847@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T160000
@@ -4548,6 +4566,24 @@ DTEND;TZID=America/New_York:20270126T203000
 SUMMARY:Livingston High School at Montclair High School (Varsity Boys Boy
  s Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105019050@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T034500
+DTEND;TZID=America/New_York:20270127T054500
+SUMMARY:Montclair High School at Nutley High School (Varsity Boys Boys Bo
+ wling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105019873@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T154500
+DTEND;TZID=America/New_York:20270127T174500
+SUMMARY:Montclair High School at Nutley High School (Varsity Girls Girls 
+ Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104677470@super-essex-conference

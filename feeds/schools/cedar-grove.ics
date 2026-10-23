@@ -1910,6 +1910,15 @@ SUMMARY:Cedar Grove High School at Hoboken High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105025281@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T100000
+DTEND;TZID=America/New_York:20261024T120000
+SUMMARY:Cedar Grove High School vs Bergen Arts and Science Charter School
+  (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101395915@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T110000
@@ -1926,6 +1935,15 @@ DTEND;TZID=America/New_York:20261025T110000
 SUMMARY:Cedar Grove High School at TBD (Varsity Girls Competitive Cheerle
  ading)
 DESCRIPTION:Varsity Girls Competitive Cheerleading - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105016464@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:Cedar Grove High School at James Caldwell High School (Varsity Bo
+ ys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103900607@super-essex-conference
