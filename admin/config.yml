@@ -179,6 +179,50 @@ collections:
               - { label: "Names to list (optional)", name: "items", widget: "list", required: false,
                   field: { label: "Name", name: "name", widget: "string" } }
 
+  - name: "all-conference"
+    label: "SEC All-Conference"
+    description: "All-Conference selections shown on the All-Conference page, grouped by sport. Name, school and position only - no grades, photos, contact details or stats. The page says selections are posted after each season while this list is empty."
+    files:
+      - file: "data/all-conference.json"
+        label: "All-Conference Selections"
+        name: "all-conference"
+        fields:
+          - { label: "Internal note (do not edit)", name: "_comment", widget: "hidden",
+              default: "SEC All-Conference selections, shown on all-conference.html grouped by sport. One entry per honoree per team. Name, school and (optional) position or event ONLY - no grade or class year, photos, contact details or stats, because this file is served publicly. 'year' is the school year, e.g. 2025-26. 'season' is Fall, Winter or Spring. 'sport' is a sport name as it appears on the schedule, e.g. Football or Girls Soccer. 'team' is the heading the name is listed under, e.g. First Team, Second Team, Honorable Mention. 'school' should match the school's name on the School Athletic Websites page (e.g. Livingston High School) so its crest shows beside the name. 'intro' is an optional line shown above the lists. While 'selections' is empty the page shows a short 'posted after each season' line." }
+          - { label: "Intro line (optional)", name: "intro", widget: "text", required: false,
+              hint: "A sentence shown above the lists, e.g. about how the teams are chosen. Leave blank for none." }
+          - label: "Selections"
+            name: "selections"
+            widget: "list"
+            required: false
+            summary: "{{fields.name}} — {{fields.school}} ({{fields.sport}}, {{fields.team}})"
+            fields:
+              - { label: "Year", name: "year", widget: "string",
+                  hint: "The school year, e.g. 2025-26. The page opens on the newest year entered." }
+              - { label: "Season", name: "season", widget: "select", options: [ "Fall", "Winter", "Spring" ] }
+              - { label: "Sport", name: "sport", widget: "select",
+                  hint: "The sport names used on the conference schedule. A sport missing from this list has to be added in the editor's setup - it cannot be typed here.",
+                  options: [
+                    "6/7/8th Coed Fencing", "7/8th Boys Basketball", "7/8th Boys Soccer", "7/8th Coed Swimming",
+                    "7/8th Coed Volleyball", "7/8th Girls Basketball", "7/8th Girls Field Hockey", "7/8th Girls Soccer",
+                    "7/8th Girls Volleyball", "Baseball", "Boys Basketball", "Boys Bowling", "Boys Cross Country",
+                    "Boys Fencing", "Boys Ice Hockey", "Boys Lacrosse", "Boys Soccer", "Boys Swimming", "Boys Tennis",
+                    "Boys Track & Field - Outdoor", "Boys Volleyball", "Boys Water Polo", "Boys Wrestling", "Coed Bowling",
+                    "Coed Cross Country", "Coed Fencing", "Coed Ice Hockey", "Coed Swimming", "Coed Track & Field - Outdoor",
+                    "Coed Water Polo", "Competitive Cheerleading", "Field Hockey", "Football", "Game Day Cheerleading",
+                    "Girls Basketball", "Girls Bowling", "Girls Cross Country", "Girls Fencing", "Girls Ice Hockey",
+                    "Girls Lacrosse", "Girls Soccer", "Girls Swimming", "Girls Tennis", "Girls Volleyball", "Girls Wrestling",
+                    "Gymnastics", "Modified Coed Flag Football", "Sideline Cheerleading", "Softball", "Track & Field - Indoor",
+                    "Ultimate Frisbee", "Unified Sports Soccer"
+                  ] }
+              - { label: "Team", name: "team", widget: "string",
+                  hint: "The heading this name is listed under, e.g. First Team, Second Team, Honorable Mention. Spell it the same way each time." }
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "School", name: "school", widget: "string",
+                  hint: "As written on the School Athletic Websites page, e.g. Livingston High School - the school's crest shows when the name matches." }
+              - { label: "Position or event (optional)", name: "position", widget: "string", required: false,
+                  hint: "e.g. Quarterback, Goalkeeper, 100m. Position or event only - no grade, class year or stats." }
+
   - name: "news"
     label: "NJAC News"
     description: "Stories shown in the home page news section. Stays hidden while this list is empty."
