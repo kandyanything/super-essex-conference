@@ -1,4 +1,4 @@
-# NJAC content editor (Decap CMS), configured for board members to update
+# SEC content editor (Decap CMS), configured for board members to update
 # the site's hand-curated content without going through code.
 #
 # Not active yet. The "github" backend below needs a small OAuth proxy that
@@ -12,9 +12,9 @@
 # a manual push does. Nothing about how the site is built or hosted changes.
 backend:
   name: github
-  repo: kandyanything/nwjerseyac-new
+  repo: kandyanything/super-essex-conference
   branch: main
-  base_url: https://nwjerseyac.org
+  base_url: https://secconferencenj.com
   auth_endpoint: .netlify/functions/auth
 
 # Lets the whole editor be previewed on a real machine with zero GitHub
@@ -88,7 +88,7 @@ collections:
               - { label: "Office phone", name: "phone", widget: "string", required: false }
 
   - name: "leadership"
-    label: "NJAC Leadership"
+    label: "SEC Leadership"
     description: "The conference's executive officers - name and position only, on purpose. No contact details go here; this file is public."
     files:
       - file: "data/leadership.json"
@@ -96,7 +96,7 @@ collections:
         name: "leadership"
         fields:
           - { label: "Internal note (do not edit)", name: "_comment", widget: "hidden",
-              default: "NJAC executive officers. Name and position only - no email or phone. Contact details are deliberately not stored here: this file is served publicly, so leaving them out of the renderer alone would not keep them private. 'school' is kept for identification. Order is by office, not alphabetical. The section hides itself if this list is empty." }
+              default: "SEC executive officers. Name and position only - no email or phone. Contact details are deliberately not stored here: this file is served publicly, so leaving them out of the renderer alone would not keep them private. 'school' is kept for identification. Order is by office, not alphabetical. The section hides itself if this list is empty." }
           - label: "Officers, in the order they should appear"
             name: "leadership"
             widget: "list"
@@ -133,7 +133,7 @@ collections:
               - { label: "Caption button label (optional)", name: "linkLabel", widget: "string", required: false, default: "Read More" }
 
   - name: "videos"
-    label: "NJAC Vision"
+    label: "SEC Vision"
     description: "Game video shown on the home page and the All Videos page. Thumbnails come from YouTube automatically - there is nothing to upload."
     files:
       - file: "data/videos.json"
@@ -141,7 +141,7 @@ collections:
         name: "videos"
         fields:
           - { label: "Internal note (do not edit)", name: "_comment", widget: "hidden",
-              default: "NJAC Vision game video. 'id' is the YouTube video ID - the part of the URL after v=. Thumbnails are pulled from YouTube's own CDN using that ID, so there is nothing to upload here." }
+              default: "SEC Vision game video. 'id' is the YouTube video ID - the part of the URL after v=. Thumbnails are pulled from YouTube's own CDN using that ID, so there is nothing to upload here." }
           - label: "Videos, newest first"
             name: "videos"
             widget: "list"
@@ -156,7 +156,7 @@ collections:
                   hint: "Leave blank almost always - YouTube's default thumbnail is used automatically." }
 
   - name: "honors"
-    label: "NJAC Honors"
+    label: "SEC Honors"
     description: "Awards and recognitions - conference all-stars, scholar athletes, championship rosters. The section on the home page stays hidden while this list is empty."
     files:
       - file: "data/honors.json"
@@ -164,7 +164,7 @@ collections:
         name: "honors"
         fields:
           - { label: "Internal note (do not edit)", name: "_comment", widget: "hidden",
-              default: "NJAC Honors. One entry per award or recognition group. 'title' is required; 'year', 'sport', 'description' and 'url' are all optional. 'items' is an optional list of names shown beneath the description - use it for scholar athletes or championship rosters. The section stays hidden while this list is empty." }
+              default: "SEC Honors. One entry per award or recognition group. 'title' is required; 'year', 'sport', 'description' and 'url' are all optional. 'items' is an optional list of names shown beneath the description - use it for scholar athletes or championship rosters. The section stays hidden while this list is empty." }
           - label: "Honors"
             name: "honors"
             widget: "list"
@@ -224,7 +224,7 @@ collections:
                   hint: "e.g. Quarterback, Goalkeeper, 100m. Position or event only - no grade, class year or stats." }
 
   - name: "news"
-    label: "NJAC News"
+    label: "SEC News"
     description: "Stories shown in the home page news section. Stays hidden while this list is empty."
     files:
       - file: "data/news.json"
@@ -232,7 +232,7 @@ collections:
         name: "news"
         fields:
           - { label: "Internal note (do not edit)", name: "_comment", widget: "hidden",
-              default: "NJAC News. One entry per story, newest first. 'image' is optional - omit it and the story renders as text only. 'url' is where the headline links to; omit it for a story with no destination yet." }
+              default: "SEC News. One entry per story, newest first. 'image' is optional - omit it and the story renders as text only. 'url' is where the headline links to; omit it for a story with no destination yet." }
           - label: "Stories, newest first"
             name: "news"
             widget: "list"
