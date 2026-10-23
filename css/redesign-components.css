@@ -437,3 +437,43 @@
 @media (max-width: 720px) {
     .directory-card.has-colors::before { width: 5px; }
 }
+
+/* ---------- Follow the SEC: Instagram + Facebook buttons ------------------
+   Big, named buttons rather than bare icons, so they read as an invitation.
+   Used in the hero, the footer and the social section header. */
+.follow-row { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; }
+.follow-label { font-size: .78rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--silver); margin-right: 4px; }
+.follow-btn { display: inline-flex; align-items: center; gap: 12px; padding: 9px 18px 9px 10px; border-radius: 14px; text-decoration: none;
+    background: rgba(255, 255, 255, .1); border: 1px solid rgba(255, 255, 255, .22); color: #fff; backdrop-filter: blur(6px);
+    transition: transform .18s, background .18s, box-shadow .18s; }
+.follow-btn svg { width: 38px; height: 38px; flex: 0 0 auto; display: block; border-radius: 10px; }
+.follow-btn.fb svg { border-radius: 50%; }
+.follow-btn b { display: block; font-size: 1rem; line-height: 1.15; }
+.follow-btn small { display: block; font-size: .78rem; opacity: .8; line-height: 1.2; }
+.follow-btn:hover, .follow-btn:focus-visible { transform: translateY(-2px); background: rgba(255, 255, 255, .18); }
+.follow-btn.ig:hover { box-shadow: 0 8px 22px rgba(214, 41, 118, .35); }
+.follow-btn.fb:hover { box-shadow: 0 8px 22px rgba(24, 119, 242, .35); }
+.follow-btn:focus-visible { outline: 2px solid var(--silver); outline-offset: 3px; }
+
+/* hero: under the two buttons, on the photo */
+.follow-row--hero { margin-top: 22px; }
+
+/* footer: under the conference blurb */
+.follow-row--footer { margin-top: 16px; gap: 10px; }
+.follow-row--footer .follow-label { width: 100%; margin: 0 0 2px; }
+.site-footer .follow-btn { color: #fff; font-size: 1rem; }
+.site-footer .follow-btn svg { width: 32px; height: 32px; }
+
+/* social section: light background, so solid white cards with a border */
+.njac-social .section-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-end; gap: 18px; }
+.follow-row--social .follow-label { color: var(--muted, #666b74); }
+.follow-row--social .follow-btn { background: #fff; border: 1.5px solid var(--line, #dcdee2); color: var(--ink, #16181c); backdrop-filter: none; box-shadow: 0 1px 2px rgba(0,0,0,.05); }
+.follow-row--social .follow-btn:hover { background: #fff; }
+
+@media (max-width: 600px) {
+    .follow-row { gap: 10px; }
+    .follow-label { width: 100%; }
+    .follow-btn { flex: 1 1 0; min-width: 0; padding: 8px 12px 8px 8px; }
+    .follow-btn small { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .follow-btn span { min-width: 0; }
+}
