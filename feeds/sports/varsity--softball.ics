@@ -1358,14 +1358,6 @@ SUMMARY:Bloomfield High School vs Bayonne High School (Varsity Girls Soft
 DESCRIPTION:Varsity Girls Softball - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102587355@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270419T160000
-DTEND;TZID=America/New_York:20270419T180000
-SUMMARY:Weequahic High School vs TBD (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102587006@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T160000
@@ -1402,6 +1394,15 @@ SUMMARY:Cedar Grove High School at Livingston High School (Varsity Girls
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105040196@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270419T160000
+DTEND;TZID=America/New_York:20270419T180000
+SUMMARY:Central High School at East Side High School (Varsity Girls Softb
+ all)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102586262@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T160000
@@ -1425,6 +1426,24 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T160000
 DTEND;TZID=America/New_York:20270419T180000
 SUMMARY:Glen Ridge High School at Payne Tech (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102587355@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270419T160000
+DTEND;TZID=America/New_York:20270419T180000
+SUMMARY:Golda Och Academy at Weequahic High School (Varsity Girls Softbal
+ l)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102585953@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270419T160000
+DTEND;TZID=America/New_York:20270419T180000
+SUMMARY:Irvington High School at West Side High School (Varsity Girls Sof
+ tball)
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1463,13 +1482,12 @@ SUMMARY:Newark Academy vs West Orange High School (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102585953@super-essex-conference
+UID:arb:105040240@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T160000
 DTEND;TZID=America/New_York:20270419T180000
-SUMMARY:North Star Academy vs West Side High School (Varsity Girls Softba
- ll)
-DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+SUMMARY:Newark Tech at North Star Academy (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102581009@super-essex-conference
@@ -1480,22 +1498,22 @@ SUMMARY:Nutley High School at Verona High School (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105040063@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270419T160000
+DTEND;TZID=America/New_York:20270419T180000
+SUMMARY:Saint Vincent Academy at Science Park High School (Varsity Girls 
+ Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102584147@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T160000
 DTEND;TZID=America/New_York:20270419T180000
-SUMMARY:Science Park High School at Technology High School (Varsity Girls
-  Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102585959@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270420T160000
-DTEND;TZID=America/New_York:20270420T180000
-SUMMARY:Barringer High School at North Star Academy (Varsity Girls Softba
- ll)
-DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+SUMMARY:Technology High School vs West Caldwell Tech (Varsity Girls Softb
+ all)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102583860@super-essex-conference
@@ -1507,13 +1525,13 @@ SUMMARY:Barringer High School vs Irvington High School (Varsity Girls Sof
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102585224@super-essex-conference
+UID:arb:102586325@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270420T160000
 DTEND;TZID=America/New_York:20270420T180000
-SUMMARY:Central High School vs East Side High School (Varsity Girls Softb
- all)
-DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+SUMMARY:Central High School at University High School (Varsity Girls Soft
+ ball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102587360@super-essex-conference
@@ -1541,15 +1559,6 @@ SUMMARY:Golda Och Academy vs Orange High School (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102585310@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270420T160000
-DTEND;TZID=America/New_York:20270420T180000
-SUMMARY:Irvington High School at West Side High School (Varsity Girls Sof
- tball)
-DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102587639@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270420T160000
@@ -1568,38 +1577,21 @@ SUMMARY:Montclair High School at Montclair Kimberley Academy (Varsity Gir
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102586325@super-essex-conference
+UID:arb:102585959@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270420T160000
 DTEND;TZID=America/New_York:20270420T180000
-SUMMARY:Newark Tech at University High School (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+SUMMARY:North Star Academy vs West Side High School (Varsity Girls Softba
+ ll)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102585070@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270420T160000
 DTEND;TZID=America/New_York:20270420T180000
-SUMMARY:Saint Vincent Academy at Science Park High School (Varsity Girls 
- Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102582814@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270420T160000
-DTEND;TZID=America/New_York:20270420T180000
-SUMMARY:Saint Vincent Academy vs West Caldwell Tech (Varsity Girls Softba
- ll)
-DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102584158@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270420T160000
-DTEND;TZID=America/New_York:20270420T180000
-SUMMARY:Technology High School vs West Caldwell Tech (Varsity Girls Softb
- all)
+SUMMARY:Science Park High School vs Technology High School (Varsity Girls
+  Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
