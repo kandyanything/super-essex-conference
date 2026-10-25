@@ -2864,15 +2864,6 @@ SUMMARY:Livingston High School vs North Arlington High School (Varsity Gi
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105040770@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261031T110000
-DTEND;TZID=America/New_York:20261031T130000
-SUMMARY:Livingston High School at Mendham High School (Varsity Boys Footb
- all)
-DESCRIPTION:Varsity Boys Football - Away - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104333770@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261202T200000
@@ -5104,6 +5095,15 @@ DTEND;TZID=America/New_York:20270517T181500
 SUMMARY:Livingston High School at Morristown-Beard School (Varsity Boys B
  oys Lacrosse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105047027@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270518T160000
+DTEND;TZID=America/New_York:20270518T180000
+SUMMARY:Livingston High School at Verona High School (Junior Varsity Boys
+  Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102566916@super-essex-conference

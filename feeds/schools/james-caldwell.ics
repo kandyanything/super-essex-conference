@@ -3349,6 +3349,15 @@ SUMMARY:James Caldwell High School at West Essex High School (Varsity Boy
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105047018@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270424T090000
+DTEND;TZID=America/New_York:20270424T110000
+SUMMARY:James Caldwell High School at Verona High School (Junior Varsity 
+ Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104965658@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270424T100000
@@ -3356,6 +3365,15 @@ DTEND;TZID=America/New_York:20270424T120000
 SUMMARY:James Caldwell High School at New Providence High School (Varsity
   Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105047068@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270424T120000
+DTEND;TZID=America/New_York:20270424T140000
+SUMMARY:James Caldwell High School at Verona High School (Varsity Boys Ba
+ seball)
+DESCRIPTION:Varsity Boys Baseball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102569969@super-essex-conference
