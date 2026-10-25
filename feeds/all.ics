@@ -38990,14 +38990,6 @@ SUMMARY:Newark Academy vs Chatham High School (Junior Varsity Girls Girls
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104971748@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261030T183000
-DTEND;TZID=America/New_York:20261030T203000
-SUMMARY:West Essex High School vs TBD (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103303860@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261030T183000
@@ -39007,12 +38999,39 @@ SUMMARY:Livingston High School vs North Arlington High School (Varsity Gi
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104971748@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T183000
+DTEND;TZID=America/New_York:20261030T203000
+SUMMARY:West Essex High School vs Weequahic High School (Varsity Boys Foo
+ tball)
+DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105051764@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261030T190000
 DTEND;TZID=America/New_York:20261030T210000
 SUMMARY:Cedar Grove High School vs Glen Ridge High School (Varsity Boys F
  ootball)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105053506@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T190000
+DTEND;TZID=America/New_York:20261030T210000
+SUMMARY:Irvington High School vs Perth Amboy High School (Varsity Boys Fo
+ otball)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105053899@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T190000
+DTEND;TZID=America/New_York:20261030T210000
+SUMMARY:Malcolm X Shabazz High School vs Wayne Valley High School (Varsit
+ y Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -39136,6 +39155,15 @@ SUMMARY:West Essex High School at Camden Catholic High School (Junior Var
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105054050@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T130000
+DTEND;TZID=America/New_York:20261031T150000
+SUMMARY:East Orange Campus High School vs Union City High School (Varsity
+  Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103582738@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261031T141500
@@ -39204,14 +39232,6 @@ SUMMARY:Cedar Grove High School vs TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105050412@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261102T163000
-DTEND;TZID=America/New_York:20261102T183000
-SUMMARY:Golda Och Academy vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105050490@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261102T163000
@@ -39227,6 +39247,15 @@ DTEND;TZID=America/New_York:20261102T183000
 SUMMARY:Glen Ridge High School at Kinnelon High School (Varsity Girls Gir
  ls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105050412@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T163000
+DTEND;TZID=America/New_York:20261102T183000
+SUMMARY:Golda Och Academy vs Saint Vincent Academy (Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105050499@super-essex-conference
