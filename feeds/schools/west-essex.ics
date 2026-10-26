@@ -3247,15 +3247,6 @@ SUMMARY:Belleville High School vs West Essex High School (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105057333@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T160000
-DTEND;TZID=America/New_York:20261026T180000
-SUMMARY:Bloomfield High School vs West Essex High School (Junior Varsity 
- Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101300572@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T160000
@@ -3337,6 +3328,15 @@ DTEND;TZID=America/New_York:20261027T200000
 SUMMARY:East Side High School at West Essex High School (Varsity Girls Gi
  rls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99376208@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T183000
+DTEND;TZID=America/New_York:20261027T203000
+SUMMARY:Mount Saint Dominic Academy vs West Essex High School (Varsity Gi
+ rls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104885495@super-essex-conference
@@ -3485,31 +3485,33 @@ SUMMARY:Livingston High School at West Essex High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102612188@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:West Essex High School at Parsippany High School (Varsity Boys Bo
+ ys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102612177@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
 DTEND;TZID=America/New_York:20261208T180000
-SUMMARY:West Essex High School at Parsippany High School (Freshman Boys B
- oys Basketball)
+SUMMARY:[Canceled] West Essex High School at Parsippany High School (Fres
+ hman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102612184@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T173000
 DTEND;TZID=America/New_York:20261208T193000
-SUMMARY:West Essex High School at Parsippany High School (Junior Varsity 
- Boys Boys Basketball)
+SUMMARY:[Canceled] West Essex High School at Parsippany High School (Juni
+ or Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102612188@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T190000
-DTEND;TZID=America/New_York:20261208T210000
-SUMMARY:West Essex High School at Parsippany High School (Varsity Boys Bo
- ys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103804320@super-essex-conference

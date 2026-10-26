@@ -1411,6 +1411,15 @@ SUMMARY:Technology High School at Kittatinny Regional High School (Varsit
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100552966@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T130000
+DTEND;TZID=America/New_York:20270112T150000
+SUMMARY:Nutley High School vs Technology High School (Varsity Boys Boys B
+ asketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100569738@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T160000
@@ -1490,15 +1499,6 @@ DTEND;TZID=America/New_York:20270116T140000
 SUMMARY:Technology High School at North Arlington High School (Varsity Bo
  ys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100552966@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270116T130000
-DTEND;TZID=America/New_York:20270116T150000
-SUMMARY:Nutley High School vs Technology High School (Varsity Boys Boys B
- asketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553849@super-essex-conference
