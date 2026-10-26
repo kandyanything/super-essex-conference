@@ -223,16 +223,6 @@ SUMMARY:West Essex High School at Parsippany High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102612177@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T160000
-DTEND;TZID=America/New_York:20261208T180000
-SUMMARY:[Canceled] West Essex High School at Parsippany High School (Fres
- hman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102823420@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T161500
@@ -294,16 +284,6 @@ DTEND;TZID=America/New_York:20261208T193000
 SUMMARY:Seton Hall Prep at Hillsborough High School (Junior Varsity Boys 
  Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102612184@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T173000
-DTEND;TZID=America/New_York:20261208T193000
-SUMMARY:[Canceled] West Essex High School at Parsippany High School (Juni
- or Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105055040@super-essex-conference
@@ -4119,6 +4099,15 @@ SUMMARY:Malcolm X Shabazz High School vs Weequahic High School (Varsity B
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102448552@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270110T160000
+DTEND;TZID=America/New_York:20270110T180000
+SUMMARY:East Orange Campus High School at Teaneck High School (Varsity Bo
+ ys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100537219@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T160000
@@ -4695,6 +4684,15 @@ DTEND;TZID=America/New_York:20270114T180000
 SUMMARY:Millburn High School at James Caldwell High School (Freshman Boys
   Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105085796@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T160000
+DTEND;TZID=America/New_York:20270114T180000
+SUMMARY:Montclair Kimberley Academy at Christopher Columbus Middle School
+  - Clifton (Middle School Boys Boys Basketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551288@super-essex-conference
@@ -6834,6 +6832,15 @@ SUMMARY:Irvington High School at West Essex High School (Freshman Boys Bo
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105085624@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T160000
+DTEND;TZID=America/New_York:20270126T180000
+SUMMARY:Montclair Kimberley Academy at Woodrow Wilson Middle School - Cli
+ fton (Middle School Boys Boys Basketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100551529@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T160000
@@ -7156,6 +7163,15 @@ DTSTART;TZID=America/New_York:20270126T190000
 DTEND;TZID=America/New_York:20270126T210000
 SUMMARY:Payne Tech at Saint Benedict's Prep (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105085851@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T160000
+DTEND;TZID=America/New_York:20270128T180000
+SUMMARY:Montclair Kimberley Academy at Christopher Columbus Middle School
+  - Clifton (Middle School Boys Boys Basketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100806582@super-essex-conference

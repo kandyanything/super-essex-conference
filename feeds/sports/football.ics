@@ -3678,6 +3678,15 @@ SUMMARY:Montclair Kimberley Academy at Delbarton School (Middle School Bo
 DESCRIPTION:Middle School Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105082000@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T180000
+DTEND;TZID=America/New_York:20261029T200000
+SUMMARY:Bloomfield High School vs West Side High School (Varsity Boys Foo
+ tball)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105043350@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T180000
@@ -3806,6 +3815,14 @@ DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:West Orange High School vs TBD (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105082400@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T140000
+DTEND;TZID=America/New_York:20261107T160000
+SUMMARY:Montclair Kimberley Academy vs TBD (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101364318@super-essex-conference

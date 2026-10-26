@@ -2765,9 +2765,10 @@ UID:arb:105013146@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T173000
 DTEND;TZID=America/New_York:20261028T193000
-SUMMARY:Millburn High School at Cranford High School (Junior Varsity Girl
- s Field Hockey)
+SUMMARY:[Canceled] Millburn High School at Cranford High School (Junior V
+ arsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104954282@super-essex-conference
@@ -2777,6 +2778,15 @@ DTEND;TZID=America/New_York:20261029T180000
 SUMMARY:Columbia High School at Millburn High School (Varsity Girls Field
   Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105071839@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Millburn High School vs Whippany Park High School (Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104953359@super-essex-conference

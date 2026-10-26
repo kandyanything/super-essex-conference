@@ -3494,26 +3494,6 @@ SUMMARY:West Essex High School at Parsippany High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102612177@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T160000
-DTEND;TZID=America/New_York:20261208T180000
-SUMMARY:[Canceled] West Essex High School at Parsippany High School (Fres
- hman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102612184@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T173000
-DTEND;TZID=America/New_York:20261208T193000
-SUMMARY:[Canceled] West Essex High School at Parsippany High School (Juni
- or Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103804320@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T191500
@@ -3874,6 +3854,15 @@ SUMMARY:Newark Academy vs West Essex High School (Junior Varsity Boys Boy
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105083585@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T110000
+DTEND;TZID=America/New_York:20261219T130000
+SUMMARY:West Essex High School at Ridge High School (Junior Varsity Boys 
+ Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100560563@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T113000
@@ -3890,15 +3879,6 @@ DTEND;TZID=America/New_York:20261219T133000
 SUMMARY:Newark Academy vs West Essex High School (Varsity Boys Boys Baske
  tball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103740080@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T133000
-DTEND;TZID=America/New_York:20261219T153000
-SUMMARY:West Essex High School at Morristown High School (Varsity Girls G
- irls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104510341@super-essex-conference
@@ -4338,6 +4318,24 @@ DTEND;TZID=America/New_York:20270113T180000
 SUMMARY:West Essex High School vs Pequannock Valley Middle School (Middle
   School Girls Girls Basketball)
 DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105083569@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T163000
+DTEND;TZID=America/New_York:20270113T183000
+SUMMARY:West Essex High School at West Milford Township High School (Vars
+ ity Girls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105083537@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T163000
+DTEND;TZID=America/New_York:20270113T183000
+SUMMARY:West Essex High School at West Milford Township High School (Vars
+ ity Boys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103180434@super-essex-conference

@@ -1042,7 +1042,7 @@ UID:arb:103740080@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T133000
 DTEND;TZID=America/New_York:20261219T153000
-SUMMARY:West Essex High School at Morristown High School (Varsity Girls G
+SUMMARY:Glen Ridge High School at Morristown High School (Varsity Girls G
  irls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:30 PM
 END:VEVENT
@@ -1531,6 +1531,15 @@ DTEND;TZID=America/New_York:20270105T180000
 SUMMARY:Livingston High School at Millburn High School (Freshman Girls Gi
  rls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105085550@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T160000
+DTEND;TZID=America/New_York:20270105T180000
+SUMMARY:Montclair Kimberley Academy at Woodrow Wilson Middle School - Cli
+ fton (Middle School Girls Girls Basketball)
+DESCRIPTION:Middle School Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100564775@super-essex-conference
@@ -2118,6 +2127,15 @@ SUMMARY:West Essex High School vs Kinnelon High School (Middle School Gir
 DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105071434@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T093000
+DTEND;TZID=America/New_York:20270109T113000
+SUMMARY:Nutley High School at Montville Township High School (Junior Vars
+ ity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100567071@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T100000
@@ -2285,8 +2303,8 @@ UID:arb:100563069@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T130000
 DTEND;TZID=America/New_York:20270109T150000
-SUMMARY:[Canceled] Arts High School vs Nutley High School (Varsity Girls 
- Girls Basketball)
+SUMMARY:[Canceled] Arts High School vs TBD (Varsity Girls Girls Basketbal
+ l)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
 STATUS:CANCELLED
 END:VEVENT
