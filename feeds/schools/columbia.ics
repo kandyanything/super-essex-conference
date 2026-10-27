@@ -2657,14 +2657,6 @@ SUMMARY:Columbia High School vs Union High School (Freshman Girls Girls V
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103851969@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261028T120000
-DTEND;TZID=America/New_York:20261028T140000
-SUMMARY:Columbia High School at TBD (Freshman Boys Boys Cross Country)
-DESCRIPTION:Freshman Boys Boys Cross Country - Away - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104818648@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T160000
@@ -2672,6 +2664,15 @@ DTEND;TZID=America/New_York:20261028T180000
 SUMMARY:Belleville High School at Columbia High School (Varsity Girls Gir
  ls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105110547@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T171500
+DTEND;TZID=America/New_York:20261028T191500
+SUMMARY:Columbia High School vs Lincoln High School (Freshman Girls Girls
+  Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105092772@super-essex-conference
@@ -2777,6 +2778,15 @@ DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Columbia High School at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105117694@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Columbia High School at Hillsborough High School (Varsity Girls F
+ ield Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104183584@super-essex-conference
