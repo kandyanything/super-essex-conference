@@ -98,11 +98,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100552397@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270116T120000
-DTEND;TZID=America/New_York:20270116T140000
+DTSTART;TZID=America/New_York:20270116T143000
+DTEND;TZID=America/New_York:20270116T163000
 SUMMARY:Weequahic High School vs Essex County-West Caldwell Tech High Sch
  ool (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 12:00 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100552402@super-essex-conference
@@ -132,6 +132,15 @@ SUMMARY:Belleville High School at Weequahic High School (Junior Varsity B
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105092391@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T173000
+DTEND;TZID=America/New_York:20270204T193000
+SUMMARY:Weequahic High School vs William L. Dickinson High School (Junior
+  Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100553491@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T173000
@@ -147,6 +156,15 @@ DTSTART;TZID=America/New_York:20270211T173000
 DTEND;TZID=America/New_York:20270211T193000
 SUMMARY:Weequahic High School vs American History High School (Junior Var
  sity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105092429@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270218T173000
+DTEND;TZID=America/New_York:20270218T193000
+SUMMARY:Weequahic High School vs Hoboken High School (Junior Varsity Boys
+  Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 END:VCALENDAR
