@@ -24,6 +24,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:105102466@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T173000
+DTEND;TZID=America/New_York:20270106T193000
+SUMMARY:Bloomfield High School at West Orange High School (Varsity Girls 
+ Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102741990@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T190000
@@ -33,6 +42,24 @@ SUMMARY:Bloomfield High School at West Orange High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105102075@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T180000
+DTEND;TZID=America/New_York:20270111T200000
+SUMMARY:West Orange High School vs East Brunswick High School (Varsity Gi
+ rls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105102089@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T170000
+DTEND;TZID=America/New_York:20270115T190000
+SUMMARY:West Orange High School vs Ridgefield Park Jr-Sr High School (Var
+ sity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103169944@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T090000
@@ -40,6 +67,15 @@ DTEND;TZID=America/New_York:20270121T110000
 SUMMARY:Bloomfield High School at West Orange High School (Varsity Girls 
  Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105102103@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T173000
+DTEND;TZID=America/New_York:20270129T193000
+SUMMARY:Orange High School at West Orange High School (Varsity Girls Girl
+ s Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104948037@super-essex-conference
