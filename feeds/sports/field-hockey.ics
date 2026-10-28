@@ -3637,6 +3637,15 @@ SUMMARY:West Essex High School at Camden Catholic High School (Junior Var
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105115858@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T140000
+DTEND;TZID=America/New_York:20261102T160000
+SUMMARY:Glen Ridge High School vs Bernards High School (Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105117657@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261102T140000
@@ -3680,15 +3689,6 @@ DTEND;VALUE=DATE:20261103
 SUMMARY:Columbia High School at Hillsborough High School (Varsity Girls F
  ield Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105115858@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Glen Ridge High School vs Bernards High School (Varsity Girls Fie
- ld Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105116013@super-essex-conference
