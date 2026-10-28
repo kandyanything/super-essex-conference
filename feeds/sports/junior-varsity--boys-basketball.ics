@@ -827,9 +827,10 @@ UID:arb:104834613@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261223T160000
 DTEND;TZID=America/New_York:20261223T180000
-SUMMARY:Technology High School vs Beloved Community Charter School (Junio
- r Varsity Boys Boys Basketball)
+SUMMARY:[Canceled] Technology High School vs Beloved Community Charter Sc
+ hool (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104716523@super-essex-conference
@@ -1983,6 +1984,15 @@ DTEND;TZID=America/New_York:20270119T200000
 SUMMARY:Barringer High School at Newark Lab High School (Junior Varsity B
  oys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103716998@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T170000
+DTEND;TZID=America/New_York:20270120T190000
+SUMMARY:Newark Collegiate Academy at Passaic Arts & Science Charter Schoo
+ l (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100535912@super-essex-conference

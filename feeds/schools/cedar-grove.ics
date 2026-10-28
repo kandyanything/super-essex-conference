@@ -2020,10 +2020,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105050497@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261102T163000
-DTEND;TZID=America/New_York:20261102T183000
+DTSTART;TZID=America/New_York:20261102T173000
+DTEND;TZID=America/New_York:20261102T193000
 SUMMARY:Cedar Grove High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105147842@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T140000
+DTEND;TZID=America/New_York:20261103T160000
+SUMMARY:Cedar Grove High School at Hasbrouck Heights High School (Varsity
+  Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104256143@super-essex-conference

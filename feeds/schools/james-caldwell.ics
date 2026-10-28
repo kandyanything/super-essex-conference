@@ -1973,6 +1973,15 @@ SUMMARY:James Caldwell High School vs North Arlington High School (Varsit
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105148231@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T140000
+DTEND;TZID=America/New_York:20261103T160000
+SUMMARY:James Caldwell High School at Lyndhurst High School (Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104684123@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261130T193000
@@ -2656,15 +2665,6 @@ SUMMARY:James Caldwell High School vs Bridgewater-Raritan High School (Va
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100559570@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270119T160000
-DTEND;TZID=America/New_York:20270119T180000
-SUMMARY:Mount Saint Dominic Academy at James Caldwell High School (Varsit
- y Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104727379@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T160000
@@ -2681,6 +2681,15 @@ DTEND;TZID=America/New_York:20270119T193000
 SUMMARY:Mount Saint Dominic Academy at James Caldwell High School (Junior
   Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100559570@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T190000
+DTEND;TZID=America/New_York:20270119T210000
+SUMMARY:Mount Saint Dominic Academy at James Caldwell High School (Varsit
+ y Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104221094@super-essex-conference

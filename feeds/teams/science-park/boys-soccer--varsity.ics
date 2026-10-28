@@ -216,9 +216,10 @@ UID:arb:102043892@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T190000
 DTEND;TZID=America/New_York:20261028T210000
-SUMMARY:Science Park High School at Linden High School (Varsity Boys Boys
-  Soccer)
+SUMMARY:[Canceled] Science Park High School at Linden High School (Varsit
+ y Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105105312@super-essex-conference
@@ -228,5 +229,14 @@ DTEND;TZID=America/New_York:20261102T180000
 SUMMARY:Science Park High School at Technology High School (Varsity Boys 
  Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105146727@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T140000
+DTEND;TZID=America/New_York:20261104T160000
+SUMMARY:Science Park High School at Madison High School (Varsity Boys Boy
+ s Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
 END:VEVENT
 END:VCALENDAR

@@ -10299,9 +10299,9 @@ UID:arb:99133948@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T180000
-SUMMARY:North Star Academy vs West Side High School (Varsity Girls Girls 
+SUMMARY:North Star Academy at West Side High School (Varsity Girls Girls 
  Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104520305@super-essex-conference
@@ -12891,6 +12891,15 @@ SUMMARY:Belleville High School at North Hunterdon High School (Varsity Gi
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105050521@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T160000
+DTEND;TZID=America/New_York:20261102T180000
+SUMMARY:West Essex High School vs Scotch Plains-Fanwood High School (Vars
+ ity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105050499@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261102T161500
@@ -12914,14 +12923,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261102T163000
 DTEND;TZID=America/New_York:20261102T183000
 SUMMARY:Bard Early College vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105050497@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261102T163000
-DTEND;TZID=America/New_York:20261102T183000
-SUMMARY:Cedar Grove High School vs TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -12960,13 +12961,21 @@ SUMMARY:Orange High School at Wayne Valley High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105050521@super-essex-conference
+UID:arb:105050497@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261102T163000
-DTEND;TZID=America/New_York:20261102T183000
-SUMMARY:West Essex High School vs Scotch Plains-Fanwood High School (Vars
- ity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
+DTSTART;TZID=America/New_York:20261102T173000
+DTEND;TZID=America/New_York:20261102T193000
+SUMMARY:Cedar Grove High School vs TBD (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105051549@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T150000
+DTEND;TZID=America/New_York:20261103T170000
+SUMMARY:Newark Tech vs Burlington Township High School (Varsity Girls Gir
+ ls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105051434@super-essex-conference
@@ -13014,13 +13023,13 @@ SUMMARY:Montclair Kimberley Academy vs The Pingry School (Varsity Girls G
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105051549@super-essex-conference
+UID:arb:105050412@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261103T163000
-DTEND;TZID=America/New_York:20261103T183000
-SUMMARY:Newark Tech vs Burlington Township High School (Varsity Girls Gir
- ls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
+DTSTART;TZID=America/New_York:20261105T160000
+DTEND;TZID=America/New_York:20261105T180000
+SUMMARY:Mount Saint Dominic Academy vs TBD (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104640547@super-essex-conference

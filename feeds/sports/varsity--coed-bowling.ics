@@ -94,6 +94,15 @@ SUMMARY:Montclair High School vs American History High School (Varsity Co
 DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105139949@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T160000
+DTEND;TZID=America/New_York:20261222T180000
+SUMMARY:West Orange High School at Morris Knolls High School (Varsity Coe
+ d Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104677048@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T160000
@@ -109,6 +118,15 @@ DTEND;TZID=America/New_York:20270106T180000
 SUMMARY:Montclair High School vs Bloomfield High School (Varsity Coed Coe
  d Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105140168@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T160000
+DTEND;TZID=America/New_York:20270106T180000
+SUMMARY:Seton Hall Prep at Morris Knolls High School (Varsity Coed Coed B
+ owling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104677395@super-essex-conference
@@ -171,5 +189,14 @@ DTSTART;TZID=America/New_York:20270203T160000
 DTEND;TZID=America/New_York:20270203T180000
 SUMMARY:Montclair High School vs TBD (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105141525@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T160000
+DTEND;TZID=America/New_York:20270204T180000
+SUMMARY:Nutley High School at Morris Knolls High School (Varsity Coed Coe
+ d Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 END:VCALENDAR

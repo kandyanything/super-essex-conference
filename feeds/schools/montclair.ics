@@ -3372,11 +3372,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105117657@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
+DTSTART;TZID=America/New_York:20261102T140000
+DTEND;TZID=America/New_York:20261102T160000
 SUMMARY:Montclair High School vs Montgomery High School (Varsity Girls Fi
  eld Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home
+DESCRIPTION:Varsity Girls Field Hockey - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105145955@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T140000
+DTEND;TZID=America/New_York:20261103T160000
+SUMMARY:Montclair High School vs Union City High School (Varsity Girls Gi
+ rls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103967571@super-essex-conference
@@ -3394,6 +3403,15 @@ DTEND;TZID=America/New_York:20261103T183000
 SUMMARY:Montclair High School at Westfield High School (Varsity Girls Gir
  ls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105146289@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T140000
+DTEND;TZID=America/New_York:20261104T160000
+SUMMARY:Montclair High School at Union City High School (Varsity Boys Boy
+ s Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102503470@super-essex-conference
