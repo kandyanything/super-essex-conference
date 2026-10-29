@@ -2764,6 +2764,15 @@ SUMMARY:Columbia High School vs Lincoln High School (Varsity Boys Footbal
 DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105160950@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T163000
+DTEND;TZID=America/New_York:20261030T183000
+SUMMARY:Columbia High School at Passaic High School (Varsity Boys Boys So
+ ccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103848274@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261031
@@ -3591,6 +3600,15 @@ DTEND;TZID=America/New_York:20270202T210000
 SUMMARY:West Side High School at Columbia High School (Varsity Boys Boys 
  Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105160367@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T183000
+DTEND;TZID=America/New_York:20270203T203000
+SUMMARY:Columbia High School at Governor Livingston High School (Varsity 
+ Girls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102089585@super-essex-conference

@@ -38907,9 +38907,10 @@ UID:arb:101137734@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T160000
 DTEND;TZID=America/New_York:20261029T180000
-SUMMARY:Science Park High School vs Hudson Catholic Regional High School 
- (Varsity Girls Girls Volleyball)
+SUMMARY:[Canceled] Science Park High School vs Hudson Catholic Regional H
+ igh School (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101917308@super-essex-conference
@@ -39034,9 +39035,10 @@ UID:arb:101137719@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T171500
 DTEND;TZID=America/New_York:20261029T191500
-SUMMARY:Science Park High School vs Hudson Catholic Regional High School 
- (Junior Varsity Girls Girls Volleyball)
+SUMMARY:[Canceled] Science Park High School vs Hudson Catholic Regional H
+ igh School (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102593025@super-essex-conference
@@ -39177,6 +39179,15 @@ SUMMARY:[Canceled] Montclair Kimberley Academy vs The Pingry School (Juni
  or Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105160950@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T163000
+DTEND;TZID=America/New_York:20261030T183000
+SUMMARY:Columbia High School at Passaic High School (Varsity Boys Boys So
+ ccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104875068@super-essex-conference
@@ -39834,15 +39845,6 @@ SUMMARY:Barringer High School at Elizabeth High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105146281@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261104T140000
-DTEND;TZID=America/New_York:20261104T160000
-SUMMARY:East Orange Campus High School at Passaic County Tech Institute (
- Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105146548@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261104T140000
@@ -39939,6 +39941,15 @@ DTEND;TZID=America/New_York:20261104T160000
 SUMMARY:Verona High School vs Beloved Community Charter School (Varsity B
  oys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105146281@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T160000
+DTEND;TZID=America/New_York:20261104T180000
+SUMMARY:East Orange Campus High School at Passaic County Tech Institute (
+ Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105145419@super-essex-conference
@@ -41727,14 +41738,6 @@ SUMMARY:Verona High School vs West Orange High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104518956@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261211T173000
-DTEND;TZID=America/New_York:20261211T193000
-SUMMARY:Orange High School vs TBD (Varsity Girls Girls Wrestling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101185549@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T173000
@@ -41769,6 +41772,15 @@ DTEND;TZID=America/New_York:20261211T193000
 SUMMARY:Montclair Kimberley Academy vs Saddle River Day School (Junior Va
  rsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104518956@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T173000
+DTEND;TZID=America/New_York:20261211T193000
+SUMMARY:Orange High School vs Irvington High School (Varsity Girls Girls 
+ Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102557943@super-essex-conference
@@ -59058,6 +59070,15 @@ SUMMARY:Seton Hall Prep vs Bergen Catholic High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105160367@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T183000
+DTEND;TZID=America/New_York:20270203T203000
+SUMMARY:Columbia High School at Governor Livingston High School (Varsity 
+ Girls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102089585@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T183000
@@ -62594,6 +62615,14 @@ DTEND;TZID=America/New_York:20270223T183000
 SUMMARY:Golda Och Academy vs Orange High School (Varsity Girls Girls Bask
  etball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105162064@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270224T160000
+DTEND;TZID=America/New_York:20270224T180000
+SUMMARY:Newark Academy vs TBD (7/8th Coed Swimming)
+DESCRIPTION:7/8th Coed Swimming - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103170269@super-essex-conference
