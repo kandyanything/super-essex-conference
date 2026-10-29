@@ -24,6 +24,33 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:105168293@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270322T160000
+DTEND;TZID=America/New_York:20270322T180000
+SUMMARY:Belleville High School at Nutley High School (Varsity Coed Coed T
+ rack & Field - Outdoor)
+DESCRIPTION:Varsity Coed Coed Track & Field - Outdoor - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105168330@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270331T160000
+DTEND;TZID=America/New_York:20270331T180000
+SUMMARY:Barringer High School vs Belleville High School (Varsity Coed Coe
+ d Track & Field - Outdoor)
+DESCRIPTION:Varsity Coed Coed Track & Field - Outdoor - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105168346@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270413T040000
+DTEND;TZID=America/New_York:20270413T060000
+SUMMARY:Belleville High School vs Orange High School (Varsity Coed Coed T
+ rack & Field - Outdoor)
+DESCRIPTION:Varsity Coed Coed Track & Field - Outdoor - Home - 4:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102634358@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270420T160000

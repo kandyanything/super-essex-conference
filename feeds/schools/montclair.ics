@@ -3391,11 +3391,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105146289@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261104T140000
-DTEND;TZID=America/New_York:20261104T160000
+DTSTART;TZID=America/New_York:20261104T163000
+DTEND;TZID=America/New_York:20261104T183000
 SUMMARY:Montclair High School at Union City High School (Varsity Boys Boy
  s Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102503470@super-essex-conference
@@ -3663,6 +3663,24 @@ DTEND;TZID=America/New_York:20261215T193000
 SUMMARY:Montclair High School vs Payne Tech (Junior Varsity Girls Girls B
  asketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105173719@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T181500
+DTEND;TZID=America/New_York:20261215T201500
+SUMMARY:Montclair High School at Governor Livingston High School (Varsity
+  Girls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105173599@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T181500
+DTEND;TZID=America/New_York:20261215T201500
+SUMMARY:Montclair High School at Governor Livingston High School (Varsity
+  Boys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549309@super-essex-conference

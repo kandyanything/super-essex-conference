@@ -59,6 +59,15 @@ SUMMARY:Livingston High School vs Millburn High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105173599@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T181500
+DTEND;TZID=America/New_York:20261215T201500
+SUMMARY:Montclair High School at Governor Livingston High School (Varsity
+  Boys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105031162@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T160000
@@ -66,6 +75,15 @@ DTEND;TZID=America/New_York:20261216T180000
 SUMMARY:Columbia High School vs Montclair High School (Varsity Boys Boys 
  Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102089072@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T180000
+DTEND;TZID=America/New_York:20261216T200000
+SUMMARY:Saint Benedict's Prep at Governor Livingston High School (Varsity
+  Boys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104767230@super-essex-conference

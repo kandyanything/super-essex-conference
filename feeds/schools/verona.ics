@@ -2207,6 +2207,14 @@ SUMMARY:Verona High School at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105050490@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T160000
+DTEND;TZID=America/New_York:20261102T180000
+SUMMARY:Verona High School vs TBD (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105115832@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261102T160000
@@ -2214,14 +2222,6 @@ DTEND;TZID=America/New_York:20261102T180000
 SUMMARY:James Caldwell High School vs Verona High School (Varsity Girls F
  ield Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105050490@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261102T163000
-DTEND;TZID=America/New_York:20261102T183000
-SUMMARY:Verona High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105147651@super-essex-conference

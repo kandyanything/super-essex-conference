@@ -112,24 +112,6 @@ SUMMARY:Newark Academy vs Saint Benedict's Prep (Varsity Girls Field Hock
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100920617@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260901T160000
-DTEND;TZID=America/New_York:20260901T180000
-SUMMARY:Saint Benedict's Prep at Delbarton School (Junior Varsity Boys Bo
- ys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100920459@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260901T160000
-DTEND;TZID=America/New_York:20260901T180000
-SUMMARY:Saint Benedict's Prep at Delbarton School (Freshman Boys Boys Soc
- cer)
-DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100866966@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T160000
@@ -1098,6 +1080,24 @@ SUMMARY:Nutley High School vs Saint Benedict's Prep (Junior Varsity Girls
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100920617@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:Saint Benedict's Prep at Delbarton School (Junior Varsity Boys Bo
+ ys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100920459@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:Saint Benedict's Prep at Delbarton School (Freshman Boys Boys Soc
+ cer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102127788@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T173000
@@ -1144,6 +1144,15 @@ SUMMARY:Saint Benedict's Prep at Peddie School (Junior Varsity Girls Fiel
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105177803@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Montclair Kimberley Academy at Saint Benedict's Prep (Middle Scho
+ ol Boys Boys Soccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103582774@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T180000
@@ -1173,11 +1182,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102089072@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T183000
-DTEND;TZID=America/New_York:20261216T203000
+DTSTART;TZID=America/New_York:20261216T180000
+DTEND;TZID=America/New_York:20261216T200000
 SUMMARY:Saint Benedict's Prep at Governor Livingston High School (Varsity
-  Coed Coed Fencing)
-DESCRIPTION:Varsity Coed Coed Fencing - Away - 6:30 PM
+  Boys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100535658@super-essex-conference
@@ -1241,6 +1250,15 @@ DTEND;TZID=America/New_York:20261221T200000
 SUMMARY:Montclair High School vs Saint Benedict's Prep (Varsity Boys Boys
   Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105173353@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T180000
+DTEND;TZID=America/New_York:20261221T200000
+SUMMARY:Saint Benedict's Prep at Governor Livingston High School (Varsity
+  Girls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100535662@super-essex-conference

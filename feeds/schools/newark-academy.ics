@@ -2168,6 +2168,15 @@ SUMMARY:Newark Academy at Gill St. Bernard's School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105154760@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T133000
+DTEND;TZID=America/New_York:20261102T153000
+SUMMARY:Newark Academy at Saint Joseph Regional High School (Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105115083@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261102T140000
@@ -2177,13 +2186,13 @@ SUMMARY:Montclair Kimberley Academy vs Newark Academy (Varsity Girls Fiel
 DESCRIPTION:Varsity Girls Field Hockey - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105154760@super-essex-conference
+UID:arb:105177512@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261102T140000
-DTEND;TZID=America/New_York:20261102T160000
-SUMMARY:Newark Academy at Saint Joseph Regional High School (Varsity Boys
+DTSTART;TZID=America/New_York:20261102T150000
+DTEND;TZID=America/New_York:20261102T170000
+SUMMARY:Montclair Kimberley Academy vs Newark Academy (Middle School Boys
   Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
+DESCRIPTION:Middle School Boys Boys Soccer - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105105397@super-essex-conference

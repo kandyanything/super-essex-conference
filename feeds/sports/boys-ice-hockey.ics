@@ -330,9 +330,10 @@ UID:arb:105158700@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T174500
 DTEND;TZID=America/New_York:20261212T194500
-SUMMARY:West Essex High School vs TBD (Junior Varsity Boys Boys Ice Hocke
- y)
+SUMMARY:[Canceled] West Essex High School vs Westfield High School (Junio
+ r Varsity Boys Boys Ice Hockey)
 DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Home - 5:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103169972@super-essex-conference
@@ -342,6 +343,15 @@ DTEND;TZID=America/New_York:20261212T214500
 SUMMARY:Nutley High School vs Oratory Prep School (Varsity Boys Boys Ice 
  Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 7:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105175482@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T200000
+DTEND;TZID=America/New_York:20261212T220000
+SUMMARY:West Essex High School vs Westfield High School (Junior Varsity B
+ oys Boys Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Home - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102648371@super-essex-conference
@@ -993,6 +1003,15 @@ DTEND;TZID=America/New_York:20270111T220000
 SUMMARY:Livingston High School vs Madison High School (Varsity Boys Boys 
  Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 8:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105172934@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T160000
+DTEND;TZID=America/New_York:20270112T180000
+SUMMARY:Millburn High School at John P. Stevens High School (Varsity Boys
+  Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103476164@super-essex-conference

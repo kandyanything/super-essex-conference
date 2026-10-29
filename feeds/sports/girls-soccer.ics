@@ -6184,6 +6184,24 @@ SUMMARY:Newark Academy at Gill St. Bernard's School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105170708@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T140000
+DTEND;TZID=America/New_York:20261102T160000
+SUMMARY:Montclair Kimberley Academy vs Paramus Catholic High School (Vars
+ ity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105170666@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T140000
+DTEND;TZID=America/New_York:20261102T160000
+SUMMARY:Mount Saint Dominic Academy vs Kent Place School (Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105105397@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261102T150000
@@ -6191,15 +6209,6 @@ DTEND;TZID=America/New_York:20261102T170000
 SUMMARY:Newark Academy at Kent Place School (Middle School Girls Girls So
  ccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 3:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105156732@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261103T140000
-DTEND;TZID=America/New_York:20261103T160000
-SUMMARY:Belleville High School vs J.F. Kennedy Memorial High School (Vars
- ity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105146032@super-essex-conference
@@ -6308,7 +6317,7 @@ SUMMARY:West Orange High School vs Fair Lawn High School (Varsity Girls G
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105075936@super-essex-conference
+UID:arb:105156732@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261103T160000
 DTEND;TZID=America/New_York:20261103T180000

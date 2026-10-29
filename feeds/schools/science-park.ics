@@ -1630,6 +1630,24 @@ SUMMARY:Montclair Kimberley Academy vs Science Park High School (Varsity
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105177793@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T133000
+DTEND;TZID=America/New_York:20270116T153000
+SUMMARY:Science Park High School at Hawthorne Christian Academy (Junior V
+ arsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105176236@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T160000
+DTEND;TZID=America/New_York:20270119T180000
+SUMMARY:Glen Ridge High School at Science Park High School (Varsity Boys 
+ Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100568140@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T160000
@@ -1655,6 +1673,15 @@ DTEND;TZID=America/New_York:20270121T180000
 SUMMARY:Science Park High School vs West Essex High School (Varsity Boys 
  Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105176170@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T161500
+DTEND;TZID=America/New_York:20270121T181500
+SUMMARY:Science Park High School vs Franklin High School (Varsity Boys Bo
+ ys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568546@super-essex-conference
