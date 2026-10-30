@@ -576,6 +576,15 @@ SUMMARY:East Side High School vs North Star Academy (Varsity Boys Boys Ba
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105185462@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T160000
+DTEND;TZID=America/New_York:20261209T180000
+SUMMARY:North Star Academy at Plainfield High School (Varsity Boys Boys B
+ asketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100549472@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T160000
@@ -726,6 +735,15 @@ DTEND;TZID=America/New_York:20261221T180000
 SUMMARY:North Star Academy at The Wilberforce School (7/8th Boys Basketba
  ll)
 DESCRIPTION:7/8th Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105182075@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T173000
+DTEND;TZID=America/New_York:20261221T193000
+SUMMARY:North Star Academy at The Wilberforce School (7/8th Girls Basketb
+ all)
+DESCRIPTION:7/8th Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551222@super-essex-conference
@@ -1006,6 +1024,15 @@ DTEND;TZID=America/New_York:20270116T133000
 SUMMARY:North Star Academy vs University High School (Junior Varsity Boys
   Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105185051@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T123000
+DTEND;TZID=America/New_York:20270116T143000
+SUMMARY:North Star Academy vs The Wilberforce School (7/8th Girls Basketb
+ all)
+DESCRIPTION:7/8th Girls Basketball - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100562960@super-essex-conference
