@@ -39464,15 +39464,6 @@ SUMMARY:Montclair Kimberley Academy vs Newark Academy (Varsity Girls Fiel
 DESCRIPTION:Varsity Girls Field Hockey - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105170666@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261102T140000
-DTEND;TZID=America/New_York:20261102T160000
-SUMMARY:Mount Saint Dominic Academy vs Kent Place School (Varsity Girls G
- irls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105115054@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261102T140000
@@ -39533,6 +39524,15 @@ DTEND;TZID=America/New_York:20261102T180000
 SUMMARY:James Caldwell High School vs Verona High School (Varsity Girls F
  ield Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105170666@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T160000
+DTEND;TZID=America/New_York:20261102T180000
+SUMMARY:Mount Saint Dominic Academy vs Kent Place School (Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105105312@super-essex-conference
@@ -39619,7 +39619,8 @@ UID:arb:105050497@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261102T173000
 DTEND;TZID=America/New_York:20261102T193000
-SUMMARY:Cedar Grove High School vs TBD (Varsity Girls Girls Volleyball)
+SUMMARY:Cedar Grove High School vs New Milford High School (Varsity Girls
+  Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -39774,6 +39775,15 @@ SUMMARY:Columbia High School vs Elizabeth High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105051427@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T160000
+DTEND;TZID=America/New_York:20261103T180000
+SUMMARY:Montclair High School at Westfield High School (Varsity Girls Gir
+ ls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105051263@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261103T160000
@@ -39825,15 +39835,6 @@ DTEND;TZID=America/New_York:20261103T183000
 SUMMARY:Livingston High School vs Morristown High School (Varsity Girls G
  irls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105051427@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261103T163000
-DTEND;TZID=America/New_York:20261103T183000
-SUMMARY:Montclair High School at Westfield High School (Varsity Girls Gir
- ls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105148231@super-essex-conference
@@ -42039,6 +42040,14 @@ SUMMARY:West Essex High School vs Morris Hills High School (Freshman Boys
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105199990@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T100000
+DTEND;TZID=America/New_York:20261212T120000
+SUMMARY:Nutley High School at TBD (Varsity Coed Track & Field - Indoor)
+DESCRIPTION:Varsity Coed Track & Field - Indoor - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102615768@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T100000
@@ -43451,6 +43460,15 @@ SUMMARY:Cedar Grove High School at Verona High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105202437@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T170000
+DTEND;TZID=America/New_York:20261216T190000
+SUMMARY:Columbia High School at Glen Ridge High School (Varsity Boys Boys
+  Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103851036@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T170000
@@ -44365,7 +44383,7 @@ SUMMARY:Belleville High School at TBD (Varsity Coed Track & Field - Indoo
 DESCRIPTION:Varsity Coed Track & Field - Indoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104252861@super-essex-conference
+UID:arb:105200028@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T160000
 DTEND;TZID=America/New_York:20261218T180000
@@ -45774,6 +45792,14 @@ SUMMARY:North Star Academy at Newark School of Global Studies (Varsity Bo
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105200107@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T163000
+DTEND;TZID=America/New_York:20261222T183000
+SUMMARY:Nutley High School at TBD (Varsity Coed Track & Field - Indoor)
+DESCRIPTION:Varsity Coed Track & Field - Indoor - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105103848@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T163000
@@ -46679,6 +46705,14 @@ SUMMARY:Nutley High School at Bergenfield High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Basketball - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105200438@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T090000
+DTEND;TZID=America/New_York:20261229T110000
+SUMMARY:Nutley High School at TBD (Varsity Coed Track & Field - Indoor)
+DESCRIPTION:Varsity Coed Track & Field - Indoor - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102748898@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261229T090000
@@ -46792,6 +46826,15 @@ DTEND;TZID=America/New_York:20261230T110000
 SUMMARY:Newark Lab High School at Saddle Brook High School (Varsity Girls
   Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105200509@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261230T090000
+DTEND;TZID=America/New_York:20261230T110000
+SUMMARY:Nutley High School at Bloomfield High School (Varsity Coed Track 
+ & Field - Indoor)
+DESCRIPTION:Varsity Coed Track & Field - Indoor - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104931445@super-essex-conference
@@ -52672,6 +52715,15 @@ SUMMARY:Bloomfield High School at Nutley High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105202443@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T170000
+DTEND;TZID=America/New_York:20270115T190000
+SUMMARY:East Orange Campus High School at Glen Ridge High School (Varsity
+  Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103851176@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T170000
@@ -56421,6 +56473,14 @@ SUMMARY:Nutley High School at Lakeland Regional High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105200712@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T160000
+DTEND;TZID=America/New_York:20270125T180000
+SUMMARY:Nutley High School at TBD (Varsity Coed Track & Field - Indoor)
+DESCRIPTION:Varsity Coed Track & Field - Indoor - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104741487@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T160000
@@ -56689,6 +56749,14 @@ DTEND;TZID=America/New_York:20270126T174500
 SUMMARY:Nutley High School vs North Arlington High School (Varsity Girls 
  Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105200725@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T160000
+DTEND;TZID=America/New_York:20270126T180000
+SUMMARY:Nutley High School at TBD (Varsity Coed Track & Field - Indoor)
+DESCRIPTION:Varsity Coed Track & Field - Indoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100563133@super-essex-conference
@@ -58385,6 +58453,14 @@ SUMMARY:Montclair High School vs Bayonne High School (Varsity Boys Boys I
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105200845@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T163000
+DTEND;TZID=America/New_York:20270201T183000
+SUMMARY:Nutley High School at TBD (Varsity Coed Track & Field - Indoor)
+DESCRIPTION:Varsity Coed Track & Field - Indoor - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104838297@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270201T163000
@@ -59993,14 +60069,6 @@ SUMMARY:Saint Benedict's Prep vs Bayonne High School (Varsity Boys Boys W
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104253366@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270206T100000
-DTEND;TZID=America/New_York:20270206T120000
-SUMMARY:Nutley High School at TBD (Varsity Coed Track & Field - Indoor)
-DESCRIPTION:Varsity Coed Track & Field - Indoor - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100808563@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T100000
@@ -61067,6 +61135,14 @@ DTEND;TZID=America/New_York:20270210T180000
 SUMMARY:Saint Benedict's Prep vs Saint Vincent Academy (Varsity Girls Gir
  ls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104253366@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270210T163000
+DTEND;TZID=America/New_York:20270210T183000
+SUMMARY:Nutley High School at TBD (Varsity Coed Track & Field - Indoor)
+DESCRIPTION:Varsity Coed Track & Field - Indoor - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104982404@super-essex-conference
