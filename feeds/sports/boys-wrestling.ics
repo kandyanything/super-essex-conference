@@ -610,6 +610,15 @@ SUMMARY:Livingston High School at West Morris Central High School (Varsit
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105208384@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T180000
+DTEND;TZID=America/New_York:20261223T200000
+SUMMARY:Glen Ridge High School at Passaic Valley High School (Varsity Boy
+ s Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102737503@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261227T084500
@@ -956,6 +965,15 @@ DTSTART;TZID=America/New_York:20270109T090000
 DTEND;TZID=America/New_York:20270109T110000
 SUMMARY:Saint Benedict's Prep at Old Bridge High School (Varsity Boys Boy
  s Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105208441@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
+SUMMARY:West Orange High School at Passaic Valley High School (Varsity Bo
+ ys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -1562,13 +1580,13 @@ SUMMARY:Cedar Grove High School vs TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104672292@super-essex-conference
+UID:arb:105208422@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270129T180000
 DTEND;TZID=America/New_York:20270129T200000
-SUMMARY:Montclair High School vs Passaic Valley High School (Varsity Boys
+SUMMARY:Montclair High School at Passaic Valley High School (Varsity Boys
   Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104947911@super-essex-conference

@@ -39548,9 +39548,10 @@ UID:arb:99665587@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261102T160000
 DTEND;TZID=America/New_York:20261102T180000
-SUMMARY:Seton Hall Prep vs Immaculata High School (Junior Varsity Boys Fo
- otball)
+SUMMARY:[Canceled] Seton Hall Prep vs Immaculata High School (Junior Vars
+ ity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105050521@super-essex-conference
@@ -46355,6 +46356,15 @@ SUMMARY:Seton Hall Prep vs Christian Brothers Academy (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105208384@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T180000
+DTEND;TZID=America/New_York:20261223T200000
+SUMMARY:Glen Ridge High School at Passaic Valley High School (Varsity Boy
+ s Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104490737@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261223T180000
@@ -49503,6 +49513,15 @@ DTSTART;TZID=America/New_York:20270109T090000
 DTEND;TZID=America/New_York:20270109T110000
 SUMMARY:Saint Benedict's Prep at Old Bridge High School (Varsity Boys Boy
  s Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105208441@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
+SUMMARY:West Orange High School at Passaic Valley High School (Varsity Bo
+ ys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -58193,13 +58212,13 @@ SUMMARY:East Side High School at Princeton High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Ice Hockey - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104672292@super-essex-conference
+UID:arb:105208422@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270129T180000
 DTEND;TZID=America/New_York:20270129T200000
-SUMMARY:Montclair High School vs Passaic Valley High School (Varsity Boys
+SUMMARY:Montclair High School at Passaic Valley High School (Varsity Boys
   Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104947911@super-essex-conference
@@ -62083,9 +62102,10 @@ UID:arb:103715767@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270213T130000
 DTEND;TZID=America/New_York:20270213T150000
-SUMMARY:West Essex High School at River Dell Regional High School (Varsit
- y Boys Boys Basketball)
+SUMMARY:[Canceled] West Essex High School at River Dell Regional High Sch
+ ool (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102567445@super-essex-conference
