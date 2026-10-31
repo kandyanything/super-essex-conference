@@ -1140,6 +1140,15 @@ SUMMARY:Barringer High School vs East Orange Campus High School (Varsity
 DESCRIPTION:Varsity Boys Football - Home - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105215491@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:East Orange Campus High School vs Irvington High School (Varsity 
+ Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104251734@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T170000
@@ -1149,6 +1158,24 @@ SUMMARY:Bloomfield High School vs East Orange Campus High School (Varsity
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105215522@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:East Orange Campus High School vs Irvington High School (Freshman
+  Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105215516@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T160000
+DTEND;TZID=America/New_York:20261209T180000
+SUMMARY:East Orange Campus High School vs Colonia High School (Freshman B
+ oys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104517775@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T170000
@@ -1156,6 +1183,24 @@ DTEND;TZID=America/New_York:20261209T190000
 SUMMARY:Barringer High School at East Orange Campus High School (Varsity 
  Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105215500@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T173000
+DTEND;TZID=America/New_York:20261209T193000
+SUMMARY:East Orange Campus High School vs Colonia High School (Junior Var
+ sity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105215495@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T190000
+DTEND;TZID=America/New_York:20261209T210000
+SUMMARY:East Orange Campus High School vs Colonia High School (Varsity Bo
+ ys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104183584@super-essex-conference
@@ -1286,8 +1331,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100563857@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261222T173000
-DTEND;TZID=America/New_York:20261222T193000
+DTSTART;TZID=America/New_York:20261221T173000
+DTEND;TZID=America/New_York:20261221T193000
 SUMMARY:East Orange Campus High School vs Newark Academy (Junior Varsity 
  Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
@@ -1295,8 +1340,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100563815@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261222T190000
-DTEND;TZID=America/New_York:20261222T210000
+DTSTART;TZID=America/New_York:20261221T190000
+DTEND;TZID=America/New_York:20261221T210000
 SUMMARY:East Orange Campus High School vs Newark Academy (Varsity Girls G
  irls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
@@ -1771,6 +1816,33 @@ SUMMARY:East Orange Campus High School at Abraham Clark High School (Vars
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105215464@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T161500
+DTEND;TZID=America/New_York:20270202T181500
+SUMMARY:Central High School at East Orange Campus High School (Freshman G
+ irls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105215469@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T173000
+DTEND;TZID=America/New_York:20270202T193000
+SUMMARY:Central High School at East Orange Campus High School (Junior Var
+ sity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105215475@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T190000
+DTEND;TZID=America/New_York:20270202T210000
+SUMMARY:Central High School at East Orange Campus High School (Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105115967@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T170000
@@ -1778,6 +1850,33 @@ DTEND;TZID=America/New_York:20270203T190000
 SUMMARY:East Orange Campus High School vs Newark Collegiate Academy (Vars
  ity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105215536@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T160000
+DTEND;TZID=America/New_York:20270204T180000
+SUMMARY:East Orange Campus High School vs West Orange High School (Freshm
+ an Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105215550@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T173000
+DTEND;TZID=America/New_York:20270204T193000
+SUMMARY:East Orange Campus High School vs West Orange High School (Junior
+  Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105215556@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T190000
+DTEND;TZID=America/New_York:20270204T210000
+SUMMARY:East Orange Campus High School vs West Orange High School (Varsit
+ y Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100563474@super-essex-conference
@@ -1848,8 +1947,8 @@ UID:arb:102214780@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T160000
 DTEND;TZID=America/New_York:20270211T180000
-SUMMARY:East Orange Campus High School vs TBD (Varsity Girls Girls Basket
- ball)
+SUMMARY:East Orange Campus High School vs North Star Academy (Varsity Gir
+ ls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1896,6 +1995,33 @@ DTEND;TZID=America/New_York:20270216T180000
 SUMMARY:East Orange Campus High School at East Side High School (Varsity 
  Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105215542@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270218T160000
+DTEND;TZID=America/New_York:20270218T180000
+SUMMARY:East Orange Campus High School vs Hillside High School (Freshman 
+ Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105215546@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270218T173000
+DTEND;TZID=America/New_York:20270218T193000
+SUMMARY:East Orange Campus High School vs Hillside High School (Junior Va
+ rsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105215561@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270218T190000
+DTEND;TZID=America/New_York:20270218T210000
+SUMMARY:East Orange Campus High School vs Hillside High School (Varsity B
+ oys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102462324@super-essex-conference

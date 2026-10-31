@@ -35,8 +35,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100563815@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261222T190000
-DTEND;TZID=America/New_York:20261222T210000
+DTSTART;TZID=America/New_York:20261221T190000
+DTEND;TZID=America/New_York:20261221T210000
 SUMMARY:East Orange Campus High School vs Newark Academy (Varsity Girls G
  irls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
@@ -123,6 +123,15 @@ SUMMARY:Arts High School vs East Orange Campus High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105215475@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T190000
+DTEND;TZID=America/New_York:20270202T210000
+SUMMARY:Central High School at East Orange Campus High School (Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100563386@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T190000
@@ -136,8 +145,8 @@ UID:arb:102214780@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T160000
 DTEND;TZID=America/New_York:20270211T180000
-SUMMARY:East Orange Campus High School vs TBD (Varsity Girls Girls Basket
- ball)
+SUMMARY:East Orange Campus High School vs North Star Academy (Varsity Gir
+ ls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT

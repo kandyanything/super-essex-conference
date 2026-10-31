@@ -24,6 +24,24 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:105215491@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:East Orange Campus High School vs Irvington High School (Varsity 
+ Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105215495@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T190000
+DTEND;TZID=America/New_York:20261209T210000
+SUMMARY:East Orange Campus High School vs Colonia High School (Varsity Bo
+ ys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101009159@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T183000
@@ -132,6 +150,15 @@ SUMMARY:Arts High School at East Orange Campus High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105215556@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T190000
+DTEND;TZID=America/New_York:20270204T210000
+SUMMARY:East Orange Campus High School vs West Orange High School (Varsit
+ y Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100537594@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T190000
@@ -148,5 +175,14 @@ DTEND;TZID=America/New_York:20270211T180000
 SUMMARY:East Orange Campus High School at Payne Tech (Varsity Boys Boys B
  asketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105215561@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270218T190000
+DTEND;TZID=America/New_York:20270218T210000
+SUMMARY:East Orange Campus High School vs Hillside High School (Varsity B
+ oys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 END:VCALENDAR

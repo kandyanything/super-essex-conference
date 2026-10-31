@@ -293,6 +293,15 @@ SUMMARY:Livingston High School vs Passaic High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105214279@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T163000
+DTEND;TZID=America/New_York:20261211T183000
+SUMMARY:Nutley High School at Lakeland Regional High School (Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103883016@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T100000
@@ -840,6 +849,15 @@ SUMMARY:Technology High School at Paterson Arts & Science Charter School
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100563815@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T190000
+DTEND;TZID=America/New_York:20261221T210000
+SUMMARY:East Orange Campus High School vs Newark Academy (Varsity Girls G
+ irls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100568596@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T160000
@@ -910,15 +928,6 @@ DTEND;TZID=America/New_York:20261222T210000
 SUMMARY:Arts High School at Chatham High School (Varsity Girls Girls Bask
  etball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100563815@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261222T190000
-DTEND;TZID=America/New_York:20261222T210000
-SUMMARY:East Orange Campus High School vs Newark Academy (Varsity Girls G
- irls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105159053@super-essex-conference
@@ -1067,6 +1076,24 @@ DTEND;VALUE=DATE:20261229
 SUMMARY:Nutley High School at Bergenfield High School (Varsity Girls Girl
  s Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105213953@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T100000
+DTEND;TZID=America/New_York:20261229T120000
+SUMMARY:Bloomfield High School vs Secaucus High School (Varsity Girls Gir
+ ls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105213977@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T113000
+DTEND;TZID=America/New_York:20261229T133000
+SUMMARY:Glen Ridge High School vs Linden High School (Varsity Girls Girls
+  Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102553219@super-essex-conference
@@ -3008,6 +3035,15 @@ SUMMARY:Bloomfield High School vs Cedar Grove High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105215475@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T190000
+DTEND;TZID=America/New_York:20270202T210000
+SUMMARY:Central High School at East Orange Campus High School (Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100563515@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T190000
@@ -3367,15 +3403,6 @@ SUMMARY:Saint Benedict's Prep vs Saint Vincent Academy (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102214780@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270211T160000
-DTEND;TZID=America/New_York:20270211T180000
-SUMMARY:East Orange Campus High School vs TBD (Varsity Girls Girls Basket
- ball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100568164@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T160000
@@ -3401,6 +3428,15 @@ DTEND;TZID=America/New_York:20270211T180000
 SUMMARY:Cedar Grove High School at East Side High School (Varsity Girls G
  irls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102214780@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T160000
+DTEND;TZID=America/New_York:20270211T180000
+SUMMARY:East Orange Campus High School vs North Star Academy (Varsity Gir
+ ls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100560244@super-essex-conference
