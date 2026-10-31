@@ -1,12 +1,43 @@
 {
-  "_comment": "Site-wide pop-up. mode 'acknowledge' shows it each visit until the visitor clicks 'Don't show this again'; closing with X or Esc dismisses for that session only. Change 'id' for a NEW message. Other modes: 'once', 'untilDate' (with endDate), 'always'.",
+  "_comment": "Site-wide pop-up. mode 'acknowledge' shows it each visit until the visitor clicks 'Don't show this again'; closing with X or Esc dismisses for that session only. Change 'id' for a NEW message. Other modes: 'once', 'untilDate' (with endDate), 'always'. A message can also run for a set time: \"until\" (YYYY-MM-DD) ends it and \"then\" holds the announcement that takes over.",
   "active": true,
-  "id": "welcome-2026",
-  "eyebrow": "Announcement",
-  "title": "Welcome to the New Super Essex Site",
-  "body": "Browse every school's schedule, follow standings, and watch SEC Vision — all season long.",
-  "linkUrl": "#member-schools",
-  "linkLabel": "View Schedules",
+  "id": "ect-champions-fall-2026",
+  "icon": "trophy",
+  "eyebrow": "Essex County Tournament Champions",
+  "title": "Congratulations, Champions!",
+  "body": "Two Essex County Tournament titles for Super Essex Conference schools.",
+  "champions": [
+    {
+      "items": [
+        {
+          "school": "St. Benedict's",
+          "division": "ECT Boys Soccer Champions",
+          "photo": "images/champions/st-benedicts-soccer-ect-2026.jpg",
+          "alt": "St. Benedict's soccer team and fans with the Essex County Tournament trophy at Caldwell's Bonnel Field"
+        },
+        {
+          "school": "Verona",
+          "division": "ECT Girls Volleyball Champions",
+          "photo": "images/champions/verona-volleyball-ect-2026.jpg",
+          "alt": "Verona girls volleyball team with the Essex County Tournament trophy and plaques"
+        }
+      ]
+    }
+  ],
+  "linkUrl": "",
+  "linkLabel": "",
   "mode": "acknowledge",
-  "endDate": ""
+  "endDate": "",
+  "until": "2026-11-09",
+  "then": {
+    "active": true,
+    "id": "welcome-2026",
+    "eyebrow": "Announcement",
+    "title": "Welcome to the New Super Essex Site",
+    "body": "Browse every school's schedule, follow standings, and watch SEC Vision — all season long.",
+    "linkUrl": "#member-schools",
+    "linkLabel": "View Schedules",
+    "mode": "acknowledge",
+    "endDate": ""
+  }
 }

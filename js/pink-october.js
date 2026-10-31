@@ -5,7 +5,7 @@
 
 var cfg = window.poConf || {};
 var d0 = new Date();
-if (!cfg.force && d0.getMonth() !== 9) return;
+if (!cfg.force && (d0.getMonth() !== 9 || d0.getDate() > 30)) return;   // ended a day early in 2026 (Oct 31 = champions pop-up)
 try { if (sessionStorage.getItem('po_oct_2026')) return; } catch (_) {}
 
 // ── canvas ────────────────────────────────────────────────────────────────
