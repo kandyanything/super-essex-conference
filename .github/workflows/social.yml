@@ -1,7 +1,7 @@
-# Refresh the Instagram tab of the social wall on demand. The same step also runs
+# Refresh the social wall (Facebook + Instagram) on demand. The same step also runs
 # inside schedule.yml every three hours, so this is for "show the new post now"
 # and for checking the token still works. Commits only data/social.json.
-name: Refresh Instagram posts
+name: Refresh social posts
 
 on:
   workflow_dispatch:
@@ -22,10 +22,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Fetch the newest Instagram posts
+      - name: Fetch the newest Facebook and Instagram posts
         env:
           META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
-        run: node scripts/build-instagram.js
+        run: node scripts/build-social.js
       - name: Commit if anything changed
         run: |
           git config user.name  "sec-schedule-bot"
@@ -35,7 +35,7 @@ jobs:
             echo "no change - nothing to publish"
             exit 0
           fi
-          git commit -m "Instagram: refresh posts"
+          git commit -m "Social: refresh posts"
           for i in 1 2 3; do
             git push origin HEAD:main && exit 0
             git pull --rebase origin main

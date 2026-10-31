@@ -74,11 +74,11 @@ jobs:
           else
             echo "videos.json is current - skipping the Vision refresh"
           fi
-      - name: Refresh Instagram posts
+      - name: Refresh social posts (Facebook + Instagram)
         continue-on-error: true
         env:
           META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
-        run: node scripts/build-instagram.js
+        run: node scripts/build-social.js
       - name: Commit if anything changed
         run: |
           git config user.name  "sec-schedule-bot"

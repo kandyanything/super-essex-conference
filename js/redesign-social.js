@@ -116,6 +116,35 @@
         }
         box.appendChild(head);
 
+        if (p.id === 'facebook' && Array.isArray(p.items) && p.items.length) {
+            // Posts fetched from the Page by scripts/build-social.js. Facebook's Page
+            // Plugin often shows no posts for newer Pages, so these cards replace it.
+            var cards = el('div', 'social-cards');
+            p.items.forEach(function (it) {
+                var c = el('a', 'social-card');
+                c.href = it.url; c.target = '_blank'; c.rel = 'noopener';
+                if (it.image) {
+                    var fig = el('div', 'social-card__img' + (it.video ? ' is-video' : ''));
+                    var im = document.createElement('img');
+                    im.src = it.image; im.alt = ''; im.loading = 'lazy'; im.decoding = 'async';
+                    im.onerror = function () { fig.parentNode && fig.parentNode.removeChild(fig); };
+                    fig.appendChild(im);
+                    c.appendChild(fig);
+                }
+                var body = el('div', 'social-card__body');
+                if (it.time) {
+                    var d = new Date(it.time);
+                    if (!isNaN(d)) body.appendChild(el('span', 'social-card__date', d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })));
+                }
+                if (it.text) body.appendChild(el('p', 'social-card__text', it.text));
+                body.appendChild(el('span', 'social-card__more', 'View on Facebook'));
+                c.appendChild(body);
+                cards.appendChild(c);
+            });
+            box.appendChild(cards);
+            return box;
+        }
+
         if (p.id === 'facebook' && p.url) {
             // The Page Plugin. adapt_container_width makes it fill the column;
             // the iframe still needs explicit width/height attributes or it
