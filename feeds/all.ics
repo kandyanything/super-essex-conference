@@ -39591,6 +39591,15 @@ SUMMARY:Bard Early College vs Cape May County Technical High School (Vars
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105117694@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T163000
+DTEND;TZID=America/New_York:20261102T183000
+SUMMARY:Columbia High School at Hillsborough High School (Varsity Girls F
+ ield Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105050507@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261102T163000
@@ -39625,15 +39634,6 @@ DTEND;TZID=America/New_York:20261102T193000
 SUMMARY:Cedar Grove High School vs New Milford High School (Varsity Girls
   Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105117694@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Columbia High School at Hillsborough High School (Varsity Girls F
- ield Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105116013@super-essex-conference
@@ -40032,6 +40032,58 @@ DTSTART;TZID=America/New_York:20261105T160000
 DTEND;TZID=America/New_York:20261105T180000
 SUMMARY:Newark Academy vs TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105220718@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261105T190000
+DTEND;TZID=America/New_York:20261105T210000
+SUMMARY:Saint Benedict's Prep vs TBD (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105221164@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T183000
+DTEND;TZID=America/New_York:20261106T203000
+SUMMARY:Irvington High School at Ramapo High School (Varsity Boys Footbal
+ l)
+DESCRIPTION:Varsity Boys Football - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105220905@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T183000
+DTEND;TZID=America/New_York:20261106T203000
+SUMMARY:West Essex High School vs Montville Township High School (Varsity
+  Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105221167@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T190000
+DTEND;TZID=America/New_York:20261106T210000
+SUMMARY:West Orange High School vs TBD (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105221059@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T190000
+DTEND;TZID=America/New_York:20261106T210000
+SUMMARY:Cedar Grove High School vs Wood-Ridge High School (Varsity Boys F
+ ootball)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105221124@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T190000
+DTEND;TZID=America/New_York:20261106T210000
+SUMMARY:Malcolm X Shabazz High School at Cranford High School (Varsity Bo
+ ys Football)
+DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101364314@super-essex-conference
