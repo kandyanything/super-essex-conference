@@ -22,7 +22,10 @@ const API = 'https://graph.facebook.com/v26.0';
 const IG_FALLBACK = '17841471216972056';   // @superessexconferencenj, linked to Page 1254509461089507
 const MAX_POSTS = 6;
 
-const token = process.env.META_PAGE_TOKEN || '';
+/* tolerate the usual copy slips (quotes, spaces, newlines, the "access_token": label, a comma):
+   a Meta token is one run of letters and digits starting EAA, so take exactly that */
+const rawToken = String(process.env.META_PAGE_TOKEN || '');
+const token = (rawToken.match(/EAA[A-Za-z0-9]+/) || [rawToken.trim()])[0];
 /* never let the token reach a log, even inside an error from Meta */
 const clean = s => String(s || '').split(token).join('[token]').replace(/access_token=[^&\s"]+/g, 'access_token=[token]');
 
@@ -35,6 +38,8 @@ async function get(url) {
 
 async function main() {
     if (!token) { console.log('META_PAGE_TOKEN is not set - leaving the Instagram tab as it is'); return; }
+    /* the secret's shape, never its value */
+    console.log(`Token: ${/^EAA[A-Za-z0-9]+$/.test(token) ? 'looks like a Meta token' : 'does NOT look like a Meta token'}, ${token.length} characters${rawToken.trim() !== token ? ' (extra characters around it were ignored)' : ''}`);
     const social = JSON.parse(fs.readFileSync(FILE, 'utf8').replace(/^﻿/, ''));
     const ig = (social.platforms || []).find(p => p.id === 'instagram');
     if (!ig) { console.log('social.json has no instagram platform - nothing to do'); return; }
