@@ -1,4 +1,23 @@
 {
-  "_comment": "Conference honors and awards. Fill in as content becomes available. Each entry: title, recipient, school, year, description (optional).",
-  "honors": []
+  "_comment": "Conference honors and awards. Each entry: title, school, sport, year, description (optional), image (optional, a team photo shown on top of the card), items (optional list).",
+  "honors": [
+    {
+      "title": "St. Benedict's",
+      "sport": "Boys Soccer",
+      "year": "2026",
+      "school": "St. Benedict's",
+      "description": "Essex County Tournament Champions",
+      "image": "images/champions/st-benedicts-soccer-ect-2026.jpg",
+      "alt": "St. Benedict's boys soccer with the Essex County Tournament trophy"
+    },
+    {
+      "title": "Verona",
+      "sport": "Girls Volleyball",
+      "year": "2026",
+      "school": "Verona",
+      "description": "Essex County Tournament Champions",
+      "image": "images/champions/verona-volleyball-ect-2026.jpg",
+      "alt": "Verona girls volleyball with the Essex County Tournament trophy"
+    }
+  ]
 }

@@ -182,7 +182,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (slides.length < 2) controls.hidden = true;
         render();
-        restart();
+        // Hold the first slide until the opening intro has cleared, so the photo
+        // meant to be seen first (champions, big news) is never spent behind it.
+        var t0 = Date.now();
+        (function startWhenVisible() {
+            if (document.getElementById('sec-intro') && Date.now() - t0 < 15000) { setTimeout(startWhenVisible, 250); return; }
+            if (idx !== 0) go(0);
+            restart();
+        })();
     }
 
     function mkBtn(glyph, label) {

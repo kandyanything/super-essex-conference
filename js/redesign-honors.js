@@ -20,6 +20,16 @@ document.addEventListener('DOMContentLoaded', function () {
         var card = document.createElement('article');
         card.className = 'honor-card';
 
+        if (h.image) {
+            card.classList.add('honor-card--photo');
+            var fig = document.createElement('div');
+            fig.className = 'honor-photo';
+            var im = document.createElement('img');
+            im.src = h.image; im.alt = h.alt || h.title || ''; im.loading = 'lazy'; im.decoding = 'async';
+            fig.appendChild(im);
+            card.appendChild(fig);
+        }
+
         if (h.year || h.sport) {
             var tag = document.createElement('p');
             tag.className = 'honor-tag';

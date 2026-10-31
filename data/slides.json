@@ -2,13 +2,51 @@
   "_comment": "Hero photo slides for the Ken Burns slider on the homepage. intervalMs sets the rotation speed. Each slide: image (path under images/photos/), alt, and optional heading/text/link for an overlaid caption. Add more entries as photos come in.",
   "intervalMs": 5000,
   "slides": [
-    { "image": "images/photos/cheer.jpg", "alt": "Super Essex Conference cheerleading" },
-    { "image": "images/photos/field-hockey.jpg", "alt": "Super Essex Conference field hockey" },
-    { "image": "images/photos/girls-soccer.jpg", "alt": "Super Essex Conference girls soccer" },
-    { "image": "images/photos/west-orange-football.jpg", "alt": "Super Essex Conference football" },
-    { "image": "images/photos/cross-country.jpg", "alt": "Super Essex Conference cross country" },
-    { "image": "images/photos/volleyball.jpg", "alt": "Super Essex Conference volleyball" },
-    { "image": "images/photos/shp-liv.jpg", "alt": "Super Essex Conference athletics" },
-    { "image": "images/photos/cg-cald.jpg", "alt": "Super Essex Conference athletics" }
+    {
+      "image": "images/photos/st-benedicts-soccer-ect-2026-wide.jpg",
+      "alt": "St. Benedict's boys soccer, 2026 Essex County Tournament champions, with their trophy and fans at Bonnel Field",
+      "heading": "ECT Champions",
+      "text": "St. Benedict's · Boys Soccer",
+      "link": "#honors"
+    },
+    {
+      "image": "images/photos/verona-volleyball-ect-2026-wide.jpg",
+      "alt": "Verona girls volleyball, 2026 Essex County Tournament champions, with their trophy and plaques",
+      "heading": "ECT Champions",
+      "text": "Verona · Girls Volleyball",
+      "link": "#honors"
+    },
+    {
+      "image": "images/photos/cheer.jpg",
+      "alt": "Super Essex Conference cheerleading"
+    },
+    {
+      "image": "images/photos/field-hockey.jpg",
+      "alt": "Super Essex Conference field hockey"
+    },
+    {
+      "image": "images/photos/girls-soccer.jpg",
+      "alt": "Super Essex Conference girls soccer"
+    },
+    {
+      "image": "images/photos/west-orange-football.jpg",
+      "alt": "Super Essex Conference football"
+    },
+    {
+      "image": "images/photos/cross-country.jpg",
+      "alt": "Super Essex Conference cross country"
+    },
+    {
+      "image": "images/photos/volleyball.jpg",
+      "alt": "Super Essex Conference volleyball"
+    },
+    {
+      "image": "images/photos/shp-liv.jpg",
+      "alt": "Super Essex Conference athletics"
+    },
+    {
+      "image": "images/photos/cg-cald.jpg",
+      "alt": "Super Essex Conference athletics"
+    }
   ]
 }
