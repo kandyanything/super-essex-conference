@@ -1984,11 +1984,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:101396893@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261028T160000
-DTEND;TZID=America/New_York:20261028T180000
+DTSTART;TZID=America/New_York:20261028T180000
+DTEND;TZID=America/New_York:20261028T200000
 SUMMARY:Cedar Grove High School vs Boonton High School (Varsity Girls Gir
  ls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105051764@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T190000
+DTEND;TZID=America/New_York:20261030T210000
+SUMMARY:Cedar Grove High School vs Glen Ridge High School (Varsity Boys F
+ ootball)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104256036@super-essex-conference
@@ -1998,6 +2007,14 @@ DTEND;VALUE=DATE:20261101
 SUMMARY:Cedar Grove High School vs TBD (Varsity Girls Competitive Cheerle
  ading)
 DESCRIPTION:Varsity Girls Competitive Cheerleading - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105050497@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T163000
+DTEND;TZID=America/New_York:20261102T183000
+SUMMARY:Cedar Grove High School vs TBD (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104256143@super-essex-conference
@@ -2996,6 +3013,15 @@ DTEND;TZID=America/New_York:20270315T183000
 SUMMARY:Cedar Grove High School vs Ramsey High School (Varsity Girls Soft
  ball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105046938@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270317T160000
+DTEND;TZID=America/New_York:20270317T180000
+SUMMARY:Cedar Grove High School at Verona High School (Junior Varsity Boy
+ s Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104412874@super-essex-conference

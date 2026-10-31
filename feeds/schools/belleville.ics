@@ -1729,6 +1729,33 @@ SUMMARY:Belleville High School at Columbia High School (Junior Varsity Gi
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105070601@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Bard Early College at Belleville High School (Varsity Girls Girls
+  Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102562533@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T160000
+DTEND;TZID=America/New_York:20261102T180000
+SUMMARY:Belleville High School at North Hunterdon High School (Varsity Gi
+ rls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105070719@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T040000
+DTEND;TZID=America/New_York:20261103T060000
+SUMMARY:Belleville High School at Bloomfield High School (Varsity Boys Bo
+ ys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104756558@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261103T100000
@@ -1736,6 +1763,15 @@ DTEND;TZID=America/New_York:20261103T120000
 SUMMARY:Belleville High School at TBD (Varsity Girls Competitive Cheerlea
  ding)
 DESCRIPTION:Varsity Girls Competitive Cheerleading - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105075936@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T160000
+DTEND;TZID=America/New_York:20261103T180000
+SUMMARY:Belleville High School vs J.F. Kennedy Memorial High School (Vars
+ ity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105018591@super-essex-conference
@@ -3154,6 +3190,24 @@ DTEND;TZID=America/New_York:20270319T180000
 SUMMARY:Belleville High School vs East Side High School (Varsity Boys Bas
  eball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105046980@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270325T160000
+DTEND;TZID=America/New_York:20270325T180000
+SUMMARY:Belleville High School at Verona High School (Junior Varsity Boys
+  Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105046951@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270325T160000
+DTEND;TZID=America/New_York:20270325T180000
+SUMMARY:Belleville High School at Verona High School (Varsity Boys Baseba
+ ll)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102620609@super-essex-conference

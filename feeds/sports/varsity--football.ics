@@ -1593,6 +1593,15 @@ SUMMARY:Montclair Kimberley Academy vs Poly Prep County Day School (Varsi
 DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105082000@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T180000
+DTEND;TZID=America/New_York:20261029T200000
+SUMMARY:Bloomfield High School vs West Side High School (Varsity Boys Foo
+ tball)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105043350@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T180000
@@ -1623,8 +1632,36 @@ UID:arb:104971748@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
-SUMMARY:West Essex High School vs TBD (Varsity Boys Football)
+SUMMARY:West Essex High School vs Weequahic High School (Varsity Boys Foo
+ tball)
 DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105051764@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T190000
+DTEND;TZID=America/New_York:20261030T210000
+SUMMARY:Cedar Grove High School vs Glen Ridge High School (Varsity Boys F
+ ootball)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105053506@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T190000
+DTEND;TZID=America/New_York:20261030T210000
+SUMMARY:Irvington High School vs Perth Amboy High School (Varsity Boys Fo
+ otball)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105053899@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T190000
+DTEND;TZID=America/New_York:20261030T210000
+SUMMARY:Malcolm X Shabazz High School vs Wayne Valley High School (Varsit
+ y Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99666812@super-essex-conference
@@ -1635,21 +1672,21 @@ SUMMARY:Seton Hall Prep at Immaculata High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101364311@super-essex-conference
+UID:arb:105052165@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:West Orange High School vs TBD (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home
+DTSTART;TZID=America/New_York:20261030T190000
+DTEND;TZID=America/New_York:20261030T210000
+SUMMARY:Verona High School at Newton High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105040770@super-essex-conference
+UID:arb:105051826@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261031T110000
-DTEND;TZID=America/New_York:20261031T130000
-SUMMARY:Livingston High School at Mendham High School (Varsity Boys Footb
- all)
-DESCRIPTION:Varsity Boys Football - Away - 11:00 AM
+DTSTART;TZID=America/New_York:20261030T190000
+DTEND;TZID=America/New_York:20261030T210000
+SUMMARY:West Orange High School vs Union High School (Varsity Boys Footba
+ ll)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104999675@super-essex-conference
@@ -1661,12 +1698,29 @@ SUMMARY:Barringer High School vs Central High School (Varsity Boys Footba
 DESCRIPTION:Varsity Boys Football - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105054050@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T130000
+DTEND;TZID=America/New_York:20261031T150000
+SUMMARY:East Orange Campus High School vs Union City High School (Varsity
+  Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101364314@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:West Orange High School vs TBD (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105082400@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T140000
+DTEND;TZID=America/New_York:20261107T160000
+SUMMARY:Montclair Kimberley Academy vs TBD (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101364318@super-essex-conference
