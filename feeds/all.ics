@@ -40060,14 +40060,6 @@ SUMMARY:West Essex High School vs Montville Township High School (Varsity
 DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105221167@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261106T190000
-DTEND;TZID=America/New_York:20261106T210000
-SUMMARY:West Orange High School vs TBD (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105221059@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261106T190000
@@ -40084,6 +40076,15 @@ DTEND;TZID=America/New_York:20261106T210000
 SUMMARY:Malcolm X Shabazz High School at Cranford High School (Varsity Bo
  ys Football)
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105221167@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T190000
+DTEND;TZID=America/New_York:20261106T210000
+SUMMARY:West Orange High School vs Piscataway High School (Varsity Boys F
+ ootball)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101364314@super-essex-conference
@@ -54740,24 +54741,6 @@ DTEND;TZID=America/New_York:20270119T221500
 SUMMARY:West Orange High School at Kearny High School (Varsity Coed Coed 
  Ice Hockey)
 DESCRIPTION:Varsity Coed Coed Ice Hockey - Away - 8:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104947698@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270119
-DTEND;VALUE=DATE:20270120
-SUMMARY:Montclair High School vs Kinnelon High School (Varsity Girls Girl
- s Fencing)
-DESCRIPTION:Varsity Girls Girls Fencing - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104947561@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270119
-DTEND;VALUE=DATE:20270120
-SUMMARY:Montclair High School vs Kinnelon High School (Varsity Boys Boys 
- Fencing)
-DESCRIPTION:Varsity Boys Boys Fencing - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102741013@super-essex-conference
