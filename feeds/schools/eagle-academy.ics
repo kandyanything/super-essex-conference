@@ -210,6 +210,15 @@ SUMMARY:Eagle Academy vs Newark School of Fashion and Design (Varsity Boy
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105269956@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T160000
+DTEND;TZID=America/New_York:20261215T180000
+SUMMARY:Eagle Academy at Rahway High School (Junior Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104895836@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T160000
@@ -234,6 +243,15 @@ DTEND;TZID=America/New_York:20261217T183000
 SUMMARY:Belleville High School at Eagle Academy of Newark (Varsity Boys B
  oys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105265955@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T170000
+DTEND;TZID=America/New_York:20261217T190000
+SUMMARY:Eagle Academy at West Orange High School (Varsity Boys Boys Fenci
+ ng)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553931@super-essex-conference

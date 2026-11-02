@@ -6064,6 +6064,15 @@ SUMMARY:Cedar Grove High School vs New Milford High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105051434@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T140000
+DTEND;TZID=America/New_York:20261103T160000
+SUMMARY:Bloomfield High School at West Orange High School (Varsity Girls 
+ Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105051549@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261103T150000
@@ -6073,7 +6082,7 @@ SUMMARY:Newark Tech vs Burlington Township High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105051427@super-essex-conference
+UID:arb:105257813@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261103T160000
 DTEND;TZID=America/New_York:20261103T180000
@@ -6089,15 +6098,6 @@ DTEND;TZID=America/New_York:20261103T180000
 SUMMARY:Montclair Kimberley Academy vs The Pingry School (Varsity Girls G
  irls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105051434@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261103T163000
-DTEND;TZID=America/New_York:20261103T183000
-SUMMARY:Bloomfield High School at West Orange High School (Varsity Girls 
- Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105051448@super-essex-conference
@@ -6116,6 +6116,14 @@ DTEND;TZID=America/New_York:20261103T183000
 SUMMARY:Livingston High School vs Morristown High School (Varsity Girls G
  irls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105237249@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T160000
+DTEND;TZID=America/New_York:20261104T180000
+SUMMARY:West Essex High School vs TBD (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105235586@super-essex-conference
@@ -6147,14 +6155,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261104T163000
 DTEND;TZID=America/New_York:20261104T183000
 SUMMARY:Verona High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105237249@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261104T163000
-DTEND;TZID=America/New_York:20261104T183000
-SUMMARY:West Essex High School vs TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT

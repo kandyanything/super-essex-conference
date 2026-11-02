@@ -3433,6 +3433,14 @@ SUMMARY:West Essex High School at Tenafly High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105237249@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T160000
+DTEND;TZID=America/New_York:20261104T180000
+SUMMARY:West Essex High School vs TBD (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105191602@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261104T160000
@@ -3440,14 +3448,6 @@ DTEND;TZID=America/New_York:20261104T180000
 SUMMARY:West Essex High School vs Old Tappan High School (Varsity Boys Bo
  ys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105237249@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261104T163000
-DTEND;TZID=America/New_York:20261104T183000
-SUMMARY:West Essex High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105220905@super-essex-conference
@@ -4801,6 +4801,15 @@ SUMMARY:Newark Academy vs West Essex High School (Varsity Girls Girls Bas
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105269049@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T163000
+DTEND;TZID=America/New_York:20270126T183000
+SUMMARY:West Essex High School at Ramapo High School (Junior Varsity Boys
+  Boys Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100550339@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T173000
@@ -4925,6 +4934,15 @@ DTEND;TZID=America/New_York:20270201T063000
 SUMMARY:West Essex High School at Oratory Prep School (Varsity Boys Boys 
  Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105269777@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T163000
+DTEND;TZID=America/New_York:20270201T183000
+SUMMARY:West Essex High School at Oratory Prep School (Varsity Boys Boys 
+ Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104838297@super-essex-conference
@@ -5325,6 +5343,15 @@ DTEND;TZID=America/New_York:20270329T180000
 SUMMARY:Glen Ridge High School at West Essex High School (Varsity Boys Bo
  ys Volleyball)
 DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105261330@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270329T161500
+DTEND;TZID=America/New_York:20270329T181500
+SUMMARY:West Essex High School at Passaic County Tech Institute (Junior V
+ arsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102440694@super-essex-conference
@@ -5911,6 +5938,15 @@ SUMMARY:Glen Ridge High School vs West Essex High School (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105262018@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270501T161500
+DTEND;TZID=America/New_York:20270501T181500
+SUMMARY:West Essex High School at Passaic County Tech Institute (Freshman
+  Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102568592@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T160000
@@ -6016,6 +6052,15 @@ DTEND;TZID=America/New_York:20270510T180000
 SUMMARY:Mount Saint Dominic Academy vs West Essex High School (Varsity Gi
  rls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105260284@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270510T161500
+DTEND;TZID=America/New_York:20270510T181500
+SUMMARY:West Essex High School at Passaic County Tech Institute (Varsity 
+ Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102440934@super-essex-conference
