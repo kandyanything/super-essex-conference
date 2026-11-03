@@ -397,3 +397,12 @@ section[id],
     .topbar-socials { padding-left: 0; margin-left: 0; border-left: 0; padding-top: 4px; }
     .topbar-social svg { width: 30px; height: 30px; }
 }
+
+/* AD / coach sign-in (login.secconferencenj.com): the one utility link that
+   leads somewhere private, so it reads as a button, not another text link. */
+.topbar-links a.topbar-login {
+    color: var(--navy-900, #0e2038); background: var(--silver); font-weight: 700;
+    padding: 4px 12px; border-radius: 999px; white-space: nowrap;
+}
+.topbar-links a.topbar-login:hover,
+.topbar-links a.topbar-login:focus-visible { background: var(--white); color: var(--navy-900, #0e2038); }
