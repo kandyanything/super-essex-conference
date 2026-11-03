@@ -2234,6 +2234,15 @@ SUMMARY:Verona High School vs College Achieve Central Charter School (Var
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105236916@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T160000
+DTEND;TZID=America/New_York:20261104T180000
+SUMMARY:Verona High School vs Ramsey High School (Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105146463@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261104T160000
@@ -2241,14 +2250,6 @@ DTEND;TZID=America/New_York:20261104T180000
 SUMMARY:Verona High School vs Beloved Community Charter School (Varsity B
  oys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105236916@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261104T163000
-DTEND;TZID=America/New_York:20261104T183000
-SUMMARY:Verona High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105242179@super-essex-conference

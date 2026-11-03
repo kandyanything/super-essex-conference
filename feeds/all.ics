@@ -39704,9 +39704,10 @@ UID:arb:105145955@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261103T140000
 DTEND;TZID=America/New_York:20261103T160000
-SUMMARY:Montclair High School vs Union City High School (Varsity Girls Gi
- rls Soccer)
+SUMMARY:[Forfeit] Montclair High School vs Union City High School (Varsit
+ y Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 2:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105148009@super-essex-conference
@@ -39868,6 +39869,15 @@ SUMMARY:Bloomfield High School vs Memorial High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105279936@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Glen Ridge High School at James Caldwell High School (Varsity Gir
+ ls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105146907@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261104T140000
@@ -39893,6 +39903,24 @@ DTEND;TZID=America/New_York:20261104T160000
 SUMMARY:Millburn High School at Matawan Regional High School (Varsity Boy
  s Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105279986@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T140000
+DTEND;TZID=America/New_York:20261104T160000
+SUMMARY:Montclair High School vs Ridge High School (Varsity Girls Field H
+ ockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105280032@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T140000
+DTEND;TZID=America/New_York:20261104T160000
+SUMMARY:Montclair Kimberley Academy vs Saint John Vianney High School (Va
+ rsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105146695@super-essex-conference
@@ -39965,6 +39993,15 @@ SUMMARY:Payne Tech at Randolph High School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105236916@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T160000
+DTEND;TZID=America/New_York:20261104T180000
+SUMMARY:Verona High School vs Ramsey High School (Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105146463@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261104T160000
@@ -39992,14 +40029,6 @@ SUMMARY:Columbia High School at Bridgewater-Raritan High School (Varsity
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105235586@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261104T163000
-DTEND;TZID=America/New_York:20261104T183000
-SUMMARY:Bard Early College vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105236982@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261104T163000
@@ -40013,14 +40042,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261104T163000
 DTEND;TZID=America/New_York:20261104T183000
 SUMMARY:Saint Benedict's Prep vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105236916@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261104T163000
-DTEND;TZID=America/New_York:20261104T183000
-SUMMARY:Verona High School vs TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -40040,6 +40061,15 @@ DTEND;TZID=America/New_York:20261104T183000
 SUMMARY:Montclair High School at Union City High School (Varsity Boys Boy
  s Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105280317@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Glen Ridge High School at James Caldwell High School (Varsity Gir
+ ls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105179805@super-essex-conference
@@ -40103,7 +40133,8 @@ UID:arb:105220718@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261105T190000
 DTEND;TZID=America/New_York:20261105T210000
-SUMMARY:Saint Benedict's Prep vs TBD (Varsity Boys Boys Soccer)
+SUMMARY:Saint Benedict's Prep vs Don Bosco Preparatory High School (Varsi
+ ty Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -40232,7 +40263,8 @@ UID:arb:105082400@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261107T140000
 DTEND;TZID=America/New_York:20261107T160000
-SUMMARY:Montclair Kimberley Academy vs TBD (Varsity Boys Football)
+SUMMARY:Montclair Kimberley Academy vs Hopkins School (Varsity Boys Footb
+ all)
 DESCRIPTION:Varsity Boys Football - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -60538,13 +60570,13 @@ SUMMARY:Millburn High School vs Ridge High School (Varsity Boys Boys Wres
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103928122@super-essex-conference
+UID:arb:103928151@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T090000
 DTEND;TZID=America/New_York:20270206T110000
-SUMMARY:Millburn High School vs Abraham Clark High School (Junior Varsity
-  Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 9:00 AM
+SUMMARY:Millburn High School vs Abraham Clark High School (Freshman Boys 
+ Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104725720@super-essex-conference
@@ -60655,22 +60687,13 @@ SUMMARY:West Orange High School at Pompton Lakes High School (Varsity Boy
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103928151@super-essex-conference
+UID:arb:103928122@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T103000
 DTEND;TZID=America/New_York:20270206T123000
-SUMMARY:Millburn High School vs Abraham Clark High School (Freshman Boys 
- Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103928140@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270206T103000
-DTEND;TZID=America/New_York:20270206T123000
-SUMMARY:Millburn High School vs Abraham Clark High School (Varsity Boys B
- oys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:30 AM
+SUMMARY:Millburn High School vs Abraham Clark High School (Junior Varsity
+  Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100808575@super-essex-conference
@@ -60734,6 +60757,15 @@ DTEND;TZID=America/New_York:20270206T133000
 SUMMARY:West Essex High School vs Ramsey High School (Junior Varsity Boys
   Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103928140@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T120000
+DTEND;TZID=America/New_York:20270206T140000
+SUMMARY:Millburn High School vs Abraham Clark High School (Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104207296@super-essex-conference

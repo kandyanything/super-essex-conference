@@ -1767,4 +1767,40 @@ SUMMARY:West Essex High School vs Mount Olive Township School District (V
  arsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105279936@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Glen Ridge High School at James Caldwell High School (Varsity Gir
+ ls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105279986@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T140000
+DTEND;TZID=America/New_York:20261104T160000
+SUMMARY:Montclair High School vs Ridge High School (Varsity Girls Field H
+ ockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105280032@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T140000
+DTEND;TZID=America/New_York:20261104T160000
+SUMMARY:Montclair Kimberley Academy vs Saint John Vianney High School (Va
+ rsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105280317@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Glen Ridge High School at James Caldwell High School (Varsity Gir
+ ls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away
+END:VEVENT
 END:VCALENDAR
