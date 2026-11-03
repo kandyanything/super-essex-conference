@@ -3531,6 +3531,15 @@ SUMMARY:Montclair High School at De Paul Catholic High School (Varsity Bo
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105288336@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Montclair High School vs TBD (Junior Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104676770@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
@@ -3547,6 +3556,14 @@ DTEND;TZID=America/New_York:20261208T180000
 SUMMARY:Montclair High School at Montclair Kimberley Academy (Varsity Boy
  s Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105288339@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T190000
+DTEND;TZID=America/New_York:20261208T210000
+SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104676721@super-essex-conference
@@ -3574,6 +3591,24 @@ DTEND;TZID=America/New_York:20261210T193000
 SUMMARY:Montclair High School at Scotch Plains-Fanwood High School (Junio
  r Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105284757@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T183000
+DTEND;TZID=America/New_York:20261210T203000
+SUMMARY:Montclair High School vs West Essex High School (Varsity Girls Gi
+ rls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105284754@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T183000
+DTEND;TZID=America/New_York:20261210T203000
+SUMMARY:Montclair High School vs West Essex High School (Varsity Boys Boy
+ s Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104873026@super-essex-conference
@@ -3873,6 +3908,15 @@ SUMMARY:Montclair High School vs Hoboken High School (Varsity Boys Boys I
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105288343@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T173000
+DTEND;TZID=America/New_York:20261221T193000
+SUMMARY:Montclair High School vs Newark School of Global Studies (Junior 
+ Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104672307@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T180000
@@ -3880,6 +3924,15 @@ DTEND;TZID=America/New_York:20261221T200000
 SUMMARY:Montclair High School vs Saint Benedict's Prep (Varsity Boys Boys
   Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105288340@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T190000
+DTEND;TZID=America/New_York:20261221T210000
+SUMMARY:Montclair High School vs Newark School of Global Studies (Varsity
+  Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104676895@super-essex-conference
@@ -4797,6 +4850,24 @@ SUMMARY:Montclair High School vs TBD (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105288347@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T173000
+DTEND;TZID=America/New_York:20270203T193000
+SUMMARY:Montclair High School vs Linden High School (Junior Varsity Girls
+  Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105288348@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T190000
+DTEND;TZID=America/New_York:20270203T210000
+SUMMARY:Montclair High School vs Linden High School (Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104312153@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T183000
@@ -4923,6 +4994,15 @@ SUMMARY:Montclair High School at Montclair Kimberley Academy (Varsity Boy
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105288352@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270216T173000
+DTEND;TZID=America/New_York:20270216T193000
+SUMMARY:Montclair High School vs TBD (Junior Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104429462@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270216T173000
@@ -4930,6 +5010,14 @@ DTEND;TZID=America/New_York:20270216T193000
 SUMMARY:Montclair High School at Montclair Kimberley Academy (Junior Vars
  ity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105288351@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270216T190000
+DTEND;TZID=America/New_York:20270216T210000
+SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103283583@super-essex-conference
