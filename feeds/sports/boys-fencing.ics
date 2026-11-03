@@ -59,13 +59,13 @@ SUMMARY:Newark Academy at West Essex High School (Varsity Boys Boys Fenci
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104895836@super-essex-conference
+UID:arb:105307591@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T160000
 DTEND;TZID=America/New_York:20261215T180000
-SUMMARY:Eagle Academy at Passaic Valley High School (Varsity Boys Boys Fe
- ncing)
-DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:00 PM
+SUMMARY:Montclair Kimberley Academy vs Don Bosco Preparatory High School 
+ (Varsity Boys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104529572@super-essex-conference
@@ -108,9 +108,8 @@ UID:arb:105265955@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T170000
 DTEND;TZID=America/New_York:20261217T190000
-SUMMARY:Eagle Academy at West Orange High School (Varsity Boys Boys Fenci
- ng)
-DESCRIPTION:Varsity Boys Boys Fencing - Away - 5:00 PM
+SUMMARY:West Orange High School vs Not Listed (Varsity Boys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104767230@super-essex-conference
@@ -158,20 +157,20 @@ SUMMARY:Columbia High School at Millburn High School (Varsity Boys Boys F
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104463074@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270105T180000
-DTEND;TZID=America/New_York:20270105T200000
-SUMMARY:Eagle Academy at Saint Benedict's Prep (Varsity Boys Boys Fencing)
-DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104529707@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T180000
 DTEND;TZID=America/New_York:20270105T200000
 SUMMARY:Livingston High School vs Montclair Kimberley Academy (Varsity Bo
  ys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104463074@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
+SUMMARY:Saint Benedict's Prep vs Not Listed (Varsity Boys Boys Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -264,14 +263,6 @@ SUMMARY:Livingston High School at Oratory Prep School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104733476@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T163000
-DTEND;TZID=America/New_York:20270113T183000
-SUMMARY:Eagle Academy at Teaneck High School (Varsity Boys Boys Fencing)
-DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105083537@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T163000
@@ -353,20 +344,13 @@ SUMMARY:Livingston High School vs West Essex High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104978751@super-essex-conference
+UID:arb:105305611@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270120T170000
-DTEND;TZID=America/New_York:20270120T190000
-SUMMARY:Eagle Academy at Ramapo High School (Varsity Boys Boys Fencing)
-DESCRIPTION:Varsity Boys Boys Fencing - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104941235@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270121T183000
-DTEND;TZID=America/New_York:20270121T203000
-SUMMARY:Eagle Academy at Kinnelon High School (Varsity Boys Boys Fencing)
-DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:30 PM
+DTSTART;TZID=America/New_York:20270119T183000
+DTEND;TZID=America/New_York:20270119T203000
+SUMMARY:Montclair High School vs Kinnelon High School (Varsity Boys Boys 
+ Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105101419@super-essex-conference
@@ -403,6 +387,15 @@ DTEND;TZID=America/New_York:20270126T180000
 SUMMARY:Montclair High School at West Orange High School (Varsity Boys Bo
  ys Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101342628@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T163000
+DTEND;TZID=America/New_York:20270126T183000
+SUMMARY:Montclair Kimberley Academy at Saint Peter's Prep High School (Va
+ rsity Boys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104463242@super-essex-conference
@@ -503,15 +496,6 @@ SUMMARY:Montclair High School at Kinnelon High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101342628@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270203T163000
-DTEND;TZID=America/New_York:20270203T183000
-SUMMARY:Montclair Kimberley Academy at Saint Peter's Prep High School (Va
- rsity Boys Boys Fencing)
-DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104564697@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T183000
@@ -534,7 +518,7 @@ UID:arb:104646991@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T170000
 DTEND;TZID=America/New_York:20270205T190000
-SUMMARY:Eagle Academy at Newark Academy (Varsity Boys Boys Fencing)
-DESCRIPTION:Varsity Boys Boys Fencing - Away - 5:00 PM
+SUMMARY:Newark Academy vs Not Listed (Varsity Boys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 5:00 PM
 END:VEVENT
 END:VCALENDAR

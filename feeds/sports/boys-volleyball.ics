@@ -552,6 +552,24 @@ SUMMARY:Saint Benedict's Prep at Newark School of Global Studies (Junior
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105290725@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270327T100000
+DTEND;TZID=America/New_York:20270327T120000
+SUMMARY:Newark Collegiate Academy at Newark School of Global Studies (Var
+ sity Boys Boys Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105290691@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270327T113000
+DTEND;TZID=America/New_York:20270327T133000
+SUMMARY:Newark Collegiate Academy at Newark School of Global Studies (Jun
+ ior Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102474802@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270329T160000
@@ -3475,6 +3493,15 @@ SUMMARY:Technology High School vs West Orange High School (Varsity Boys B
 DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105289203@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T160000
+DTEND;TZID=America/New_York:20270512T180000
+SUMMARY:West Side High School at Newark School of Global Studies (Varsity
+  Boys Boys Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102474723@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270512T171500
@@ -3644,6 +3671,15 @@ DTEND;TZID=America/New_York:20270514T180000
 SUMMARY:Bloomfield High School vs Nutley High School (Varsity Boys Boys V
  olleyball)
 DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105289218@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270514T160000
+DTEND;TZID=America/New_York:20270514T180000
+SUMMARY:Central High School at Newark School of Global Studies (Varsity B
+ oys Boys Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102403944@super-essex-conference
@@ -3851,5 +3887,14 @@ DTEND;TZID=America/New_York:20270514T191500
 SUMMARY:Science Park High School at Technology High School (Junior Varsit
  y Boys Boys Volleyball)
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105289236@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270514T173000
+DTEND;TZID=America/New_York:20270514T193000
+SUMMARY:Central High School at Newark School of Global Studies (Junior Va
+ rsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:30 PM
 END:VEVENT
 END:VCALENDAR

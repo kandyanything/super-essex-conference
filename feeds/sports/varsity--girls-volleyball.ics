@@ -6118,14 +6118,6 @@ SUMMARY:Livingston High School vs Morristown High School (Varsity Girls G
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105237249@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261104T160000
-DTEND;TZID=America/New_York:20261104T180000
-SUMMARY:West Essex High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105236916@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261104T160000
@@ -6135,20 +6127,39 @@ SUMMARY:Verona High School vs Ramsey High School (Varsity Girls Girls Vol
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105236982@super-essex-conference
+UID:arb:105237249@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261104T163000
-DTEND;TZID=America/New_York:20261104T183000
-SUMMARY:Cedar Grove High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
+DTSTART;TZID=America/New_York:20261104T160000
+DTEND;TZID=America/New_York:20261104T180000
+SUMMARY:West Essex High School vs North Hunterdon High School (Varsity Gi
+ rls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105234479@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261104T163000
 DTEND;TZID=America/New_York:20261104T183000
-SUMMARY:Saint Benedict's Prep vs TBD (Varsity Girls Girls Volleyball)
+SUMMARY:Saint Benedict's Prep vs Pope John XXIII High School (Varsity Gir
+ ls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105236982@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T173000
+DTEND;TZID=America/New_York:20261104T193000
+SUMMARY:Cedar Grove High School vs North Arlington High School (Varsity G
+ irls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105241247@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261105T140000
+DTEND;TZID=America/New_York:20261105T160000
+SUMMARY:Livingston High School vs TBD (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105050412@super-essex-conference
@@ -6166,14 +6177,6 @@ DTSTART;TZID=America/New_York:20261105T160000
 DTEND;TZID=America/New_York:20261105T180000
 SUMMARY:Newark Academy vs TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105241247@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261105T163000
-DTEND;TZID=America/New_York:20261105T183000
-SUMMARY:Livingston High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105241240@super-essex-conference

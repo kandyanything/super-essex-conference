@@ -2204,12 +2204,13 @@ SUMMARY:Newark Academy at Kent Place School (Middle School Girls Girls So
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105254691@super-essex-conference
+UID:arb:105290203@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261105T160000
-DTEND;TZID=America/New_York:20261105T180000
-SUMMARY:Newark Academy vs TBD (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+DTSTART;TZID=America/New_York:20261104T150000
+DTEND;TZID=America/New_York:20261104T170000
+SUMMARY:Montclair Kimberley Academy at Newark Academy (Middle School Girl
+ s Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105190956@super-essex-conference
@@ -2218,6 +2219,15 @@ DTSTART;TZID=America/New_York:20261105T160000
 DTEND;TZID=America/New_York:20261105T180000
 SUMMARY:Newark Academy vs TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105254691@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261105T160000
+DTEND;TZID=America/New_York:20261105T180000
+SUMMARY:Newark Academy vs Oak Knoll School of the Holy Child (Varsity Gir
+ ls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103675672@super-essex-conference
@@ -3329,14 +3339,6 @@ SUMMARY:Montclair High School at Newark Academy (Junior Varsity Girls Gir
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104646991@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270205T170000
-DTEND;TZID=America/New_York:20270205T190000
-SUMMARY:Eagle Academy at Newark Academy (Varsity Boys Boys Fencing)
-DESCRIPTION:Varsity Boys Boys Fencing - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104823682@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T170000
@@ -3353,6 +3355,14 @@ DTEND;TZID=America/New_York:20270205T190000
 SUMMARY:Newark Academy vs Oak Knoll School of the Holy Child (Varsity Gir
  ls Girls Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104646991@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T170000
+DTEND;TZID=America/New_York:20270205T190000
+SUMMARY:Newark Academy vs Not Listed (Varsity Boys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100562489@super-essex-conference

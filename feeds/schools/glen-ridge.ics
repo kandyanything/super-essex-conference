@@ -2361,15 +2361,6 @@ SUMMARY:Glen Ridge High School vs Belvidere High School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105279936@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Glen Ridge High School at James Caldwell High School (Varsity Gir
- ls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105146548@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261104T140000
@@ -2381,11 +2372,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105280317@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
+DTSTART;TZID=America/New_York:20261104T160000
+DTEND;TZID=America/New_York:20261104T180000
 SUMMARY:Glen Ridge High School at James Caldwell High School (Varsity Gir
  ls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104504683@super-essex-conference

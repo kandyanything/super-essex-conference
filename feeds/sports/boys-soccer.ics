@@ -8919,15 +8919,6 @@ SUMMARY:Newark Tech at Henry P. Becton Regional High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105146791@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261104T140000
-DTEND;TZID=America/New_York:20261104T160000
-SUMMARY:Nutley High School vs North Hunterdon High School (Varsity Boys B
- oys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105146727@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261104T140000
@@ -8962,6 +8953,15 @@ DTEND;TZID=America/New_York:20261104T180000
 SUMMARY:Livingston High School at West Orange High School (Varsity Boys B
  oys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105146791@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T160000
+DTEND;TZID=America/New_York:20261104T180000
+SUMMARY:Nutley High School vs North Hunterdon High School (Varsity Boys B
+ oys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105146900@super-essex-conference
@@ -9021,7 +9021,8 @@ UID:arb:105179805@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261105T140000
 DTEND;TZID=America/New_York:20261105T160000
-SUMMARY:Montclair Kimberley Academy vs TBD (Varsity Boys Boys Soccer)
+SUMMARY:Montclair Kimberley Academy vs Morristown-Beard School (Varsity B
+ oys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -9029,7 +9030,8 @@ UID:arb:105172424@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261105T140000
 DTEND;TZID=America/New_York:20261105T160000
-SUMMARY:Seton Hall Prep vs TBD (Varsity Boys Boys Soccer)
+SUMMARY:Seton Hall Prep vs Pope John XXIII High School (Varsity Boys Boys
+  Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT

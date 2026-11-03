@@ -1768,15 +1768,6 @@ SUMMARY:West Essex High School vs Mount Olive Township School District (V
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105279936@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Glen Ridge High School at James Caldwell High School (Varsity Gir
- ls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105279986@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261104T140000
@@ -1797,10 +1788,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105280317@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
+DTSTART;TZID=America/New_York:20261104T160000
+DTEND;TZID=America/New_York:20261104T180000
 SUMMARY:Glen Ridge High School at James Caldwell High School (Varsity Gir
  ls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 END:VCALENDAR

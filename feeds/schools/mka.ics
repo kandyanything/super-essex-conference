@@ -2375,11 +2375,21 @@ SUMMARY:Montclair Kimberley Academy vs Saint John Vianney High School (Va
 DESCRIPTION:Varsity Girls Field Hockey - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105290203@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T150000
+DTEND;TZID=America/New_York:20261104T170000
+SUMMARY:Montclair Kimberley Academy at Newark Academy (Middle School Girl
+ s Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105179805@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261105T140000
 DTEND;TZID=America/New_York:20261105T160000
-SUMMARY:Montclair Kimberley Academy vs TBD (Varsity Boys Boys Soccer)
+SUMMARY:Montclair Kimberley Academy vs Morristown-Beard School (Varsity B
+ oys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2506,6 +2516,15 @@ SUMMARY:Montclair Kimberley Academy vs Kent Place School (7/8th Girls Bas
 DESCRIPTION:7/8th Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105306381@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T160000
+DTEND;TZID=America/New_York:20261211T180000
+SUMMARY:Montclair Kimberley Academy vs Kent Place School (Varsity Girls G
+ irls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104912799@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T160000
@@ -2594,6 +2613,15 @@ DTEND;TZID=America/New_York:20261215T180000
 SUMMARY:East Side High School at Montclair Kimberley Academy (Varsity Gir
  ls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105307591@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T160000
+DTEND;TZID=America/New_York:20261215T180000
+SUMMARY:Montclair Kimberley Academy vs Don Bosco Preparatory High School 
+ (Varsity Boys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551378@super-essex-conference
@@ -3341,6 +3369,15 @@ SUMMARY:Montclair Kimberley Academy vs Newark Academy (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101342628@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T163000
+DTEND;TZID=America/New_York:20270126T183000
+SUMMARY:Montclair Kimberley Academy at Saint Peter's Prep High School (Va
+ rsity Boys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100567111@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T173000
@@ -3439,15 +3476,6 @@ DTEND;TZID=America/New_York:20270202T210000
 SUMMARY:Montclair Kimberley Academy at West Essex High School (Varsity Gi
  rls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101342628@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270203T163000
-DTEND;TZID=America/New_York:20270203T183000
-SUMMARY:Montclair Kimberley Academy at Saint Peter's Prep High School (Va
- rsity Boys Boys Fencing)
-DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104005562@super-essex-conference
