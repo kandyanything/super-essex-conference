@@ -1367,10 +1367,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105019013@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270115T034500
-DTEND;TZID=America/New_York:20270115T054500
+DTSTART;TZID=America/New_York:20270115T154500
+DTEND;TZID=America/New_York:20270115T174500
 SUMMARY:Nutley High School at Seton Hall Prep (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 AM
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104492738@super-essex-conference
@@ -1611,6 +1611,15 @@ DTEND;TZID=America/New_York:20270201T200000
 SUMMARY:Seton Hall Prep vs Saint Augustine Prep School (Varsity Boys Boys
   Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105335519@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T160000
+DTEND;TZID=America/New_York:20270203T180000
+SUMMARY:Seton Hall Prep at Montville Township High School (Varsity Boys B
+ oys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104490756@super-essex-conference

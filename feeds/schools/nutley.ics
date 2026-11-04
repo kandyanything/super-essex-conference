@@ -2283,13 +2283,13 @@ SUMMARY:Nutley High School vs North Hunterdon High School (Varsity Boys B
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105018591@super-essex-conference
+UID:arb:105325347@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261201T034500
-DTEND;TZID=America/New_York:20261201T054500
-SUMMARY:Belleville High School at Nutley High School (Varsity Boys Boys B
- owling)
-DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 AM
+DTSTART;TZID=America/New_York:20261106T100000
+DTEND;TZID=America/New_York:20261106T120000
+SUMMARY:Nutley High School at Cranford High School (Varsity Girls Girls S
+ occer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104520431@super-essex-conference
@@ -2310,14 +2310,6 @@ SUMMARY:Belleville High School vs Nutley High School (Varsity Boys Boys B
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105018601@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261202T154500
-DTEND;TZID=America/New_York:20261202T174500
-SUMMARY:Nutley High School vs TBD (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105019779@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261202T154500
@@ -2325,6 +2317,15 @@ DTEND;TZID=America/New_York:20261202T174500
 SUMMARY:Nutley High School vs Bloomfield High School (Varsity Girls Girls
   Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105018601@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261202T154500
+DTEND;TZID=America/New_York:20261202T174500
+SUMMARY:Nutley High School vs Bloomfield High School (Varsity Boys Boys B
+ owling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103094235@super-essex-conference
@@ -2415,6 +2416,15 @@ DTEND;TZID=America/New_York:20261208T221500
 SUMMARY:Nutley High School at Frisch School (The) (Varsity Boys Boys Ice 
  Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 8:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105332743@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T154500
+DTEND;TZID=America/New_York:20261209T174500
+SUMMARY:Barringer High School at Nutley High School (Varsity Boys Boys Bo
+ wling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105019794@super-essex-conference
@@ -2829,6 +2839,15 @@ SUMMARY:East Side High School at Nutley High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103805604@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T160000
+DTEND;TZID=America/New_York:20261222T180000
+SUMMARY:Nutley High School vs Summit High School (Varsity Boys Boys Ice H
+ ockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105200107@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T163000
@@ -3202,6 +3221,15 @@ SUMMARY:Nutley High School at Hopatcong High School (Varsity Girls Compet
 DESCRIPTION:Varsity Girls Competitive Cheerleading - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105330546@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T140000
+DTEND;TZID=America/New_York:20270109T160000
+SUMMARY:Nutley High School vs Montville Township High School (Varsity Gir
+ ls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100563184@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T143000
@@ -3210,6 +3238,15 @@ SUMMARY:[Canceled] Arts High School vs Nutley High School (Junior Varsity
   Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 2:30 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105330559@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T153000
+DTEND;TZID=America/New_York:20270109T173000
+SUMMARY:Nutley High School vs Montville Township High School (Junior Vars
+ ity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103170179@super-essex-conference
@@ -3364,10 +3401,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105019013@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270115T034500
-DTEND;TZID=America/New_York:20270115T054500
+DTSTART;TZID=America/New_York:20270115T154500
+DTEND;TZID=America/New_York:20270115T174500
 SUMMARY:Nutley High School at Seton Hall Prep (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 AM
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103169507@super-essex-conference
@@ -3379,7 +3416,7 @@ SUMMARY:Bloomfield High School at Nutley High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104515220@super-essex-conference
+UID:arb:102740919@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T180000
 DTEND;TZID=America/New_York:20270115T200000
@@ -3659,15 +3696,6 @@ SUMMARY:Nutley High School at Henry P. Becton Regional High School (Varsi
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105019032@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T034500
-DTEND;TZID=America/New_York:20270126T054500
-SUMMARY:Nutley High School vs American History High School (Varsity Boys 
- Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105019858@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T154500
@@ -3675,6 +3703,15 @@ DTEND;TZID=America/New_York:20270126T174500
 SUMMARY:Nutley High School vs North Arlington High School (Varsity Girls 
  Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105019032@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T154500
+DTEND;TZID=America/New_York:20270126T174500
+SUMMARY:Nutley High School vs American History High School (Varsity Boys 
+ Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105200725@super-essex-conference
@@ -3712,15 +3749,6 @@ SUMMARY:Nutley High School at Essex County-West Caldwell Tech High School
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105019050@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270127T034500
-DTEND;TZID=America/New_York:20270127T054500
-SUMMARY:Montclair High School at Nutley High School (Varsity Boys Boys Bo
- wling)
-DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105019873@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T154500
@@ -3728,6 +3756,15 @@ DTEND;TZID=America/New_York:20270127T174500
 SUMMARY:Montclair High School at Nutley High School (Varsity Girls Girls 
  Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105019050@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T154500
+DTEND;TZID=America/New_York:20270127T174500
+SUMMARY:Montclair High School at Nutley High School (Varsity Boys Boys Bo
+ wling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104677470@super-essex-conference
@@ -3881,11 +3918,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105019239@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270204T034500
-DTEND;TZID=America/New_York:20270204T054500
+DTSTART;TZID=America/New_York:20270204T154500
+DTEND;TZID=America/New_York:20270204T174500
 SUMMARY:Nutley High School at Morris Knolls High School (Varsity Boys Boy
  s Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 AM
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100664946@super-essex-conference
