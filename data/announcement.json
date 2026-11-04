@@ -1,11 +1,11 @@
 {
   "_comment": "Site-wide pop-up. mode 'acknowledge' shows it each visit until the visitor clicks 'Don't show this again'; closing with X or Esc dismisses for that session only. Change 'id' for a NEW message. Other modes: 'once', 'untilDate' (with endDate), 'always'. A message can also run for a set time: \"until\" (YYYY-MM-DD) ends it and \"then\" holds the announcement that takes over.",
   "active": true,
-  "id": "ect-champions-fall-2026",
+  "id": "ect-champions-fall-2026-b",
   "icon": "trophy",
   "eyebrow": "Essex County Tournament Champions",
   "title": "Congratulations, Champions!",
-  "body": "Two Essex County Tournament titles for Super Essex Conference schools.",
+  "body": "Three Essex County Tournament titles for Super Essex Conference schools.",
   "champions": [
     {
       "items": [
@@ -20,6 +20,12 @@
           "division": "ECT Girls Volleyball Champions",
           "photo": "images/champions/verona-volleyball-ect-2026.jpg",
           "alt": "Verona girls volleyball team with the Essex County Tournament trophy and plaques"
+        },
+        {
+          "school": "Newark Academy",
+          "division": "ECT Girls Soccer Champions",
+          "photo": "images/champions/newark-academy-soccer-ect-2026.jpg",
+          "alt": "Newark Academy girls soccer team with the Essex County Tournament trophy and plaques at Caldwell's Bonnel Field"
         }
       ]
     }
