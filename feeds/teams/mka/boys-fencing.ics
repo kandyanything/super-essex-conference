@@ -51,6 +51,15 @@ SUMMARY:Livingston High School vs Montclair Kimberley Academy (Varsity Bo
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105309792@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T160000
+DTEND;TZID=America/New_York:20270112T180000
+SUMMARY:Columbia High School at Montclair Kimberley Academy (Varsity Boys
+  Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104312095@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T183000
@@ -58,6 +67,15 @@ DTEND;TZID=America/New_York:20270114T203000
 SUMMARY:Montclair High School vs Montclair Kimberley Academy (Varsity Boy
  s Boys Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105309878@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T160000
+DTEND;TZID=America/New_York:20270120T180000
+SUMMARY:Montclair Kimberley Academy vs West Orange High School (Varsity B
+ oys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104979012@super-essex-conference
@@ -76,5 +94,14 @@ DTEND;TZID=America/New_York:20270126T183000
 SUMMARY:Montclair Kimberley Academy at Saint Peter's Prep High School (Va
  rsity Boys Boys Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105309958@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T160000
+DTEND;TZID=America/New_York:20270204T180000
+SUMMARY:Montclair Kimberley Academy vs Saint Benedict's Prep (Varsity Boy
+ s Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:00 PM
 END:VEVENT
 END:VCALENDAR

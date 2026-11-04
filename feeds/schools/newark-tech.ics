@@ -1158,8 +1158,10 @@ UID:arb:105241240@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261105T163000
 DTEND;TZID=America/New_York:20261105T183000
-SUMMARY:Newark Tech vs TBD (Varsity Girls Girls Volleyball)
+SUMMARY:[Canceled] Newark Tech vs Burlington Township High School (Varsit
+ y Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104888075@super-essex-conference
@@ -1287,6 +1289,14 @@ DTEND;TZID=America/New_York:20261221T193000
 SUMMARY:Cedar Grove High School vs Newark Tech (Junior Varsity Girls Girl
  s Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105312267@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T130000
+DTEND;TZID=America/New_York:20261228T150000
+SUMMARY:Newark Tech vs Orange High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100564775@super-essex-conference

@@ -2489,6 +2489,15 @@ SUMMARY:Nutley High School at Ridgefield Memorial High School (Varsity Gi
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105313589@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T163000
+DTEND;TZID=America/New_York:20261210T183000
+SUMMARY:Nutley High School vs Science Park High School (Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104515256@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T180000
@@ -3238,15 +3247,6 @@ SUMMARY:Irvington High School at Nutley High School (Varsity Boys Boys Bo
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100552966@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270112T130000
-DTEND;TZID=America/New_York:20270112T150000
-SUMMARY:Nutley High School vs Technology High School (Varsity Boys Boys B
- asketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105019842@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T154500
@@ -3272,6 +3272,15 @@ DTEND;TZID=America/New_York:20270112T193000
 SUMMARY:Montclair Kimberley Academy at Nutley High School (Junior Varsity
   Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100552966@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T190000
+DTEND;TZID=America/New_York:20270112T210000
+SUMMARY:Nutley High School vs Technology High School (Varsity Boys Boys B
+ asketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105019847@super-essex-conference
@@ -3937,12 +3946,12 @@ UID:arb:105069042@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T170000
 DTEND;TZID=America/New_York:20270206T190000
-SUMMARY:Nutley High School vs Pompton Lakes High School (Varsity Girls Gi
- rls Basketball)
+SUMMARY:Nutley High School vs Kinnelon High School (Varsity Girls Girls B
+ asketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105070797@super-essex-conference
+UID:arb:105313618@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T190000
 DTEND;TZID=America/New_York:20270206T210000

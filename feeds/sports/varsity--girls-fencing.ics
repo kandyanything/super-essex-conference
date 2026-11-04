@@ -189,9 +189,10 @@ UID:arb:104312091@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T183000
 DTEND;TZID=America/New_York:20270107T203000
-SUMMARY:Montclair High School vs Kent Place School (Varsity Girls Girls F
- encing)
+SUMMARY:[Canceled] Montclair High School vs Kent Place School (Varsity Gi
+ rls Girls Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104463045@super-essex-conference
@@ -201,6 +202,15 @@ DTEND;TZID=America/New_York:20270109T130000
 SUMMARY:Saint Benedict's Prep vs Oak Knoll School of the Holy Child (Vars
  ity Girls Girls Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105309831@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T160000
+DTEND;TZID=America/New_York:20270112T180000
+SUMMARY:Columbia High School at Montclair Kimberley Academy (Varsity Girl
+ s Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104463676@super-essex-conference
@@ -309,6 +319,15 @@ DTEND;TZID=America/New_York:20270120T180000
 SUMMARY:Millburn High School at Oak Knoll School of the Holy Child (Varsi
  ty Girls Girls Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105309909@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T160000
+DTEND;TZID=America/New_York:20270120T180000
+SUMMARY:Montclair Kimberley Academy vs West Orange High School (Varsity G
+ irls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105305313@super-essex-conference
@@ -452,6 +471,15 @@ DTEND;TZID=America/New_York:20270203T203000
 SUMMARY:Livingston High School at Chatham High School (Varsity Girls Girl
  s Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105309992@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T160000
+DTEND;TZID=America/New_York:20270204T180000
+SUMMARY:Montclair Kimberley Academy vs Saint Benedict's Prep (Varsity Gir
+ ls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104312153@super-essex-conference

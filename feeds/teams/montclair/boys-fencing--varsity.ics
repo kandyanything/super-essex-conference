@@ -64,9 +64,19 @@ UID:arb:104312087@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T183000
 DTEND;TZID=America/New_York:20270107T203000
-SUMMARY:Montclair High School vs Oratory Prep School (Varsity Boys Boys F
- encing)
+SUMMARY:[Canceled] Montclair High School vs Oratory Prep School (Varsity 
+ Boys Boys Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:30 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105313858@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T160000
+DTEND;TZID=America/New_York:20270108T180000
+SUMMARY:Montclair High School at Oratory Prep School (Varsity Boys Boys F
+ encing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104312095@super-essex-conference

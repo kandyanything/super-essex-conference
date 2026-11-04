@@ -126,8 +126,8 @@ UID:arb:105288336@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
 DTEND;TZID=America/New_York:20261208T180000
-SUMMARY:Montclair High School vs TBD (Junior Varsity Girls Girls Basketba
- ll)
+SUMMARY:Montclair High School vs Bloomfield High School (Junior Varsity G
+ irls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -171,7 +171,8 @@ UID:arb:105288339@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T190000
 DTEND;TZID=America/New_York:20261208T210000
-SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Basketball)
+SUMMARY:Montclair High School vs Bloomfield High School (Varsity Girls Gi
+ rls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1538,6 +1539,15 @@ SUMMARY:Nutley High School at Bergenfield High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Basketball - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105312256@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T110000
+DTEND;TZID=America/New_York:20261228T130000
+SUMMARY:East Orange Campus High School at Payne Tech (Varsity Girls Girls
+  Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105159200@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261228T113000
@@ -1553,6 +1563,14 @@ DTSTART;TZID=America/New_York:20261228T120000
 DTEND;TZID=America/New_York:20261228T140000
 SUMMARY:Livingston High School vs TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105312267@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T130000
+DTEND;TZID=America/New_York:20261228T150000
+SUMMARY:Newark Tech vs Orange High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104344640@super-essex-conference
@@ -2529,6 +2547,15 @@ DTSTART;TZID=America/New_York:20270109T120000
 DTEND;TZID=America/New_York:20270109T140000
 SUMMARY:Mount Saint Dominic Academy at Payne Tech (Varsity Girls Girls Ba
  sketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105312712@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T120000
+DTEND;TZID=America/New_York:20270109T140000
+SUMMARY:Orange High School at Eastside High School - Paterson (Varsity Gi
+ rls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -4584,6 +4611,15 @@ SUMMARY:East Side High School vs Nutley High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105313904@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T160000
+DTEND;TZID=America/New_York:20270126T180000
+SUMMARY:Golda Och Academy at Kent Place School (Middle School Girls Girls
+  Basketball)
+DESCRIPTION:Middle School Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100563510@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T160000
@@ -5373,8 +5409,8 @@ UID:arb:105069042@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T170000
 DTEND;TZID=America/New_York:20270206T190000
-SUMMARY:Nutley High School vs Pompton Lakes High School (Varsity Girls Gi
- rls Basketball)
+SUMMARY:Nutley High School vs Kinnelon High School (Varsity Girls Girls B
+ asketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -5843,15 +5879,6 @@ SUMMARY:University High School vs Columbia High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100560601@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270211T160000
-DTEND;TZID=America/New_York:20270211T180000
-SUMMARY:Verona High School at West Essex High School (Varsity Girls Girls
-  Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100559648@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T160000
@@ -6021,6 +6048,15 @@ DTEND;TZID=America/New_York:20270211T210000
 SUMMARY:East Orange Campus High School vs North Star Academy (Varsity Gir
  ls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100560601@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T190000
+DTEND;TZID=America/New_York:20270211T210000
+SUMMARY:Verona High School at West Essex High School (Varsity Girls Girls
+  Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100559579@super-essex-conference
@@ -6207,8 +6243,8 @@ UID:arb:105288352@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270216T173000
 DTEND;TZID=America/New_York:20270216T193000
-SUMMARY:Montclair High School vs TBD (Junior Varsity Girls Girls Basketba
- ll)
+SUMMARY:Montclair High School vs Montclair Kimberley Academy (Junior Vars
+ ity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -6225,7 +6261,8 @@ UID:arb:105288351@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270216T190000
 DTEND;TZID=America/New_York:20270216T210000
-SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Basketball)
+SUMMARY:Montclair High School vs Montclair Kimberley Academy (Varsity Gir
+ ls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT

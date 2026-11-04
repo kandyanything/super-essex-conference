@@ -2036,14 +2036,6 @@ SUMMARY:West Orange High School vs Piscataway High School (Varsity Boys F
 DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101364314@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:West Orange High School vs TBD (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101364318@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261113
@@ -2994,6 +2986,24 @@ DTEND;TZID=America/New_York:20270120T110000
 SUMMARY:Bloomfield High School at West Orange High School (Varsity Boys B
  oys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105309909@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T160000
+DTEND;TZID=America/New_York:20270120T180000
+SUMMARY:Montclair Kimberley Academy vs West Orange High School (Varsity G
+ irls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105309878@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T160000
+DTEND;TZID=America/New_York:20270120T180000
+SUMMARY:Montclair Kimberley Academy vs West Orange High School (Varsity B
+ oys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104320953@super-essex-conference
