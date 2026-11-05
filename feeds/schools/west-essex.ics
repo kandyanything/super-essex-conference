@@ -3478,6 +3478,15 @@ SUMMARY:James Caldwell High School vs Howell High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105350712@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261202T164500
+DTEND;TZID=America/New_York:20261202T184500
+SUMMARY:James Caldwell High School at Ramapo High School (Varsity Boys Bo
+ ys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104231442@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261204T160000
@@ -4286,6 +4295,24 @@ DTEND;TZID=America/New_York:20270108T200000
 SUMMARY:Saint Benedict's Prep vs West Essex High School (Varsity Boys Boy
  s Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105342691@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T183000
+DTEND;TZID=America/New_York:20270108T203000
+SUMMARY:Montclair Kimberley Academy at West Essex High School (Varsity Gi
+ rls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105342643@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T183000
+DTEND;TZID=America/New_York:20270108T203000
+SUMMARY:Montclair Kimberley Academy at West Essex High School (Varsity Bo
+ ys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104281826@super-essex-conference
