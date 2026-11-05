@@ -2107,9 +2107,19 @@ UID:arb:103461626@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T160000
 DTEND;TZID=America/New_York:20261029T180000
-SUMMARY:Livingston High School at Newark Academy (Varsity Girls Field Hoc
- key)
+SUMMARY:[Canceled] Livingston High School at Newark Academy (Varsity Girl
+ s Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105074962@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Mount Saint Dominic Academy vs Newark Academy (Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104639901@super-essex-conference
@@ -2487,6 +2497,14 @@ SUMMARY:Newark Academy vs Gill St. Bernard's School (Middle School Girls
 DESCRIPTION:Middle School Girls Girls Volleyball - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105073739@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T154500
+DTEND;TZID=America/New_York:20270107T174500
+SUMMARY:Newark Academy vs Peck School (7/8th Boys Wrestling)
+DESCRIPTION:7/8th Boys Wrestling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104617933@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T154500
@@ -2697,6 +2715,14 @@ DTEND;TZID=America/New_York:20270113T190000
 SUMMARY:Newark Academy vs Saddle River Day School (Varsity Boys Boys Wres
  tling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105073750@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T153000
+DTEND;TZID=America/New_York:20270114T173000
+SUMMARY:Newark Academy vs Delbarton School (7/8th Boys Wrestling)
+DESCRIPTION:7/8th Boys Wrestling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104082316@super-essex-conference
@@ -3207,6 +3233,14 @@ SUMMARY:Bloomfield High School vs Newark Academy (Varsity Boys Boys Baske
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105073754@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T154500
+DTEND;TZID=America/New_York:20270203T174500
+SUMMARY:Newark Academy vs Rutgers Prep School (7/8th Boys Wrestling)
+DESCRIPTION:7/8th Boys Wrestling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104641241@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T153000
@@ -3355,6 +3389,14 @@ SUMMARY:Newark Academy at Verona High School (Junior Varsity Boys Boys Ba
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105073761@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270216T153000
+DTEND;TZID=America/New_York:20270216T173000
+SUMMARY:Newark Academy vs Rutgers Prep School (7/8th Boys Wrestling)
+DESCRIPTION:7/8th Boys Wrestling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103675812@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270218T160000
@@ -3397,6 +3439,14 @@ DTSTART;TZID=America/New_York:20270219T180000
 DTEND;TZID=America/New_York:20270219T200000
 SUMMARY:Newark Academy vs The Pingry School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105073994@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270223T154500
+DTEND;TZID=America/New_York:20270223T174500
+SUMMARY:Newark Academy vs TBD (7/8th Boys Wrestling)
+DESCRIPTION:7/8th Boys Wrestling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102569633@super-essex-conference
