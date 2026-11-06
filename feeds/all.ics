@@ -40335,6 +40335,24 @@ SUMMARY:Mount Saint Dominic Academy at TBD (Varsity Girls Girls Cross Cou
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105242350@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T110000
+DTEND;TZID=America/New_York:20261107T130000
+SUMMARY:Mount Saint Dominic Academy vs Newark Academy (Varsity Girls Girl
+ s Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105400906@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T110000
+DTEND;TZID=America/New_York:20261107T130000
+SUMMARY:Verona High School vs Wallington High School (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105347306@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261107T120000
@@ -40351,15 +40369,6 @@ DTEND;TZID=America/New_York:20261107T140000
 SUMMARY:Millburn High School at Randolph High School (Varsity Boys Boys S
  occer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105242350@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261107T120000
-DTEND;TZID=America/New_York:20261107T140000
-SUMMARY:Mount Saint Dominic Academy vs Newark Academy (Varsity Girls Girl
- s Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105240069@super-essex-conference
@@ -40386,6 +40395,15 @@ DTSTART;TZID=America/New_York:20261107T140000
 DTEND;TZID=America/New_York:20261107T160000
 SUMMARY:Irvington High School at Madison High School (Varsity Boys Boys S
  occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105359443@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T140000
+DTEND;TZID=America/New_York:20261107T160000
+SUMMARY:Montclair High School at Morristown High School (Varsity Boys Boy
+ s Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -40443,6 +40461,15 @@ SUMMARY:Glen Ridge High School at Madison High School (Varsity Girls Fiel
 DESCRIPTION:Varsity Girls Field Hockey - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105391446@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261109T140000
+DTEND;TZID=America/New_York:20261109T160000
+SUMMARY:Montclair Kimberley Academy vs Gill St. Bernard's School (Varsity
+  Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105358607@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261109T140000
@@ -40450,6 +40477,23 @@ DTEND;TZID=America/New_York:20261109T160000
 SUMMARY:Montclair Kimberley Academy at Oak Knoll School of the Holy Child
   (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105391434@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261109T140000
+DTEND;TZID=America/New_York:20261109T160000
+SUMMARY:Saint Benedict's Prep at Delbarton School (Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105391494@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261109T143000
+DTEND;TZID=America/New_York:20261109T163000
+SUMMARY:Newark Academy vs Pingry (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105378607@super-essex-conference
@@ -43720,6 +43764,15 @@ DTEND;TZID=America/New_York:20261215T203000
 SUMMARY:East Side High School at James Caldwell High School (Varsity Boys
   Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105399600@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T190000
+DTEND;TZID=America/New_York:20261215T210000
+SUMMARY:Arts High School at Bayonne High School (Junior Varsity Girls Gir
+ ls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553575@super-essex-conference
@@ -69975,6 +70028,14 @@ DTEND;TZID=America/New_York:20270416T193000
 SUMMARY:Newark Collegiate Academy at American History High School (Junior
   Varsity Boys Boys Volleyball)
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105400723@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270417T080000
+DTEND;TZID=America/New_York:20270417T100000
+SUMMARY:Belleville High School vs TBD (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105047003@super-essex-conference
