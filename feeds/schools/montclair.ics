@@ -3233,9 +3233,10 @@ UID:arb:100100615@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T160000
 DTEND;TZID=America/New_York:20261026T180000
-SUMMARY:Montclair High School vs West Orange High School (Junior Varsity 
- Boys Football)
+SUMMARY:[Canceled] Montclair High School vs West Orange High School (Juni
+ or Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103980671@super-essex-conference
@@ -3262,6 +3263,15 @@ DTSTART;TZID=America/New_York:20261027T040000
 DTEND;TZID=America/New_York:20261027T060000
 SUMMARY:Montclair High School vs TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105051498@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T160000
+DTEND;TZID=America/New_York:20261027T180000
+SUMMARY:Millburn High School at Montclair High School (Junior Varsity Gir
+ ls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101422400@super-essex-conference
@@ -3337,9 +3347,10 @@ UID:arb:102593025@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T173000
 DTEND;TZID=America/New_York:20261029T193000
-SUMMARY:Montclair High School vs Kittatinny Regional High School (Junior 
- Varsity Girls Field Hockey)
+SUMMARY:[Canceled] Montclair High School vs Kittatinny Regional High Scho
+ ol (Junior Varsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102503170@super-essex-conference
@@ -3356,6 +3367,15 @@ DTSTART;TZID=America/New_York:20261103T160000
 DTEND;TZID=America/New_York:20261103T180000
 SUMMARY:Montclair High School vs TBD (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105051427@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T163000
+DTEND;TZID=America/New_York:20261103T183000
+SUMMARY:Montclair High School at Westfield High School (Varsity Girls Gir
+ ls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102503470@super-essex-conference

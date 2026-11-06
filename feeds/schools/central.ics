@@ -508,6 +508,15 @@ SUMMARY:Central High School vs Newark Vocational High School (Junior Vars
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105051626@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T160000
+DTEND;TZID=America/New_York:20260922T180000
+SUMMARY:Central High School vs Technology High School (Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99072178@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T160000
@@ -543,7 +552,7 @@ SUMMARY:Central High School at Nutley High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104262171@super-essex-conference
+UID:arb:105051630@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
@@ -996,6 +1005,15 @@ SUMMARY:Central High School at East Orange Campus High School (Varsity Bo
 DESCRIPTION:Varsity Boys Football - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105051636@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:Central High School vs Technology High School (Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104952368@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T160000
@@ -1048,6 +1066,15 @@ DTEND;TZID=America/New_York:20261031T140000
 SUMMARY:Barringer High School vs Central High School (Varsity Boys Footba
  ll)
 DESCRIPTION:Varsity Boys Football - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105070732@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T160000
+DTEND;TZID=America/New_York:20261102T180000
+SUMMARY:Central High School vs American History High School (Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101242022@super-essex-conference
