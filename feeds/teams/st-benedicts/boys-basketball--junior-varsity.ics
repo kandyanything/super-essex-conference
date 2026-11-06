@@ -26,11 +26,29 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:arb:100535562@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T173000
-DTEND;TZID=America/New_York:20261217T193000
+DTSTART;TZID=America/New_York:20261218T173000
+DTEND;TZID=America/New_York:20261218T193000
 SUMMARY:East Orange Campus High School at Saint Benedict's Prep (Junior V
  arsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105373416@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T113000
+DTEND;TZID=America/New_York:20261219T133000
+SUMMARY:Saint Benedict's Prep vs Paramus Catholic High School (Junior Var
+ sity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105373622@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T150000
+DTEND;TZID=America/New_York:20261223T170000
+SUMMARY:Saint Benedict's Prep vs Morris Catholic High School (Junior Vars
+ ity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100535572@super-essex-conference
@@ -53,11 +71,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100535598@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T110000
-DTEND;TZID=America/New_York:20270109T130000
+DTSTART;TZID=America/New_York:20270109T113000
+DTEND;TZID=America/New_York:20270109T133000
 SUMMARY:Saint Benedict's Prep vs James Caldwell High School (Junior Varsi
  ty Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:00 AM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100535889@super-essex-conference
@@ -112,6 +130,15 @@ DTEND;TZID=America/New_York:20270126T193000
 SUMMARY:Payne Tech at Saint Benedict's Prep (Junior Varsity Boys Boys Bas
  ketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105373757@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T173000
+DTEND;TZID=America/New_York:20270202T193000
+SUMMARY:Saint Benedict's Prep vs Saint Peter's Prep High School (Junior V
+ arsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100535633@super-essex-conference

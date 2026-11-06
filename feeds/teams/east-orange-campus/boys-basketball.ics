@@ -78,10 +78,19 @@ SUMMARY:East Orange Campus High School vs Gill St. Bernard's School (Vars
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100535448@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T163000
+DTEND;TZID=America/New_York:20261217T183000
+SUMMARY:East Orange Campus High School at Saint Benedict's Prep (Varsity 
+ Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100535658@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T160000
-DTEND;TZID=America/New_York:20261217T180000
+DTSTART;TZID=America/New_York:20261218T160000
+DTEND;TZID=America/New_York:20261218T180000
 SUMMARY:East Orange Campus High School at Saint Benedict's Prep (Freshman
   Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
@@ -89,20 +98,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100535562@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T173000
-DTEND;TZID=America/New_York:20261217T193000
+DTSTART;TZID=America/New_York:20261218T173000
+DTEND;TZID=America/New_York:20261218T193000
 SUMMARY:East Orange Campus High School at Saint Benedict's Prep (Junior V
  arsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100535448@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T190000
-DTEND;TZID=America/New_York:20261217T210000
-SUMMARY:East Orange Campus High School at Saint Benedict's Prep (Varsity 
- Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100537671@super-essex-conference
