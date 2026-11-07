@@ -24,6 +24,24 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:105412240@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T160000
+DTEND;TZID=America/New_York:20261209T180000
+SUMMARY:Montclair Kimberley Academy vs Delbarton School (Middle School Co
+ ed Coed Ice Hockey)
+DESCRIPTION:Middle School Coed Coed Ice Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105412637@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T163000
+DTEND;TZID=America/New_York:20270105T183000
+SUMMARY:Montclair Kimberley Academy vs Morristown-Beard School (Middle Sc
+ hool Coed Coed Ice Hockey)
+DESCRIPTION:Middle School Coed Coed Ice Hockey - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104541445@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T153000
@@ -31,5 +49,23 @@ DTEND;TZID=America/New_York:20270115T173000
 SUMMARY:Montclair Kimberley Academy at Delbarton School (Middle School Co
  ed Coed Ice Hockey)
 DESCRIPTION:Middle School Coed Coed Ice Hockey - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105412649@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T150000
+DTEND;TZID=America/New_York:20270120T170000
+SUMMARY:Montclair Kimberley Academy vs The Pingry School (Middle School C
+ oed Coed Ice Hockey)
+DESCRIPTION:Middle School Coed Coed Ice Hockey - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105412657@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T164500
+DTEND;TZID=America/New_York:20270127T184500
+SUMMARY:Montclair Kimberley Academy vs Princeton Day School (Middle Schoo
+ l Coed Coed Ice Hockey)
+DESCRIPTION:Middle School Coed Coed Ice Hockey - Home - 4:45 PM
 END:VEVENT
 END:VCALENDAR
