@@ -40550,14 +40550,6 @@ SUMMARY:Seton Hall Prep at Saint Peter's Prep High School (Varsity Boys F
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101364318@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:West Orange High School vs TBD (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105423626@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261114T130000
@@ -40582,14 +40574,6 @@ DTEND;TZID=America/New_York:20261115T120000
 SUMMARY:Cedar Grove High School at TBD (Varsity Girls Competitive Cheerle
  ading)
 DESCRIPTION:Varsity Girls Competitive Cheerleading - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101364321@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:West Orange High School vs TBD (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104504683@super-essex-conference
@@ -40633,14 +40617,6 @@ DTSTART;TZID=America/New_York:20261127T160000
 DTEND;TZID=America/New_York:20261127T180000
 SUMMARY:Montclair Kimberley Academy vs TBD (Varsity Boys Boys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101364323@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:West Orange High School vs TBD (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103400878@super-essex-conference
@@ -44208,6 +44184,22 @@ SUMMARY:Mount Saint Dominic Academy vs James Caldwell High School (Junior
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105101805@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T180000
+DTEND;TZID=America/New_York:20261216T200000
+SUMMARY:West Essex High School at TBD (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102072238@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T180000
+DTEND;TZID=America/New_York:20261216T200000
+SUMMARY:West Essex High School at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103851078@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T180000
@@ -44242,24 +44234,6 @@ DTEND;TZID=America/New_York:20261216T200000
 SUMMARY:Saint Benedict's Prep at Governor Livingston High School (Varsity
   Boys Boys Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105101805@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T180000
-DTEND;TZID=America/New_York:20261216T200000
-SUMMARY:West Essex High School at West Orange High School (Junior Varsity
-  Boys Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102072238@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T180000
-DTEND;TZID=America/New_York:20261216T200000
-SUMMARY:West Essex High School at West Orange High School (Varsity Boys B
- oys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102733927@super-essex-conference
