@@ -2417,11 +2417,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105422008@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
+DTSTART;TZID=America/New_York:20261110T160000
+DTEND;TZID=America/New_York:20261110T180000
 SUMMARY:Glen Ridge High School at Verona High School (Varsity Girls Girls
   Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105434236@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Glen Ridge High School vs Verona High School (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104504683@super-essex-conference
