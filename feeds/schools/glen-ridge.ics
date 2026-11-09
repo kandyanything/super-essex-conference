@@ -2426,11 +2426,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105434236@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
+DTSTART;TZID=America/New_York:20261111T140000
+DTEND;TZID=America/New_York:20261111T160000
 SUMMARY:Glen Ridge High School vs Verona High School (Varsity Boys Boys S
  occer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104504683@super-essex-conference
