@@ -229,6 +229,15 @@ SUMMARY:Verona High School vs Oratory Prep School (Varsity Boys Boys Ice
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105466749@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T183000
+DTEND;TZID=America/New_York:20261207T203000
+SUMMARY:Montclair Kimberley Academy at Cranford High School (Varsity Boys
+  Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104415536@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T200000
@@ -1013,6 +1022,15 @@ DTEND;TZID=America/New_York:20270111T200000
 SUMMARY:Seton Hall Prep vs Christian Brothers Academy (Varsity Boys Boys 
  Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105466831@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T183500
+DTEND;TZID=America/New_York:20270111T203500
+SUMMARY:Verona High School at Cranford High School (Varsity Boys Boys Ice
+  Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 6:35 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104059149@super-essex-conference

@@ -24,6 +24,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:105470036@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270315T163000
+DTEND;TZID=America/New_York:20270315T183000
+SUMMARY:Bloomfield High School at Memorial High School (Varsity Boys Base
+ ball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104367279@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270317T163000
@@ -183,6 +192,15 @@ DTEND;TZID=America/New_York:20270429T180000
 SUMMARY:Bloomfield High School vs Montclair High School (Varsity Boys Bas
  eball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105454295@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270501T160000
+DTEND;TZID=America/New_York:20270501T180000
+SUMMARY:Bloomfield High School at North Bergen High School (Varsity Boys 
+ Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104336076@super-essex-conference

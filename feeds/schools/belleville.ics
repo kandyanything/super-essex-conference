@@ -2156,7 +2156,8 @@ UID:arb:104083448@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261228T090000
 DTEND;TZID=America/New_York:20261228T110000
-SUMMARY:Belleville High School at TBD (Varsity Girls Girls Wrestling)
+SUMMARY:Belleville High School at Parsippany Regional (Varsity Girls Girl
+ s Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -2329,6 +2330,15 @@ DTEND;TZID=America/New_York:20270109T133000
 SUMMARY:Belleville High School vs Newark Academy (Varsity Boys Boys Baske
  tball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105456944@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270110T080000
+DTEND;TZID=America/New_York:20270110T100000
+SUMMARY:Belleville High School at West Milford Township High School (Vars
+ ity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104233148@super-essex-conference
@@ -3802,12 +3812,30 @@ SUMMARY:Belleville High School vs Millburn High School (Junior Varsity Bo
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105451057@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270416T160000
+DTEND;TZID=America/New_York:20270416T180000
+SUMMARY:Belleville High School vs Verona High School (Junior Varsity Boys
+  Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105451047@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270416T160000
+DTEND;TZID=America/New_York:20270416T180000
+SUMMARY:Belleville High School at Verona High School (Varsity Boys Boys T
+ ennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105400723@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270417T080000
 DTEND;TZID=America/New_York:20270417T100000
-SUMMARY:Belleville High School vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 8:00 AM
+SUMMARY:Belleville High School vs TBD (Varsity Boys Boys Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105144865@super-essex-conference

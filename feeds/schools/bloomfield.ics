@@ -4330,6 +4330,15 @@ SUMMARY:Bloomfield High School vs Ridgewood High School (Varsity Girls So
 DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105470036@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270315T163000
+DTEND;TZID=America/New_York:20270315T183000
+SUMMARY:Bloomfield High School at Memorial High School (Varsity Boys Base
+ ball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104367356@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270317T163000
@@ -5010,6 +5019,15 @@ DTEND;TZID=America/New_York:20270501T130000
 SUMMARY:Bloomfield High School vs Memorial High School (Varsity Girls Sof
  tball)
 DESCRIPTION:Varsity Girls Softball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105454295@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270501T160000
+DTEND;TZID=America/New_York:20270501T180000
+SUMMARY:Bloomfield High School at North Bergen High School (Varsity Boys 
+ Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104335982@super-essex-conference

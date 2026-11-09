@@ -2092,11 +2092,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104258078@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261115T100000
-DTEND;TZID=America/New_York:20261115T120000
+DTSTART;TZID=America/New_York:20261115T133000
+DTEND;TZID=America/New_York:20261115T153000
 SUMMARY:Cedar Grove High School at TBD (Varsity Girls Competitive Cheerle
  ading)
-DESCRIPTION:Varsity Girls Competitive Cheerleading - Away - 10:00 AM
+DESCRIPTION:Varsity Girls Competitive Cheerleading - Away - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102411161@super-essex-conference
@@ -2169,6 +2169,15 @@ DTEND;TZID=America/New_York:20261212T130000
 SUMMARY:Cedar Grove High School vs Manchester Regional High School (Varsi
  ty Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105456041@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Cedar Grove High School at TBD (Varsity Girls Competitive Cheerle
+ ading)
+DESCRIPTION:Varsity Girls Competitive Cheerleading - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551273@super-essex-conference
