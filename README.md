@@ -72,6 +72,34 @@ The schedule scripts use **Node built-ins only** — no `npm install` required.
 For that commit to succeed, the repo's **Settings → Actions → General → Workflow
 permissions** must be set to **"Read and write."**
 
+## Social wall (Facebook + Instagram)
+
+`scripts/build-social.js` pulls the newest posts from the conference's Facebook Page and
+its linked Instagram into `data/social.json`. It runs inside every schedule rebuild, and
+on demand from **Actions → Refresh social posts → Run workflow**.
+
+It uses one secret, **`META_PAGE_TOKEN`** (repo **Settings → Secrets and variables →
+Actions**): a Facebook **Page** access token for the SEC Page, made with Meta app
+`1155662930231734`. Never put the token in the repo, a log or a chat.
+
+**If a run goes red with "Social posts are not updating"**, the schedule still published,
+but the social wall is frozen on its last posts. Meta saying it *"cannot call API for
+app … on behalf of user …"*, or that the token is invalid or expired, means the token
+needs replacing — usually after a Facebook password change, "log out of all sessions",
+a security check on the account, the app being removed under Facebook **Settings →
+Business Integrations**, or the account losing admin on the Page. To make a new one:
+
+1. Log into Facebook as an SEC Page admin and clear any security prompts.
+2. In [Graph API Explorer](https://developers.facebook.com/tools/explorer), pick app
+   `1155662930231734` and generate a **User Token** with `pages_show_list`,
+   `pages_read_engagement` and `instagram_basic`.
+3. Click the ⓘ next to the token → **Open in Access Token Tool** → **Extend Access Token**.
+4. Back in the Explorer, use that long-lived token to run `me/accounts` and copy the
+   `access_token` listed for **Super Essex Conference**. A Page token made this way does
+   not expire.
+5. Paste it into the `META_PAGE_TOKEN` secret, then run **Refresh social posts**. Green
+   means it's fixed.
+
 ## Deploy
 
 - **Netlify**, connected to this repo's `main` branch.

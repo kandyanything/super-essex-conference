@@ -14,7 +14,11 @@
  * Instagram: the newest posts' links go into `posts`; the wall embeds each one.
  *
  * Each platform refreshes on its own: one failing leaves that platform exactly as it
- * was. The script always exits 0, so a Meta outage never stops the schedule publishing.
+ * was, and whatever did refresh is still written. If either platform could not be
+ * refreshed (most often an expired or revoked META_PAGE_TOKEN), the script prints a
+ * GitHub ::error and exits 1. The workflows run this step with continue-on-error and
+ * commit first, so the schedule still publishes, then turn the run red - a broken
+ * token shows up the same day instead of the social wall quietly freezing.
  */
 const fs = require('fs');
 const path = require('path');
@@ -30,11 +34,26 @@ const token = (rawToken.match(/EAA[A-Za-z0-9]+/) || [rawToken.trim()])[0];
 /* never let the token reach a log, even inside an error from Meta */
 const clean = s => String(s || '').split(token || '\u0000').join('[token]').replace(/access_token=[^&\s"]+/g, 'access_token=[token]');
 
+/* problems found this run; any at all turns the run red (see report()) */
+const problems = [];
+const sleep = ms => new Promise(res => setTimeout(res, ms));
+
+/* one retry for a network blip or a Meta 5xx, so a momentary outage doesn't raise a
+   false alarm; a 4xx (bad or revoked token, missing permission) fails straight away */
 async function get(url) {
-    const r = await fetch(url + (url.includes('?') ? '&' : '?') + 'access_token=' + encodeURIComponent(token), { headers: { 'User-Agent': 'conference-social-bot' } });
-    const j = await r.json().catch(() => ({}));
-    if (!r.ok || j.error) throw new Error(`${r.status} ${j.error ? j.error.message : 'bad response'}`);
-    return j;
+    for (let attempt = 1; ; attempt++) {
+        let r, j;
+        try {
+            r = await fetch(url + (url.includes('?') ? '&' : '?') + 'access_token=' + encodeURIComponent(token), { headers: { 'User-Agent': 'conference-social-bot' } });
+            j = await r.json().catch(() => ({}));
+        } catch (e) {
+            if (attempt < 2) { await sleep(5000); continue; }
+            throw new Error('could not reach Meta: ' + (e.cause && e.cause.message || e.message));
+        }
+        if (r.status >= 500 && attempt < 2) { await sleep(5000); continue; }
+        if (!r.ok || j.error) throw new Error(`${r.status} ${j.error ? j.error.message : 'bad response'}`);
+        return j;
+    }
 }
 const trim = (s, n) => { s = String(s || '').replace(/\s+\n/g, '\n').trim(); return s.length > n ? s.slice(0, n - 1).replace(/\s+\S*$/, '') + '…' : s; };
 
@@ -66,7 +85,7 @@ async function instagram(ig, igId) {
 }
 
 async function main() {
-    if (!token) { console.log('META_PAGE_TOKEN is not set - leaving the social wall as it is'); return; }
+    if (!token) { problems.push('META_PAGE_TOKEN is not set, so the social wall cannot refresh'); return; }
     /* the secret's shape, never its value */
     console.log(`Token: ${/^EAA[A-Za-z0-9]+$/.test(token) ? 'looks like a Meta token' : 'does NOT look like a Meta token'}, ${token.length} characters${rawToken.trim() !== token ? ' (extra characters around it were ignored)' : ''}`);
     const social = JSON.parse(fs.readFileSync(FILE, 'utf8').replace(/^﻿/, ''));
@@ -80,11 +99,13 @@ async function main() {
 
     if (fb) {
         if (!fb.url && page.link) fb.url = page.link;
-        await facebook(fb, page.id).catch(e => console.log('Facebook refresh skipped: ' + clean(e.message)));
+        await facebook(fb, page.id).catch(e => problems.push('Facebook refresh failed: ' + e.message));
     }
     if (ig && igAcct) {
         if (!ig.url && igAcct.username) { ig.url = `https://www.instagram.com/${igAcct.username}/`; ig.handle = ig.handle || '@' + igAcct.username; }
-        await instagram(ig, igAcct.id).catch(e => console.log('Instagram refresh skipped: ' + clean(e.message)));
+        await instagram(ig, igAcct.id).catch(e => problems.push('Instagram refresh failed: ' + e.message));
+    } else if (ig && ig.enabled) {
+        problems.push('No Instagram account is linked to the Facebook Page any more, so Instagram cannot refresh');
     }
     const on = (social.platforms || []).filter(p => p.enabled).map(p => p.label || p.id);
     if (on.length) social.note = `Follow the conference on ${on.join(' and ')}.`;
@@ -94,4 +115,12 @@ async function main() {
     console.log(`social.json updated: ${on.join(', ') || 'nothing'} on`);
 }
 
-main().catch(e => { console.log('Social refresh skipped: ' + clean(e.message)); process.exitCode = 0; });
+function report() {
+    if (!problems.length) { console.log('Social wall: refresh OK'); return; }
+    for (const p of problems) console.log(`::error title=Social posts are not updating::${clean(p).replace(/\r?\n/g, ' ')}`);
+    console.log('The site keeps showing the last posts it fetched until this is fixed. If Meta says it "cannot call API" '
+        + 'or the token is invalid or expired, make a new Page token and update the META_PAGE_TOKEN secret - see "Social wall" in README.md.');
+    process.exitCode = 1;
+}
+
+main().catch(e => problems.push('Social refresh failed: ' + e.message)).finally(report);

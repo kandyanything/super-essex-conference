@@ -74,7 +74,13 @@ jobs:
           else
             echo "videos.json is current - skipping the Vision refresh"
           fi
+      # If Facebook/Instagram can't be refreshed (most often an expired or revoked
+      # META_PAGE_TOKEN) this step fails, but the run carries on so the schedule
+      # still publishes. "Flag a broken social feed" at the end then turns the
+      # whole run red, so the problem is seen the same day instead of the social
+      # wall silently freezing.
       - name: Refresh social posts (Facebook + Instagram)
+        id: social
         continue-on-error: true
         env:
           META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
@@ -107,4 +113,9 @@ jobs:
             git rebase -X theirs origin/main || { git rebase --abort || true; }
           done
           echo "could not push after 3 attempts"
+          exit 1
+      - name: Flag a broken social feed
+        if: steps.social.outcome == 'failure'
+        run: |
+          echo "::error title=Social posts are not updating::The schedule published, but Facebook/Instagram could not be refreshed - see the 'Refresh social posts' step for why. Usual fix: make a new Page token and update the META_PAGE_TOKEN secret (README.md, 'Social wall')."
           exit 1
