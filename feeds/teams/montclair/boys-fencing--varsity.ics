@@ -37,9 +37,19 @@ UID:arb:105173599@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T181500
 DTEND;TZID=America/New_York:20261215T201500
-SUMMARY:Montclair High School at Governor Livingston High School (Varsity
-  Boys Boys Fencing)
+SUMMARY:[Canceled] Montclair High School at Governor Livingston High Scho
+ ol (Varsity Boys Boys Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:15 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105473871@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T183000
+DTEND;TZID=America/New_York:20261215T203000
+SUMMARY:Montclair High School vs Governor Livingston High School (Varsity
+  Boys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105031162@super-essex-conference

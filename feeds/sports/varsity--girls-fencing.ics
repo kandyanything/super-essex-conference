@@ -72,9 +72,19 @@ UID:arb:105173719@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T181500
 DTEND;TZID=America/New_York:20261215T201500
-SUMMARY:Montclair High School at Governor Livingston High School (Varsity
-  Girls Girls Fencing)
+SUMMARY:[Canceled] Montclair High School at Governor Livingston High Scho
+ ol (Varsity Girls Girls Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:15 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105473883@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T183000
+DTEND;TZID=America/New_York:20261215T203000
+SUMMARY:Montclair High School vs Governor Livingston High School (Varsity
+  Girls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104767299@super-essex-conference
