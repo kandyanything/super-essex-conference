@@ -104,6 +104,15 @@ SUMMARY:Weequahic High School vs North Plainfield School District (Varsit
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105502319@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T173000
+DTEND;TZID=America/New_York:20261207T193000
+SUMMARY:Arts High School at Central High School (Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104626756@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T173000
@@ -120,6 +129,15 @@ DTEND;TZID=America/New_York:20261207T200000
 SUMMARY:Bard Early College at Whippany Park High School (Varsity Girls Gi
  rls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105502325@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Central High School vs Saint Benedict's Prep (Varsity Girls Girls
+  Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105288336@super-essex-conference
@@ -608,6 +626,15 @@ SUMMARY:Barringer High School at Hillside High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105502334@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T163000
+DTEND;TZID=America/New_York:20261215T183000
+SUMMARY:Central High School vs Newark Vocational High School (Varsity Gir
+ ls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103716838@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T163000
@@ -669,6 +696,15 @@ DTEND;TZID=America/New_York:20261215T194500
 SUMMARY:Science Park High School vs Linden High School (Junior Varsity Gi
  rls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105502342@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T180000
+DTEND;TZID=America/New_York:20261215T200000
+SUMMARY:Central High School vs Saint Benedict's Prep (Junior Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105089279@super-essex-conference
@@ -1127,6 +1163,15 @@ DTEND;TZID=America/New_York:20261219T133000
 SUMMARY:Livingston High School at Verona High School (Junior Varsity Girl
  s Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105488801@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T113000
+DTEND;TZID=America/New_York:20261219T133000
+SUMMARY:Montclair Kimberley Academy vs Roxbury High School (Junior Varsit
+ y Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105471607@super-essex-conference
@@ -3137,6 +3182,15 @@ SUMMARY:Bloomfield High School at Millburn High School (Freshman Girls Gi
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100563505@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T160000
+DTEND;TZID=America/New_York:20270114T180000
+SUMMARY:Bloomfield High School at Millburn High School (Varsity Girls Gir
+ ls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100567007@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T160000
@@ -3394,15 +3448,6 @@ DTEND;TZID=America/New_York:20270114T200000
 SUMMARY:Bard Early College vs Science Park High School (Junior Varsity Gi
  rls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100563505@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270114T190000
-DTEND;TZID=America/New_York:20270114T210000
-SUMMARY:Bloomfield High School at Millburn High School (Varsity Girls Gir
- ls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100562179@super-essex-conference
@@ -3673,6 +3718,15 @@ DTEND;TZID=America/New_York:20270118T133000
 SUMMARY:Millburn High School vs Montgomery High School (Junior Varsity Gi
  rls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105486881@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270118T130000
+DTEND;TZID=America/New_York:20270118T150000
+SUMMARY:East Orange Campus High School at Orange High School (Varsity Gir
+ ls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100564236@super-essex-conference
@@ -4593,6 +4647,15 @@ SUMMARY:Montclair High School at Payne Tech (Junior Varsity Girls Girls B
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105486969@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T160000
+DTEND;TZID=America/New_York:20270125T180000
+SUMMARY:Orange High School vs Saint Vincent Academy (Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105068985@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T163000
@@ -5260,6 +5323,15 @@ SUMMARY:Montclair Kimberley Academy at West Essex High School (Varsity Gi
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105502389@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T163000
+DTEND;TZID=America/New_York:20270203T183000
+SUMMARY:Central High School vs Orange High School (Varsity Girls Girls Ba
+ sketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105288347@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T173000
@@ -5267,6 +5339,15 @@ DTEND;TZID=America/New_York:20270203T193000
 SUMMARY:Montclair High School vs Linden High School (Junior Varsity Girls
   Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105502355@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T180000
+DTEND;TZID=America/New_York:20270203T200000
+SUMMARY:Central High School vs Orange High School (Junior Varsity Girls G
+ irls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105288348@super-essex-conference
@@ -5522,6 +5603,15 @@ SUMMARY:Millburn High School vs Newark School of Global Studies (Varsity
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105502381@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T163000
+DTEND;TZID=America/New_York:20270208T183000
+SUMMARY:Central High School vs Beloved Community Charter School (Varsity 
+ Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104317900@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270208T163000
@@ -5538,6 +5628,15 @@ DTEND;TZID=America/New_York:20270208T193000
 SUMMARY:Belleville High School vs Harrison High School (Junior Varsity Gi
  rls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105502362@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T180000
+DTEND;TZID=America/New_York:20270208T200000
+SUMMARY:Central High School vs Beloved Community Charter School (Junior V
+ arsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101936775@super-essex-conference

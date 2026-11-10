@@ -112,6 +112,15 @@ SUMMARY:Orange High School at Saint Benedict's Prep (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105486881@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270118T130000
+DTEND;TZID=America/New_York:20270118T150000
+SUMMARY:East Orange Campus High School at Orange High School (Varsity Gir
+ ls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100569478@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T160000
@@ -139,6 +148,15 @@ SUMMARY:Orange High School vs Weequahic High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105486969@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T160000
+DTEND;TZID=America/New_York:20270125T180000
+SUMMARY:Orange High School vs Saint Vincent Academy (Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100569201@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T160000
@@ -146,6 +164,24 @@ DTEND;TZID=America/New_York:20270126T180000
 SUMMARY:Orange High School at West Side High School (Varsity Girls Girls 
  Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105502389@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T163000
+DTEND;TZID=America/New_York:20270203T183000
+SUMMARY:Central High School vs Orange High School (Varsity Girls Girls Ba
+ sketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105502355@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T180000
+DTEND;TZID=America/New_York:20270203T200000
+SUMMARY:Central High School vs Orange High School (Junior Varsity Girls G
+ irls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100569501@super-essex-conference

@@ -1446,15 +1446,6 @@ SUMMARY:East Orange Campus High School vs Montclair High School (Varsity
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100535874@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270107T171500
-DTEND;TZID=America/New_York:20270107T191500
-SUMMARY:Arts High School vs East Orange Campus High School (Junior Varsit
- y Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100563862@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T173000
@@ -1471,15 +1462,6 @@ DTEND;TZID=America/New_York:20270107T210000
 SUMMARY:Arts High School at East Orange Campus High School (Varsity Girls
   Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100535789@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270107T190000
-DTEND;TZID=America/New_York:20270107T210000
-SUMMARY:Arts High School vs East Orange Campus High School (Varsity Boys 
- Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105115939@super-essex-conference
@@ -1661,6 +1643,15 @@ DTEND;TZID=America/New_York:20270116T150000
 SUMMARY:East Orange Campus High School vs Saint Benedict's Prep (Varsity 
  Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105486881@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270118T130000
+DTEND;TZID=America/New_York:20270118T150000
+SUMMARY:East Orange Campus High School at Orange High School (Varsity Gir
+ ls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100563920@super-essex-conference
@@ -1861,6 +1852,15 @@ SUMMARY:Central High School at East Orange Campus High School (Freshman G
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100535874@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T171500
+DTEND;TZID=America/New_York:20270202T191500
+SUMMARY:Arts High School vs East Orange Campus High School (Junior Varsit
+ y Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105215469@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T173000
@@ -1868,6 +1868,15 @@ DTEND;TZID=America/New_York:20270202T193000
 SUMMARY:Central High School at East Orange Campus High School (Junior Var
  sity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100535789@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T190000
+DTEND;TZID=America/New_York:20270202T210000
+SUMMARY:Arts High School vs East Orange Campus High School (Varsity Boys 
+ Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105215475@super-essex-conference

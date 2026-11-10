@@ -2795,22 +2795,31 @@ SUMMARY:Montclair Kimberley Academy vs Roxbury High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105488801@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T113000
+DTEND;TZID=America/New_York:20261219T133000
+SUMMARY:Montclair Kimberley Academy vs Roxbury High School (Junior Varsit
+ y Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100549930@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T130000
-DTEND;TZID=America/New_York:20261219T150000
+DTSTART;TZID=America/New_York:20261219T140000
+DTEND;TZID=America/New_York:20261219T160000
 SUMMARY:Montclair Kimberley Academy vs West Orange High School (Varsity B
  oys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549956@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T143000
-DTEND;TZID=America/New_York:20261219T163000
+DTSTART;TZID=America/New_York:20261219T153000
+DTEND;TZID=America/New_York:20261219T173000
 SUMMARY:Montclair Kimberley Academy vs West Orange High School (Junior Va
  rsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 2:30 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551514@super-essex-conference

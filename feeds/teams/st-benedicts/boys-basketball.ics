@@ -98,11 +98,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105373440@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261221T163000
-DTEND;TZID=America/New_York:20261221T183000
+DTSTART;TZID=America/New_York:20261221T130000
+DTEND;TZID=America/New_York:20261221T150000
 SUMMARY:Saint Benedict's Prep vs Pioneer Academy (Varsity Boys Boys Baske
  tball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:30 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105373611@super-essex-conference
@@ -136,9 +136,10 @@ UID:arb:100535662@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T160000
 DTEND;TZID=America/New_York:20270105T180000
-SUMMARY:Newark Tech at Saint Benedict's Prep (Freshman Boys Boys Basketba
- ll)
+SUMMARY:[Canceled] Newark Tech at Saint Benedict's Prep (Freshman Boys Bo
+ ys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100535572@super-essex-conference
@@ -344,9 +345,10 @@ UID:arb:100535694@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T160000
 DTEND;TZID=America/New_York:20270126T180000
-SUMMARY:Payne Tech at Saint Benedict's Prep (Freshman Boys Boys Basketbal
- l)
+SUMMARY:[Canceled] Payne Tech at Saint Benedict's Prep (Freshman Boys Boy
+ s Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100535620@super-essex-conference

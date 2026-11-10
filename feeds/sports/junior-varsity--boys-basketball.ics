@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:105484681@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T173000
+DTEND;TZID=America/New_York:20261207T193000
+SUMMARY:Columbia High School vs West Orange High School (Junior Varsity B
+ oys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104241223@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T173000
@@ -549,9 +558,10 @@ UID:arb:100540245@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T100000
 DTEND;TZID=America/New_York:20261219T120000
-SUMMARY:Arts High School at Columbia High School (Junior Varsity Boys Boy
- s Basketball)
+SUMMARY:[Canceled] Arts High School at Columbia High School (Junior Varsi
+ ty Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551904@super-essex-conference
@@ -708,11 +718,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549956@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T143000
-DTEND;TZID=America/New_York:20261219T163000
+DTSTART;TZID=America/New_York:20261219T153000
+DTEND;TZID=America/New_York:20261219T173000
 SUMMARY:Montclair Kimberley Academy vs West Orange High School (Junior Va
  rsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 2:30 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102645473@super-essex-conference
@@ -731,6 +741,15 @@ DTEND;TZID=America/New_York:20261221T183000
 SUMMARY:Technology High School at Koinonia Academy (Junior Varsity Boys B
  oys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105486734@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T173000
+DTEND;TZID=America/New_York:20261221T193000
+SUMMARY:Orange High School vs Piscataway High School (Junior Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100536125@super-essex-conference
@@ -876,6 +895,24 @@ SUMMARY:[Canceled] Technology High School vs Beloved Community Charter Sc
  hool (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105484821@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T173000
+DTEND;TZID=America/New_York:20261223T193000
+SUMMARY:Columbia High School vs Payne Tech (Junior Varsity Boys Boys Bask
+ etball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105486798@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T173000
+DTEND;TZID=America/New_York:20261223T193000
+SUMMARY:Orange High School vs Hunterdon Central Reg. High School (Junior 
+ Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104716523@super-essex-conference
@@ -1083,15 +1120,6 @@ DTEND;TZID=America/New_York:20270106T193000
 SUMMARY:East Side High School at Verona High School (Junior Varsity Boys 
  Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100535874@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270107T171500
-DTEND;TZID=America/New_York:20270107T191500
-SUMMARY:Arts High School vs East Orange Campus High School (Junior Varsit
- y Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553457@super-essex-conference
@@ -2356,6 +2384,15 @@ SUMMARY:Golda Och Academy at Passaic Arts & Science Charter School (Junio
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105484812@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T173000
+DTEND;TZID=America/New_York:20270125T193000
+SUMMARY:Arts High School at Columbia High School (Junior Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103882406@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T173000
@@ -2580,6 +2617,15 @@ DTEND;TZID=America/New_York:20270202T181500
 SUMMARY:West Orange High School at Ridge High School (Junior Varsity Boys
   Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100535874@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T171500
+DTEND;TZID=America/New_York:20270202T191500
+SUMMARY:Arts High School vs East Orange Campus High School (Junior Varsit
+ y Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100552411@super-essex-conference
