@@ -3023,15 +3023,6 @@ SUMMARY:Livingston High School vs Millburn High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104583874@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T170000
-DTEND;TZID=America/New_York:20261216T190000
-SUMMARY:Millburn High School vs Saint Benedict's Prep (Varsity Boys Boys 
- Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104833509@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T203500
@@ -3057,6 +3048,15 @@ DTEND;TZID=America/New_York:20261217T180000
 SUMMARY:Millburn High School at Columbia High School (Freshman Boys Boys 
  Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104583874@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T170000
+DTEND;TZID=America/New_York:20261217T190000
+SUMMARY:Millburn High School vs Saint Benedict's Prep (Varsity Boys Boys 
+ Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100563531@super-essex-conference
@@ -4984,11 +4984,29 @@ SUMMARY:East Side High School at Millburn High School (Junior Varsity Boy
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105521221@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270518T160000
+DTEND;TZID=America/New_York:20270518T180000
+SUMMARY:Millburn High School at Verona High School (Varsity Boys Boys Lac
+ rosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102566400@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270518T160000
 DTEND;TZID=America/New_York:20270518T180000
 SUMMARY:Millburn High School vs Seton Hall Prep (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105521196@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270518T173000
+DTEND;TZID=America/New_York:20270518T193000
+SUMMARY:Millburn High School at Verona High School (Junior Varsity Boys B
+ oys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 5:30 PM
 END:VEVENT
 END:VCALENDAR

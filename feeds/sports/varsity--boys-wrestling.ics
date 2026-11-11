@@ -264,15 +264,6 @@ SUMMARY:Columbia High School at Glen Ridge High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104583874@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T170000
-DTEND;TZID=America/New_York:20261216T190000
-SUMMARY:Millburn High School vs Saint Benedict's Prep (Varsity Boys Boys 
- Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104823627@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T170000
@@ -322,6 +313,15 @@ DTSTART;TZID=America/New_York:20261217T170000
 DTEND;TZID=America/New_York:20261217T190000
 SUMMARY:Bloomfield High School vs Westfield High School (Varsity Boys Boy
  s Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104583874@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T170000
+DTEND;TZID=America/New_York:20261217T190000
+SUMMARY:Millburn High School vs Saint Benedict's Prep (Varsity Boys Boys 
+ Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT

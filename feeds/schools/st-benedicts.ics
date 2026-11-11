@@ -1261,15 +1261,6 @@ SUMMARY:Central High School vs Saint Benedict's Prep (Junior Varsity Girl
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104583874@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T170000
-DTEND;TZID=America/New_York:20261216T190000
-SUMMARY:Millburn High School vs Saint Benedict's Prep (Varsity Boys Boys 
- Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102089072@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T180000
@@ -1304,6 +1295,15 @@ DTEND;TZID=America/New_York:20261217T183000
 SUMMARY:East Orange Campus High School at Saint Benedict's Prep (Varsity 
  Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104583874@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T170000
+DTEND;TZID=America/New_York:20261217T190000
+SUMMARY:Millburn High School vs Saint Benedict's Prep (Varsity Boys Boys 
+ Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100535658@super-essex-conference
@@ -1403,6 +1403,15 @@ DTEND;TZID=America/New_York:20261221T200000
 SUMMARY:Saint Benedict's Prep at Governor Livingston High School (Varsity
   Girls Girls Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105525925@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T140000
+DTEND;TZID=America/New_York:20261222T160000
+SUMMARY:Saint Benedict's Prep vs Pioneer Academy (Varsity Girls Girls Bas
+ ketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105373611@super-essex-conference

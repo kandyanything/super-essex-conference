@@ -68,6 +68,15 @@ SUMMARY:James Caldwell High School at New Providence High School (Junior
 DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105520668@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T180000
+DTEND;TZID=America/New_York:20270422T200000
+SUMMARY:Glen Ridge High School at Ramsey High School (Junior Varsity Boys
+  Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104293925@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270423T183000
@@ -93,5 +102,14 @@ DTEND;TZID=America/New_York:20270515T133000
 SUMMARY:Newark Academy vs New Providence High School (Junior Varsity Boys
   Boys Lacrosse)
 DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105521196@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270518T173000
+DTEND;TZID=America/New_York:20270518T193000
+SUMMARY:Millburn High School at Verona High School (Junior Varsity Boys B
+ oys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 5:30 PM
 END:VEVENT
 END:VCALENDAR
