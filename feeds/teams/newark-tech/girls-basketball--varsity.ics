@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:100567601@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T161500
+DTEND;TZID=America/New_York:20261214T181500
+SUMMARY:Newark Tech at American History High School (Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105471512@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T190000
@@ -30,15 +39,6 @@ DTEND;TZID=America/New_York:20261217T210000
 SUMMARY:Newark Tech vs Madison High School (Varsity Girls Girls Basketbal
  l)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100567601@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T130000
-DTEND;TZID=America/New_York:20261219T150000
-SUMMARY:Newark Tech at American History High School (Varsity Girls Girls 
- Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100566988@super-essex-conference

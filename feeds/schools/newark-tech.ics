@@ -1202,6 +1202,24 @@ SUMMARY:Newark Tech at Saddle River Day School (Junior Varsity Boys Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100567601@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T161500
+DTEND;TZID=America/New_York:20261214T181500
+SUMMARY:Newark Tech at American History High School (Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103384861@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T174500
+DTEND;TZID=America/New_York:20261214T194500
+SUMMARY:Newark Tech at American History High School (Junior Varsity Girls
+  Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104427878@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T160000
@@ -1262,15 +1280,6 @@ DTSTART;TZID=America/New_York:20261219T100000
 DTEND;TZID=America/New_York:20261219T120000
 SUMMARY:Newark Tech vs Payne Tech (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100567601@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T130000
-DTEND;TZID=America/New_York:20261219T150000
-SUMMARY:Newark Tech at American History High School (Varsity Girls Girls 
- Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105160316@super-essex-conference

@@ -32,6 +32,23 @@ SUMMARY:Columbia High School vs Montclair Kimberley Academy (Varsity Girl
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 8:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105536970@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T203000
+DTEND;TZID=America/New_York:20261215T223000
+SUMMARY:Millburn High School at Mount Saint Dominic Academy (Varsity Girl
+ s Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 8:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105537061@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T203000
+DTEND;TZID=America/New_York:20261222T223000
+SUMMARY:Mount Saint Dominic Academy vs TBD (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 8:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104320969@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T160000
@@ -39,6 +56,15 @@ DTEND;TZID=America/New_York:20270112T180000
 SUMMARY:Mount Saint Dominic Academy at Newark Academy (Varsity Girls Girl
  s Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105537082@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T203000
+DTEND;TZID=America/New_York:20270114T223000
+SUMMARY:Columbia High School at Mount Saint Dominic Academy (Varsity Girl
+ s Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 8:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104976266@super-essex-conference
