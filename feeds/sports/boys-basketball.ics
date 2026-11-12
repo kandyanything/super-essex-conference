@@ -268,6 +268,15 @@ SUMMARY:East Orange Campus High School vs Irvington High School (Freshman
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105529574@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Glen Ridge High School at Newark Collegiate Academy (Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105121162@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
@@ -735,6 +744,15 @@ DTEND;TZID=America/New_York:20261210T183000
 SUMMARY:Technology High School at Mountain Lakes High School (Varsity Boy
  s Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105529581@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T170000
+DTEND;TZID=America/New_York:20261210T190000
+SUMMARY:Newark Collegiate Academy vs William L. Dickinson High School (Va
+ rsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104508209@super-essex-conference
@@ -3305,6 +3323,24 @@ DTEND;TZID=America/New_York:20270102T133000
 SUMMARY:Bloomfield High School at Payne Tech (Varsity Boys Boys Basketbal
  l)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105529744@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270102T123000
+DTEND;TZID=America/New_York:20270102T143000
+SUMMARY:Montclair High School at Teaneck High School (Varsity Boys Boys B
+ asketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105529748@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270102T140000
+DTEND;TZID=America/New_York:20270102T160000
+SUMMARY:Malcolm X Shabazz High School vs Northern Highlands Regional High
+  School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104205687@super-essex-conference
@@ -7227,9 +7263,10 @@ UID:arb:100539165@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T130000
 DTEND;TZID=America/New_York:20270123T150000
-SUMMARY:Newark Collegiate Academy vs Saint Benedict's Prep (Varsity Boys 
- Boys Basketball)
+SUMMARY:[Canceled] Newark Collegiate Academy vs Saint Benedict's Prep (Va
+ rsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100541765@super-essex-conference
@@ -10212,6 +10249,15 @@ DTEND;TZID=America/New_York:20270219T180000
 SUMMARY:Newark Academy vs The Pingry School (Junior Varsity Boys Boys Bas
  ketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105529641@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270219T170000
+DTEND;TZID=America/New_York:20270219T190000
+SUMMARY:Newark Collegiate Academy vs Somerville High School (Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103675649@super-essex-conference

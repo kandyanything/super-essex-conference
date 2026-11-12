@@ -286,15 +286,6 @@ SUMMARY:West Orange High School vs Governor Livingston High School (Varsi
 DESCRIPTION:Varsity Girls Girls Fencing - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104136409@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270114T180000
-DTEND;TZID=America/New_York:20270114T200000
-SUMMARY:Saint Benedict's Prep at West Essex High School (Varsity Girls Gi
- rls Fencing)
-DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104312103@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T183000
@@ -302,6 +293,15 @@ DTEND;TZID=America/New_York:20270114T203000
 SUMMARY:Montclair High School vs Montclair Kimberley Academy (Varsity Gir
  ls Girls Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104136409@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T183000
+DTEND;TZID=America/New_York:20270114T203000
+SUMMARY:Saint Benedict's Prep at West Essex High School (Varsity Girls Gi
+ rls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104463732@super-essex-conference
