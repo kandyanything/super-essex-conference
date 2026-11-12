@@ -267,6 +267,15 @@ SUMMARY:Bloomfield High School at Livingston High School (Freshman Boys F
 DESCRIPTION:Freshman Boys Football - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105057333@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:Bloomfield High School vs Wayne Valley High School (Junior Varsit
+ y Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99776253@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T160000
@@ -275,5 +284,14 @@ SUMMARY:[Canceled] Bloomfield High School at Livingston High School (Juni
  or Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105082000@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T180000
+DTEND;TZID=America/New_York:20261029T200000
+SUMMARY:Bloomfield High School vs West Side High School (Varsity Boys Foo
+ tball)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 END:VCALENDAR
