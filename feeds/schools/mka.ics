@@ -2768,6 +2768,15 @@ SUMMARY:Montclair Kimberley Academy vs Oak Knoll School of the Holy Child
 DESCRIPTION:7/8th Girls Basketball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105566796@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T144500
+DTEND;TZID=America/New_York:20261217T164500
+SUMMARY:Montclair Kimberley Academy at Princeton Day School (Middle Schoo
+ l Coed Coed Ice Hockey)
+DESCRIPTION:Middle School Coed Coed Ice Hockey - Away - 2:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100551511@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T160000
@@ -2813,22 +2822,22 @@ SUMMARY:Montclair Kimberley Academy vs Roxbury High School (Junior Varsit
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100549930@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T140000
-DTEND;TZID=America/New_York:20261219T160000
-SUMMARY:Montclair Kimberley Academy vs West Orange High School (Varsity B
- oys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100549956@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T153000
-DTEND;TZID=America/New_York:20261219T173000
-SUMMARY:Montclair Kimberley Academy vs West Orange High School (Junior Va
+DTSTART;TZID=America/New_York:20261219T113000
+DTEND;TZID=America/New_York:20261219T133000
+SUMMARY:Montclair Kimberley Academy at West Orange High School (Junior Va
  rsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:30 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100549930@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T130000
+DTEND;TZID=America/New_York:20261219T150000
+SUMMARY:Montclair Kimberley Academy at West Orange High School (Varsity B
+ oys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551514@super-essex-conference
@@ -3497,20 +3506,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104979026@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270125T180000
-DTEND;TZID=America/New_York:20270125T200000
+DTSTART;TZID=America/New_York:20270125T183000
+DTEND;TZID=America/New_York:20270125T203000
 SUMMARY:Millburn High School vs Montclair Kimberley Academy (Varsity Girl
  s Girls Fencing)
-DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:00 PM
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104979012@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270125T180000
-DTEND;TZID=America/New_York:20270125T200000
+DTSTART;TZID=America/New_York:20270125T183000
+DTEND;TZID=America/New_York:20270125T203000
 SUMMARY:Millburn High School vs Montclair Kimberley Academy (Varsity Boys
   Boys Fencing)
-DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:00 PM
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103044993@super-essex-conference
@@ -3791,6 +3800,15 @@ DTEND;TZID=America/New_York:20270209T193000
 SUMMARY:Montclair Kimberley Academy vs Nutley High School (Junior Varsity
   Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105568411@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270210T144500
+DTEND;TZID=America/New_York:20270210T164500
+SUMMARY:Montclair Kimberley Academy at Morristown-Beard School (Middle Sc
+ hool Coed Coed Ice Hockey)
+DESCRIPTION:Middle School Coed Coed Ice Hockey - Away - 2:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104982404@super-essex-conference

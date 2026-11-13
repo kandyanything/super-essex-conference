@@ -33,6 +33,15 @@ SUMMARY:Montclair Kimberley Academy vs Delbarton School (Middle School Co
 DESCRIPTION:Middle School Coed Coed Ice Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105566796@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T144500
+DTEND;TZID=America/New_York:20261217T164500
+SUMMARY:Montclair Kimberley Academy at Princeton Day School (Middle Schoo
+ l Coed Coed Ice Hockey)
+DESCRIPTION:Middle School Coed Coed Ice Hockey - Away - 2:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105412637@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T163000
@@ -67,5 +76,14 @@ DTEND;TZID=America/New_York:20270127T184500
 SUMMARY:Montclair Kimberley Academy vs Princeton Day School (Middle Schoo
  l Coed Coed Ice Hockey)
 DESCRIPTION:Middle School Coed Coed Ice Hockey - Home - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105568411@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270210T144500
+DTEND;TZID=America/New_York:20270210T164500
+SUMMARY:Montclair Kimberley Academy at Morristown-Beard School (Middle Sc
+ hool Coed Coed Ice Hockey)
+DESCRIPTION:Middle School Coed Coed Ice Hockey - Away - 2:45 PM
 END:VEVENT
 END:VCALENDAR

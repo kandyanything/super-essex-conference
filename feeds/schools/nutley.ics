@@ -2355,6 +2355,15 @@ SUMMARY:Nutley High School vs North Arlington High School (Varsity Boys B
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105563809@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261204T160000
+DTEND;TZID=America/New_York:20261204T180000
+SUMMARY:Nutley High School at Bergen Catholic High School (Varsity Coed C
+ oed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104187080@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261204T170000
@@ -2488,24 +2497,6 @@ DTEND;TZID=America/New_York:20261209T183000
 SUMMARY:Nutley High School at North Arlington High School (Junior Varsity
   Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104466204@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261210T063000
-DTEND;TZID=America/New_York:20261210T083000
-SUMMARY:James Caldwell High School at Nutley High School (Varsity Boys Bo
- ys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105070271@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261210T160000
-DTEND;TZID=America/New_York:20261210T180000
-SUMMARY:Nutley High School vs Science Park High School (Varsity Boys Boys
-  Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105068248@super-essex-conference
@@ -3175,13 +3166,13 @@ SUMMARY:Nutley High School vs Gill St. Bernard's School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 8:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104515476@super-essex-conference
+UID:arb:105565765@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T090000
 DTEND;TZID=America/New_York:20270109T110000
-SUMMARY:Nutley High School at Union High School (Varsity Boys Boys Wrestl
+SUMMARY:Nutley High School vs Union High School (Varsity Boys Boys Wrestl
  ing)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104509019@super-essex-conference
@@ -3391,14 +3382,6 @@ SUMMARY:Belleville High School at Nutley High School (Freshman Boys Boys
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100564789@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270114T160000
-DTEND;TZID=America/New_York:20270114T180000
-SUMMARY:Newark Tech vs Nutley High School (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100552984@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T173000
@@ -3412,9 +3395,10 @@ UID:arb:100564851@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T173000
 DTEND;TZID=America/New_York:20270114T193000
-SUMMARY:Newark Tech vs Nutley High School (Junior Varsity Girls Girls Bas
- ketball)
+SUMMARY:[Canceled] Newark Tech vs Nutley High School (Junior Varsity Girl
+ s Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100552959@super-essex-conference
@@ -3424,6 +3408,14 @@ DTEND;TZID=America/New_York:20270114T210000
 SUMMARY:Belleville High School at Nutley High School (Varsity Boys Boys B
  asketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100564789@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T190000
+DTEND;TZID=America/New_York:20270114T210000
+SUMMARY:Newark Tech vs Nutley High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105019013@super-essex-conference

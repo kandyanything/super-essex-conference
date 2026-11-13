@@ -638,15 +638,6 @@ SUMMARY:Livingston High School at Whippany Park High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105070271@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261210T160000
-DTEND;TZID=America/New_York:20261210T180000
-SUMMARY:Nutley High School vs Science Park High School (Varsity Boys Boys
-  Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104931280@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T160000
@@ -678,9 +669,10 @@ UID:arb:100553185@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T161500
 DTEND;TZID=America/New_York:20261210T181500
-SUMMARY:Golda Och Academy at American History High School (Varsity Boys B
- oys Basketball)
+SUMMARY:[Canceled] Golda Och Academy at American History High School (Var
+ sity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105236728@super-essex-conference
@@ -777,9 +769,10 @@ UID:arb:100553250@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T174500
 DTEND;TZID=America/New_York:20261210T194500
-SUMMARY:Golda Och Academy at American History High School (Junior Varsity
-  Boys Boys Basketball)
+SUMMARY:[Canceled] Golda Och Academy at American History High School (Jun
+ ior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101185545@super-essex-conference
@@ -1175,6 +1168,15 @@ DTSTART;TZID=America/New_York:20261215T160000
 DTEND;TZID=America/New_York:20261215T180000
 SUMMARY:Arts High School at Seton Hall Prep (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105564810@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T160000
+DTEND;TZID=America/New_York:20261215T180000
+SUMMARY:Barringer High School vs Newark School of Architecture and Interi
+ or Design (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100552023@super-essex-conference
@@ -2321,6 +2323,15 @@ SUMMARY:Montclair High School at James Caldwell High School (Junior Varsi
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100549956@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T113000
+DTEND;TZID=America/New_York:20261219T133000
+SUMMARY:Montclair Kimberley Academy at West Orange High School (Junior Va
+ rsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100551678@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T113000
@@ -2438,6 +2449,15 @@ SUMMARY:Montclair High School at James Caldwell High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100549930@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T130000
+DTEND;TZID=America/New_York:20261219T150000
+SUMMARY:Montclair Kimberley Academy at West Orange High School (Varsity B
+ oys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105373426@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T130000
@@ -2465,24 +2485,6 @@ SUMMARY:East Side High School vs Orange High School (Varsity Boys Boys Ba
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100549930@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T140000
-DTEND;TZID=America/New_York:20261219T160000
-SUMMARY:Montclair Kimberley Academy vs West Orange High School (Varsity B
- oys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100549956@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T153000
-DTEND;TZID=America/New_York:20261219T173000
-SUMMARY:Montclair Kimberley Academy vs West Orange High School (Junior Va
- rsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105160316@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T160000
@@ -2501,6 +2503,15 @@ SUMMARY:Central High School at East Side High School (Varsity Boys Boys B
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105574531@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T120000
+DTEND;TZID=America/New_York:20261221T140000
+SUMMARY:Saint Benedict's Prep at Delbarton School (Freshman Boys Boys Bas
+ ketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105373440@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T130000
@@ -2508,6 +2519,15 @@ DTEND;TZID=America/New_York:20261221T150000
 SUMMARY:Saint Benedict's Prep vs Pioneer Academy (Varsity Boys Boys Baske
  tball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105574537@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T133000
+DTEND;TZID=America/New_York:20261221T153000
+SUMMARY:Saint Benedict's Prep at Delbarton School (Junior Varsity Boys Bo
+ ys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549884@super-essex-conference
@@ -3956,6 +3976,15 @@ SUMMARY:West Side High School vs Columbia High School (Freshman Boys Boys
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105573974@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T161500
+DTEND;TZID=America/New_York:20270107T181500
+SUMMARY:University High School at Newark School of Data Science (Varsity 
+ Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100553774@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T163000
@@ -4107,6 +4136,15 @@ DTEND;TZID=America/New_York:20270107T193000
 SUMMARY:West Side High School vs Columbia High School (Junior Varsity Boy
  s Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105573979@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T174500
+DTEND;TZID=America/New_York:20270107T194500
+SUMMARY:University High School at Newark School of Data Science (Junior V
+ arsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553815@super-essex-conference
@@ -5150,6 +5188,14 @@ SUMMARY:West Essex High School at Pequannock Valley Middle School (Middle
 DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100536564@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T160000
+DTEND;TZID=America/New_York:20270114T180000
+SUMMARY:Arts High School at Newark Tech (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100552056@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T160000
@@ -5722,9 +5768,10 @@ UID:arb:100537156@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T103000
 DTEND;TZID=America/New_York:20270116T123000
-SUMMARY:Arts High School at Newark Tech (Junior Varsity Boys Boys Basketb
- all)
+SUMMARY:[Canceled] Arts High School at Newark Tech (Junior Varsity Boys B
+ oys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:30 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103344738@super-essex-conference
@@ -5825,14 +5872,6 @@ SUMMARY:[Canceled] Verona High School vs West Orange High School (Junior
  Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:30 AM
 STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100536564@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270116T120000
-DTEND;TZID=America/New_York:20270116T140000
-SUMMARY:Arts High School at Newark Tech (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105492375@super-essex-conference
@@ -6004,6 +6043,15 @@ DTEND;TZID=America/New_York:20270116T223000
 SUMMARY:Golda Och Academy vs Joseph Kushner Hebrew Academy (Varsity Boys 
  Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 8:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105564439@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Newark Collegiate Academy vs Kearny High School (Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104154323@super-essex-conference

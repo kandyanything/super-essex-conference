@@ -86,15 +86,6 @@ SUMMARY:East Side High School vs Bayonne High School (Varsity Boys Boys W
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104466204@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261210T063000
-DTEND;TZID=America/New_York:20261210T083000
-SUMMARY:James Caldwell High School at Nutley High School (Varsity Boys Bo
- ys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104515256@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T180000
@@ -395,6 +386,14 @@ SUMMARY:Millburn High School vs Saint Benedict's Prep (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105572692@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T170000
+DTEND;TZID=America/New_York:20261218T190000
+SUMMARY:Millburn High School vs TBD (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104517742@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T170000
@@ -527,6 +526,15 @@ DTEND;TZID=America/New_York:20261219T130000
 SUMMARY:West Essex High School at Ridge High School (Junior Varsity Boys 
  Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105572784@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261220T090000
+DTEND;TZID=America/New_York:20261220T110000
+SUMMARY:Bloomfield High School vs Millburn High School (Varsity Boys Boys
+  Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104672307@super-essex-conference
@@ -955,13 +963,13 @@ SUMMARY:Livingston High School at Parsippany Hills High School (Varsity B
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104515476@super-essex-conference
+UID:arb:105565765@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T090000
 DTEND;TZID=America/New_York:20270109T110000
-SUMMARY:Nutley High School at Union High School (Varsity Boys Boys Wrestl
+SUMMARY:Nutley High School vs Union High School (Varsity Boys Boys Wrestl
  ing)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104509019@super-essex-conference
@@ -1394,8 +1402,7 @@ UID:arb:100906739@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T090000
 DTEND;TZID=America/New_York:20270123T110000
-SUMMARY:Belleville High School vs Cliffside Park High School (Varsity Boy
- s Boys Wrestling)
+SUMMARY:Belleville High School vs TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
