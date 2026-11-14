@@ -40683,6 +40683,15 @@ SUMMARY:Cedar Grove High School at TBD (Varsity Girls Competitive Cheerle
 DESCRIPTION:Varsity Girls Competitive Cheerleading - Away - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105584486@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261117T140000
+DTEND;TZID=America/New_York:20261117T160000
+SUMMARY:Livingston High School at Westfield High School (Varsity Girls Gi
+ rls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105580669@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261117T160000
@@ -42207,6 +42216,15 @@ DTSTART;TZID=America/New_York:20261210T154500
 DTEND;TZID=America/New_York:20261210T174500
 SUMMARY:Montclair Kimberley Academy vs Pingry (7/8th Boys Basketball)
 DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105582546@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T160000
+DTEND;TZID=America/New_York:20261210T180000
+SUMMARY:Barringer High School at Newark Academy (Varsity Boys Boys Basket
+ ball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101044022@super-essex-conference
@@ -65296,9 +65314,10 @@ UID:arb:103675658@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270219T160000
 DTEND;TZID=America/New_York:20270219T180000
-SUMMARY:Newark Academy vs The Pingry School (Junior Varsity Boys Boys Bas
- ketball)
+SUMMARY:[Canceled] Newark Academy vs The Pingry School (Junior Varsity Bo
+ ys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105159397@super-essex-conference
