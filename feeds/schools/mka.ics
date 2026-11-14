@@ -3414,15 +3414,6 @@ SUMMARY:Montclair Kimberley Academy vs Newark Academy (7/8th Boys Basketb
 DESCRIPTION:7/8th Boys Basketball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104617494@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270121T171500
-DTEND;TZID=America/New_York:20270121T191500
-SUMMARY:Montclair Kimberley Academy at Newark Academy (7/8th Girls Basket
- ball)
-DESCRIPTION:7/8th Girls Basketball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100551922@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T173000
@@ -3746,6 +3737,15 @@ DTEND;TZID=America/New_York:20270204T210000
 SUMMARY:Montclair Kimberley Academy at James Caldwell High School (Varsit
  y Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105577104@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T171500
+DTEND;TZID=America/New_York:20270205T191500
+SUMMARY:Montclair Kimberley Academy at Morristown-Beard School (Junior Va
+ rsity Boys Boys Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104429049@super-essex-conference

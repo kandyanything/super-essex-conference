@@ -68,6 +68,14 @@ SUMMARY:North Star Academy at The Wilberforce School (7/8th Girls Basketb
 DESCRIPTION:7/8th Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105575330@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T170000
+DTEND;TZID=America/New_York:20270107T190000
+SUMMARY:Newark Academy vs Rutgers Prep School (7/8th Girls Basketball)
+DESCRIPTION:7/8th Girls Basketball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104552099@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T154500
@@ -117,15 +125,6 @@ DTEND;TZID=America/New_York:20270121T174500
 SUMMARY:Newark Academy vs Montclair Kimberley Academy (7/8th Girls Basket
  ball)
 DESCRIPTION:7/8th Girls Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104617494@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270121T171500
-DTEND;TZID=America/New_York:20270121T191500
-SUMMARY:Montclair Kimberley Academy at Newark Academy (7/8th Girls Basket
- ball)
-DESCRIPTION:7/8th Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104552378@super-essex-conference

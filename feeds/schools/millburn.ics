@@ -2870,14 +2870,6 @@ SUMMARY:Millburn High School vs Park Ridge High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102648349@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T160000
-DTEND;TZID=America/New_York:20261208T180000
-SUMMARY:Millburn High School vs TBD (Varsity Boys Boys Ice Hockey)
-DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105158913@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
@@ -2894,6 +2886,15 @@ DTEND;TZID=America/New_York:20261208T180000
 SUMMARY:Millburn High School vs Chatham High School (Freshman Boys Boys B
  asketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102648349@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Millburn High School vs Coop - Mountain Lakes High School & Boont
+ on High School (Varsity Boys Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105158898@super-essex-conference
@@ -2914,6 +2915,24 @@ SUMMARY:Millburn High School at Parsippany Regional (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105576513@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T160000
+DTEND;TZID=America/New_York:20261210T180000
+SUMMARY:Millburn High School at Clifton High School (Freshman Boys Boys B
+ asketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105576503@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T160000
+DTEND;TZID=America/New_York:20261210T180000
+SUMMARY:Millburn High School at Clifton High School (Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105159027@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T160000
@@ -2921,6 +2940,15 @@ DTEND;TZID=America/New_York:20261210T180000
 SUMMARY:Millburn High School vs Jonathan Dayton High School (Varsity Girl
  s Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105576540@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T173000
+DTEND;TZID=America/New_York:20261210T193000
+SUMMARY:Millburn High School at Clifton High School (Junior Varsity Boys 
+ Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102733913@super-essex-conference

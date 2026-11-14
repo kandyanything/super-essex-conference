@@ -251,7 +251,8 @@ UID:arb:102648349@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
 DTEND;TZID=America/New_York:20261208T180000
-SUMMARY:Millburn High School vs TBD (Varsity Boys Boys Ice Hockey)
+SUMMARY:Millburn High School vs Coop - Mountain Lakes High School & Boont
+ on High School (Varsity Boys Boys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1656,5 +1657,14 @@ DTEND;TZID=America/New_York:20270205T190000
 SUMMARY:Verona High School at Hoboken High School (Varsity Boys Boys Ice 
  Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105577104@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T171500
+DTEND;TZID=America/New_York:20270205T191500
+SUMMARY:Montclair Kimberley Academy at Morristown-Beard School (Junior Va
+ rsity Boys Boys Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Away - 5:15 PM
 END:VEVENT
 END:VCALENDAR

@@ -2621,6 +2621,14 @@ SUMMARY:Millburn High School at Newark Academy (Varsity Boys Boys Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105575330@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T170000
+DTEND;TZID=America/New_York:20270107T190000
+SUMMARY:Newark Academy vs Rutgers Prep School (7/8th Girls Basketball)
+DESCRIPTION:7/8th Girls Basketball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100560624@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T173000
@@ -2948,6 +2956,14 @@ SUMMARY:Newark Academy vs Governor Livingston High School (Varsity Coed C
 DESCRIPTION:Varsity Coed Coed Fencing - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105575615@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T170000
+DTEND;TZID=America/New_York:20270119T190000
+SUMMARY:Newark Academy vs Oratory Prep School (7/8th Boys Basketball)
+DESCRIPTION:7/8th Boys Basketball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100551248@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T174500
@@ -3017,15 +3033,6 @@ DTEND;TZID=America/New_York:20270121T190000
 SUMMARY:Montclair Kimberley Academy vs Newark Academy (7/8th Boys Basketb
  all)
 DESCRIPTION:7/8th Boys Basketball - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104617494@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270121T171500
-DTEND;TZID=America/New_York:20270121T191500
-SUMMARY:Montclair Kimberley Academy at Newark Academy (7/8th Girls Basket
- ball)
-DESCRIPTION:7/8th Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551329@super-essex-conference
@@ -3556,6 +3563,15 @@ DTSTART;TZID=America/New_York:20270223T154500
 DTEND;TZID=America/New_York:20270223T174500
 SUMMARY:Newark Academy vs TBD (7/8th Boys Wrestling)
 DESCRIPTION:7/8th Boys Wrestling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105575645@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270224T153000
+DTEND;TZID=America/New_York:20270224T173000
+SUMMARY:Newark Academy vs Heritage Middle School (Middle School Girls Gir
+ ls Volleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105162064@super-essex-conference

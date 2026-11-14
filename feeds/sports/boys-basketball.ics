@@ -638,6 +638,24 @@ SUMMARY:Livingston High School at Whippany Park High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105576513@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T160000
+DTEND;TZID=America/New_York:20261210T180000
+SUMMARY:Millburn High School at Clifton High School (Freshman Boys Boys B
+ asketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105576503@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T160000
+DTEND;TZID=America/New_York:20261210T180000
+SUMMARY:Millburn High School at Clifton High School (Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104931280@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T160000
@@ -753,6 +771,15 @@ DTSTART;TZID=America/New_York:20261210T173000
 DTEND;TZID=America/New_York:20261210T193000
 SUMMARY:Central High School at Newark School of Global Studies (Junior Va
  rsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105576540@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T173000
+DTEND;TZID=America/New_York:20261210T193000
+SUMMARY:Millburn High School at Clifton High School (Junior Varsity Boys 
+ Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
