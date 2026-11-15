@@ -1,7 +1,49 @@
 {
   "_comment": "Super Essex Vision. NFHS Network broadcasts of member schools, newest first. No \"thumb\" is stored: the renderer derives the broadcast frame from the game id (social.nfhsnetwork.com/thumbnails/<id>_nfhs_net.jpg), and every entry here was checked to have one. Rebuild with scripts/build-nfhs-videos.js.",
-  "generated": "2026-11-08T03:36:27.392Z",
+  "generated": "2026-11-15T00:41:16.123Z",
   "videos": [
+    {
+      "url": "https://www.nfhsnetwork.com/events/d1-media-pro/gam1001a5bbee",
+      "source": "nfhs",
+      "title": "2026 Football Playoffs — Weequahic vs. W. Essex Reg.",
+      "date": "2026-11-14",
+      "sport": "Varsity Boys Football"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/livingston-high-school-livingston-nj/gam52de70efea",
+      "source": "nfhs",
+      "title": "2026 NJSIAA Girls Soccer Playoffs — Montclair vs. Livingston",
+      "date": "2026-11-13",
+      "sport": "Varsity Girls Soccer"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/livingston-high-school-livingston-nj/gamc824be6db4",
+      "source": "nfhs",
+      "title": "2026 NJSIAA Girls Soccer Playoffs — Morristown vs. Livingston",
+      "date": "2026-11-10",
+      "sport": "Varsity Girls Soccer"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gam3a25677110",
+      "source": "nfhs",
+      "title": "2026 NJSIAA Field Hockey Quarterfinal — Ridge vs. Montclair",
+      "date": "2026-11-10",
+      "sport": "Varsity Girls Field Hockey"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/d1-media-pro/gam0658c56c0d",
+      "source": "nfhs",
+      "title": "2026 POP WARNER DIVISION 10U Football Regional — NORTH HAMPTON INDIANS VS IRVINGTON GOLDEN KNIGHTS",
+      "date": "2026-11-08",
+      "sport": "Middle School Boys Football"
+    },
+    {
+      "url": "https://www.nfhsnetwork.com/events/irvington-high-school-irvington-nj/gam098b22f8d7",
+      "source": "nfhs",
+      "title": "2026 NJSIAA Football Playoffs — Perth Amboy vs. Irvington",
+      "date": "2026-11-08",
+      "sport": "Varsity Boys Football"
+    },
     {
       "url": "https://www.nfhsnetwork.com/events/d1-media-pro/gam95bf8976da",
       "source": "nfhs",
@@ -157,6 +199,13 @@
       "sport": "Varsity Girls Volleyball"
     },
     {
+      "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gam0643f6458a",
+      "source": "nfhs",
+      "title": "W. Essex Reg. vs. Montclair",
+      "date": "2026-10-29",
+      "sport": "Freshman Girls Volleyball"
+    },
+    {
       "url": "https://www.nfhsnetwork.com/events/d1-media-pro/gam68e422df49",
       "source": "nfhs",
       "title": "2026 NEWARK POP WARNER 8U CHAMPIONSHIP — West Ward Hawks vs. Jackie Robinson Bears",
@@ -204,13 +253,6 @@
       "title": "Verona vs. Montclair",
       "date": "2026-10-27",
       "sport": "Junior Varsity Girls Volleyball"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gam0643f6458a",
-      "source": "nfhs",
-      "title": "W. Essex Reg. vs. Montclair",
-      "date": "2026-10-26",
-      "sport": "Freshman Girls Volleyball"
     },
     {
       "url": "https://www.nfhsnetwork.com/events/d1-media-pro/game631b91ab3",
@@ -378,48 +420,6 @@
       "source": "nfhs",
       "title": "West Orange vs. Barringer",
       "date": "2026-10-19",
-      "sport": "Varsity Boys Football"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/east-side-high-school-newark-nj/gamb9ec91be50",
-      "source": "nfhs",
-      "title": "Away vs. East Side",
-      "date": "2026-10-19",
-      "sport": "Junior Varsity Girls Volleyball"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/montclair-high-school-montclair-nj/gamaa9d2c8a33",
-      "source": "nfhs",
-      "title": "Nutley vs. Montclair",
-      "date": "2026-10-19",
-      "sport": "Freshman Boys Football"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/d1-media-pro/gam2505be559d",
-      "source": "nfhs",
-      "title": "Weequahic vs. Chatham",
-      "date": "2026-10-19",
-      "sport": "Varsity Boys Football"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/d1-media-pro/gam3c67f3dcfd",
-      "source": "nfhs",
-      "title": "Livingston vs. Barringer",
-      "date": "2026-10-17",
-      "sport": "Varsity Boys Football"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/fair-lawn-high-school-fair-lawn-nj/gam7701fd59fa",
-      "source": "nfhs",
-      "title": "Bloomfield vs. Fair Lawn",
-      "date": "2026-10-17",
-      "sport": "Junior Varsity Girls Volleyball"
-    },
-    {
-      "url": "https://www.nfhsnetwork.com/events/d1-media-pro/gamaf54263582",
-      "source": "nfhs",
-      "title": "Union City vs. Columbia",
-      "date": "2026-10-17",
       "sport": "Varsity Boys Football"
     }
   ]
