@@ -65907,6 +65907,15 @@ SUMMARY:Bloomfield High School vs Hoboken High School (Junior Varsity Boy
 DESCRIPTION:Junior Varsity Boys Baseball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105591351@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270320T100000
+DTEND;TZID=America/New_York:20270320T120000
+SUMMARY:Glen Ridge High School at Saint Joseph High School - Metuchen (Va
+ rsity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105046944@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270320T110000
@@ -67864,6 +67873,24 @@ DTEND;TZID=America/New_York:20270401T180000
 SUMMARY:Verona High School at West Orange High School (Varsity Boys Baseb
  all)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105591359@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270401T163000
+DTEND;TZID=America/New_York:20270401T183000
+SUMMARY:Montclair High School at Saint Joseph High School - Metuchen (Var
+ sity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105591418@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270401T180000
+DTEND;TZID=America/New_York:20270401T200000
+SUMMARY:Montclair High School at Saint Joseph High School - Metuchen (Jun
+ ior Varsity Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102573782@super-essex-conference
