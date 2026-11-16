@@ -268,6 +268,24 @@ DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:30 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105607443@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T183000
+DTEND;TZID=America/New_York:20261208T203000
+SUMMARY:Arts High School vs Life Center Academy (Varsity Boys Boys Basket
+ ball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105607425@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T200000
+DTEND;TZID=America/New_York:20261208T220000
+SUMMARY:West Side High School at Roselle Catholic High School (Varsity Bo
+ ys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 8:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104971249@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T160000
