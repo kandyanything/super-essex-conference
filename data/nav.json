@@ -1,5 +1,5 @@
 {
-  "_comment": "Super Essex Conference top navigation. Built fresh on every page by js/nav-render.js. A top-level item with 'children' becomes a dropdown; one without is a plain link.",
+  "_comment": "Super Essex Conference top navigation. Built fresh on every page by js/nav-render.js. A top-level item with 'children' becomes a dropdown; one without is a plain link. An item with \"autoChildren\": \"all-conference\" gets a dropdown of every sport in data/all-conference.json, A-Z, built automatically - add a sport's names there and it appears in the menu.",
   "items": [
     {
       "label": "Home",
@@ -33,7 +33,8 @@
     },
     {
       "label": "All-Conference",
-      "href": "all-conference.html"
+      "href": "all-conference.html",
+      "autoChildren": "all-conference"
     },
     {
       "label": "Media",

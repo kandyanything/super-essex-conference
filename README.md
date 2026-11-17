@@ -61,7 +61,9 @@ Then open **http://localhost:9200**.
   `data/all-conference.json` — `year` (school year, e.g. `2026-27`), `season`, `sport`,
   `division` (e.g. `American`), `team` (`First Team`, `Second Team`, `Honorable Mention`),
   `name`, `school`. Use the school's full name from `data/directory.json` so its crest
-  shows. Names and schools only — no grades, photos or contact details.
+  shows. Names and schools only — no grades, photos or contact details. A new sport
+  appears on its own in the **All-Conference** menu dropdown (A–Z) and gets its own page
+  at `all-conference.html?sport=<sport-name>`, e.g. `?sport=boys-soccer` — nothing else to edit.
 
 ## Schedule pipeline (automatic)
 
