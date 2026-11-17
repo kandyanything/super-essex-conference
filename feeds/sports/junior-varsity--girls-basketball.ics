@@ -342,9 +342,10 @@ UID:arb:100568416@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T143000
 DTEND;TZID=America/New_York:20261219T163000
-SUMMARY:Bard Early College vs Cedar Grove High School (Junior Varsity Gir
- ls Girls Basketball)
+SUMMARY:[Canceled] Bard Early College vs Cedar Grove High School (Junior 
+ Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 2:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568535@super-essex-conference
@@ -750,6 +751,15 @@ DTEND;TZID=America/New_York:20270107T200000
 SUMMARY:Nutley High School at McNair-Academic High School (Junior Varsity
   Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105624969@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T163000
+DTEND;TZID=America/New_York:20270108T183000
+SUMMARY:Bard Early College vs Kearny High School (Junior Varsity Girls Gi
+ rls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105071434@super-essex-conference
@@ -1681,6 +1691,15 @@ DTEND;TZID=America/New_York:20270126T193000
 SUMMARY:Weequahic High School vs Newark School of Global Studies (Junior 
  Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105625002@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T180000
+DTEND;TZID=America/New_York:20270126T200000
+SUMMARY:Bard Early College vs Rutherford High School (Junior Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100563015@super-essex-conference

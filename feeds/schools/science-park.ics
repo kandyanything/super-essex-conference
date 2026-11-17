@@ -1267,6 +1267,15 @@ SUMMARY:Bloomfield High School at Science Park High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100549928@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T160000
+DTEND;TZID=America/New_York:20261215T180000
+SUMMARY:Science Park High School at West Orange High School (Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104159511@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T161500
@@ -1292,15 +1301,6 @@ DTEND;TZID=America/New_York:20261215T194500
 SUMMARY:Science Park High School vs Linden High School (Junior Varsity Gi
  rls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100549928@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T190000
-DTEND;TZID=America/New_York:20261215T210000
-SUMMARY:Science Park High School at West Orange High School (Varsity Boys
-  Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104607072@super-essex-conference
