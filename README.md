@@ -57,6 +57,11 @@ Then open **http://localhost:9200**.
   message, and change `"id"` to something new so returning visitors see it.
 - **Athletic directors:** fill the `ad`/`email`/`phone` fields in `data/directory.json`.
 - **Schools:** `data/schools.json` (name, slug, ArbiterLive schedule URL).
+- **All-Conference:** add one entry per honoree to `selections` in
+  `data/all-conference.json` — `year` (school year, e.g. `2026-27`), `season`, `sport`,
+  `division` (e.g. `American`), `team` (`First Team`, `Second Team`, `Honorable Mention`),
+  `name`, `school`. Use the school's full name from `data/directory.json` so its crest
+  shows. Names and schools only — no grades, photos or contact details.
 
 ## Schedule pipeline (automatic)
 

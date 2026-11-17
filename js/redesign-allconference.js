@@ -1,4 +1,5 @@
-// SEC All-Conference: the honorees for one year at a time, grouped by sport.
+// SEC All-Conference: the honorees for one year at a time, grouped by sport,
+// then by division (American, Liberty, ...) when the selections name one.
 // Shows a "posted after each season" line while all-conference.json has no
 // selections, so the page never looks broken while it is waiting on data.
 // A school's crest comes from directory.json when the school's name matches
@@ -11,6 +12,8 @@ document.addEventListener('DOMContentLoaded', function () {
     var controls = section.querySelector('.allconf-controls');
     var yearSel = section.querySelector('#allconf-year');
     var seasonSel = section.querySelector('#allconf-season');
+    var divisionSel = section.querySelector('#allconf-division');
+    var divisionField = divisionSel ? divisionSel.closest('.allconf-field') : null;
     var results = section.querySelector('.allconf-results');
     var empty = section.querySelector('.allconf-empty');
     if (!controls || !yearSel || !seasonSel || !results || !empty) return;
@@ -20,6 +23,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     var selections = [];
     var crests = {};
+    var divisionOrder = [];
 
     function getJson(path) {
         return fetch(path).then(function (r) { return r.ok ? r.json() : Promise.reject(r.status); });
@@ -40,6 +44,7 @@ document.addEventListener('DOMContentLoaded', function () {
             return s && s.name && s.school && s.sport && s.year;
         });
         if (!selections.length) return;     // leave the empty-state line showing
+        divisionOrder = (data.divisionOrder || []).map(function (d) { return String(d).toLowerCase(); });
 
         if (data.intro && intro) {
             intro.textContent = data.intro;
@@ -49,11 +54,13 @@ document.addEventListener('DOMContentLoaded', function () {
         controls.hidden = false;
         buildYears();
         buildSeasons();
+        buildDivisions();
         render();
     }).catch(function () { /* the empty-state line stays */ });
 
-    yearSel.addEventListener('change', function () { buildSeasons(); render(); });
-    seasonSel.addEventListener('change', render);
+    yearSel.addEventListener('change', function () { buildSeasons(); buildDivisions(); render(); });
+    seasonSel.addEventListener('change', function () { buildDivisions(); render(); });
+    if (divisionSel) divisionSel.addEventListener('change', render);
 
     // "St. Benedict's Prep" and "Saint Benedict's Prep" are the same school, and
     // an editor will not always type "High School" - so compare on a stripped key.
@@ -96,6 +103,34 @@ document.addEventListener('DOMContentLoaded', function () {
         seasonSel.value = (keep === 'all' || present.indexOf(keep) !== -1) ? keep : 'all';
     }
 
+    function inYearAndSeason(s) {
+        return s.year === yearSel.value && (seasonSel.value === 'all' || s.season === seasonSel.value);
+    }
+
+    // The Division picker only appears when the chosen year and season have
+    // selections listed by division; otherwise every name shows.
+    function buildDivisions() {
+        if (!divisionSel) return;
+        var keep = divisionSel.value || 'all';
+        var present = [];
+        selections.forEach(function (s) {
+            if (s.division && inYearAndSeason(s) && present.indexOf(s.division) === -1) present.push(s.division);
+        });
+        present.sort(function (a, b) {
+            return (divisionRank(a) - divisionRank(b)) || (a < b ? -1 : a > b ? 1 : 0);
+        });
+        divisionSel.innerHTML = '';
+        divisionSel.appendChild(option('all', 'All divisions'));
+        present.forEach(function (d) { divisionSel.appendChild(option(d, d)); });
+        divisionSel.value = (keep === 'all' || present.indexOf(keep) !== -1) ? keep : 'all';
+        if (divisionField) divisionField.hidden = !present.length;
+    }
+
+    function divisionRank(division) {
+        var i = divisionOrder.indexOf(String(division || '').toLowerCase());
+        return i === -1 ? divisionOrder.length : i;
+    }
+
     function seasonRank(season) {
         var i = SEASONS.indexOf(season);
         return i === -1 ? SEASONS.length : i;
@@ -107,15 +142,16 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     function render() {
+        var division = divisionSel ? divisionSel.value : 'all';
         var rows = selections.filter(function (s) {
-            return s.year === yearSel.value && (seasonSel.value === 'all' || s.season === seasonSel.value);
+            return inYearAndSeason(s) && (division === 'all' || s.division === division);
         });
         results.innerHTML = '';
 
         if (!rows.length) {
             var none = document.createElement('p');
             none.className = 'allconf-none';
-            none.textContent = 'No selections are listed for this year and season.';
+            none.textContent = 'No selections are listed for this year, season and division.';
             results.appendChild(none);
             return;
         }
@@ -149,12 +185,39 @@ document.addEventListener('DOMContentLoaded', function () {
         }
         block.appendChild(h3);
 
+        // Divisions in the order all-conference.json gives. A sport picked
+        // conference-wide has no division, so its teams sit straight under it.
+        var divisions = {};
+        var divOrder = [];
+        sport.rows.forEach(function (s) {
+            var k = s.division || '';
+            if (!divisions[k]) { divisions[k] = []; divOrder.push(k); }
+            divisions[k].push(s);
+        });
+        divOrder.sort(function (a, b) {
+            if (!a || !b) return a ? 1 : b ? -1 : 0;
+            return (divisionRank(a) - divisionRank(b)) || (a < b ? -1 : a > b ? 1 : 0);
+        });
+
+        divOrder.forEach(function (k) {
+            if (k) {
+                var h4 = document.createElement('h4');
+                h4.className = 'allconf-division';
+                h4.textContent = k + ' Division';
+                block.appendChild(h4);
+            }
+            appendTeams(block, divisions[k], k ? 'h5' : 'h4');
+        });
+        return block;
+    }
+
+    function appendTeams(block, rows, headingTag) {
         // Team headings in a fixed order (First, Second, Third, Honorable Mention,
         // then anything else A-Z). Teams are grouped without regard to case so
         // "First team" and "First Team" do not become two headings.
         var teams = {};
         var teamOrder = [];
-        sport.rows.forEach(function (s) {
+        rows.forEach(function (s) {
             var label = s.team || 'Selections';
             var k = label.toLowerCase();
             if (!teams[k]) { teams[k] = { label: label, rows: [] }; teamOrder.push(k); }
@@ -165,10 +228,10 @@ document.addEventListener('DOMContentLoaded', function () {
         });
 
         teamOrder.forEach(function (k) {
-            var h4 = document.createElement('h4');
-            h4.className = 'allconf-team';
-            h4.textContent = teams[k].label;
-            block.appendChild(h4);
+            var heading = document.createElement(headingTag);
+            heading.className = 'allconf-team';
+            heading.textContent = teams[k].label;
+            block.appendChild(heading);
 
             var ul = document.createElement('ul');
             ul.className = 'allconf-list';
@@ -177,7 +240,6 @@ document.addEventListener('DOMContentLoaded', function () {
             }).forEach(function (s) { ul.appendChild(buildRow(s)); });
             block.appendChild(ul);
         });
-        return block;
     }
 
     function buildRow(s) {
