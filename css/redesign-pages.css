@@ -779,17 +779,29 @@ main .container > section { overflow-x: auto; }
 }
 
 /* ---- SEC All-Conference ---------------------------------------------------
-   Honorees grouped sport > division > team > name. Year/season pickers sit above, styled
-   like the calendar's filter fields. */
+   all-conference.html lists the sports as cards; ?sport= shows one sport,
+   division > team > name, with Year and Division pickers styled like the
+   calendar's filter fields. */
 .allconf-intro { margin: 0 0 22px; color: var(--muted); max-width: 70ch; }
 .allconf-intro[hidden],
+.allconf-back[hidden],
 .allconf-controls[hidden],
 .allconf-field[hidden],
 .allconf-empty[hidden] { display: none; }
 
+.allconf-back {
+    display: inline-block;
+    margin: 0 0 18px;
+    font-size: .9rem;
+    font-weight: 700;
+    color: var(--navy-700);
+    text-decoration: none;
+}
+.allconf-back:hover { text-decoration: underline; }
+
 .allconf-controls {
     display: grid;
-    grid-template-columns: repeat(3, minmax(150px, 220px));
+    grid-template-columns: repeat(2, minmax(150px, 220px));
     gap: 14px;
     margin-bottom: 26px;
 }
@@ -821,31 +833,60 @@ main .container > section { overflow-x: auto; }
 .allconf-empty,
 .allconf-none { margin: 0; color: var(--muted); font-size: 1.05rem; }
 
-.allconf-sport { margin-bottom: 34px; }
-.allconf-sport:last-child { margin-bottom: 0; }
-
-.allconf-sport h3 {
-    color: var(--navy-800);
-    font-size: 1.6rem;
-    text-transform: uppercase;
-    letter-spacing: .02em;
-    padding-bottom: 8px;
-    margin-bottom: 4px;
-    border-bottom: 3px solid var(--silver);
+/* The sports list: one card per sport, A-Z. */
+.allconf-sports {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+    gap: 14px;
 }
 
-.allconf-season {
-    margin-left: 12px;
+.allconf-sports li { margin: 0; }
+
+.allconf-sports a {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    height: 100%;
+    padding: 18px 20px;
+    border: 2px solid var(--line);
+    border-left: 5px solid var(--red);
+    border-radius: 8px;
+    background: var(--white);
+    text-decoration: none;
+    transition: border-color .15s, box-shadow .15s, transform .15s;
+}
+
+.allconf-sports a:hover,
+.allconf-sports a:focus-visible {
+    border-color: var(--navy-700);
+    border-left-color: var(--red);
+    box-shadow: var(--shadow-md);
+    transform: translateY(-2px);
+}
+
+.allconf-sport-name {
+    font-family: var(--font-display);
+    font-size: 1.3rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .02em;
+    color: var(--navy-800);
+}
+
+.allconf-sport-meta {
     font-size: .75rem;
     font-weight: 700;
     letter-spacing: .12em;
+    text-transform: uppercase;
     color: var(--red);
-    vertical-align: middle;
 }
 
 .allconf-division {
-    margin: 26px 0 0;
-    padding-left: 12px;
+    margin: 30px 0 0;
+    padding: 0 0 0 12px;
     border-left: 4px solid var(--red);
     font-size: 1.15rem;
     font-weight: 700;
@@ -853,9 +894,17 @@ main .container > section { overflow-x: auto; }
     text-transform: uppercase;
     color: var(--navy-800);
 }
+.allconf-results > .allconf-division:first-child { margin-top: 0; }
+
+/* These are h2/h3 for the outline, but must not pick up the page-wide
+   "main h2" underline bar or display-face sizing. */
+.allconf-division::after,
+.allconf-team::after { content: none; }
 
 .allconf-team {
     margin: 18px 0 6px;
+    padding: 0;
+    font-family: var(--font-body);
     font-size: .8rem;
     font-weight: 700;
     letter-spacing: .13em;
@@ -885,6 +934,5 @@ main .container > section { overflow-x: auto; }
 @media (max-width: 600px) {
     .allconf-controls { grid-template-columns: 1fr 1fr; }
     .allconf-list li { grid-template-columns: 1fr; gap: 2px; }
-    .allconf-sport h3 { font-size: 1.4rem; }
     .allconf-division { font-size: 1.05rem; }
 }

@@ -94,11 +94,48 @@ document.addEventListener('DOMContentLoaded', function () {
             .catch(function () { return null; });
     }
 
+    // The All-Conference dropdown is every sport that has honorees in
+    // all-conference.json, A-Z, so a newly posted sport appears in the menu
+    // without anyone editing nav.json. The slug must match sportSlug() in
+    // js/redesign-allconference.js, which reads ?sport= to pick the sport.
+    function sportSlug(name) {
+        return String(name || '').toLowerCase()
+            .replace(/&/g, ' and ')
+            .replace(/[^a-z0-9]+/g, '-')
+            .replace(/^-+|-+$/g, '');
+    }
+
+    function fetchAllConferenceSports() {
+        return fetch('data/all-conference.json')
+            .then(function (r) { return r.ok ? r.json() : null; })
+            .then(function (d) {
+                var seen = {};
+                var sports = [];
+                ((d && d.selections) || []).forEach(function (s) {
+                    var slug = s && s.sport && s.name ? sportSlug(s.sport) : '';
+                    if (!slug || seen[slug]) return;
+                    seen[slug] = true;
+                    sports.push({ label: s.sport, href: 'all-conference.html?sport=' + slug });
+                });
+                return sports.sort(function (a, b) {
+                    return a.label.localeCompare(b.label, undefined, { sensitivity: 'base' });
+                });
+            })
+            // Without it the item is still a working link to the sports list.
+            .catch(function () { return []; });
+    }
+
+    function withAutoChildren(item, allConfSports) {
+        if (item.autoChildren !== 'all-conference' || !allConfSports.length) return item;
+        return { label: item.label, href: item.href, children: allConfSports };
+    }
+
     Promise.all([
         fetch('data/nav.json').then(function (r) { return r.ok ? r.json() : Promise.reject(r.status); }),
         Promise.all(EXTRA_PAGES.map(fetchExtraItem)),
+        fetchAllConferenceSports(),
     ]).then(function (results) {
-        var core = results[0].items || [];
+        var core = (results[0].items || []).map(function (item) { return withAutoChildren(item, results[2]); });
         var extras = results[1].filter(Boolean);
         core.concat(extras).forEach(function (item) { list.appendChild(buildItem(item)); });
         wireInteractivity();
