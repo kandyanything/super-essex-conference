@@ -1,5 +1,1581 @@
 {
-  "_comment": "SEC All-Conference selections, shown on all-conference.html grouped by sport. One entry per honoree per team. Name, school and (optional) position or event ONLY - no grade or class year, photos, contact details or stats, because this file is served publicly. 'year' is the school year, e.g. 2025-26. 'season' is Fall, Winter or Spring. 'sport' is a sport name as it appears on the schedule, e.g. Football or Girls Soccer. 'team' is the heading the name is listed under, e.g. First Team, Second Team, Honorable Mention. 'school' should match the school's name on the School Athletic Websites page (e.g. Livingston High School) so its crest shows beside the name. 'intro' is an optional line shown above the lists. While 'selections' is empty the page shows a short 'posted after each season' line.",
+  "_comment": "SEC All-Conference selections, shown on all-conference.html grouped by sport. One entry per honoree per team. Name, school and (optional) position or event ONLY - no grade or class year, photos, contact details or stats, because this file is served publicly. 'year' is the school year, e.g. 2025-26. 'season' is Fall, Winter or Spring. 'sport' is a sport name as it appears on the schedule, e.g. Football or Girls Soccer. 'division' is the SEC division the list belongs to, e.g. American or Liberty (optional - leave it out for a sport picked conference-wide). 'team' is the heading the name is listed under, e.g. First Team, Second Team, Honorable Mention. 'school' should match the school's name on the School Athletic Websites page (e.g. Livingston High School) so its crest shows beside the name. 'intro' is an optional line shown above the lists. While 'selections' is empty the page shows a short 'posted after each season' line.",
+  "_divisionOrderNote": "The order divisions are listed in on the page and in the Division picker. A division not listed here goes after these, A-Z.",
   "intro": "",
-  "selections": []
+  "divisionOrder": [
+    "American",
+    "Liberty",
+    "National",
+    "Colonial",
+    "Freedom",
+    "Independence"
+  ],
+  "selections": [
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "First Team",
+      "name": "Amadou Hann",
+      "school": "Saint Benedict's Prep"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "First Team",
+      "name": "Frank Pah",
+      "school": "Saint Benedict's Prep"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "First Team",
+      "name": "Richmond Laribah",
+      "school": "Saint Benedict's Prep"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "First Team",
+      "name": "Darius Millington",
+      "school": "West Orange High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "First Team",
+      "name": "Chase Winds",
+      "school": "West Orange High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "First Team",
+      "name": "Marcus Williams",
+      "school": "West Orange High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "First Team",
+      "name": "Liam Collins",
+      "school": "Seton Hall Prep"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "First Team",
+      "name": "Henry Foucaud",
+      "school": "Seton Hall Prep"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "First Team",
+      "name": "Ciaron Bateson",
+      "school": "Seton Hall Prep"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "First Team",
+      "name": "CJ Dike",
+      "school": "Montclair Kimberley Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "First Team",
+      "name": "Gustavo Rosen",
+      "school": "Montclair Kimberley Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "First Team",
+      "name": "Max Ludlow",
+      "school": "Montclair Kimberley Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "First Team",
+      "name": "Max Fleischer",
+      "school": "Glen Ridge High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "First Team",
+      "name": "Liam Silva",
+      "school": "Glen Ridge High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "First Team",
+      "name": "Florian Intres",
+      "school": "Montclair High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Second Team",
+      "name": "Nathaniel Addo",
+      "school": "Saint Benedict's Prep"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Second Team",
+      "name": "Mamadou Dieng",
+      "school": "Saint Benedict's Prep"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Second Team",
+      "name": "Taslim N-Nyiah",
+      "school": "Saint Benedict's Prep"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Second Team",
+      "name": "Leandro Menacho",
+      "school": "Saint Benedict's Prep"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Second Team",
+      "name": "Agustin Arieta",
+      "school": "West Orange High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Second Team",
+      "name": "Yenke Suarez",
+      "school": "West Orange High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Second Team",
+      "name": "Justin Amaya",
+      "school": "West Orange High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Second Team",
+      "name": "Jack Bigley",
+      "school": "Seton Hall Prep"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Second Team",
+      "name": "Oliver Neill",
+      "school": "Seton Hall Prep"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Second Team",
+      "name": "Thomas Hunt",
+      "school": "Montclair Kimberley Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Second Team",
+      "name": "Wes Narucki",
+      "school": "Montclair Kimberley Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Second Team",
+      "name": "Nate Hutton",
+      "school": "Glen Ridge High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Second Team",
+      "name": "Ryan Law",
+      "school": "Glen Ridge High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Second Team",
+      "name": "Sebastian Eniffe",
+      "school": "Montclair High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Second Team",
+      "name": "Nick Swartz",
+      "school": "Montclair High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Honorable Mention",
+      "name": "Noah Cesareo",
+      "school": "Montclair Kimberley Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Honorable Mention",
+      "name": "Joe Morante",
+      "school": "Montclair Kimberley Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Honorable Mention",
+      "name": "Finn Salamone",
+      "school": "Seton Hall Prep"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Honorable Mention",
+      "name": "Giovanni Carnemolla",
+      "school": "Seton Hall Prep"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Honorable Mention",
+      "name": "Max Hinkis",
+      "school": "Glen Ridge High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Honorable Mention",
+      "name": "Robert Runnions",
+      "school": "Glen Ridge High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Honorable Mention",
+      "name": "Lucas Furer",
+      "school": "Montclair High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Honorable Mention",
+      "name": "Kingston Shelhorse",
+      "school": "Montclair High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Honorable Mention",
+      "name": "Enzo Lolos",
+      "school": "Saint Benedict's Prep"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Honorable Mention",
+      "name": "Kenneth Carrillo",
+      "school": "Saint Benedict's Prep"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Honorable Mention",
+      "name": "Niko Chiovaro",
+      "school": "West Orange High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "American",
+      "team": "Honorable Mention",
+      "name": "Damian Aviles",
+      "school": "West Orange High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "First Team",
+      "name": "Finn Dannheisser",
+      "school": "Columbia High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "First Team",
+      "name": "Yuta Goldberg",
+      "school": "Columbia High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "First Team",
+      "name": "Sam Brash",
+      "school": "Columbia High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "First Team",
+      "name": "Nicos Etsiakoh",
+      "school": "Newark Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "First Team",
+      "name": "Kai van Garderen",
+      "school": "Newark Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "First Team",
+      "name": "Raphael Ezulike",
+      "school": "Millburn High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "First Team",
+      "name": "Charlie Dawson",
+      "school": "Millburn High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "First Team",
+      "name": "Guilherme Dias Oliveira",
+      "school": "East Side High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "First Team",
+      "name": "Wladimir Renteria",
+      "school": "East Side High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "First Team",
+      "name": "Brayden Hammer",
+      "school": "Livingston High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "First Team",
+      "name": "Daniel Liang",
+      "school": "Livingston High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "First Team",
+      "name": "Sal Sperrazza",
+      "school": "West Essex High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "First Team",
+      "name": "Giovanni Cascarano",
+      "school": "West Essex High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "First Team",
+      "name": "Charlie Agostini",
+      "school": "West Essex High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Second Team",
+      "name": "Zev Podgursky",
+      "school": "Columbia High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Second Team",
+      "name": "Cooper Schwartz",
+      "school": "Columbia High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Second Team",
+      "name": "Kaly Rochette",
+      "school": "Columbia High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Second Team",
+      "name": "Jake Demarco",
+      "school": "West Essex High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Second Team",
+      "name": "Thaman Bhatti",
+      "school": "West Essex High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Second Team",
+      "name": "Keyden Barquero Orozco",
+      "school": "Millburn High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Second Team",
+      "name": "Ryan Lee",
+      "school": "Millburn High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Second Team",
+      "name": "Dylan Goncalves",
+      "school": "East Side High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Second Team",
+      "name": "Kauan Rocha",
+      "school": "East Side High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Second Team",
+      "name": "Elvin Zeqiri",
+      "school": "Livingston High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Second Team",
+      "name": "Matthew Ferdinand",
+      "school": "Livingston High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Second Team",
+      "name": "Nico Rodriguez",
+      "school": "Newark Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Second Team",
+      "name": "Nathan Yan",
+      "school": "Newark Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Second Team",
+      "name": "Cash Loncar",
+      "school": "Newark Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Honorable Mention",
+      "name": "Dylan Blackmon Friedman",
+      "school": "Columbia High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Honorable Mention",
+      "name": "Mattias Calderon Chubb",
+      "school": "Columbia High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Honorable Mention",
+      "name": "Johnathan Wang",
+      "school": "Newark Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Honorable Mention",
+      "name": "Gil Kotlov-Rempel",
+      "school": "Newark Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Honorable Mention",
+      "name": "Pedro Da Costa",
+      "school": "West Essex High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Honorable Mention",
+      "name": "Mason Buchsbaum",
+      "school": "West Essex High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Honorable Mention",
+      "name": "Liam Palma",
+      "school": "Millburn High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Honorable Mention",
+      "name": "Stanley Kem",
+      "school": "Millburn High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Honorable Mention",
+      "name": "Rafael Lijo",
+      "school": "East Side High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Honorable Mention",
+      "name": "Lucas Barreiro",
+      "school": "East Side High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Honorable Mention",
+      "name": "Samuel Lowenthal",
+      "school": "Livingston High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Liberty",
+      "team": "Honorable Mention",
+      "name": "Atharv Chamoli",
+      "school": "Livingston High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "First Team",
+      "name": "Xander Basante",
+      "school": "North Star Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "First Team",
+      "name": "Harold Lekane",
+      "school": "North Star Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "First Team",
+      "name": "Daniel Borges",
+      "school": "Eagle Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "First Team",
+      "name": "Erlin Turcios",
+      "school": "Eagle Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "First Team",
+      "name": "Emmanuel Akinde",
+      "school": "Weequahic High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "First Team",
+      "name": "Benedict Osakpamwan",
+      "school": "Weequahic High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "First Team",
+      "name": "Delano Phinn",
+      "school": "West Side High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "First Team",
+      "name": "Fawaz Jalaaludeen",
+      "school": "West Side High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "First Team",
+      "name": "Dennis Cumbicus",
+      "school": "Payne Tech"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "First Team",
+      "name": "Joseph Costa",
+      "school": "Payne Tech"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "First Team",
+      "name": "Kaleb Clarke",
+      "school": "Payne Tech"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "First Team",
+      "name": "Willy Cumbicus",
+      "school": "Payne Tech"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "Second Team",
+      "name": "Sulaimon Alawode",
+      "school": "North Star Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "Second Team",
+      "name": "David Daa",
+      "school": "North Star Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "Second Team",
+      "name": "Ibrahim Diaby",
+      "school": "Eagle Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "Second Team",
+      "name": "Wilson Penal",
+      "school": "Eagle Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "Second Team",
+      "name": "Wensky Louine",
+      "school": "Weequahic High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "Second Team",
+      "name": "Farrod Mohammed",
+      "school": "Weequahic High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "Second Team",
+      "name": "Listowel Abbiah",
+      "school": "West Side High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "Second Team",
+      "name": "Mubarak Oyeyiola",
+      "school": "West Side High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "Second Team",
+      "name": "Douglas Nyrarko",
+      "school": "Payne Tech"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "Second Team",
+      "name": "Carlos Rojas",
+      "school": "Payne Tech"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "Second Team",
+      "name": "Emmanuel Gonzalez",
+      "school": "Payne Tech"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "Second Team",
+      "name": "Anthony Tobar",
+      "school": "Payne Tech"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "Honorable Mention",
+      "name": "Azaiire Jamison",
+      "school": "Eagle Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "Honorable Mention",
+      "name": "Mohammad Sheriff",
+      "school": "Weequahic High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "Honorable Mention",
+      "name": "Renaldo Anderson",
+      "school": "West Side High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "Honorable Mention",
+      "name": "Oheneba Offei-Okyne",
+      "school": "North Star Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "National",
+      "team": "Honorable Mention",
+      "name": "Nyrie Rossi",
+      "school": "Payne Tech"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "First Team",
+      "name": "John Loja",
+      "school": "Technology High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "First Team",
+      "name": "Aldry Alvarado",
+      "school": "Technology High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "First Team",
+      "name": "Brayan Rivas",
+      "school": "Technology High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "First Team",
+      "name": "Edwin Guaman",
+      "school": "Technology High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "First Team",
+      "name": "Jamie Dominguez",
+      "school": "West Caldwell Tech"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "First Team",
+      "name": "Jestin Guaman",
+      "school": "West Caldwell Tech"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "First Team",
+      "name": "Eli Kutten",
+      "school": "Golda Och Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "First Team",
+      "name": "Avi Kutten",
+      "school": "Golda Och Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "First Team",
+      "name": "Sadibou Cheikh Fall",
+      "school": "Orange High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "First Team",
+      "name": "Brandy Perez",
+      "school": "Orange High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "First Team",
+      "name": "Ayrson Barros",
+      "school": "Science Park High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "First Team",
+      "name": "Ivan Naranjo",
+      "school": "Science Park High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "Second Team",
+      "name": "Eric Cotto",
+      "school": "Technology High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "Second Team",
+      "name": "Edison Freire",
+      "school": "Technology High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "Second Team",
+      "name": "Darius Macancela",
+      "school": "Technology High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "Second Team",
+      "name": "Brian Martinez",
+      "school": "Technology High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "Second Team",
+      "name": "Jared Perez",
+      "school": "West Caldwell Tech"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "Second Team",
+      "name": "Jonathan Cambizaca",
+      "school": "West Caldwell Tech"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "Second Team",
+      "name": "Dov Brown",
+      "school": "Golda Och Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "Second Team",
+      "name": "Jake Sharret",
+      "school": "Golda Och Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "Second Team",
+      "name": "Berlendz Ulysse",
+      "school": "Orange High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "Second Team",
+      "name": "William Mendoza",
+      "school": "Orange High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "Second Team",
+      "name": "Caua Domingues",
+      "school": "Science Park High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "Second Team",
+      "name": "Christopher Heyward",
+      "school": "Science Park High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "Honorable Mention",
+      "name": "Leonardo Martinez",
+      "school": "Technology High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "Honorable Mention",
+      "name": "Robert Cerrato",
+      "school": "West Caldwell Tech"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "Honorable Mention",
+      "name": "Matai Zorel",
+      "school": "Golda Och Academy"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "Honorable Mention",
+      "name": "Eric Gullpa",
+      "school": "Orange High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Freedom",
+      "team": "Honorable Mention",
+      "name": "Brian Chuyan",
+      "school": "Science Park High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "First Team",
+      "name": "Nicholas Cooper",
+      "school": "Belleville High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "First Team",
+      "name": "Michael Rivera",
+      "school": "Belleville High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "First Team",
+      "name": "Leo Vergara",
+      "school": "Belleville High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "First Team",
+      "name": "Kevin Escobar",
+      "school": "Belleville High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "First Team",
+      "name": "Jospha Donnejour",
+      "school": "East Orange Campus High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "First Team",
+      "name": "Fritz St. Hilaire",
+      "school": "Central High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "First Team",
+      "name": "Kagabenga Abdallah",
+      "school": "Central High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "First Team",
+      "name": "Dieuloudson Vincent",
+      "school": "Central High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "First Team",
+      "name": "Jean Obregon",
+      "school": "Newark Tech"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "First Team",
+      "name": "Brayton Joyo",
+      "school": "Newark Tech"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "First Team",
+      "name": "Elijah Olusola",
+      "school": "Malcolm X Shabazz High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "First Team",
+      "name": "Michael Atkins",
+      "school": "Malcolm X Shabazz High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "First Team",
+      "name": "Wasay Malik",
+      "school": "Cedar Grove High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "First Team",
+      "name": "Ethan Romero",
+      "school": "Cedar Grove High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "Second Team",
+      "name": "Santiago Flores",
+      "school": "Belleville High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "Second Team",
+      "name": "Luis Garcia",
+      "school": "Belleville High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "Second Team",
+      "name": "Axel Alcantara",
+      "school": "Belleville High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "Second Team",
+      "name": "Cody Ferreryra",
+      "school": "Belleville High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "Second Team",
+      "name": "Antoni Sinchi",
+      "school": "East Orange Campus High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "Second Team",
+      "name": "Fegens Bruny",
+      "school": "East Orange Campus High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "Second Team",
+      "name": "Vafeen Kamara",
+      "school": "Central High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "Second Team",
+      "name": "Souare Moussa",
+      "school": "Central High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "Second Team",
+      "name": "Joseph Sevilla",
+      "school": "Central High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "Second Team",
+      "name": "Abraham Garcia",
+      "school": "Newark Tech"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "Second Team",
+      "name": "Gabriel Elias",
+      "school": "Newark Tech"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "Second Team",
+      "name": "Steven Carranza",
+      "school": "Malcolm X Shabazz High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "Second Team",
+      "name": "Ayo Oloyede",
+      "school": "Malcolm X Shabazz High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "Second Team",
+      "name": "Noah Russomanno",
+      "school": "Cedar Grove High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "Honorable Mention",
+      "name": "Acquille Dwyer",
+      "school": "East Orange Campus High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "Honorable Mention",
+      "name": "Cesar Diaz",
+      "school": "Belleville High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "Honorable Mention",
+      "name": "Steeven Alliance",
+      "school": "Central High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "Honorable Mention",
+      "name": "Ethan Hartman",
+      "school": "Cedar Grove High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "Honorable Mention",
+      "name": "Epiphany Odoemene",
+      "school": "Malcolm X Shabazz High School"
+    },
+    {
+      "year": "2026-27",
+      "season": "Fall",
+      "sport": "Boys Soccer",
+      "division": "Independence",
+      "team": "Honorable Mention",
+      "name": "Suamer Delgado",
+      "school": "Newark Tech"
+    }
+  ]
 }
