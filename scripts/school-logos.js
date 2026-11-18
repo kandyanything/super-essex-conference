@@ -34,9 +34,13 @@ for (const s of LIST) BY_KEY.set(norm(s.name), s.slug);
 const ALIASES = {
     'caldwell': 'james-caldwell',
     'east side newark': 'east-side',
+    'eagle academy of newark': 'eagle-academy',
     'essex county newark tech': 'newark-tech',
+    'essex county donald m payne tech': 'payne-tech',
     'essex county payne tech': 'payne-tech',
     'global studies': 'global-studies',
+    'kipp newark lab': 'newark-lab',
+    'newark central': 'central',
     'newark global studies': 'global-studies',
     'seton hall preparatory': 'seton-hall-prep',
     'st benedict s preparatory': 'st-benedicts',

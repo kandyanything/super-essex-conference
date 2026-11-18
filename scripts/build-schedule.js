@@ -20,6 +20,7 @@ const path = require('path');
 const arbiter = require('./sources/arbiter');
 const digitalsports = require('./sources/digitalsports');
 const ical = require('./sources/ical');
+const { logoSlug } = require('./school-logos');
 
 // No Super Essex schools use iCal feeds.
 const ICS_SCHOOLS = [];
@@ -230,7 +231,58 @@ function dedupe(events) {
         if (prev) { byFixture.set(key, merge(prev, e)); continue; }
         byFixture.set(key, e);
     }
-    return out.concat([...byFixture.values()]);
+    return crossSourceMerge(out.concat([...byFixture.values()]));
+}
+
+// Pass 3: a school on DigitalSports and its opponent on ArbiterLive each list
+// the same game, under different ids and often a slightly different start
+// time (4:00 at one, 4:30 at the other) or spelling ("Newark Central High
+// School" for Central) - so passes 1 and 2 miss it and it shows twice. Match
+// those across sources only, one-to-one, on date, sport, level, gender and the
+// pair of schools, nearest start time first. Never within a single source, so
+// a genuine doubleheader stays two games. The home school's own listing wins,
+// since it is the one that sets the start time.
+const CROSS_SOURCE_MAX_MINUTES = 180;
+
+function schoolKey(name) { return logoSlug(name) || norm(name); }
+function minutesOf(t) { const m = /^(\d{2}):(\d{2})/.exec(t || ''); return m ? Number(m[1]) * 60 + Number(m[2]) : null; }
+
+function crossSourceMerge(events) {
+    const groups = new Map();
+    events.forEach((e, i) => {
+        if (!e.opponent || !e.source) return;
+        const pair = [schoolKey(e.school), schoolKey(e.opponent)].sort().join('~');
+        const k = [e.date, norm(e.sport), norm(e.level), norm(e.gender), pair].join('|');
+        if (!groups.has(k)) groups.set(k, []);
+        groups.get(k).push(i);
+    });
+
+    const drop = new Set();
+    for (const idx of groups.values()) {
+        if (idx.length < 2) continue;
+        const candidates = [];
+        for (let a = 0; a < idx.length; a++) {
+            for (let b = a + 1; b < idx.length; b++) {
+                const x = events[idx[a]], y = events[idx[b]];
+                if (x.source === y.source) continue;
+                const tx = minutesOf(x.time), ty = minutesOf(y.time);
+                const gap = tx === null || ty === null ? CROSS_SOURCE_MAX_MINUTES : Math.abs(tx - ty);
+                if (gap <= CROSS_SOURCE_MAX_MINUTES) candidates.push([gap, idx[a], idx[b]]);
+            }
+        }
+        candidates.sort((p, q) => p[0] - q[0]);
+        const used = new Set();
+        for (const [, i, j] of candidates) {
+            if (used.has(i) || used.has(j)) continue;
+            used.add(i); used.add(j);
+            const x = events[i], y = events[j];
+            const keep = x.home === true ? x : y.home === true ? y : score(y) > score(x) ? y : x;
+            const schools = [...new Set([...(x.schools || [x.school]), ...(y.schools || [y.school])])];
+            events[keep === x ? i : j] = { ...keep, schools };
+            drop.add(keep === x ? j : i);
+        }
+    }
+    return events.filter((_, i) => !drop.has(i));
 }
 
 // Fetches every school across all sources for the given range. Shared by the
@@ -342,6 +394,6 @@ if (require.main === module) {
 
 module.exports = {
     fetchRaw, canonicalSport, schoolGender, stripSelfVenue, blankPlaceholderTime,
-    isAthletic, dedupe, splitByGender, applySplit, computeSplitSet,
+    isAthletic, dedupe, crossSourceMerge, splitByGender, applySplit, computeSplitSet,
     ARBITER_SCHOOLS, DS_SCHOOLS, ICS_SCHOOLS, defaultRange, SCHOOLS_IN_CONFERENCE, SOURCES_EXPECTED,
 };
