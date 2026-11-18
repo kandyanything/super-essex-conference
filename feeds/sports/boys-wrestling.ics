@@ -430,6 +430,15 @@ SUMMARY:East Side High School vs Verona High School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105642080@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T170000
+DTEND;TZID=America/New_York:20261218T190000
+SUMMARY:Montclair High School at Clifton High School (Varsity Boys Boys W
+ restling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103851085@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T180000
@@ -946,6 +955,14 @@ SUMMARY:East Side High School at Scotch Plains-Fanwood High School (Varsi
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 8:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105640658@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
+SUMMARY:Millburn High School at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102187257@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T090000
@@ -1251,6 +1268,15 @@ SUMMARY:Livingston High School at Newark Academy (Varsity Boys Boys Wrest
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105652775@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T080000
+DTEND;TZID=America/New_York:20270116T100000
+SUMMARY:Seton Hall Prep at Council Rock High School South (Varsity Boys B
+ oys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100906726@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T090000
@@ -1294,6 +1320,15 @@ DTEND;TZID=America/New_York:20270116T120000
 SUMMARY:Nutley High School at Perth Amboy High School (Varsity Boys Boys 
  Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105655108@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Seton Hall Prep at Council Rock High School South (Varsity Boys B
+ oys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102898926@super-essex-conference
@@ -1794,9 +1829,9 @@ UID:arb:104523751@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T170000
 DTEND;TZID=America/New_York:20270203T190000
-SUMMARY:Millburn High School at Arthur L. Johnson High School (Junior Var
+SUMMARY:Millburn High School vs Arthur L. Johnson High School (Junior Var
  sity Boys Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105635992@super-essex-conference
@@ -1821,9 +1856,9 @@ UID:arb:104523560@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T173000
 DTEND;TZID=America/New_York:20270203T193000
-SUMMARY:Millburn High School at Arthur L. Johnson High School (Varsity Bo
+SUMMARY:Millburn High School vs Arthur L. Johnson High School (Varsity Bo
  ys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:30 PM
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105155955@super-essex-conference

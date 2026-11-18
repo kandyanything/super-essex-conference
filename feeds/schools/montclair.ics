@@ -3919,6 +3919,15 @@ SUMMARY:Montclair High School at Saint Benedict's Prep (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105642080@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T170000
+DTEND;TZID=America/New_York:20261218T190000
+SUMMARY:Montclair High School at Clifton High School (Varsity Boys Boys W
+ restling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102558006@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T180000
@@ -4598,6 +4607,16 @@ DTSTART;TZID=America/New_York:20270117T083000
 DTEND;TZID=America/New_York:20270117T103000
 SUMMARY:Montclair High School vs TBD (Varsity Coed Track & Field - Indoor)
 DESCRIPTION:Varsity Coed Track & Field - Indoor - Home - 8:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105651727@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270117T163000
+DTEND;TZID=America/New_York:20270117T183000
+SUMMARY:[Canceled] Montclair High School at Ridgewood High School (Junior
+  Varsity Boys Boys Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Away - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104415636@super-essex-conference
@@ -5720,6 +5739,24 @@ DTEND;TZID=America/New_York:20270420T180000
 SUMMARY:Montclair High School at Montclair Kimberley Academy (Varsity Gir
  ls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105657311@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270421T160000
+DTEND;TZID=America/New_York:20270421T180000
+SUMMARY:Montclair High School vs North Hunterdon High School (Varsity Boy
+ s Boys Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105657320@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270421T171500
+DTEND;TZID=America/New_York:20270421T191500
+SUMMARY:Montclair High School vs North Hunterdon High School (Junior Vars
+ ity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103009886@super-essex-conference

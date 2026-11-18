@@ -154,18 +154,20 @@ UID:arb:100567909@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T130000
 DTEND;TZID=America/New_York:20270116T150000
-SUMMARY:Bard Early College at Newark School of Global Studies (Varsity Gi
- rls Girls Basketball)
+SUMMARY:[Canceled] Bard Early College at Newark School of Global Studies 
+ (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105089449@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T143000
 DTEND;TZID=America/New_York:20270116T163000
-SUMMARY:Bard Early College at Newark School of Global Studies (Junior Var
- sity Girls Girls Basketball)
+SUMMARY:[Canceled] Bard Early College at Newark School of Global Studies 
+ (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 2:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100567625@super-essex-conference
@@ -184,24 +186,6 @@ DTEND;TZID=America/New_York:20270121T201500
 SUMMARY:Bard Early College at American History High School (Junior Varsit
  y Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 6:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100569613@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T113000
-DTEND;TZID=America/New_York:20270123T133000
-SUMMARY:Bard Early College at Irvington High School (Junior Varsity Girls
-  Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100569571@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T130000
-DTEND;TZID=America/New_York:20270123T150000
-SUMMARY:Bard Early College at Irvington High School (Varsity Girls Girls 
- Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568399@super-essex-conference
@@ -274,5 +258,23 @@ DTEND;TZID=America/New_York:20270215T193000
 SUMMARY:Bard Early College at Newark Collegiate Academy (Varsity Girls Gi
  rls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100569571@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270216T161500
+DTEND;TZID=America/New_York:20270216T181500
+SUMMARY:Bard Early College at Irvington High School (Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100569613@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270216T174500
+DTEND;TZID=America/New_York:20270216T194500
+SUMMARY:Bard Early College at Irvington High School (Junior Varsity Girls
+  Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:45 PM
 END:VEVENT
 END:VCALENDAR
