@@ -16,7 +16,7 @@ const ROOT = path.join(__dirname, '..');
 const fresh = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'schedule.json'), 'utf8'));
 
 const MIN_GAMES = 2000;          // a real season is many thousands
-const MIN_SOURCES_OK = 35;       // of 39; a couple of schools may legitimately fail
+const MIN_SOURCES_OK = 35;       // of 41; a few may legitimately fail or have nothing posted yet
 const MAX_DROP = 0.30;           // vs the previous build
 
 const problems = [];

@@ -36,6 +36,8 @@ const ALIASES = {
     'east side newark': 'east-side',
     'essex county newark tech': 'newark-tech',
     'essex county payne tech': 'payne-tech',
+    'global studies': 'global-studies',
+    'newark global studies': 'global-studies',
     'seton hall preparatory': 'seton-hall-prep',
     'st benedict s preparatory': 'st-benedicts',
     'technology newark': 'technology',

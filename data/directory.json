@@ -2,6 +2,13 @@
   "_comment": "Athletic director directory. Fill 'ad'/'email'/'phone' as you get them; a school with a blank 'ad' is skipped on the page (so the section stays hidden until you add contacts). 'logo' is the filename in images/logos/optimized/.",
   "directory": [
     {
+      "school": "American History High School",
+      "website": "https://www.nps.k12.nj.us/HIS/students/athletics/",
+      "ad": "",
+      "email": "",
+      "phone": ""
+    },
+    {
       "school": "Arts High School",
       "logo": "arts.png",
       "website": "https://www.nps.k12.nj.us/ART/sports/",
@@ -308,6 +315,13 @@
         "#020234",
         "#c2c1c1"
       ]
+    },
+    {
+      "school": "Newark School of Global Studies",
+      "website": "https://289622.digitalsports.com/",
+      "ad": "",
+      "email": "",
+      "phone": ""
     },
     {
       "school": "Newark Tech",
