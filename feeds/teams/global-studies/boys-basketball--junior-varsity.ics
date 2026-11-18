@@ -24,21 +24,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:arb:104508209@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261210T173000
-DTEND;TZID=America/New_York:20261210T193000
-SUMMARY:Central High School at Newark School of Global Studies (Junior Va
- rsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:43483:7638362@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T173000
 DTEND;TZID=America/New_York:20261210T193000
-SUMMARY:Newark School of Global Studies vs Newark Central High School (Ju
- nior Varsity Boys Boys Basketball)
+SUMMARY:Newark School of Global Studies vs Central High School (Junior Va
+ rsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -96,15 +87,6 @@ SUMMARY:Newark School of Global Studies vs North Star Academy (Junior Var
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100551240@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261222T174500
-DTEND;TZID=America/New_York:20261222T194500
-SUMMARY:North Star Academy at Newark School of Global Studies (Junior Var
- sity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100551314@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T173000
@@ -159,15 +141,6 @@ SUMMARY:Newark School of Global Studies vs Newark Academy (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100551248@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270119T174500
-DTEND;TZID=America/New_York:20270119T194500
-SUMMARY:Newark Academy at Newark School of Global Studies (Junior Varsity
-  Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:43483:7658084@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T173000
@@ -175,15 +148,6 @@ DTEND;TZID=America/New_York:20270121T193000
 SUMMARY:Newark School of Global Studies vs Verona High School (Junior Var
  sity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100551250@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270121T174500
-DTEND;TZID=America/New_York:20270121T194500
-SUMMARY:Verona High School at Newark School of Global Studies (Junior Var
- sity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100552407@super-essex-conference
@@ -204,15 +168,6 @@ SUMMARY:Newark School of Global Studies vs University High School (Junior
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100551254@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T174500
-DTEND;TZID=America/New_York:20270126T194500
-SUMMARY:University High School at Newark School of Global Studies (Junior
-  Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:43483:7658090@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T173000
@@ -222,21 +177,12 @@ SUMMARY:Newark School of Global Studies vs Montclair Kimberley Academy (J
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100551260@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T174500
-DTEND;TZID=America/New_York:20270202T194500
-SUMMARY:Montclair Kimberley Academy at Newark School of Global Studies (J
- unior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:43483:7693378@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T180000
 DTEND;TZID=America/New_York:20270205T200000
-SUMMARY:Newark School of Global Studies vs Eagle Academy of Newark (Junio
- r Varsity Boys Boys Basketball)
+SUMMARY:Newark School of Global Studies vs Eagle Academy (Junior Varsity 
+ Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT

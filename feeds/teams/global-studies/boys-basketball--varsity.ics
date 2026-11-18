@@ -37,18 +37,9 @@ UID:ds:43483:7638357@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T160000
 DTEND;TZID=America/New_York:20261210T180000
-SUMMARY:Newark School of Global Studies vs Newark Central High School (Va
- rsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104508206@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261210T161500
-DTEND;TZID=America/New_York:20261210T181500
-SUMMARY:Central High School at Newark School of Global Studies (Varsity B
+SUMMARY:Newark School of Global Studies vs Central High School (Varsity B
  oys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104508236@super-essex-conference
@@ -96,15 +87,6 @@ SUMMARY:Newark School of Global Studies vs Barringer High School (Varsity
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105089509@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T161500
-DTEND;TZID=America/New_York:20261218T181500
-SUMMARY:Barringer High School at Newark School of Global Studies (Varsity
-  Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:43483:7692153@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T161500
@@ -121,15 +103,6 @@ DTEND;TZID=America/New_York:20261222T180000
 SUMMARY:Newark School of Global Studies vs North Star Academy (Varsity Bo
  ys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100551222@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261222T161500
-DTEND;TZID=America/New_York:20261222T181500
-SUMMARY:North Star Academy at Newark School of Global Studies (Varsity Bo
- ys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551280@super-essex-conference
@@ -166,15 +139,6 @@ DTEND;TZID=America/New_York:20270114T180000
 SUMMARY:Newark School of Global Studies vs Cedar Grove High School (Varsi
  ty Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100551229@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270114T161500
-DTEND;TZID=America/New_York:20270114T181500
-SUMMARY:Cedar Grove High School at Newark School of Global Studies (Varsi
- ty Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549529@super-essex-conference
@@ -235,8 +199,8 @@ UID:ds:43483:7693372@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T163000
 DTEND;TZID=America/New_York:20270205T183000
-SUMMARY:Newark School of Global Studies vs Eagle Academy of Newark (Varsi
- ty Boys Boys Basketball)
+SUMMARY:Newark School of Global Studies vs Eagle Academy (Varsity Boys Bo
+ ys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
