@@ -791,18 +791,10 @@ UID:arb:100553694@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T103000
 DTEND;TZID=America/New_York:20261219T123000
-SUMMARY:Newark Lab High School vs Weequahic High School (Junior Varsity B
- oys Boys Basketball)
+SUMMARY:[Canceled] Newark Lab High School vs Weequahic High School (Junio
+ r Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100553633@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T120000
-DTEND;TZID=America/New_York:20261219T140000
-SUMMARY:Newark Lab High School vs Weequahic High School (Varsity Boys Boy
- s Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568498@super-essex-conference
@@ -812,6 +804,15 @@ DTEND;TZID=America/New_York:20261219T150000
 SUMMARY:Newark Collegiate Academy at Weequahic High School (Varsity Girls
   Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100553633@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T130000
+DTEND;TZID=America/New_York:20261219T150000
+SUMMARY:Newark Lab High School vs Weequahic High School (Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568535@super-essex-conference
@@ -1293,9 +1294,8 @@ UID:arb:105092414@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T160000
 DTEND;TZID=America/New_York:20270209T180000
-SUMMARY:Bard Early College at Weequahic High School (Freshman Boys Boys B
- asketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+SUMMARY:Weequahic High School vs TBD (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568520@super-essex-conference
@@ -1305,6 +1305,15 @@ DTEND;TZID=America/New_York:20270209T180000
 SUMMARY:Bard Early College at Weequahic High School (Varsity Girls Girls 
  Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100553539@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T160000
+DTEND;TZID=America/New_York:20270209T180000
+SUMMARY:Bard Early College vs Weequahic High School (Freshman Boys Boys B
+ asketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568555@super-essex-conference

@@ -3852,11 +3852,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104576090@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270115T193000
-DTEND;TZID=America/New_York:20270115T213000
+DTSTART;TZID=America/New_York:20270115T194500
+DTEND;TZID=America/New_York:20270115T214500
 SUMMARY:Livingston High School at Millburn High School (Varsity Boys Boys
   Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:30 PM
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104823664@super-essex-conference
@@ -4693,15 +4693,6 @@ DTEND;TZID=America/New_York:20270318T200000
 SUMMARY:Livingston High School at Cranford High School (Junior Varsity Gi
  rls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104954632@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270320T120000
-DTEND;TZID=America/New_York:20270320T140000
-SUMMARY:Livingston High School vs Pope John XXIII High School (Varsity Gi
- rls Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104954661@super-essex-conference

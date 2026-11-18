@@ -335,9 +335,9 @@ UID:arb:103675590@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T161500
 DTEND;TZID=America/New_York:20261209T181500
-SUMMARY:Newark Academy vs Princeton Day School (Varsity Boys Boys Basketb
- all)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
+SUMMARY:Barringer High School at Newark Academy (Varsity Boys Boys Basket
+ ball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104110119@super-essex-conference
@@ -987,6 +987,15 @@ SUMMARY:East Orange Campus High School at Saint Benedict's Prep (Varsity
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105672215@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T163000
+DTEND;TZID=America/New_York:20261217T183000
+SUMMARY:Seton Hall Prep vs West Broward High School (Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103341363@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T173000
@@ -1141,15 +1150,6 @@ SUMMARY:Newark Academy vs West Essex High School (Varsity Boys Boys Baske
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100553633@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T120000
-DTEND;TZID=America/New_York:20261219T140000
-SUMMARY:Newark Lab High School vs Weequahic High School (Varsity Boys Boy
- s Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100553842@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T123000
@@ -1238,6 +1238,15 @@ DTEND;TZID=America/New_York:20261219T150000
 SUMMARY:Montclair Kimberley Academy at West Orange High School (Varsity B
  oys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100553633@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T130000
+DTEND;TZID=America/New_York:20261219T150000
+SUMMARY:Newark Lab High School vs Weequahic High School (Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105373426@super-essex-conference
