@@ -14,7 +14,7 @@ const fs = require('fs');
 const path = require('path');
 const {
     fetchRaw, canonicalSport, schoolGender, stripSelfVenue, blankPlaceholderTime,
-    isAthletic, dedupe, applySplit,
+    isAthletic, dedupe, applySplit, SCHOOLS_IN_CONFERENCE, SOURCES_EXPECTED,
 } = require('./build-schedule');
 
 const ROOT = path.join(__dirname, '..');
@@ -99,7 +99,7 @@ const easternDate = d => new Intl.DateTimeFormat('en-CA', {
         generated: new Date().toISOString(),
         range: existing.range,
         sources: report,
-        coverage: { schoolsFetched: report.length, schoolsInConference: 41, complete: report.length >= 41 },
+        coverage: { schoolsFetched: report.length, schoolsInConference: SCHOOLS_IN_CONFERENCE, complete: report.length >= SOURCES_EXPECTED },
         counts: {
             raw: all.length,
             nonAthleticDropped: all.length - normalised.length,

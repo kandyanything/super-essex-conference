@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (d.email && d.phone) lines.appendChild(document.createElement('br'));
         if (d.phone) {
             var tel = document.createElement('a');
-            tel.href = 'tel:' + d.phone.replace(/[^0-9+]/g, '');
+            tel.href = telHref(d.phone);
             tel.textContent = d.phone;
             lines.appendChild(tel);
         }
@@ -87,5 +87,16 @@ document.addEventListener('DOMContentLoaded', function () {
 
         card.appendChild(body);
         return card;
+    }
+
+    // "973-762-5600 x1025" must dial the main number, pause, then the
+    // extension. Stripping everything but digits ran them together into one
+    // 14-digit number that never connects. The comma is the dial-pause every
+    // phone honours. Extensions are written "x1025", "x 1005" or "ext-7594".
+    function telHref(phone) {
+        var m = String(phone).match(/^(.*?)\s*(?:x|ext\.?|extension)[\s.:#-]*(\d+)\s*$/i);
+        var main = (m ? m[1] : String(phone)).replace(/[^0-9]/g, '');
+        if (main.length === 10) main = '+1' + main;
+        return 'tel:' + main + (m ? ',' + m[2] : '');
     }
 });
