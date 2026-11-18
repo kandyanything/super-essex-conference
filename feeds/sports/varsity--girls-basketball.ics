@@ -140,6 +140,15 @@ SUMMARY:Newark Academy vs Morristown-Beard School (Varsity Girls Girls Ba
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105660776@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T163000
+DTEND;TZID=America/New_York:20261208T183000
+SUMMARY:Malcolm X Shabazz High School vs Lincoln High School (Varsity Gir
+ ls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104207262@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T163000
@@ -978,9 +987,10 @@ UID:arb:102411636@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T163000
 DTEND;TZID=America/New_York:20261221T183000
-SUMMARY:Technology High School at Paterson Arts & Science Charter School 
- (Varsity Girls Girls Basketball)
+SUMMARY:[Canceled] Technology High School at Paterson Arts & Science Char
+ ter School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105288340@super-essex-conference
@@ -1171,6 +1181,14 @@ SUMMARY:Newark Lab High School at Weehawken High School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105660448@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261227T110000
+DTEND;TZID=America/New_York:20261227T130000
+SUMMARY:West Orange High School vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105038767@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261227T113000
@@ -1185,6 +1203,14 @@ DTSTART;TZID=America/New_York:20261227T113000
 DTEND;TZID=America/New_York:20261227T133000
 SUMMARY:University High School vs TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105660449@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261227T130000
+DTEND;TZID=America/New_York:20261227T150000
+SUMMARY:West Orange High School vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104716131@super-essex-conference
@@ -1274,6 +1300,14 @@ SUMMARY:Bloomfield High School vs Secaucus High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105660454@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T110000
+DTEND;TZID=America/New_York:20261229T130000
+SUMMARY:West Orange High School vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105213977@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261229T113000
@@ -1290,6 +1324,14 @@ DTEND;TZID=America/New_York:20261229T140000
 SUMMARY:Newark Lab High School at North Arlington High School (Varsity Gi
  rls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105660450@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T130000
+DTEND;TZID=America/New_York:20261229T150000
+SUMMARY:West Orange High School vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102553232@super-essex-conference
