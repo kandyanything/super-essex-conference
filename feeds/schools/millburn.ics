@@ -4246,6 +4246,24 @@ SUMMARY:Millburn High School vs Madison High School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105680174@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T183000
+DTEND;TZID=America/New_York:20270204T203000
+SUMMARY:Millburn High School at Chatham High School (Varsity Girls Girls 
+ Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105680086@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T183000
+DTEND;TZID=America/New_York:20270204T203000
+SUMMARY:Millburn High School at Chatham High School (Varsity Boys Boys Fe
+ ncing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104583947@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T170000
@@ -4309,6 +4327,15 @@ SUMMARY:Millburn High School vs Abraham Clark High School (Varsity Boys B
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:43483:7665105@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T160000
+DTEND;TZID=America/New_York:20270208T180000
+SUMMARY:Newark School of Global Studies at Millburn High School (Varsity 
+ Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105159356@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270208T161500
@@ -4316,6 +4343,15 @@ DTEND;TZID=America/New_York:20270208T181500
 SUMMARY:Millburn High School vs Newark School of Global Studies (Varsity 
  Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43483:7665108@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T173000
+DTEND;TZID=America/New_York:20270208T193000
+SUMMARY:Newark School of Global Studies at Millburn High School (Junior V
+ arsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100563143@super-essex-conference

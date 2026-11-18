@@ -105,6 +105,15 @@ SUMMARY:Columbia High School vs Montclair High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105678991@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
+SUMMARY:Montclair Kimberley Academy vs Governor Livingston High School (V
+ arsity Boys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102089072@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T180000
@@ -445,15 +454,6 @@ SUMMARY:Millburn High School vs Montclair Kimberley Academy (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105266529@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T160000
-DTEND;TZID=America/New_York:20270126T180000
-SUMMARY:Montclair High School at West Orange High School (Varsity Boys Bo
- ys Fencing)
-DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101342628@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T163000
@@ -479,6 +479,15 @@ DTEND;TZID=America/New_York:20270126T203000
 SUMMARY:Livingston High School at Montclair High School (Varsity Boys Boy
  s Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105266529@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T160000
+DTEND;TZID=America/New_York:20270127T180000
+SUMMARY:Montclair High School at West Orange High School (Varsity Boys Bo
+ ys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102089465@super-essex-conference
@@ -577,6 +586,15 @@ DTEND;TZID=America/New_York:20270204T180000
 SUMMARY:Montclair Kimberley Academy vs Saint Benedict's Prep (Varsity Boy
  s Boys Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105680086@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T183000
+DTEND;TZID=America/New_York:20270204T203000
+SUMMARY:Millburn High School at Chatham High School (Varsity Boys Boys Fe
+ ncing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104312147@super-essex-conference

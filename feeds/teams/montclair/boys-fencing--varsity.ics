@@ -116,15 +116,6 @@ SUMMARY:Montclair High School vs Kinnelon High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105266529@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T160000
-DTEND;TZID=America/New_York:20270126T180000
-SUMMARY:Montclair High School at West Orange High School (Varsity Boys Bo
- ys Fencing)
-DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104312131@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T183000
@@ -132,6 +123,15 @@ DTEND;TZID=America/New_York:20270126T203000
 SUMMARY:Livingston High School at Montclair High School (Varsity Boys Boy
  s Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105266529@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T160000
+DTEND;TZID=America/New_York:20270127T180000
+SUMMARY:Montclair High School at West Orange High School (Varsity Boys Bo
+ ys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104979068@super-essex-conference

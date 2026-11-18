@@ -1168,15 +1168,6 @@ SUMMARY:Bloomfield High School vs Malcolm X Shabazz High School (Varsity
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100569786@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270107T160000
-DTEND;TZID=America/New_York:20270107T180000
-SUMMARY:Malcolm X Shabazz High School at Saint Vincent Academy (Varsity G
- irls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100549107@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T173000
@@ -1184,6 +1175,15 @@ DTEND;TZID=America/New_York:20270107T193000
 SUMMARY:Bloomfield High School vs Malcolm X Shabazz High School (Junior V
  arsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100569786@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T160000
+DTEND;TZID=America/New_York:20270108T180000
+SUMMARY:Malcolm X Shabazz High School at Saint Vincent Academy (Varsity G
+ irls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104241156@super-essex-conference
@@ -1408,11 +1408,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100569695@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T130000
-DTEND;TZID=America/New_York:20270123T150000
+DTSTART;TZID=America/New_York:20270122T163000
+DTEND;TZID=America/New_York:20270122T183000
 SUMMARY:Malcolm X Shabazz High School vs Saint Vincent Academy (Varsity G
  irls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549374@super-essex-conference

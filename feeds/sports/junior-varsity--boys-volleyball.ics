@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:43483:7763030@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270317T173000
+DTEND;TZID=America/New_York:20270317T193000
+SUMMARY:Newark School of Global Studies at Newark School of Data Science 
+ and Technology (Junior Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102615150@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270322T171500
@@ -1085,6 +1094,15 @@ SUMMARY:Newark Lab High School at Newark School of Global Studies (Junior
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:43483:7763053@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270413T173000
+DTEND;TZID=America/New_York:20270413T193000
+SUMMARY:Newark School of Global Studies at Technology High School (Junior
+  Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102405290@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T171500
@@ -1389,6 +1407,15 @@ DTEND;TZID=America/New_York:20270505T191500
 SUMMARY:Millburn High School at Payne Tech (Junior Varsity Boys Boys Voll
  eyball)
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43483:7763042@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270505T173000
+DTEND;TZID=America/New_York:20270505T193000
+SUMMARY:Newark School of Global Studies at Newark School of Data Science 
+ and Technology (Junior Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102466505@super-essex-conference

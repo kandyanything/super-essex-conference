@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:43483:7588702@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260821T160000
+DTEND;TZID=America/New_York:20260821T180000
+SUMMARY:Newark School of Global Studies vs Weequahic High School (Varsity
+  Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102680658@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260824T100000
@@ -1745,6 +1754,15 @@ SUMMARY:Mount Saint Dominic Academy vs Governor Livingston High School (J
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:43483:7600946@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T140000
+DTEND;TZID=America/New_York:20260831T160000
+SUMMARY:Newark School of Global Studies at Hillside High School (Varsity 
+ Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99059055@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260831T160000
@@ -2665,6 +2683,15 @@ SUMMARY:Newark Tech at Morris County School of Technology (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:43483:7600988@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T160000
+DTEND;TZID=America/New_York:20260908T180000
+SUMMARY:Newark School of Global Studies at Newark School of Data Science 
+ and Technology (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101412258@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260908T161500
@@ -2932,6 +2959,15 @@ DTSTART;TZID=America/New_York:20260909T160000
 DTEND;TZID=America/New_York:20260909T180000
 SUMMARY:Verona High School at Morris Knolls High School (Varsity Girls Gi
  rls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43483:7600991@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T160000
+DTEND;TZID=America/New_York:20260909T180000
+SUMMARY:Newark School of Global Studies at West Side High School (Varsity
+  Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -3580,6 +3616,15 @@ SUMMARY:Payne Tech vs West Caldwell Tech (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:43483:7581212@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260912T100000
+DTEND;TZID=America/New_York:20260912T120000
+SUMMARY:Newark School of Global Studies at American History High School (
+ Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99178964@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260912T113000
@@ -3653,6 +3698,15 @@ DTEND;TZID=America/New_York:20260912T133000
 SUMMARY:Payne Tech vs West Caldwell Tech (Junior Varsity Girls Girls Voll
  eyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43483:7581277@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260912T113000
+DTEND;TZID=America/New_York:20260912T133000
+SUMMARY:Newark School of Global Studies at American History High School (
+ Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100744998@super-essex-conference
@@ -3906,6 +3960,15 @@ DTEND;TZID=America/New_York:20260914T183000
 SUMMARY:Newark Lab High School vs Weequahic High School (Varsity Girls Gi
  rls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43483:7589425@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T170000
+DTEND;TZID=America/New_York:20260914T190000
+SUMMARY:Newark School of Global Studies vs University High School (Junior
+  Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99248894@super-essex-conference
@@ -5343,6 +5406,15 @@ DTEND;TZID=America/New_York:20260921T180000
 SUMMARY:Saint Vincent Academy at Weequahic High School (Varsity Girls Gir
  ls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43483:7601050@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260921T160000
+DTEND;TZID=America/New_York:20260921T180000
+SUMMARY:Newark School of Global Studies vs KIPP Newark Lab High School (V
+ arsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99167439@super-essex-conference
@@ -7592,6 +7664,15 @@ SUMMARY:West Side High School vs Lincoln High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:43483:7495478@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T163000
+DTEND;TZID=America/New_York:20261001T183000
+SUMMARY:Newark School of Global Studies at Beloved Charter (Varsity Girls
+  Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102661637@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T171500
@@ -8446,6 +8527,15 @@ SUMMARY:Malcolm X Shabazz High School at Newark Lab High School (Junior V
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:43483:7603244@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T173000
+DTEND;TZID=America/New_York:20261005T193000
+SUMMARY:Newark School of Global Studies vs West Side High School (Junior 
+ Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102568481@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T160000
@@ -8779,6 +8869,15 @@ SUMMARY:[Canceled] Barringer High School vs Lincoln High School (Varsity
  Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43483:7589459@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T170000
+DTEND;TZID=America/New_York:20261007T190000
+SUMMARY:Newark School of Global Studies at University High School (Junior
+  Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100665042@super-essex-conference
@@ -9313,6 +9412,15 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:43483:7603270@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T163000
+DTEND;TZID=America/New_York:20261009T183000
+SUMMARY:Newark School of Global Studies at Central Jersey College Prep Ch
+ arter School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104598474@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T170000
@@ -9429,6 +9537,15 @@ DTEND;TZID=America/New_York:20261009T193000
 SUMMARY:West Orange High School at Passaic County Tech Institute (Junior 
  Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43483:7603278@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T174500
+DTEND;TZID=America/New_York:20261009T194500
+SUMMARY:Newark School of Global Studies at Central Jersey College Prep Ch
+ arter School (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104598427@super-essex-conference
@@ -11498,6 +11615,15 @@ SUMMARY:West Essex High School vs Mountain Lakes High School (Junior Vars
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:43483:7588719@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Newark School of Global Studies vs Weequahic High School (Varsity
+  Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99062249@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T161500
@@ -12955,6 +13081,15 @@ DTEND;TZID=America/New_York:20261102T183000
 SUMMARY:Verona High School vs Emerson Jr.-Sr. High School (Varsity Girls 
  Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43483:7728368@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T163000
+DTEND;TZID=America/New_York:20261102T183000
+SUMMARY:Newark School of Global Studies at Highland Park High School (Var
+ sity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105050497@super-essex-conference

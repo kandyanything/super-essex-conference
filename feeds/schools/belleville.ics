@@ -2147,8 +2147,8 @@ UID:arb:102899934@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T190000
 DTEND;TZID=America/New_York:20261222T210000
-SUMMARY:Belleville High School vs College Achieve Central Charter School 
- (Varsity Boys Boys Basketball)
+SUMMARY:Belleville High School vs COLLEGE ACHIEVE GREATER ASBURY PARK CHA
+ RTER SCHOOL (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2681,15 +2681,6 @@ SUMMARY:Belleville High School at Cedar Grove High School (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100567913@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T113000
-DTEND;TZID=America/New_York:20270123T133000
-SUMMARY:Belleville High School at Newark School of Global Studies (Varsit
- y Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100551834@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T113000
@@ -2697,6 +2688,24 @@ DTEND;TZID=America/New_York:20270123T133000
 SUMMARY:Belleville High School at Cedar Grove High School (Varsity Boys B
  oys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100567913@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T130000
+DTEND;TZID=America/New_York:20270123T150000
+SUMMARY:Belleville High School at Newark School of Global Studies (Varsit
+ y Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43483:7665009@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T133000
+DTEND;TZID=America/New_York:20270123T153000
+SUMMARY:Newark School of Global Studies vs Belleville High School (Varsit
+ y Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105089451@super-essex-conference
@@ -4002,6 +4011,15 @@ SUMMARY:Belleville High School at Cedar Grove High School (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102581025@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270428T160000
+DTEND;TZID=America/New_York:20270428T180000
+SUMMARY:Belleville High School at Verona High School (Varsity Girls Softb
+ all)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102567707@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270428T160000
@@ -4097,15 +4115,6 @@ DTEND;TZID=America/New_York:20270505T180000
 SUMMARY:Belleville High School vs Bloomfield High School (Freshman Boys B
  oys Volleyball)
 DESCRIPTION:Freshman Boys Boys Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102581025@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270505T160000
-DTEND;TZID=America/New_York:20270505T180000
-SUMMARY:Belleville High School at Verona High School (Varsity Girls Softb
- all)
-DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102407559@super-essex-conference

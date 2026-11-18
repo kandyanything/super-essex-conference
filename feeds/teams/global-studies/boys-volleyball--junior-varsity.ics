@@ -1,0 +1,152 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Super Essex Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Super Essex Conference — Newark School of Global Studies Jun
+ ior Varsity Boys Volleyball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ds:43483:7763030@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270317T173000
+DTEND;TZID=America/New_York:20270317T193000
+SUMMARY:Newark School of Global Studies at Newark School of Data Science 
+ and Technology (Junior Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102660923@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270322T171500
+DTEND;TZID=America/New_York:20270322T191500
+SUMMARY:Newark Lab High School vs Newark School of Global Studies (Junior
+  Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105288809@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270324T173000
+DTEND;TZID=America/New_York:20270324T193000
+SUMMARY:University High School at Newark School of Global Studies (Junior
+  Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105288873@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270326T173000
+DTEND;TZID=America/New_York:20270326T193000
+SUMMARY:Saint Benedict's Prep at Newark School of Global Studies (Junior 
+ Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105290691@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270327T113000
+DTEND;TZID=America/New_York:20270327T133000
+SUMMARY:Newark Collegiate Academy at Newark School of Global Studies (Jun
+ ior Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105288897@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270403T113000
+DTEND;TZID=America/New_York:20270403T133000
+SUMMARY:Malcolm X Shabazz High School at Newark School of Global Studies 
+ (Junior Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102597450@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270407T171500
+DTEND;TZID=America/New_York:20270407T191500
+SUMMARY:Central High School vs Newark School of Global Studies (Junior Va
+ rsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105328736@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T173000
+DTEND;TZID=America/New_York:20270412T193000
+SUMMARY:Newark Lab High School at Newark School of Global Studies (Junior
+  Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43483:7763053@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270413T173000
+DTEND;TZID=America/New_York:20270413T193000
+SUMMARY:Newark School of Global Studies at Technology High School (Junior
+  Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102615524@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270416T171500
+DTEND;TZID=America/New_York:20270416T191500
+SUMMARY:University High School vs Newark School of Global Studies (Junior
+  Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102657535@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270430T171500
+DTEND;TZID=America/New_York:20270430T191500
+SUMMARY:Newark Collegiate Academy vs Newark School of Global Studies (Jun
+ ior Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43483:7763042@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270505T173000
+DTEND;TZID=America/New_York:20270505T193000
+SUMMARY:Newark School of Global Studies at Newark School of Data Science 
+ and Technology (Junior Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102592615@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270507T171500
+DTEND;TZID=America/New_York:20270507T191500
+SUMMARY:Malcolm X Shabazz High School vs Newark School of Global Studies 
+ (Junior Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105289236@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270514T173000
+DTEND;TZID=America/New_York:20270514T193000
+SUMMARY:Central High School at Newark School of Global Studies (Junior Va
+ rsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:30 PM
+END:VEVENT
+END:VCALENDAR

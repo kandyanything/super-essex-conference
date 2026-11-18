@@ -87,6 +87,15 @@ SUMMARY:Montclair High School vs Governor Livingston High School (Varsity
 DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105679046@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
+SUMMARY:Montclair Kimberley Academy vs Governor Livingston High School (V
+ arsity Girls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104767299@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T183000
@@ -535,6 +544,15 @@ DTEND;TZID=America/New_York:20270204T180000
 SUMMARY:Montclair Kimberley Academy vs Saint Benedict's Prep (Varsity Gir
  ls Girls Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105680174@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T183000
+DTEND;TZID=America/New_York:20270204T203000
+SUMMARY:Millburn High School at Chatham High School (Varsity Girls Girls 
+ Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104312153@super-essex-conference
