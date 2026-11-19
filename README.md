@@ -68,9 +68,9 @@ Then open **http://localhost:9200**.
 ## Schedule pipeline (automatic)
 
 40 schools are on **ArbiterLive** (each entity ID lives in `scripts/arbiter-schools.json`).
-Newark School of Global Studies is on **DigitalSports** (`DS_SCHOOLS` in
-`scripts/build-schedule.js`). American History High School and West Caldwell Tech have no
-online schedule hooked up yet; their games still appear wherever an opponent lists them.
+Newark School of Global Studies and West Caldwell Tech are on **DigitalSports** (`DS_SCHOOLS`
+in `scripts/build-schedule.js`). American History High School has no online schedule yet;
+its games still appear wherever an opponent lists them.
 
 - Full rebuild: `node scripts/build-schedule.js` → writes `data/schedule.json`
 - Split for the site: `node scripts/split-schedule.js` → writes `data/schedule/`
