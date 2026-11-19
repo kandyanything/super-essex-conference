@@ -5,10 +5,10 @@
 // Run: node scripts/build-schedule.js [startDate] [endDate]
 // Dates are M/D-tolerant strings in the form YYYY-M-D.
 //
-// Covers the 42 member schools: 40 on ArbiterLive (arbiter-schools.json) and
+// Covers the 43 member schools: 40 on ArbiterLive (arbiter-schools.json) and
 // Newark School of Global Studies on DigitalSports (DS_SCHOOLS below).
-// American History High School has no online schedule yet - its games still
-// appear wherever an opponent lists them. Update these lists if a school
+// American History High School and West Caldwell Tech have no online schedule
+// hooked up yet - their games still appear wherever an opponent lists them. Update these lists if a school
 // moves platform or a new schedule link turns up.
 //
 // Athletic events only. Practices, scrimmages, transport, club meetings,

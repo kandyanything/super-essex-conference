@@ -1,6 +1,6 @@
 # Super Essex Conference — Website
 
-Static website for the **Super Essex Conference (SEC)** — 42 member high schools in
+Static website for the **Super Essex Conference (SEC)** — 43 member high schools in
 Essex County, New Jersey. **Live at https://secconferencenj.com**
 
 This repo is fully self-contained. Everything the site serves is here; there is no
@@ -69,8 +69,8 @@ Then open **http://localhost:9200**.
 
 40 schools are on **ArbiterLive** (each entity ID lives in `scripts/arbiter-schools.json`).
 Newark School of Global Studies is on **DigitalSports** (`DS_SCHOOLS` in
-`scripts/build-schedule.js`). American History High School has no online schedule yet;
-its games still appear wherever an opponent lists them.
+`scripts/build-schedule.js`). American History High School and West Caldwell Tech have no
+online schedule hooked up yet; their games still appear wherever an opponent lists them.
 
 - Full rebuild: `node scripts/build-schedule.js` → writes `data/schedule.json`
 - Split for the site: `node scripts/split-schedule.js` → writes `data/schedule/`

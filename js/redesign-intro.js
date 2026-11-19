@@ -2,7 +2,7 @@
 // balls (each landing with a squash-and-settle), then flips into the Super Essex
 // compass, which arrives on a burst of light + a shockwave ring + a shine sweep
 // and keeps drifting toward the viewer (Ken Burns) while "BIG NORTH CONFERENCE /
-// 42 SCHOOLS - ONE CONFERENCE" fades in. Finally the crest flies up and docks
+// 43 SCHOOLS - ONE CONFERENCE" fades in. Finally the crest flies up and docks
 // into the site's header logo as the veil clears - the intro becomes the page.
 // Plays once per session, skips on a click, honours reduced-motion, and always
 // removes itself (a hard timeout guarantees the veil can never linger). Add
@@ -118,7 +118,7 @@
         ctx.font = '600 ' + Math.min(W * 0.022, 20) + 'px "Oswald","Arial Narrow",system-ui,sans-serif';
         ctx.fillStyle = '#c3c9d1';
         try { ctx.letterSpacing = '3px'; } catch (e) {}
-        ctx.fillText('42 SCHOOLS · ONE CONFERENCE', cx, cy + R * 2.4);
+        ctx.fillText('43 SCHOOLS · ONE CONFERENCE', cx, cy + R * 2.4);
         try { ctx.letterSpacing = '0px'; } catch (e) {}
         ctx.restore();
     }
