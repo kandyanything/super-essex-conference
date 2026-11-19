@@ -187,24 +187,6 @@ SUMMARY:Technology High School at West Caldwell Tech (Varsity Boys Boys S
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7521431@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T160000
-DTEND;TZID=America/New_York:20260908T180000
-SUMMARY:West Caldwell Tech at West Orange High School (Varsity Coed Coed 
- Cross Country)
-DESCRIPTION:Varsity Coed Coed Cross Country - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:42244:7559364@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T160000
-DTEND;TZID=America/New_York:20260908T180000
-SUMMARY:West Caldwell Tech at Dover High School (Freshman Girls Girls Vol
- leyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:42244:7554742@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260908T160000
@@ -221,6 +203,24 @@ DTEND;TZID=America/New_York:20260908T180000
 SUMMARY:West Caldwell Tech vs Dover High School (Varsity Girls Girls Voll
  eyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:42244:7521431@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T160000
+DTEND;TZID=America/New_York:20260908T180000
+SUMMARY:West Caldwell Tech at West Orange High School (Varsity Coed Coed 
+ Cross Country)
+DESCRIPTION:Varsity Coed Coed Cross Country - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:42244:7559364@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T160000
+DTEND;TZID=America/New_York:20260908T180000
+SUMMARY:West Caldwell Tech at Dover High School (Freshman Girls Girls Vol
+ leyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:42244:7564775@super-essex-conference
@@ -247,15 +247,6 @@ DTEND;TZID=America/New_York:20260909T180000
 SUMMARY:Saint Benedict's Prep vs West Caldwell Tech (Varsity Girls Girls 
  Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:42244:7542235@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260909T160000
-DTEND;TZID=America/New_York:20260909T180000
-SUMMARY:West Caldwell Tech at St. Benedict&apos\;s Prep School (Varsity G
- irls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99065566@super-essex-conference
@@ -489,15 +480,6 @@ SUMMARY:Irvington High School at West Caldwell Tech (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7558323@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Newark School of Global Studies at West Caldwell Tech (Varsity Bo
- ys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:42244:7558323@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T161500
@@ -642,21 +624,12 @@ SUMMARY:Central High School vs West Caldwell Tech (Junior Varsity Girls G
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99059332@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T160000
-DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Saint Benedict's Prep at West Caldwell Tech (Varsity Girls Girls 
- Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:42244:7542179@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
 DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:West Caldwell Tech vs St. Benedict&apos\;s Prep School (Varsity G
- irls Girls Volleyball)
+SUMMARY:West Caldwell Tech vs Saint Benedict's Prep (Varsity Girls Girls 
+ Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -687,21 +660,12 @@ SUMMARY:West Caldwell Tech vs East Side High School (Varsity Coed Coed Cr
 DESCRIPTION:Varsity Coed Coed Cross Country - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100662325@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261009T160000
-DTEND;TZID=America/New_York:20261009T180000
-SUMMARY:Newark Collegiate Academy at West Caldwell Tech (Varsity Boys Boy
- s Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:42244:7541041@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T160000
 DTEND;TZID=America/New_York:20261009T180000
-SUMMARY:West Caldwell Tech vs KIPP Newark Collegiate Academy (Varsity Boy
- s Boys Soccer)
+SUMMARY:West Caldwell Tech vs Newark Collegiate Academy (Varsity Boys Boy
+ s Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1401,15 +1365,6 @@ SUMMARY:Newark School of Global Studies vs West Caldwell Tech (Varsity Bo
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7566492@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T130000
-DTEND;TZID=America/New_York:20270109T150000
-SUMMARY:West Caldwell Tech at Newark School of Global Studies (Varsity Bo
- ys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:43483:7752494@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T143000
@@ -1417,15 +1372,6 @@ DTEND;TZID=America/New_York:20270109T163000
 SUMMARY:Newark School of Global Studies vs West Caldwell Tech (Junior Var
  sity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 2:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:42244:7752494@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T143000
-DTEND;TZID=America/New_York:20270109T163000
-SUMMARY:West Caldwell Tech at Newark School of Global Studies (Junior Var
- sity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:42244:7647275@super-essex-conference

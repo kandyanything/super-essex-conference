@@ -113,6 +113,15 @@ SUMMARY:Montclair High School at De Paul Catholic High School (Freshman B
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105070222@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Nutley High School at Elmwood Park High School (Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105506485@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T160000
@@ -365,15 +374,6 @@ DTEND;TZID=America/New_York:20261208T180000
 SUMMARY:Montclair Kimberley Academy vs Newark Lab High School (Varsity Bo
  ys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105070222@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T160000
-DTEND;TZID=America/New_York:20261208T180000
-SUMMARY:Nutley High School at Elmwood Park High School (Varsity Boys Boys
-  Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104159419@super-essex-conference
@@ -5025,15 +5025,6 @@ SUMMARY:Newark School of Global Studies vs West Caldwell Tech (Varsity Bo
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7566492@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T130000
-DTEND;TZID=America/New_York:20270109T150000
-SUMMARY:West Caldwell Tech at Newark School of Global Studies (Varsity Bo
- ys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103894411@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T134000
@@ -5068,15 +5059,6 @@ DTEND;TZID=America/New_York:20270109T163000
 SUMMARY:Newark School of Global Studies vs West Caldwell Tech (Junior Var
  sity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 2:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:42244:7752494@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T143000
-DTEND;TZID=America/New_York:20270109T163000
-SUMMARY:West Caldwell Tech at Newark School of Global Studies (Junior Var
- sity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104241295@super-essex-conference
@@ -9371,6 +9353,15 @@ DTSTART;TZID=America/New_York:20270206T100000
 DTEND;TZID=America/New_York:20270206T120000
 SUMMARY:Belleville High School vs Kearny High School (Freshman Boys Boys 
  Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105696490@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T100000
+DTEND;TZID=America/New_York:20270206T120000
+SUMMARY:Nutley High School vs Dumont High School (Freshman Boys Boys Bask
+ etball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT

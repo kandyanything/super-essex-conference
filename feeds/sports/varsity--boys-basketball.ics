@@ -77,6 +77,15 @@ SUMMARY:East Orange Campus High School vs Irvington High School (Varsity
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105070222@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Nutley High School at Elmwood Park High School (Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105307064@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T161500
@@ -211,15 +220,6 @@ DTEND;TZID=America/New_York:20261208T180000
 SUMMARY:Montclair Kimberley Academy vs Newark Lab High School (Varsity Bo
  ys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105070222@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T160000
-DTEND;TZID=America/New_York:20261208T180000
-SUMMARY:Nutley High School at Elmwood Park High School (Varsity Boys Boys
-  Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104159419@super-essex-conference
@@ -2276,15 +2276,6 @@ DTEND;TZID=America/New_York:20270109T150000
 SUMMARY:Newark School of Global Studies vs West Caldwell Tech (Varsity Bo
  ys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:42244:7566492@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T130000
-DTEND;TZID=America/New_York:20270109T150000
-SUMMARY:West Caldwell Tech at Newark School of Global Studies (Varsity Bo
- ys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103894411@super-essex-conference

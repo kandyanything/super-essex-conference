@@ -2382,6 +2382,15 @@ SUMMARY:Nutley High School vs Cranford High School (Varsity Boys Boys Ice
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105070222@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Nutley High School at Elmwood Park High School (Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105068040@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T160000
@@ -2425,15 +2434,6 @@ DTEND;TZID=America/New_York:20261208T174500
 SUMMARY:Irvington High School at Nutley High School (Varsity Boys Boys Bo
  wling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105070222@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T160000
-DTEND;TZID=America/New_York:20261208T180000
-SUMMARY:Nutley High School at Elmwood Park High School (Varsity Boys Boys
-  Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104187253@super-essex-conference
@@ -4003,6 +4003,15 @@ DTEND;TZID=America/New_York:20270204T210000
 SUMMARY:Bloomfield High School vs Nutley High School (Varsity Boys Boys B
  asketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105696490@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T100000
+DTEND;TZID=America/New_York:20270206T120000
+SUMMARY:Nutley High School vs Dumont High School (Freshman Boys Boys Bask
+ etball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105069042@super-essex-conference

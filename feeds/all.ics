@@ -8147,24 +8147,6 @@ SUMMARY:Newark School of Global Studies at Newark School of Data Science
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7521431@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T160000
-DTEND;TZID=America/New_York:20260908T180000
-SUMMARY:West Caldwell Tech at West Orange High School (Varsity Coed Coed 
- Cross Country)
-DESCRIPTION:Varsity Coed Coed Cross Country - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:42244:7559364@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T160000
-DTEND;TZID=America/New_York:20260908T180000
-SUMMARY:West Caldwell Tech at Dover High School (Freshman Girls Girls Vol
- leyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:42244:7554742@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260908T160000
@@ -8181,6 +8163,24 @@ DTEND;TZID=America/New_York:20260908T180000
 SUMMARY:West Caldwell Tech vs Dover High School (Varsity Girls Girls Voll
  eyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:42244:7521431@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T160000
+DTEND;TZID=America/New_York:20260908T180000
+SUMMARY:West Caldwell Tech at West Orange High School (Varsity Coed Coed 
+ Cross Country)
+DESCRIPTION:Varsity Coed Coed Cross Country - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:42244:7559364@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T160000
+DTEND;TZID=America/New_York:20260908T180000
+SUMMARY:West Caldwell Tech at Dover High School (Freshman Girls Girls Vol
+ leyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101412258@super-essex-conference
@@ -9138,15 +9138,6 @@ DTEND;TZID=America/New_York:20260909T180000
 SUMMARY:West Essex High School at Academy-Notre Dame De Namur (Varsity Gi
  rls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:42244:7542235@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260909T160000
-DTEND;TZID=America/New_York:20260909T180000
-SUMMARY:West Caldwell Tech at St. Benedict&apos\;s Prep School (Varsity G
- irls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:43483:7601009@super-essex-conference
@@ -20891,15 +20882,6 @@ SUMMARY:Newark Tech vs Payne Tech (Junior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7558323@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Newark School of Global Studies at West Caldwell Tech (Varsity Bo
- ys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:42244:7558323@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T161500
@@ -26894,15 +26876,6 @@ DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:99059332@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T160000
-DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Saint Benedict's Prep at West Caldwell Tech (Varsity Girls Girls 
- Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100759638@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
@@ -26961,8 +26934,8 @@ UID:ds:42244:7542179@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
 DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:West Caldwell Tech vs St. Benedict&apos\;s Prep School (Varsity G
- irls Girls Volleyball)
+SUMMARY:West Caldwell Tech vs Saint Benedict's Prep (Varsity Girls Girls 
+ Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -28407,15 +28380,6 @@ SUMMARY:Montclair High School vs Northern Highlands Regional High School
 DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100662325@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261009T160000
-DTEND;TZID=America/New_York:20261009T180000
-SUMMARY:Newark Collegiate Academy at West Caldwell Tech (Varsity Boys Boy
- s Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102984188@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T160000
@@ -28493,8 +28457,8 @@ UID:ds:42244:7541041@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T160000
 DTEND;TZID=America/New_York:20261009T180000
-SUMMARY:West Caldwell Tech vs KIPP Newark Collegiate Academy (Varsity Boy
- s Boys Soccer)
+SUMMARY:West Caldwell Tech vs Newark Collegiate Academy (Varsity Boys Boy
+ s Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -41740,6 +41704,15 @@ SUMMARY:Mount Saint Dominic Academy vs Villa Walsh Academy (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105070222@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Nutley High School at Elmwood Park High School (Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105068040@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T160000
@@ -42217,15 +42190,6 @@ DTEND;TZID=America/New_York:20261208T180000
 SUMMARY:Newark Academy vs Morristown-Beard School (Varsity Girls Girls Ba
  sketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105070222@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T160000
-DTEND;TZID=America/New_York:20261208T180000
-SUMMARY:Nutley High School at Elmwood Park High School (Varsity Boys Boys
-  Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104607054@super-essex-conference
@@ -53168,15 +53132,6 @@ SUMMARY:Newark School of Global Studies vs West Caldwell Tech (Varsity Bo
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7566492@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T130000
-DTEND;TZID=America/New_York:20270109T150000
-SUMMARY:West Caldwell Tech at Newark School of Global Studies (Varsity Bo
- ys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103894411@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T134000
@@ -53239,15 +53194,6 @@ DTEND;TZID=America/New_York:20270109T163000
 SUMMARY:Newark School of Global Studies vs West Caldwell Tech (Junior Var
  sity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 2:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:42244:7752494@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T143000
-DTEND;TZID=America/New_York:20270109T163000
-SUMMARY:West Caldwell Tech at Newark School of Global Studies (Junior Var
- sity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105330559@super-essex-conference
@@ -64452,6 +64398,15 @@ SUMMARY:Millburn High School at West Essex High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105696490@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T100000
+DTEND;TZID=America/New_York:20270206T120000
+SUMMARY:Nutley High School vs Dumont High School (Freshman Boys Boys Bask
+ etball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104834854@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T100000
@@ -68168,15 +68123,6 @@ DTEND;TZID=America/New_York:20270320T150000
 SUMMARY:Bloomfield High School vs Hoboken High School (Varsity Boys Baseb
  all)
 DESCRIPTION:Varsity Boys Baseball - Home - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104954661@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270320T140000
-DTEND;TZID=America/New_York:20270320T160000
-SUMMARY:Livingston High School at Warren Hills Regional High School (Vars
- ity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105138372@super-essex-conference
