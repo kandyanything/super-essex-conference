@@ -38,6 +38,7 @@ const ALIASES = {
     'essex county newark tech': 'newark-tech',
     'essex county donald m payne tech': 'payne-tech',
     'essex county payne tech': 'payne-tech',
+    'essex county west caldwell tech': 'west-caldwell-tech',
     'global studies': 'global-studies',
     'kipp newark lab': 'newark-lab',
     'newark central': 'central',
