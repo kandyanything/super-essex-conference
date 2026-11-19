@@ -2530,9 +2530,10 @@ UID:arb:105214279@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T163000
 DTEND;TZID=America/New_York:20261211T183000
-SUMMARY:Nutley High School at Lakeland Regional High School (Varsity Girl
- s Girls Basketball)
+SUMMARY:[Canceled] Nutley High School at Lakeland Regional High School (V
+ arsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105016879@super-essex-conference
@@ -2705,6 +2706,14 @@ SUMMARY:Nutley High School vs Montclair High School (Varsity Boys Boys Ic
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105697540@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T100000
+DTEND;TZID=America/New_York:20261217T120000
+SUMMARY:Nutley High School vs TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100567177@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T160000
@@ -2748,6 +2757,14 @@ DTEND;TZID=America/New_York:20261217T210000
 SUMMARY:Nutley High School vs Weequahic High School (Varsity Boys Boys Ba
  sketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105697580@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T100000
+DTEND;TZID=America/New_York:20261218T120000
+SUMMARY:Nutley High School at TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105200028@super-essex-conference
@@ -2899,6 +2916,14 @@ SUMMARY:Nutley High School at TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105697656@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T143000
+DTEND;TZID=America/New_York:20261223T163000
+SUMMARY:Nutley High School vs TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103805762@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261223T200000
@@ -3004,6 +3029,14 @@ SUMMARY:Nutley High School at TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105697789@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270103T090000
+DTEND;TZID=America/New_York:20270103T110000
+SUMMARY:Nutley High School at TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104188753@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T183000
@@ -3092,6 +3125,15 @@ DTEND;TZID=America/New_York:20270106T174500
 SUMMARY:Belleville High School vs Nutley High School (Varsity Boys Boys B
  owling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105697813@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T170000
+DTEND;TZID=America/New_York:20270106T190000
+SUMMARY:Nutley High School at Saint Benedict's Prep (Varsity Girls Girls 
+ Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104508468@super-essex-conference
@@ -4012,6 +4054,15 @@ DTEND;TZID=America/New_York:20270206T120000
 SUMMARY:Nutley High School vs Dumont High School (Freshman Boys Boys Bask
  etball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105696568@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T123000
+DTEND;TZID=America/New_York:20270206T143000
+SUMMARY:Nutley High School vs Dumont High School (Junior Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105069042@super-essex-conference

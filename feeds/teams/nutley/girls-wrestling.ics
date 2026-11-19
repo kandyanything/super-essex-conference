@@ -23,6 +23,22 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:105697540@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T100000
+DTEND;TZID=America/New_York:20261217T120000
+SUMMARY:Nutley High School vs TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105697580@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T100000
+DTEND;TZID=America/New_York:20261218T120000
+SUMMARY:Nutley High School at TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102037698@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261220T090000
@@ -30,6 +46,31 @@ DTEND;TZID=America/New_York:20261220T110000
 SUMMARY:Belleville High School at Bloomfield High School (Varsity Girls G
  irls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105697656@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T143000
+DTEND;TZID=America/New_York:20261223T163000
+SUMMARY:Nutley High School vs TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105697789@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270103T090000
+DTEND;TZID=America/New_York:20270103T110000
+SUMMARY:Nutley High School at TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105697813@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T170000
+DTEND;TZID=America/New_York:20270106T190000
+SUMMARY:Nutley High School at Saint Benedict's Prep (Varsity Girls Girls 
+ Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103169507@super-essex-conference
