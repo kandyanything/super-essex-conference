@@ -41,6 +41,7 @@ const ALIASES = {
     'essex county west caldwell tech': 'west-caldwell-tech',
     'global studies': 'global-studies',
     'kipp newark lab': 'newark-lab',
+    'kipp newark collegiate academy': 'newark-collegiate',
     'newark central': 'central',
     'newark global studies': 'global-studies',
     'seton hall preparatory': 'seton-hall-prep',

@@ -49,9 +49,14 @@ function parseTitle(title) {
 // separator, and "TBA" appears where a time should be. Rather than assume the
 // marker is at the front, find it wherever it is and read from there.
 function parseDescription(desc) {
+    // The feed HTML-escapes names ("St. Benedict&apos;s"), which would stop
+    // them matching a member school, so decode the common entities too.
     const txt = String(desc || '')
         .replace(/<[^>]*>/g, ' ')
         .replace(/&nbsp;/gi, ' ')
+        .replace(/&(?:apos|#0*39|#x0*27|rsquo|lsquo);/gi, "'")
+        .replace(/&(?:quot|#0*34|ldquo|rdquo);/gi, '"')
+        .replace(/&(?:ndash|mdash);/gi, '-')
         .replace(/&amp;/gi, '&')
         .replace(/\s+/g, ' ')
         .trim();
