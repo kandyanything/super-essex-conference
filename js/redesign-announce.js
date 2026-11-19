@@ -20,6 +20,13 @@
 // and "iconLogo" (an image path) puts that logo in the circle with the runner badge under it.
 // An item with "photo" is drawn as a large team-photo card (the team picture on top,
 // the school and title under it); "icon": "trophy" puts a trophy badge on top.
+//
+// Feature photo: "layout": "hero" with "hero": { "photo", "alt", "tag" } puts one
+// big photo across the top (slow zoom, gold "tag" pill, "Photo Gallery" chip),
+// "logo" on a badge where the photo meets the card, and the photo itself links to
+// "linkUrl" like the main button. Under the button: "Maybe later" (this visit
+// only) and "dismissLabel" ("Don't show again" - for good, with mode
+// "acknowledge").
 (function () {
     'use strict';
 
@@ -149,9 +156,44 @@
         '.ann-champ strong{display:block;font-family:var(--font-display,inherit);font-size:1.05rem;line-height:1.1;color:#14181c;text-transform:uppercase;}' +
         '.ann-champ small{display:block;color:#6b7380;font-size:.78rem;margin-top:2px;}' +
         '.ann-card--wide .ann-actions{justify-content:center;}' +
-        '@media (prefers-reduced-motion:reduce){.ann-backdrop,.ann-card{transition:none;}}';
+        // ---- "hero" feature-photo layout ----
+        '.ann-card--hero{max-width:520px;border-radius:18px;text-align:center;}' +
+        '.ann-hero{position:relative;display:block;aspect-ratio:16/10;overflow:hidden;background:#0e2038;cursor:pointer;}' +
+        '.ann-hero img{display:block;width:100%;height:100%;object-fit:cover;transform:scale(1.001);transition:transform 7s ease-out;}' +
+        '.ann-backdrop.is-open .ann-hero img{transform:scale(1.07);}' +
+        '.ann-hero::after{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(180deg,rgba(14,32,56,.35) 0%,rgba(14,32,56,0) 28%,rgba(14,32,56,0) 55%,rgba(14,32,56,.78) 100%);}' +
+        '.ann-hero-line{position:absolute;left:0;right:0;bottom:0;height:4px;z-index:2;background:linear-gradient(90deg,#8a6204,#f3c75a 50%,#8a6204);}' +
+        '.ann-tag{position:absolute;left:14px;top:14px;z-index:2;display:inline-flex;align-items:center;gap:7px;padding:7px 13px 7px 9px;border-radius:999px;' +
+        'background:linear-gradient(135deg,#f6d27a,#c99212 55%,#a37204);color:#14181c;font:700 .74rem/1 var(--font-display,system-ui);letter-spacing:.14em;text-transform:uppercase;box-shadow:0 6px 16px rgba(0,0,0,.35);}' +
+        '.ann-tag svg{width:16px;height:16px;}' +
+        '.ann-chip{position:absolute;right:14px;bottom:18px;z-index:2;display:inline-flex;align-items:center;gap:7px;padding:7px 12px;border-radius:999px;' +
+        'background:rgba(255,255,255,.16);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);border:1px solid rgba(255,255,255,.35);color:#fff;font:600 .78rem/1 var(--font-body,system-ui);letter-spacing:.04em;}' +
+        '.ann-chip svg{width:16px;height:16px;}' +
+        '.ann-card--hero .ann-x{top:12px;right:12px;z-index:4;width:38px;height:38px;padding:0;display:grid;place-items:center;border-radius:50%;color:#fff;background:rgba(14,32,56,.5);font-size:26px;}' +
+        '.ann-card--hero .ann-x:hover{background:rgba(14,32,56,.75);color:#fff;}' +
+        '.ann-badge{position:relative;z-index:3;width:128px;height:68px;margin:-34px auto 0;padding:8px 14px;border-radius:14px;background:#fff;' +
+        'box-shadow:0 0 0 3px #c99212,0 12px 26px rgba(14,32,56,.3);display:grid;place-items:center;}' +
+        '.ann-badge img{max-width:100%;max-height:100%;object-fit:contain;}' +
+        '.ann-card--hero .ann-eyebrow{margin:14px 26px 0;color:#9a6c04;}' +
+        '.ann-card--hero .ann-title{margin:6px 28px 8px;font-size:1.75rem;color:#0e2038;}' +
+        '.ann-card--hero .ann-body{margin:0 30px 20px;}' +
+        '.ann-card--hero .ann-actions{flex-direction:column;align-items:stretch;gap:4px;padding:0 30px 24px;}' +
+        '.ann-btn--gold{display:flex;align-items:center;justify-content:center;gap:10px;padding:14px 20px;border:0;color:#14181c;' +
+        'font-family:var(--font-display,inherit);font-weight:600;font-size:1.02rem;letter-spacing:.09em;text-transform:uppercase;' +
+        'background:linear-gradient(135deg,#f6d27a,#c99212 55%,#a37204);box-shadow:0 8px 20px rgba(163,114,4,.35);}' +
+        '.ann-btn--gold:hover{filter:brightness(1.06);transform:translateY(-1px);}' +
+        '.ann-btn--gold svg{width:20px;height:20px;flex:none;}' +
+        '.ann-sub{display:flex;justify-content:center;align-items:center;gap:4px;margin-top:6px;}' +
+        '.ann-sub span{color:#c3c7ce;font-size:.8rem;}' +
+        '.ann-btn--text{background:none;border:0;color:#666b74;font-size:.86rem;padding:8px;}' +
+        '.ann-btn--text:hover{color:#0e2038;text-decoration:underline;}' +
+        '@media (max-width:480px){.ann-card--hero .ann-title{font-size:1.45rem;margin:6px 20px 8px;}.ann-card--hero .ann-body{margin:0 22px 18px;}' +
+        '.ann-card--hero .ann-actions{padding:0 22px 20px;}.ann-badge{width:112px;height:60px;margin-top:-30px;}.ann-chip{display:none;}}' +
+        '@media (prefers-reduced-motion:reduce){.ann-backdrop,.ann-card{transition:none;}.ann-hero img{transition:none;}}';
     /* a runner, for cross country (Material "directions_run", Apache 2.0) */
     var TROPHY = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M19 5h-2V3H7v2H5C3.9 5 3 5.9 3 7v1c0 2.55 1.92 4.63 4.39 4.94A5.01 5.01 0 0 0 11 15.9V19H7v2h10v-2h-4v-3.1a5.01 5.01 0 0 0 3.61-2.96C19.08 12.63 21 10.55 21 8V7c0-1.1-.9-2-2-2zM5 8V7h2v3.82C5.84 10.4 5 9.3 5 8zm14 0c0 1.3-.84 2.4-2 2.82V7h2v1z"/></svg>';
+    var CAMERA = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 8h3l2-3h6l2 3h3a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1z"/><circle cx="12" cy="13" r="3.6"/></svg>';
+    var GALLERY = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="15" height="13" rx="2"/><path d="M3 15l4-4 4 4 3-3 4 4"/><path d="M21 8v11a2 2 0 0 1-2 2H7"/></svg>';
     var RUNNER = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.49 5.48c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm-3.6 13.9l1-4.4 2.1 2v6h2v-7.5l-2.1-2 .6-3c1.3 1.5 3.3 2.5 5.5 2.5v-2c-1.9 0-3.5-1-4.3-2.4l-1-1.6c-.4-.6-1-1-1.7-1-.3 0-.5.1-.8.1l-5.2 2.2v4.7h2v-3.4l1.8-.7-1.6 8.1-4.9-1-.4 2 7 1.4z"/></svg>';
 
     function render(a, id, mode, force) {
@@ -164,11 +206,29 @@
         back.id = 'sec-announce'; back.className = 'ann-backdrop';
         back.setAttribute('role', 'dialog'); back.setAttribute('aria-modal', 'true'); back.setAttribute('aria-labelledby', 'ann-title');
 
-        var card = document.createElement('div'); card.className = 'ann-card' + ((a.champions || []).some(function (g) { return (g.items || []).some(function (c) { return c.photo; }); }) ? ' ann-card--photos' : a.champions ? ' ann-card--wide' : '');
-        var bar = document.createElement('div'); bar.className = 'ann-bar';
+        var isHero = a.layout === 'hero' && a.hero && a.hero.photo;
+        var card = document.createElement('div'); card.className = 'ann-card' + (isHero ? ' ann-card--hero' : (a.champions || []).some(function (g) { return (g.items || []).some(function (c) { return c.photo; }); }) ? ' ann-card--photos' : a.champions ? ' ann-card--wide' : '');
         var x = document.createElement('button'); x.className = 'ann-x'; x.type = 'button'; x.setAttribute('aria-label', 'Close'); x.innerHTML = '&times;';
-        card.appendChild(bar); card.appendChild(x);
-        if (a.icon === 'trophy') {
+        var heroLink = null;
+        if (isHero) {
+            heroLink = document.createElement(a.linkUrl ? 'a' : 'div'); heroLink.className = 'ann-hero';
+            if (a.linkUrl) {
+                heroLink.href = a.linkUrl;
+                if (/^https?:/i.test(a.linkUrl)) { heroLink.target = '_blank'; heroLink.rel = 'noopener'; }
+                heroLink.setAttribute('aria-label', (a.linkLabel || 'View the photos') + ' - ' + a.title);
+            }
+            var hi = document.createElement('img'); hi.src = a.hero.photo; hi.alt = a.hero.alt || ''; heroLink.appendChild(hi);
+            if (a.hero.tag) { var tg = document.createElement('span'); tg.className = 'ann-tag'; tg.innerHTML = TROPHY; tg.appendChild(document.createTextNode(a.hero.tag)); heroLink.appendChild(tg); }
+            var chip = document.createElement('span'); chip.className = 'ann-chip'; chip.innerHTML = CAMERA; chip.appendChild(document.createTextNode(a.hero.chip || 'Photo Gallery')); heroLink.appendChild(chip);
+            var line = document.createElement('span'); line.className = 'ann-hero-line'; heroLink.appendChild(line);
+            card.appendChild(heroLink); card.appendChild(x);
+            if (a.logo) { var bd = document.createElement('div'); bd.className = 'ann-badge'; var bi = document.createElement('img'); bi.src = a.logo; bi.alt = a.logoAlt || ''; bd.appendChild(bi); card.appendChild(bd); }
+        } else {
+            var bar = document.createElement('div'); bar.className = 'ann-bar';
+            card.appendChild(bar); card.appendChild(x);
+        }
+        if (isHero) { /* no icon badge - the photo leads */ }
+        else if (a.icon === 'trophy') {
             var tr = document.createElement('div'); tr.className = 'ann-trophy';
             tr.innerHTML = '<span>' + TROPHY + '</span>';
             card.appendChild(tr);
@@ -218,15 +278,27 @@
 
         var actions = document.createElement('div'); actions.className = 'ann-actions';
         if (a.linkUrl) {
-            var link = document.createElement('a'); link.className = 'ann-btn ann-btn--primary';
-            link.href = a.linkUrl; link.textContent = a.linkLabel || 'Learn More';
+            var link = document.createElement('a'); link.className = 'ann-btn ' + (isHero ? 'ann-btn--gold' : 'ann-btn--primary');
+            link.href = a.linkUrl;
+            if (isHero) link.innerHTML = GALLERY;
+            link.appendChild(document.createTextNode(a.linkLabel || 'Learn More'));
             if (/^https?:/i.test(a.linkUrl)) { link.target = '_blank'; link.rel = 'noopener'; }
             link.addEventListener('click', function () { dismiss(true); });   // engaging with the CTA counts as received
             actions.appendChild(link);
         }
-        var got = document.createElement('button'); got.type = 'button'; got.className = 'ann-btn ann-btn--ghost';
-        got.textContent = mode === 'acknowledge' ? "Don't show this again" : (a.linkUrl ? 'Dismiss' : 'Got it');
-        actions.appendChild(got);
+        var got = document.createElement('button'); got.type = 'button'; got.className = 'ann-btn ' + (isHero ? 'ann-btn--text' : 'ann-btn--ghost');
+        got.textContent = a.dismissLabel || (mode === 'acknowledge' ? "Don't show this again" : (a.linkUrl ? 'Dismiss' : 'Got it'));
+        var later = null;
+        if (isHero) {
+            var sub = document.createElement('div'); sub.className = 'ann-sub';
+            later = document.createElement('button'); later.type = 'button'; later.className = 'ann-btn ann-btn--text';
+            later.textContent = a.laterLabel || 'Maybe later';
+            var dot = document.createElement('span'); dot.setAttribute('aria-hidden', 'true'); dot.textContent = '\u2022';
+            sub.appendChild(later); sub.appendChild(dot); sub.appendChild(got);
+            actions.appendChild(sub);
+        } else {
+            actions.appendChild(got);
+        }
         card.appendChild(actions);
 
         back.appendChild(card);
@@ -252,6 +324,8 @@
         }
         x.addEventListener('click', function () { dismiss(false); });
         got.addEventListener('click', function () { dismiss(true); });
+        if (later) later.addEventListener('click', function () { dismiss(false); });
+        if (heroLink && a.linkUrl) heroLink.addEventListener('click', function () { dismiss(true); });
         back.addEventListener('click', function (e) { if (e.target === back) dismiss(false); });
         document.addEventListener('keydown', onKey);
     }
