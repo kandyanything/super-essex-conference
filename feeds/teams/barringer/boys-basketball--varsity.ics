@@ -37,19 +37,19 @@ UID:arb:103675590@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T161500
 DTEND;TZID=America/New_York:20261209T181500
-SUMMARY:Barringer High School at Newark Academy (Varsity Boys Boys Basket
- ball)
+SUMMARY:[Canceled] Barringer High School at Newark Academy (Varsity Boys 
+ Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105582546@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T160000
 DTEND;TZID=America/New_York:20261210T180000
-SUMMARY:[Canceled] Barringer High School at Newark Academy (Varsity Boys 
- Boys Basketball)
+SUMMARY:Barringer High School at Newark Academy (Varsity Boys Boys Basket
+ ball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553575@super-essex-conference
@@ -74,8 +74,8 @@ UID:arb:100553580@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T130000
 DTEND;TZID=America/New_York:20261219T150000
-SUMMARY:Barringer High School vs Essex County-West Caldwell Tech High Sch
- ool (Varsity Boys Boys Basketball)
+SUMMARY:Barringer High School vs West Caldwell Tech (Varsity Boys Boys Ba
+ sketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -140,6 +140,15 @@ DTEND;TZID=America/New_York:20270121T180000
 SUMMARY:Barringer High School at Technology High School (Varsity Boys Boy
  s Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105692157@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T130000
+DTEND;TZID=America/New_York:20270123T150000
+SUMMARY:Barringer High School vs North Bergen High School (Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553590@super-essex-conference

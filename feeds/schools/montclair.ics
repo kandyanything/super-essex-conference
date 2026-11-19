@@ -204,6 +204,15 @@ SUMMARY:Montclair High School at Elizabeth High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:42244:7573412@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260827T160000
+DTEND;TZID=America/New_York:20260827T180000
+SUMMARY:West Caldwell Tech vs Montclair High School (Varsity Coed Coed Cr
+ oss Country)
+DESCRIPTION:Varsity Coed Coed Cross Country - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101719202@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260828T100000
@@ -5811,6 +5820,24 @@ DTEND;TZID=America/New_York:20270426T180000
 SUMMARY:Montclair High School vs Montclair Kimberley Academy (Varsity Boy
  s Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105690179@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T163000
+DTEND;TZID=America/New_York:20270427T183000
+SUMMARY:Montclair High School vs James J. Ferris High School (Varsity Boy
+ s Boys Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105690203@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T173000
+DTEND;TZID=America/New_York:20270427T193000
+SUMMARY:Montclair High School vs James J. Ferris High School (Junior Vars
+ ity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102569396@super-essex-conference

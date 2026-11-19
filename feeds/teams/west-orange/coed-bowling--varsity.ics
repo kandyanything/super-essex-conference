@@ -24,6 +24,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:42244:7684891@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T154500
+DTEND;TZID=America/New_York:20261207T174500
+SUMMARY:West Caldwell Tech vs West Orange High School (Varsity Coed Coed 
+ Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105139949@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T160000
@@ -31,5 +40,23 @@ DTEND;TZID=America/New_York:20261222T180000
 SUMMARY:West Orange High School at Morris Knolls High School (Varsity Coe
  d Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:42244:7685003@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T154500
+DTEND;TZID=America/New_York:20270111T174500
+SUMMARY:West Caldwell Tech vs West Orange High School (Varsity Coed Coed 
+ Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:42244:7685058@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T154500
+DTEND;TZID=America/New_York:20270128T174500
+SUMMARY:West Caldwell Tech vs West Orange High School (Varsity Coed Coed 
+ Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Home - 3:45 PM
 END:VEVENT
 END:VCALENDAR

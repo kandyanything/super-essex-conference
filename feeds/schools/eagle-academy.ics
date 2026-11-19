@@ -107,12 +107,12 @@ DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103672262@super-essex-conference
+UID:ds:42244:7540716@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T160000
 DTEND;TZID=America/New_York:20260925T180000
-SUMMARY:Eagle Academy at West Caldwell Tech (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+SUMMARY:West Caldwell Tech vs Eagle Academy (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101698161@super-essex-conference
@@ -130,6 +130,15 @@ DTEND;TZID=America/New_York:20260929T170000
 SUMMARY:Belleville High School at Eagle Academy (Varsity Boys Boys Cross 
  Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:42244:7545697@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:West Caldwell Tech vs Eagle Academy (Varsity Coed Coed Cross Coun
+ try)
+DESCRIPTION:Varsity Coed Coed Cross Country - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100662876@super-essex-conference

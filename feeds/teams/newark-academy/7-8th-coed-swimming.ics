@@ -23,6 +23,23 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:105695279@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T153000
+DTEND;TZID=America/New_York:20270113T173000
+SUMMARY:Newark Academy vs Morristown-Beard School (7/8th Coed Swimming)
+DESCRIPTION:7/8th Coed Swimming - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105695306@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T153000
+DTEND;TZID=America/New_York:20270127T173000
+SUMMARY:Newark Academy vs Pope John XXIII High School (7/8th Coed Swimmin
+ g)
+DESCRIPTION:7/8th Coed Swimming - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104771423@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270210T153000
@@ -30,6 +47,14 @@ DTEND;TZID=America/New_York:20270210T173000
 SUMMARY:Newark Academy vs Pope John XXIII High School (7/8th Coed Swimmin
  g)
 DESCRIPTION:7/8th Coed Swimming - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105695663@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270210T154500
+DTEND;TZID=America/New_York:20270210T174500
+SUMMARY:Newark Academy vs Kent Place School (7/8th Coed Swimming)
+DESCRIPTION:7/8th Coed Swimming - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105162064@super-essex-conference

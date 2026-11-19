@@ -307,9 +307,18 @@ UID:ds:43483:7558323@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T161500
 DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Newark School of Global Studies at Essex County West Caldwell Tec
- h (Varsity Boys Boys Soccer)
+SUMMARY:Newark School of Global Studies at West Caldwell Tech (Varsity Bo
+ ys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:42244:7558323@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:West Caldwell Tech vs Newark School of Global Studies (Varsity Bo
+ ys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99167485@super-essex-conference
@@ -828,15 +837,6 @@ SUMMARY:Nutley High School at Newark School of Global Studies (Junior Var
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104508042@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T144500
-DTEND;TZID=America/New_York:20261219T164500
-SUMMARY:Nutley High School vs Newark School of Global Studies (Junior Var
- sity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 2:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:43483:7692153@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T161500
@@ -958,18 +958,36 @@ UID:ds:43483:7566492@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T130000
 DTEND;TZID=America/New_York:20270109T150000
-SUMMARY:Newark School of Global Studies vs Essex County West Caldwell Tec
- h (Varsity Boys Boys Basketball)
+SUMMARY:Newark School of Global Studies vs West Caldwell Tech (Varsity Bo
+ ys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:42244:7566492@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T130000
+DTEND;TZID=America/New_York:20270109T150000
+SUMMARY:West Caldwell Tech at Newark School of Global Studies (Varsity Bo
+ ys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:43483:7752494@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T143000
 DTEND;TZID=America/New_York:20270109T163000
-SUMMARY:Newark School of Global Studies vs Essex County West Caldwell Tec
- h (Junior Varsity Boys Boys Basketball)
+SUMMARY:Newark School of Global Studies vs West Caldwell Tech (Junior Var
+ sity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:42244:7752494@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T143000
+DTEND;TZID=America/New_York:20270109T163000
+SUMMARY:West Caldwell Tech at Newark School of Global Studies (Junior Var
+ sity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551517@super-essex-conference

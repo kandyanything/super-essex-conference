@@ -50,6 +50,15 @@ SUMMARY:Orange High School at West Caldwell Tech (Varsity Girls Girls Vol
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:42244:7543955@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T100000
+DTEND;TZID=America/New_York:20260825T120000
+SUMMARY:West Caldwell Tech vs Orange High School (Freshman Girls Girls Vo
+ lleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102879445@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260825T110000
@@ -1565,8 +1574,8 @@ UID:arb:100569472@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T160000
 DTEND;TZID=America/New_York:20270114T180000
-SUMMARY:Orange High School vs Essex County-West Caldwell Tech High School
-  (Varsity Girls Girls Basketball)
+SUMMARY:Orange High School vs West Caldwell Tech (Varsity Girls Girls Bas
+ ketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1930,13 +1939,13 @@ SUMMARY:Bloomfield High School at Orange High School (Varsity Boys Boys B
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100569394@super-essex-conference
+UID:ds:42244:7567491@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T160000
 DTEND;TZID=America/New_York:20270211T180000
-SUMMARY:Orange High School at Essex County-West Caldwell Tech High School
-  (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+SUMMARY:West Caldwell Tech vs Orange High School (Varsity Girls Girls Bas
+ ketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549275@super-essex-conference

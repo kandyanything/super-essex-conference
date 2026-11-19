@@ -2477,6 +2477,15 @@ SUMMARY:Verona High School vs Morris Knolls High School (Junior Varsity G
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105691812@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261213T100000
+DTEND;TZID=America/New_York:20261213T120000
+SUMMARY:Bloomfield High School vs Verona High School (Varsity Girls Girls
+  Track & Field - Outdoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Outdoor - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105636579@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261213T100000
@@ -2591,6 +2600,15 @@ DTEND;TZID=America/New_York:20261217T223000
 SUMMARY:Bloomfield High School at Verona High School (Varsity Boys Boys S
  wimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 8:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105692071@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T160000
+DTEND;TZID=America/New_York:20261218T180000
+SUMMARY:Verona High School at TBD (Varsity Girls Girls Track & Field - Ou
+ tdoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Outdoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105636695@super-essex-conference
@@ -2755,12 +2773,30 @@ SUMMARY:Millburn High School vs Verona High School (Freshman Boys Boys Ba
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105689475@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T180000
+DTEND;TZID=America/New_York:20261229T200000
+SUMMARY:Verona High School at Lakeland Regional High School (Varsity Boys
+  Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103045028@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261229T200000
 DTEND;TZID=America/New_York:20261229T220000
 SUMMARY:Verona High School vs TBD (Varsity Boys Boys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 8:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105692181@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261230T100000
+DTEND;TZID=America/New_York:20261230T120000
+SUMMARY:Bloomfield High School vs Verona High School (Varsity Girls Girls
+  Track & Field - Outdoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Outdoor - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105636795@super-essex-conference
@@ -2979,6 +3015,15 @@ SUMMARY:Verona High School vs Cranford High School (Varsity Boys Boys Ice
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105692392@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T160000
+DTEND;TZID=America/New_York:20270111T180000
+SUMMARY:Verona High School at TBD (Varsity Girls Girls Track & Field - Ou
+ tdoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Outdoor - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105637275@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T160000
@@ -3040,6 +3085,15 @@ DTEND;TZID=America/New_York:20270112T193000
 SUMMARY:University High School at Verona High School (Junior Varsity Boys
   Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105692846@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T160000
+DTEND;TZID=America/New_York:20270113T180000
+SUMMARY:Verona High School at TBD (Varsity Girls Girls Track & Field - Ou
+ tdoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Outdoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105637669@super-essex-conference
@@ -3260,6 +3314,15 @@ SUMMARY:Payne Tech at Verona High School (Junior Varsity Girls Girls Bask
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105692992@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T160000
+DTEND;TZID=America/New_York:20270120T180000
+SUMMARY:Verona High School at TBD (Varsity Girls Girls Track & Field - Ou
+ tdoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Outdoor - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105637620@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T160000
@@ -3385,6 +3448,15 @@ SUMMARY:Seton Hall Prep vs Verona High School (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105693241@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T163000
+DTEND;TZID=America/New_York:20270126T183000
+SUMMARY:Verona High School at TBD (Varsity Girls Girls Track & Field - Ou
+ tdoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Outdoor - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100562975@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T163000
@@ -3446,6 +3518,15 @@ DTEND;TZID=America/New_York:20270129T180000
 SUMMARY:Montclair Kimberley Academy at Verona High School (Freshman Boys 
  Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105693296@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T090000
+DTEND;TZID=America/New_York:20270130T110000
+SUMMARY:Verona High School at TBD (Varsity Girls Girls Track & Field - Ou
+ tdoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Outdoor - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105637867@super-essex-conference
@@ -3563,6 +3644,15 @@ DTEND;TZID=America/New_York:20270206T110000
 SUMMARY:Belleville High School at Verona High School (Varsity Boys Boys W
  restling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105693384@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270207T100000
+DTEND;TZID=America/New_York:20270207T120000
+SUMMARY:Verona High School at TBD (Varsity Girls Girls Track & Field - Ou
+ tdoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Outdoor - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105637918@super-essex-conference
@@ -3698,6 +3788,15 @@ DTEND;TZID=America/New_York:20270218T183000
 SUMMARY:Verona High School vs Fort Lee High School (Freshman Boys Boys Ba
  sketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105693493@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T100000
+DTEND;TZID=America/New_York:20270220T120000
+SUMMARY:Verona High School at TBD (Varsity Girls Girls Track & Field - Ou
+ tdoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Outdoor - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105637965@super-essex-conference

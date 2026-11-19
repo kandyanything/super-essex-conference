@@ -393,15 +393,6 @@ SUMMARY:Nutley High School at Newark School of Global Studies (Junior Var
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104508042@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T144500
-DTEND;TZID=America/New_York:20261219T164500
-SUMMARY:Nutley High School vs Newark School of Global Studies (Junior Var
- sity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 2:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103740098@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T150000
@@ -508,15 +499,6 @@ DTEND;TZID=America/New_York:20261227T153000
 SUMMARY:Cedar Grove High School at James Caldwell High School (Junior Var
  sity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 1:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105305596@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261230T013000
-DTEND;TZID=America/New_York:20261230T033000
-SUMMARY:Millburn High School vs Union High School (Junior Varsity Girls G
- irls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 1:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102274666@super-essex-conference
@@ -875,6 +857,15 @@ DTSTART;TZID=America/New_York:20270109T113000
 DTEND;TZID=America/New_York:20270109T133000
 SUMMARY:Verona High School at James Caldwell High School (Junior Varsity 
  Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:42244:7591855@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T113000
+DTEND;TZID=America/New_York:20270109T133000
+SUMMARY:West Caldwell Tech at Science Park High School (Junior Varsity Gi
+ rls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT

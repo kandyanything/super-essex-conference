@@ -1490,6 +1490,15 @@ SUMMARY:Columbia High School at Belleville High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:42244:7678269@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:West Caldwell Tech at Belleville High School (Junior Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104757211@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
@@ -1954,13 +1963,13 @@ SUMMARY:Belleville High School vs Technology High School (Varsity Girls G
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100552023@super-essex-conference
+UID:ds:42244:7566370@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T160000
 DTEND;TZID=America/New_York:20261215T180000
-SUMMARY:Belleville High School at Essex County-West Caldwell Tech High Sc
- hool (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+SUMMARY:West Caldwell Tech vs Belleville High School (Varsity Boys Boys B
+ asketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100586008@super-essex-conference
@@ -1972,13 +1981,13 @@ SUMMARY:Belleville High School vs Technology High School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100552307@super-essex-conference
+UID:ds:42244:7752488@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T173000
 DTEND;TZID=America/New_York:20261215T193000
-SUMMARY:Belleville High School at Essex County-West Caldwell Tech High Sc
- hool (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+SUMMARY:West Caldwell Tech vs Belleville High School (Junior Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104521328@super-essex-conference
@@ -2260,15 +2269,6 @@ SUMMARY:Belleville High School at Irvington High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100569366@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270107T160000
-DTEND;TZID=America/New_York:20270107T180000
-SUMMARY:Belleville High School at Essex County-West Caldwell Tech High Sc
- hool (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100553382@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T160000
@@ -2276,6 +2276,15 @@ DTEND;TZID=America/New_York:20270107T180000
 SUMMARY:Belleville High School vs Weequahic High School (Freshman Boys Bo
  ys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:42244:7567381@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T160000
+DTEND;TZID=America/New_York:20270107T180000
+SUMMARY:West Caldwell Tech vs Belleville High School (Varsity Girls Girls
+  Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553346@super-essex-conference
@@ -2399,8 +2408,8 @@ UID:arb:100553310@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T160000
 DTEND;TZID=America/New_York:20270112T180000
-SUMMARY:Belleville High School vs Essex County-West Caldwell Tech High Sc
- hool (Varsity Boys Boys Basketball)
+SUMMARY:Belleville High School vs West Caldwell Tech (Varsity Boys Boys B
+ asketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2417,8 +2426,8 @@ UID:arb:100553354@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T173000
 DTEND;TZID=America/New_York:20270112T193000
-SUMMARY:Belleville High School vs Essex County-West Caldwell Tech High Sc
- hool (Junior Varsity Boys Boys Basketball)
+SUMMARY:Belleville High School vs West Caldwell Tech (Junior Varsity Boys
+  Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2748,8 +2757,8 @@ UID:arb:100568611@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T160000
 DTEND;TZID=America/New_York:20270126T180000
-SUMMARY:Belleville High School vs Essex County-West Caldwell Tech High Sc
- hool (Varsity Girls Girls Basketball)
+SUMMARY:Belleville High School vs West Caldwell Tech (Varsity Girls Girls
+  Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -4192,8 +4201,8 @@ UID:arb:102634780@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270512T160000
 DTEND;TZID=America/New_York:20270512T180000
-SUMMARY:Belleville High School vs Essex County-West Caldwell Tech High Sc
- hool (Freshman Boys Boys Volleyball)
+SUMMARY:Belleville High School vs West Caldwell Tech (Freshman Boys Boys 
+ Volleyball)
 DESCRIPTION:Freshman Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT

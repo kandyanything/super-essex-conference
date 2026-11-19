@@ -2843,6 +2843,15 @@ SUMMARY:Millburn High School at Randolph High School (Varsity Boys Boys S
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:42244:7684874@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261203T154500
+DTEND;TZID=America/New_York:20261203T174500
+SUMMARY:West Caldwell Tech vs Millburn High School (Varsity Coed Coed Bow
+ ling)
+DESCRIPTION:Varsity Coed Coed Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103476484@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261204T154500
@@ -3067,6 +3076,15 @@ DTEND;TZID=America/New_York:20261216T223500
 SUMMARY:Millburn High School at Arthur L. Johnson High School (Varsity Bo
  ys Boys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 8:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:42244:7684919@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T154500
+DTEND;TZID=America/New_York:20261217T174500
+SUMMARY:West Caldwell Tech vs Millburn High School (Varsity Coed Coed Bow
+ ling)
+DESCRIPTION:Varsity Coed Coed Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100563678@super-essex-conference
@@ -3300,15 +3318,6 @@ DTEND;TZID=America/New_York:20261229T120000
 SUMMARY:Millburn High School vs Verona High School (Freshman Boys Boys Ba
  sketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105305596@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261230T013000
-DTEND;TZID=America/New_York:20261230T033000
-SUMMARY:Millburn High School vs Union High School (Junior Varsity Girls G
- irls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 1:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102648381@super-essex-conference
@@ -4021,6 +4030,15 @@ DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:42244:7685041@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T154500
+DTEND;TZID=America/New_York:20270125T174500
+SUMMARY:West Caldwell Tech vs Millburn High School (Varsity Coed Coed Bow
+ ling)
+DESCRIPTION:Varsity Coed Coed Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104979026@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T183000
@@ -4498,28 +4516,28 @@ SUMMARY:Livingston High School at Millburn High School (Junior Varsity Bo
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100913150@super-essex-conference
+UID:arb:105693784@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270218T160000
-DTEND;TZID=America/New_York:20270218T180000
-SUMMARY:Millburn High School vs New Providence High School (Freshman Boys
-  Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100913142@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270218T160000
-DTEND;TZID=America/New_York:20270218T180000
+DTSTART;TZID=America/New_York:20270217T160000
+DTEND;TZID=America/New_York:20270217T180000
 SUMMARY:Millburn High School vs New Providence High School (Varsity Boys 
  Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100913143@super-essex-conference
+UID:arb:105693754@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270218T173000
-DTEND;TZID=America/New_York:20270218T193000
+DTSTART;TZID=America/New_York:20270217T160000
+DTEND;TZID=America/New_York:20270217T180000
+SUMMARY:Millburn High School vs New Providence High School (Freshman Boys
+  Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105693769@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270217T173000
+DTEND;TZID=America/New_York:20270217T193000
 SUMMARY:Millburn High School vs New Providence High School (Junior Varsit
  y Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM

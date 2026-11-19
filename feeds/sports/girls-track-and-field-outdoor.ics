@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Super Essex Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Super Essex Conference — Girls Track & Field - Outdoor
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:105691812@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261213T100000
+DTEND;TZID=America/New_York:20261213T120000
+SUMMARY:Bloomfield High School vs Verona High School (Varsity Girls Girls
+  Track & Field - Outdoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Outdoor - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105692071@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T160000
+DTEND;TZID=America/New_York:20261218T180000
+SUMMARY:Verona High School at TBD (Varsity Girls Girls Track & Field - Ou
+ tdoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Outdoor - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105692181@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261230T100000
+DTEND;TZID=America/New_York:20261230T120000
+SUMMARY:Bloomfield High School vs Verona High School (Varsity Girls Girls
+  Track & Field - Outdoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Outdoor - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105692392@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T160000
+DTEND;TZID=America/New_York:20270111T180000
+SUMMARY:Verona High School at TBD (Varsity Girls Girls Track & Field - Ou
+ tdoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Outdoor - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105692846@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T160000
+DTEND;TZID=America/New_York:20270113T180000
+SUMMARY:Verona High School at TBD (Varsity Girls Girls Track & Field - Ou
+ tdoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Outdoor - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105692992@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T160000
+DTEND;TZID=America/New_York:20270120T180000
+SUMMARY:Verona High School at TBD (Varsity Girls Girls Track & Field - Ou
+ tdoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Outdoor - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105693241@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T163000
+DTEND;TZID=America/New_York:20270126T183000
+SUMMARY:Verona High School at TBD (Varsity Girls Girls Track & Field - Ou
+ tdoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Outdoor - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105693296@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T090000
+DTEND;TZID=America/New_York:20270130T110000
+SUMMARY:Verona High School at TBD (Varsity Girls Girls Track & Field - Ou
+ tdoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Outdoor - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105693384@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270207T100000
+DTEND;TZID=America/New_York:20270207T120000
+SUMMARY:Verona High School at TBD (Varsity Girls Girls Track & Field - Ou
+ tdoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Outdoor - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105693493@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T100000
+DTEND;TZID=America/New_York:20270220T120000
+SUMMARY:Verona High School at TBD (Varsity Girls Girls Track & Field - Ou
+ tdoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Outdoor - Away - 10:00 AM
+END:VEVENT
+END:VCALENDAR
