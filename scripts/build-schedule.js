@@ -235,14 +235,16 @@ function dedupe(events) {
     return crossSourceMerge(out.concat([...byFixture.values()]));
 }
 
-// Pass 3: a school on DigitalSports and its opponent on ArbiterLive each list
-// the same game, under different ids and often a slightly different start
-// time (4:00 at one, 4:30 at the other) or spelling ("Newark Central High
-// School" for Central) - so passes 1 and 2 miss it and it shows twice. Match
-// those across sources only, one-to-one, on date, sport, level, gender and the
-// pair of schools, nearest start time first. Never within a single source, so
-// a genuine doubleheader stays two games. The home school's own listing wins,
-// since it is the one that sets the start time.
+// Pass 3: two schools each list the same game, under different ids and often
+// a slightly different start time (4:00 at one, 4:30 at the other) or
+// spelling ("Newark Central High School" for Central) - so passes 1 and 2
+// miss it and it shows twice. That happens whenever either school is on a
+// platform without shared game ids (DigitalSports), including two
+// DigitalSports schools playing each other. Match listings made by DIFFERENT
+// schools, one-to-one, on date, sport, level, gender and the pair of schools,
+// nearest start time first. Two games listed by the same school are never
+// merged, so a genuine doubleheader stays two games. The home school's own
+// listing wins, since it is the one that sets the start time.
 const CROSS_SOURCE_MAX_MINUTES = 180;
 
 function schoolKey(name) { return logoSlug(name) || norm(name); }
@@ -265,7 +267,11 @@ function crossSourceMerge(events) {
         for (let a = 0; a < idx.length; a++) {
             for (let b = a + 1; b < idx.length; b++) {
                 const x = events[idx[a]], y = events[idx[b]];
-                if (x.source === y.source) continue;
+                if (schoolKey(x.school) === schoolKey(y.school)) continue;
+                // ArbiterLive gives one id per game across schools, so pass 1
+                // already joined its real matches; two different ArbiterLive
+                // ids are two different games.
+                if (x.source === 'arbiterlive' && y.source === 'arbiterlive') continue;
                 const tx = minutesOf(x.time), ty = minutesOf(y.time);
                 const gap = tx === null || ty === null ? CROSS_SOURCE_MAX_MINUTES : Math.abs(tx - ty);
                 if (gap <= CROSS_SOURCE_MAX_MINUTES) candidates.push([gap, idx[a], idx[b]]);
