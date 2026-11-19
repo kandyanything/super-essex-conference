@@ -1,40 +1,26 @@
 {
-  "_comment": "Site-wide pop-up. mode 'acknowledge' shows it each visit until the visitor clicks 'Don't show this again'; closing with X or Esc dismisses for that session only. Change 'id' for a NEW message. Other modes: 'once', 'untilDate' (with endDate), 'always'. A message can also run for a set time: \"until\" (YYYY-MM-DD) ends it and \"then\" holds the announcement that takes over.",
+  "_comment": "Site-wide pop-up. mode 'acknowledge' shows it each visit until the visitor clicks 'Don't show this again'; closing with X or Esc dismisses for that session only. Change 'id' for a NEW message. Other modes: 'once', 'untilDate' (with endDate), 'always'. A message can also run for a set time: \"until\" (YYYY-MM-DD) ends it and \"then\" holds the announcement that takes over. layout 'hero' is the big-photo card: hero.photo/alt/tag, 'logo' badge, 'laterLabel' (this visit) and 'dismissLabel' (for good).",
   "active": true,
-  "id": "ect-champions-fall-2026-b",
-  "icon": "trophy",
-  "eyebrow": "Essex County Tournament Champions",
-  "title": "Congratulations, Champions!",
-  "body": "Three Essex County Tournament titles for Super Essex Conference schools.",
-  "champions": [
-    {
-      "items": [
-        {
-          "school": "St. Benedict's",
-          "division": "ECT Boys Soccer Champions",
-          "photo": "images/champions/st-benedicts-soccer-ect-2026.jpg",
-          "alt": "St. Benedict's soccer team and fans with the Essex County Tournament trophy at Caldwell's Bonnel Field"
-        },
-        {
-          "school": "Verona",
-          "division": "ECT Girls Volleyball Champions",
-          "photo": "images/champions/verona-volleyball-ect-2026.jpg",
-          "alt": "Verona girls volleyball team with the Essex County Tournament trophy and plaques"
-        },
-        {
-          "school": "Newark Academy",
-          "division": "ECT Girls Soccer Champions",
-          "photo": "images/champions/newark-academy-soccer-ect-2026.jpg",
-          "alt": "Newark Academy girls soccer team with the Essex County Tournament trophy and plaques at Caldwell's Bonnel Field"
-        }
-      ]
-    }
-  ],
-  "linkUrl": "",
-  "linkLabel": "",
+  "id": "championship-photos-2026-fall",
+  "layout": "hero",
+  "hero": {
+    "photo": "images/championship-photos/2026-fall/popup-hero.jpg",
+    "alt": "Players' hands raising a North I Group II football sectional championship plaque",
+    "tag": "2026 Fall Champions",
+    "chip": "Photo Gallery"
+  },
+  "logo": "images/sec-mark.png",
+  "logoAlt": "Super Essex Conference",
+  "eyebrow": "Now on the SEC Site",
+  "title": "Championship Photos",
+  "body": "Sectional and state champions from across the Super Essex Conference. See the photos!",
+  "linkUrl": "championship-photos.html",
+  "linkLabel": "View the Photos",
+  "laterLabel": "Maybe later",
+  "dismissLabel": "Don't show again",
   "mode": "acknowledge",
   "endDate": "",
-  "until": "2026-11-09",
+  "until": "2026-12-15",
   "then": {
     "active": true,
     "id": "welcome-2026",
