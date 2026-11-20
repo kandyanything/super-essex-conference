@@ -446,6 +446,15 @@ SUMMARY:West Caldwell Tech vs Wallington High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104746102@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T100000
+DTEND;TZID=America/New_York:20261212T120000
+SUMMARY:Cedar Grove High School at Lakeland Regional High School (Varsity
+  Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103675801@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T100000
@@ -543,6 +552,15 @@ DTEND;TZID=America/New_York:20261214T180000
 SUMMARY:Saint Vincent Academy vs Great Oaks Legacy Charter High School (V
  arsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105708700@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T161500
+DTEND;TZID=America/New_York:20261214T181500
+SUMMARY:Bloomfield High School at Park Ridge High School (Varsity Girls G
+ irls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100567601@super-essex-conference
@@ -1163,6 +1181,15 @@ DTEND;TZID=America/New_York:20261222T183000
 SUMMARY:Montclair Kimberley Academy at Newark Lab High School (Varsity Gi
  rls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105710632@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T163000
+DTEND;TZID=America/New_York:20261222T183000
+SUMMARY:West Side High School vs John F. Kennedy High School - Paterson (
+ Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103152051@super-essex-conference
@@ -3011,14 +3038,6 @@ DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100564804@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T120000
-DTEND;TZID=America/New_York:20270123T140000
-SUMMARY:Arts High School at Newark Tech (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100564092@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T120000
@@ -3026,6 +3045,14 @@ DTEND;TZID=America/New_York:20270123T140000
 SUMMARY:Newark Collegiate Academy at North Star Academy (Varsity Girls Gi
  rls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100564804@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T130000
+DTEND;TZID=America/New_York:20270123T150000
+SUMMARY:Arts High School at Newark Tech (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100567646@super-essex-conference

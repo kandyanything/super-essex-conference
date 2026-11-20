@@ -1633,15 +1633,6 @@ DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 9:00 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100564864@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T103000
-DTEND;TZID=America/New_York:20270123T123000
-SUMMARY:Arts High School at Newark Tech (Junior Varsity Girls Girls Baske
- tball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 10:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100542219@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T103000
@@ -1652,14 +1643,6 @@ DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:30 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100564804@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T120000
-DTEND;TZID=America/New_York:20270123T140000
-SUMMARY:Arts High School at Newark Tech (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100542108@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T120000
@@ -1668,6 +1651,23 @@ SUMMARY:[Canceled] Millburn High School vs Newark Tech (Varsity Boys Boys
   Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:00 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100564804@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T130000
+DTEND;TZID=America/New_York:20270123T150000
+SUMMARY:Arts High School at Newark Tech (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100564864@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T143000
+DTEND;TZID=America/New_York:20270123T163000
+SUMMARY:Arts High School at Newark Tech (Junior Varsity Girls Girls Baske
+ tball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100537243@super-essex-conference

@@ -1109,6 +1109,15 @@ SUMMARY:Orange High School vs West Essex High School (Freshman Boys Boys
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105706559@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T154500
+DTEND;TZID=America/New_York:20270109T174500
+SUMMARY:East Orange Campus High School at Rutgers Prep School (Freshman B
+ oys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100537219@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T160000
@@ -1198,6 +1207,15 @@ DTSTART;TZID=America/New_York:20270112T160000
 DTEND;TZID=America/New_York:20270112T180000
 SUMMARY:North Star Academy vs West Essex High School (Freshman Boys Boys 
  Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105707947@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T160000
+DTEND;TZID=America/New_York:20270112T180000
+SUMMARY:Saint Benedict's Prep vs Empowerment Academy Charter School (Fres
+ hman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1653,6 +1671,15 @@ DTEND;TZID=America/New_York:20270123T110000
 SUMMARY:Seton Hall Prep at James Caldwell High School (Freshman Boys Boys
   Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105708677@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T090000
+DTEND;TZID=America/New_York:20270123T110000
+SUMMARY:Verona High School vs Fair Lawn High School (Freshman Boys Boys B
+ asketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105686281@super-essex-conference
@@ -2356,6 +2383,15 @@ DTSTART;TZID=America/New_York:20270213T100000
 DTEND;TZID=America/New_York:20270213T120000
 SUMMARY:Irvington High School vs Hillside High School (Freshman Boys Boys
   Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105708244@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T100000
+DTEND;TZID=America/New_York:20270213T120000
+SUMMARY:Montclair High School vs North Star Academy (Freshman Boys Boys B
+ asketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT

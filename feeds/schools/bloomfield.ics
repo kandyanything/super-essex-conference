@@ -2684,6 +2684,15 @@ SUMMARY:Nutley High School vs Bloomfield High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105710983@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Bloomfield High School at Verona High School (Varsity Boys Boys B
+ asketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104931270@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T160000
@@ -2864,6 +2873,15 @@ DTEND;TZID=America/New_York:20261213T120000
 SUMMARY:Bloomfield High School vs Verona High School (Varsity Boys Boys T
  rack & Field - Outdoor)
 DESCRIPTION:Varsity Boys Boys Track & Field - Outdoor - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105708700@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T161500
+DTEND;TZID=America/New_York:20261214T181500
+SUMMARY:Bloomfield High School at Park Ridge High School (Varsity Girls G
+ irls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102615820@super-essex-conference
