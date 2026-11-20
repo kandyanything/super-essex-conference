@@ -1045,6 +1045,15 @@ SUMMARY:Seton Hall Prep at Christian Brothers Academy (Junior Varsity Boy
 DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Away - 3:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105714619@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T163000
+DTEND;TZID=America/New_York:20261218T183000
+SUMMARY:Seton Hall Prep at Blanche Ely High School (Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102072256@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T180000
@@ -1644,6 +1653,24 @@ DTEND;TZID=America/New_York:20270127T180000
 SUMMARY:Seton Hall Prep at West Orange High School (Varsity Boys Boys Swi
  mming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105717771@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T180000
+DTEND;TZID=America/New_York:20270127T200000
+SUMMARY:Seton Hall Prep vs Saint Peter's Prep High School (Junior Varsity
+  Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105717761@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T190000
+DTEND;TZID=America/New_York:20270127T210000
+SUMMARY:Seton Hall Prep vs Saint Peter's Prep High School (Varsity Boys B
+ oys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104717296@super-essex-conference

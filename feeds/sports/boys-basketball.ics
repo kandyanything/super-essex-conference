@@ -561,9 +561,10 @@ UID:arb:105652854@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T160000
 DTEND;TZID=America/New_York:20261209T180000
-SUMMARY:Bloomfield High School at Elizabeth High School (Varsity Boys Boy
- s Basketball)
+SUMMARY:[Canceled] Bloomfield High School at Elizabeth High School (Varsi
+ ty Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101242022@super-essex-conference
@@ -2302,6 +2303,15 @@ DTEND;TZID=America/New_York:20261218T181500
 SUMMARY:Bard Early College vs North Bergen High School (Freshman Boys Boy
  s Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105714619@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T163000
+DTEND;TZID=America/New_York:20261218T183000
+SUMMARY:Seton Hall Prep at Blanche Ely High School (Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104834517@super-essex-conference
@@ -6729,6 +6739,15 @@ SUMMARY:Barringer High School at Newark Lab High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105718356@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T170000
+DTEND;TZID=America/New_York:20270119T190000
+SUMMARY:Irvington High School vs Hillside High School (Middle School Boys
+  Boys Basketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100535903@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T171500
@@ -8098,16 +8117,6 @@ SUMMARY:Montclair Kimberley Academy vs Newark Academy (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101137718@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T160000
-DTEND;TZID=America/New_York:20270126T180000
-SUMMARY:[Canceled] Newark Academy at Governor Livingston High School (Jun
- ior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100536586@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T160000
@@ -8313,16 +8322,6 @@ DTEND;TZID=America/New_York:20270126T194500
 SUMMARY:Bard Early College at American History High School (Junior Varsit
  y Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101137724@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T180000
-DTEND;TZID=America/New_York:20270126T200000
-SUMMARY:[Canceled] Newark Academy at Governor Livingston High School (Var
- sity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104207850@super-essex-conference
@@ -10141,6 +10140,15 @@ DTEND;TZID=America/New_York:20270211T183000
 SUMMARY:Eagle Academy vs Newark School of Fashion and Design (Varsity Boy
  s Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105718502@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T170000
+DTEND;TZID=America/New_York:20270211T190000
+SUMMARY:Irvington High School at Hillside High School (Middle School Boys
+  Boys Basketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100535929@super-essex-conference

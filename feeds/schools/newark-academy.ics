@@ -3179,16 +3179,6 @@ SUMMARY:Montclair Kimberley Academy vs Newark Academy (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101137718@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T160000
-DTEND;TZID=America/New_York:20270126T180000
-SUMMARY:[Canceled] Newark Academy at Governor Livingston High School (Jun
- ior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100562481@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T160000
@@ -3241,16 +3231,6 @@ DTEND;TZID=America/New_York:20270126T193000
 SUMMARY:Newark Academy vs West Essex High School (Junior Varsity Girls Gi
  rls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101137724@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T180000
-DTEND;TZID=America/New_York:20270126T200000
-SUMMARY:[Canceled] Newark Academy at Governor Livingston High School (Var
- sity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105695306@super-essex-conference
@@ -3312,15 +3292,6 @@ DTEND;TZID=America/New_York:20270128T214500
 SUMMARY:Millburn High School vs Newark Academy (Varsity Boys Boys Swimmin
  g)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104869508@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270129T173000
-DTEND;TZID=America/New_York:20270129T193000
-SUMMARY:Newark Academy at Lawrenceville Prep (Varsity Girls Girls Basketb
- all)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105158671@super-essex-conference
@@ -3427,15 +3398,6 @@ SUMMARY:Montclair High School at Newark Academy (Junior Varsity Girls Gir
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105554215@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270205T170000
-DTEND;TZID=America/New_York:20270205T190000
-SUMMARY:Newark Academy at Union City High School (Varsity Boys Boys Wrest
- ling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104823682@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T170000
@@ -3471,14 +3433,6 @@ SUMMARY:Montclair High School at Newark Academy (Varsity Girls Girls Bask
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104082538@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270209T154500
-DTEND;TZID=America/New_York:20270209T174500
-SUMMARY:Newark Academy vs Kent Place School (7/8th Girls Basketball)
-DESCRIPTION:7/8th Girls Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100551699@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T160000
@@ -3495,6 +3449,14 @@ DTEND;TZID=America/New_York:20270209T180000
 SUMMARY:Newark Academy at Verona High School (Varsity Girls Girls Basketb
  all)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104082538@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T170000
+DTEND;TZID=America/New_York:20270209T190000
+SUMMARY:Newark Academy vs Kent Place School (7/8th Girls Basketball)
+DESCRIPTION:7/8th Girls Basketball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100551763@super-essex-conference

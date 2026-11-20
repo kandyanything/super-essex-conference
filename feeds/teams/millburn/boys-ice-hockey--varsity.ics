@@ -24,13 +24,22 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:105718923@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261130T194500
+DTEND;TZID=America/New_York:20261130T214500
+SUMMARY:Millburn High School vs Nutley High School (Varsity Boys Boys Ice
+  Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 7:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103476484@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261204T154500
-DTEND;TZID=America/New_York:20261204T174500
+DTSTART;TZID=America/New_York:20261204T174500
+DTEND;TZID=America/New_York:20261204T194500
 SUMMARY:Millburn High School at Montclair High School (Varsity Boys Boys 
  Ice Hockey)
-DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 3:45 PM
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102648343@super-essex-conference
@@ -49,6 +58,15 @@ DTEND;TZID=America/New_York:20261208T180000
 SUMMARY:Millburn High School vs Coop - Mountain Lakes High School & Boont
  on High School (Varsity Boys Boys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102783176@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T191500
+DTEND;TZID=America/New_York:20261212T211500
+SUMMARY:Millburn High School at Watchung Hills Reg High School (Varsity B
+ oys Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 7:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102648371@super-essex-conference
@@ -91,7 +109,8 @@ UID:arb:102648381@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261230T160000
 DTEND;TZID=America/New_York:20261230T180000
-SUMMARY:Millburn High School vs TBD (Varsity Boys Boys Ice Hockey)
+SUMMARY:Millburn High School vs Newton High School (Varsity Boys Boys Ice
+  Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -108,8 +127,10 @@ UID:arb:102648415@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T154500
 DTEND;TZID=America/New_York:20270109T174500
-SUMMARY:Millburn High School vs TBD (Varsity Boys Boys Ice Hockey)
+SUMMARY:[Canceled] Millburn High School vs TBD (Varsity Boys Boys Ice Hoc
+ key)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103044434@super-essex-conference
@@ -155,5 +176,23 @@ DTEND;TZID=America/New_York:20270122T221500
 SUMMARY:Millburn High School vs Bayonne High School (Varsity Boys Boys Ic
  e Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 8:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105719495@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T180000
+DTEND;TZID=America/New_York:20270127T200000
+SUMMARY:Millburn High School at West Orange High School (Varsity Boys Boy
+ s Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102784861@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T154500
+DTEND;TZID=America/New_York:20270130T174500
+SUMMARY:Millburn High School vs Watchung Hills Reg High School (Varsity B
+ oys Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 3:45 PM
 END:VEVENT
 END:VCALENDAR

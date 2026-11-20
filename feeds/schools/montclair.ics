@@ -3531,22 +3531,22 @@ SUMMARY:Montclair High School vs Seton Hall Prep (Varsity Boys Boys Swimm
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103476484@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261204T154500
-DTEND;TZID=America/New_York:20261204T174500
-SUMMARY:Millburn High School at Montclair High School (Varsity Boys Boys 
- Ice Hockey)
-DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103386218@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261204T172000
 DTEND;TZID=America/New_York:20261204T192000
-SUMMARY:Montclair High School vs Kearny High School (Varsity Coed Coed Ic
+SUMMARY:Montclair High School at Kearny High School (Varsity Coed Coed Ic
  e Hockey)
-DESCRIPTION:Varsity Coed Coed Ice Hockey - Home - 5:20 PM
+DESCRIPTION:Varsity Coed Coed Ice Hockey - Away - 5:20 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103476484@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261204T174500
+DTEND;TZID=America/New_York:20261204T194500
+SUMMARY:Millburn High School at Montclair High School (Varsity Boys Boys 
+ Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104763183@super-essex-conference

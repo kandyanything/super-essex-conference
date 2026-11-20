@@ -24,6 +24,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:105714323@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270315T160000
+DTEND;TZID=America/New_York:20270315T180000
+SUMMARY:Columbia High School at Montville Township High School (Varsity G
+ irls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102567496@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270331T160000
@@ -112,6 +121,15 @@ DTEND;TZID=America/New_York:20270428T180000
 SUMMARY:West Essex High School vs Columbia High School (Varsity Girls Sof
  tball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105717006@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270507T160000
+DTEND;TZID=America/New_York:20270507T180000
+SUMMARY:Columbia High School at Governor Livingston High School (Varsity 
+ Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102567754@super-essex-conference
