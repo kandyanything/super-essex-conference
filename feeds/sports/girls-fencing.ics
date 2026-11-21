@@ -150,15 +150,6 @@ SUMMARY:Saint Benedict's Prep at Governor Livingston High School (Varsity
 DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104838204@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270104T160000
-DTEND;TZID=America/New_York:20270104T180000
-SUMMARY:Montclair High School at Kent Place School (Varsity Girls Girls F
- encing)
-DESCRIPTION:Varsity Girls Girls Fencing - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104978994@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T180000
@@ -230,6 +221,15 @@ SUMMARY:[Canceled] Montclair High School vs Kent Place School (Varsity Gi
  rls Girls Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Home - 6:30 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104838204@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T160000
+DTEND;TZID=America/New_York:20270108T180000
+SUMMARY:Montclair High School at Kent Place School (Varsity Girls Girls F
+ encing)
+DESCRIPTION:Varsity Girls Girls Fencing - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105342691@super-essex-conference

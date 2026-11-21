@@ -3928,15 +3928,6 @@ SUMMARY:Montclair High School at Saint Benedict's Prep (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105642080@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T170000
-DTEND;TZID=America/New_York:20261218T190000
-SUMMARY:Montclair High School at Clifton High School (Varsity Boys Boys W
- restling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102558006@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T180000
@@ -4105,15 +4096,6 @@ DTEND;TZID=America/New_York:20270102T143000
 SUMMARY:Montclair High School at Teaneck High School (Varsity Boys Boys B
  asketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104838204@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270104T160000
-DTEND;TZID=America/New_York:20270104T180000
-SUMMARY:Montclair High School at Kent Place School (Varsity Girls Girls F
- encing)
-DESCRIPTION:Varsity Girls Girls Fencing - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104521566@super-essex-conference
@@ -4322,6 +4304,15 @@ DTEND;TZID=America/New_York:20270108T180000
 SUMMARY:Montclair High School at Oratory Prep School (Varsity Boys Boys F
  encing)
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104838204@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T160000
+DTEND;TZID=America/New_York:20270108T180000
+SUMMARY:Montclair High School at Kent Place School (Varsity Girls Girls F
+ encing)
+DESCRIPTION:Varsity Girls Girls Fencing - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102558128@super-essex-conference
