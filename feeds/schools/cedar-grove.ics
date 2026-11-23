@@ -2460,15 +2460,6 @@ SUMMARY:Cedar Grove High School vs Verona High School (Freshman Boys Boys
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100551797@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270107T160000
-DTEND;TZID=America/New_York:20270107T180000
-SUMMARY:Cedar Grove High School vs Verona High School (Varsity Boys Boys 
- Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100564934@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T173000
@@ -2482,9 +2473,18 @@ UID:arb:100551909@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T173000
 DTEND;TZID=America/New_York:20270107T193000
-SUMMARY:Cedar Grove High School vs Verona High School (Junior Varsity Boy
- s Boys Basketball)
+SUMMARY:Cedar Grove High School vs Passaic Arts & Science Charter School 
+ (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100551797@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T190000
+DTEND;TZID=America/New_York:20270107T210000
+SUMMARY:Cedar Grove High School vs Passaic Arts & Science Charter School 
+ (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102857662@super-essex-conference
@@ -3216,6 +3216,24 @@ SUMMARY:Cedar Grove High School vs De Paul Catholic High School (Varsity
 DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105761024@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270323T163000
+DTEND;TZID=America/New_York:20270323T183000
+SUMMARY:Cedar Grove High School at James Caldwell High School (Varsity Gi
+ rls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105761297@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270323T180000
+DTEND;TZID=America/New_York:20270323T200000
+SUMMARY:Cedar Grove High School at James Caldwell High School (Junior Var
+ sity Girls Girls Lacrosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104615736@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270327T090000
@@ -3460,6 +3478,24 @@ DTEND;TZID=America/New_York:20270415T190000
 SUMMARY:Cedar Grove High School vs Ramapo High School (Varsity Girls Soft
  ball)
 DESCRIPTION:Varsity Girls Softball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105756674@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270417T100000
+DTEND;TZID=America/New_York:20270417T120000
+SUMMARY:Cedar Grove High School at Hanover Park High School (Junior Varsi
+ ty Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105756654@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270417T100000
+DTEND;TZID=America/New_York:20270417T120000
+SUMMARY:Cedar Grove High School at Hanover Park High School (Varsity Boys
+  Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102568571@super-essex-conference

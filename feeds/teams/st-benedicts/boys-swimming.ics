@@ -50,6 +50,15 @@ SUMMARY:Saint Benedict's Prep vs West Essex High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105762567@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T163000
+DTEND;TZID=America/New_York:20270106T183000
+SUMMARY:Glen Ridge High School at Saint Benedict's Prep (Varsity Boys Boy
+ s Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104221085@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T183000
@@ -79,11 +88,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104972696@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270125T193000
-DTEND;TZID=America/New_York:20270125T213000
+DTSTART;TZID=America/New_York:20270125T194500
+DTEND;TZID=America/New_York:20270125T214500
 SUMMARY:Millburn High School vs Saint Benedict's Prep (Varsity Boys Boys 
  Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:30 PM
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104607118@super-essex-conference
@@ -93,5 +102,14 @@ DTEND;TZID=America/New_York:20270126T180000
 SUMMARY:Saint Benedict's Prep at Science Park High School (Varsity Boys B
  oys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105762672@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T163000
+DTEND;TZID=America/New_York:20270211T183000
+SUMMARY:Saint Benedict's Prep vs McNair-Academic High School (Varsity Boy
+ s Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:30 PM
 END:VEVENT
 END:VCALENDAR

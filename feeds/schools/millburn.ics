@@ -2843,13 +2843,22 @@ SUMMARY:Millburn High School at Randolph High School (Varsity Boys Boys S
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105766467@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261130T194500
+DTEND;TZID=America/New_York:20261130T214500
+SUMMARY:Millburn High School vs TBD (Varsity Boys Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 7:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105718923@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261130T194500
 DTEND;TZID=America/New_York:20261130T214500
-SUMMARY:Millburn High School vs Nutley High School (Varsity Boys Boys Ice
-  Hockey)
-DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 7:45 PM
+SUMMARY:[Canceled] Nutley High School at Millburn High School (Varsity Bo
+ ys Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 7:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:42244:7684874@super-essex-conference
@@ -2863,11 +2872,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:103476484@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261204T174500
-DTEND;TZID=America/New_York:20261204T194500
+DTSTART;TZID=America/New_York:20261204T173000
+DTEND;TZID=America/New_York:20261204T193000
 SUMMARY:Millburn High School at Montclair High School (Varsity Boys Boys 
  Ice Hockey)
-DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 5:45 PM
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102648343@super-essex-conference
@@ -2886,6 +2895,15 @@ DTEND;TZID=America/New_York:20261207T183000
 SUMMARY:Millburn High School vs Park Ridge High School (Varsity Girls Gir
  ls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105766646@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T174500
+DTEND;TZID=America/New_York:20261207T194500
+SUMMARY:Millburn High School vs Park Ridge High School (Junior Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105158913@super-essex-conference
@@ -2931,6 +2949,15 @@ DTEND;TZID=America/New_York:20261209T180000
 SUMMARY:Millburn High School at Parsippany Regional (Varsity Girls Girls 
  Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105766776@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T173000
+DTEND;TZID=America/New_York:20261209T193000
+SUMMARY:Millburn High School at TBD (Junior Varsity Girls Girls Basketbal
+ l)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105576513@super-essex-conference
@@ -4080,11 +4107,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104972696@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270125T193000
-DTEND;TZID=America/New_York:20270125T213000
+DTSTART;TZID=America/New_York:20270125T194500
+DTEND;TZID=America/New_York:20270125T214500
 SUMMARY:Millburn High School vs Saint Benedict's Prep (Varsity Boys Boys 
  Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:30 PM
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105654163@super-essex-conference

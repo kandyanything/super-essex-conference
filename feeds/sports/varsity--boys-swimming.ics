@@ -238,6 +238,15 @@ SUMMARY:Livingston High School at Hanover Park High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105761841@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T173000
+DTEND;TZID=America/New_York:20270104T193000
+SUMMARY:Bloomfield High School at Glen Ridge High School (Varsity Boys Bo
+ ys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104342868@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T150000
@@ -281,6 +290,15 @@ DTEND;TZID=America/New_York:20270106T180000
 SUMMARY:Montclair High School at West Orange High School (Varsity Boys Bo
  ys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105762567@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T163000
+DTEND;TZID=America/New_York:20270106T183000
+SUMMARY:Glen Ridge High School at Saint Benedict's Prep (Varsity Boys Boy
+ s Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104576043@super-essex-conference
@@ -399,6 +417,15 @@ SUMMARY:Science Park High School vs West Essex High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105761860@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T173000
+DTEND;TZID=America/New_York:20270112T193000
+SUMMARY:Glen Ridge High School vs Verona High School (Varsity Boys Boys S
+ wimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104281604@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T153000
@@ -491,11 +518,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104972696@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270125T193000
-DTEND;TZID=America/New_York:20270125T213000
+DTSTART;TZID=America/New_York:20270125T194500
+DTEND;TZID=America/New_York:20270125T214500
 SUMMARY:Millburn High School vs Saint Benedict's Prep (Varsity Boys Boys 
  Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:30 PM
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104607118@super-essex-conference
@@ -603,5 +630,14 @@ DTEND;TZID=America/New_York:20270202T183000
 SUMMARY:Bloomfield High School at Memorial High School (Varsity Boys Boys
   Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105762672@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T163000
+DTEND;TZID=America/New_York:20270211T183000
+SUMMARY:Saint Benedict's Prep vs McNair-Academic High School (Varsity Boy
+ s Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:30 PM
 END:VEVENT
 END:VCALENDAR

@@ -3542,11 +3542,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:103476484@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261204T174500
-DTEND;TZID=America/New_York:20261204T194500
+DTSTART;TZID=America/New_York:20261204T173000
+DTEND;TZID=America/New_York:20261204T193000
 SUMMARY:Millburn High School at Montclair High School (Varsity Boys Boys 
  Ice Hockey)
-DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 5:45 PM
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104763183@super-essex-conference
@@ -5154,15 +5154,6 @@ SUMMARY:Central High School at Montclair High School (Freshman Boys Boys
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100562979@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270211T163000
-DTEND;TZID=America/New_York:20270211T183000
-SUMMARY:Central High School vs Montclair High School (Varsity Girls Girls
-  Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100548896@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T173000
@@ -5172,15 +5163,6 @@ SUMMARY:Central High School at Montclair High School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100563019@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270211T180000
-DTEND;TZID=America/New_York:20270211T200000
-SUMMARY:Central High School vs Montclair High School (Junior Varsity Girl
- s Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100548863@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T190000
@@ -5188,6 +5170,24 @@ DTEND;TZID=America/New_York:20270211T210000
 SUMMARY:Central High School at Montclair High School (Varsity Boys Boys B
  asketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100563019@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T163000
+DTEND;TZID=America/New_York:20270212T183000
+SUMMARY:Central High School vs Montclair High School (Junior Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100562979@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T180000
+DTEND;TZID=America/New_York:20270212T200000
+SUMMARY:Central High School vs Montclair High School (Varsity Girls Girls
+  Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105708244@super-essex-conference
@@ -5356,6 +5356,15 @@ SUMMARY:Montclair High School vs Verona High School (Varsity Girls Softba
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105761040@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270329T163000
+DTEND;TZID=America/New_York:20270329T183000
+SUMMARY:Montclair High School at James Caldwell High School (Varsity Girl
+ s Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102466609@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270329T171500
@@ -5363,6 +5372,15 @@ DTEND;TZID=America/New_York:20270329T191500
 SUMMARY:Barringer High School at Montclair High School (Junior Varsity Bo
  ys Boys Volleyball)
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105761362@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270329T180000
+DTEND;TZID=America/New_York:20270329T200000
+SUMMARY:Montclair High School at James Caldwell High School (Junior Varsi
+ ty Girls Girls Lacrosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103009095@super-essex-conference

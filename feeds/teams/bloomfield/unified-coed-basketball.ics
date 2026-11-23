@@ -24,6 +24,24 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:105760484@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T160000
+DTEND;TZID=America/New_York:20270106T180000
+SUMMARY:Bloomfield High School vs Bridgewater-Raritan High School (Unifie
+ d Coed Basketball)
+DESCRIPTION:Unified Coed Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105760489@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T160000
+DTEND;TZID=America/New_York:20270122T180000
+SUMMARY:Bloomfield High School vs Union City High School (Unified Coed Ba
+ sketball)
+DESCRIPTION:Unified Coed Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105087168@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T160000
@@ -40,6 +58,24 @@ DTEND;TZID=America/New_York:20270126T180000
 SUMMARY:Bloomfield High School at Mount Olive Township School District (U
  nified Coed Basketball)
 DESCRIPTION:Unified Coed Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105760494@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T160000
+DTEND;TZID=America/New_York:20270128T180000
+SUMMARY:Bloomfield High School vs Sparta High School (Unified Coed Basket
+ ball)
+DESCRIPTION:Unified Coed Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105760499@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T160000
+DTEND;TZID=America/New_York:20270204T180000
+SUMMARY:Bloomfield High School vs Mount Olive Township School District (U
+ nified Coed Basketball)
+DESCRIPTION:Unified Coed Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105087181@super-essex-conference

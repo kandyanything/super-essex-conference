@@ -1299,8 +1299,8 @@ UID:arb:100551909@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T173000
 DTEND;TZID=America/New_York:20270107T193000
-SUMMARY:Cedar Grove High School vs Verona High School (Junior Varsity Boy
- s Boys Basketball)
+SUMMARY:Cedar Grove High School vs Passaic Arts & Science Charter School 
+ (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1867,9 +1867,10 @@ UID:arb:100535616@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T173000
 DTEND;TZID=America/New_York:20270114T193000
-SUMMARY:Saint Benedict's Prep vs Seton Hall Prep (Junior Varsity Boys Boy
- s Basketball)
+SUMMARY:[Canceled] Saint Benedict's Prep vs Seton Hall Prep (Junior Varsi
+ ty Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100550643@super-essex-conference
@@ -1970,15 +1971,6 @@ DTEND;TZID=America/New_York:20270116T133000
 SUMMARY:Bloomfield High School at Columbia High School (Junior Varsity Bo
  ys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100537645@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270116T113000
-DTEND;TZID=America/New_York:20270116T133000
-SUMMARY:East Orange Campus High School vs Saint Benedict's Prep (Junior V
- arsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100549343@super-essex-conference
@@ -2123,6 +2115,15 @@ DTSTART;TZID=America/New_York:20270119T173000
 DTEND;TZID=America/New_York:20270119T193000
 SUMMARY:Central High School vs Malcolm X Shabazz High School (Junior Vars
  ity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100537645@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T173000
+DTEND;TZID=America/New_York:20270119T193000
+SUMMARY:East Orange Campus High School vs Saint Benedict's Prep (Junior V
+ arsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -3673,6 +3674,15 @@ DTSTART;TZID=America/New_York:20270217T173000
 DTEND;TZID=America/New_York:20270217T193000
 SUMMARY:Millburn High School vs New Providence High School (Junior Varsit
  y Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105766989@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270217T173000
+DTEND;TZID=America/New_York:20270217T193000
+SUMMARY:Saint Benedict's Prep vs Delbarton School (Junior Varsity Boys Bo
+ ys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
