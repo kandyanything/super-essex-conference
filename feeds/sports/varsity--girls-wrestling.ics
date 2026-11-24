@@ -67,6 +67,15 @@ SUMMARY:Bloomfield High School vs Orange High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105788906@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T163000
+DTEND;TZID=America/New_York:20261216T183000
+SUMMARY:Belleville High School at Newark Collegiate Academy (Varsity Girl
+ s Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105021962@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T170000
@@ -242,6 +251,15 @@ SUMMARY:Bloomfield High School at West Orange High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105789085@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T163000
+DTEND;TZID=America/New_York:20270108T183000
+SUMMARY:Newark Academy at Newark Collegiate Academy (Varsity Girls Girls 
+ Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104183586@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T170000
@@ -274,6 +292,14 @@ DTEND;TZID=America/New_York:20270111T200000
 SUMMARY:West Orange High School vs East Brunswick High School (Varsity Gi
  rls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105788942@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T163000
+DTEND;TZID=America/New_York:20270113T183000
+SUMMARY:Newark Collegiate Academy vs TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104183589@super-essex-conference

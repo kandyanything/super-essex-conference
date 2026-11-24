@@ -60,6 +60,15 @@ SUMMARY:Montclair Kimberley Academy vs Oak Knoll School of the Holy Child
 DESCRIPTION:7/8th Girls Basketball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105786039@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T160000
+DTEND;TZID=America/New_York:20270107T180000
+SUMMARY:Montclair Kimberley Academy vs THEODORE ROOSEVELT SCHOOL (7/8th G
+ irls Basketball)
+DESCRIPTION:7/8th Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104552099@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T154500
@@ -110,5 +119,14 @@ DTEND;TZID=America/New_York:20270202T174500
 SUMMARY:Montclair Kimberley Academy vs Morristown-Beard School (7/8th Gir
  ls Basketball)
 DESCRIPTION:7/8th Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105786045@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T160000
+DTEND;TZID=America/New_York:20270208T180000
+SUMMARY:Montclair Kimberley Academy vs THEODORE ROOSEVELT SCHOOL (7/8th G
+ irls Basketball)
+DESCRIPTION:7/8th Girls Basketball - Home - 4:00 PM
 END:VEVENT
 END:VCALENDAR

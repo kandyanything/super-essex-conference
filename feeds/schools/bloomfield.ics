@@ -4087,6 +4087,15 @@ SUMMARY:Bloomfield High School vs Lyndhurst / North Arlington (Varsity Bo
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105784560@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T160000
+DTEND;TZID=America/New_York:20270202T180000
+SUMMARY:Bloomfield High School at Sparta High School (Unified Coed Basket
+ ball)
+DESCRIPTION:Unified Coed Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100564424@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T160000
@@ -4259,6 +4268,15 @@ SUMMARY:Bloomfield High School at Montclair Kimberley Academy (Junior Var
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105795266@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T160000
+DTEND;TZID=America/New_York:20270208T180000
+SUMMARY:Bloomfield High School vs Union High School (Unified Coed Basketb
+ all)
+DESCRIPTION:Unified Coed Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100564103@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T160000
@@ -4365,6 +4383,15 @@ DTEND;TZID=America/New_York:20270211T210000
 SUMMARY:Bloomfield High School vs Millburn High School (Varsity Girls Gir
  ls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105790377@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T160000
+DTEND;TZID=America/New_York:20270212T180000
+SUMMARY:Bloomfield High School at Union High School (Unified Coed Basketb
+ all)
+DESCRIPTION:Unified Coed Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102741469@super-essex-conference
@@ -4508,24 +4535,6 @@ DTEND;TZID=America/New_York:20270317T183000
 SUMMARY:Bloomfield High School at Memorial High School (Varsity Girls Sof
  tball)
 DESCRIPTION:Varsity Girls Softball - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104367356@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270317T163000
-DTEND;TZID=America/New_York:20270317T183000
-SUMMARY:Bloomfield High School at Memorial High School (Junior Varsity Bo
- ys Baseball)
-DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104367279@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270317T163000
-DTEND;TZID=America/New_York:20270317T183000
-SUMMARY:Bloomfield High School at Memorial High School (Varsity Boys Base
- ball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104367214@super-essex-conference
@@ -5456,9 +5465,10 @@ UID:arb:105477989@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270518T173000
 DTEND;TZID=America/New_York:20270518T193000
-SUMMARY:Bloomfield High School vs Wayne Valley High School (Junior Varsit
- y Girls Flag Football)
+SUMMARY:[Canceled] Bloomfield High School vs Wayne Valley High School (Ju
+ nior Varsity Girls Flag Football)
 DESCRIPTION:Junior Varsity Girls Flag Football - Home - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103066017@super-essex-conference

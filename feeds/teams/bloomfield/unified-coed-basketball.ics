@@ -69,12 +69,30 @@ SUMMARY:Bloomfield High School vs Sparta High School (Unified Coed Basket
 DESCRIPTION:Unified Coed Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105784560@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T160000
+DTEND;TZID=America/New_York:20270202T180000
+SUMMARY:Bloomfield High School at Sparta High School (Unified Coed Basket
+ ball)
+DESCRIPTION:Unified Coed Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105760499@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T160000
 DTEND;TZID=America/New_York:20270204T180000
 SUMMARY:Bloomfield High School vs Mount Olive Township School District (U
  nified Coed Basketball)
+DESCRIPTION:Unified Coed Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105795266@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T160000
+DTEND;TZID=America/New_York:20270208T180000
+SUMMARY:Bloomfield High School vs Union High School (Unified Coed Basketb
+ all)
 DESCRIPTION:Unified Coed Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -85,5 +103,14 @@ DTEND;TZID=America/New_York:20270210T180000
 SUMMARY:Bloomfield High School vs Clifton High School (Unified Coed Baske
  tball)
 DESCRIPTION:Unified Coed Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105790377@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T160000
+DTEND;TZID=America/New_York:20270212T180000
+SUMMARY:Bloomfield High School at Union High School (Unified Coed Basketb
+ all)
+DESCRIPTION:Unified Coed Basketball - Away - 4:00 PM
 END:VEVENT
 END:VCALENDAR
