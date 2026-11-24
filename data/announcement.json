@@ -1,7 +1,7 @@
 {
-  "_comment": "Site-wide pop-up. mode 'acknowledge' shows it each visit until the visitor clicks 'Don't show this again'; closing with X or Esc dismisses for that session only. Change 'id' for a NEW message. Other modes: 'once', 'untilDate' (with endDate), 'always'. A message can also run for a set time: \"until\" (YYYY-MM-DD) ends it and \"then\" holds the announcement that takes over. layout 'hero' is the big-photo card: hero.photo/alt/tag, 'logo' badge, 'laterLabel' (this visit) and 'dismissLabel' (for good). layout 'build' is the blueprint card: build.kicker (big gold word), build.headline, and build.items (up to four: photo, alt, school, sport, note, logo); the photos print in one by one, then a spotlight moves from team to team.",
+  "_comment": "Site-wide pop-up. mode 'acknowledge' shows it each visit until the visitor clicks 'Don't show this again'; closing with X or Esc dismisses for that session only. Change 'id' for a NEW message. mode 'every' shows on every visit until 'Don't show again' (X, Esc and 'Maybe later' remember nothing). Other modes: 'once', 'untilDate' (with endDate), 'always'. A message can also run for a set time: \"until\" (YYYY-MM-DD) ends it and \"then\" holds the announcement that takes over. layout 'hero' is the big-photo card: hero.photo/alt/tag, 'logo' badge, 'laterLabel' (this visit) and 'dismissLabel' (for good). layout 'build' is the blueprint card: build.kicker (big gold word), build.headline, and build.items (up to four: photo, alt, school, sport, note, logo); the photos print in one by one, then a spotlight moves from team to team.",
   "active": true,
-  "id": "we-build-champions-2026-fall",
+  "id": "we-build-champions-2026-fall-b",
   "layout": "build",
   "build": {
     "kicker": "SEC",
@@ -51,7 +51,7 @@
   "linkLabel": "See the Champions",
   "laterLabel": "Maybe later",
   "dismissLabel": "Don't show again",
-  "mode": "acknowledge",
+  "mode": "every",
   "endDate": "",
   "until": "2026-12-10",
   "then": {
@@ -73,7 +73,7 @@
     "linkLabel": "View the Photos",
     "laterLabel": "Maybe later",
     "dismissLabel": "Don't show again",
-    "mode": "acknowledge",
+    "mode": "every",
     "endDate": "",
     "until": "2026-12-15",
     "then": {
