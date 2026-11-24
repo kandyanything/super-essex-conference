@@ -7,6 +7,10 @@
 //                   hides it for that browser session.
 //   "untilDate"   - shows every session until "endDate" (YYYY-MM-DD) passes,
 //                   then comes down on its own; a close hides it for the session.
+//   "every"       - shows on every visit to the page until the visitor clicks
+//                   "Don't show again". Closing it any other way (X, Esc,
+//                   "Maybe later", clicking outside, or going to the linked
+//                   page) remembers nothing, so it is back on the next visit.
 // "id" keys the memory, so posting a new message (new id) re-shows it to
 // everyone. Add ?announce to the URL to preview. Fully editable from the CMS.
 //
@@ -76,6 +80,7 @@
             if (!isNaN(e) && Date.now() > e) return false;          // the date has passed - it comes down
             return !sget('annDismiss_' + id);                        // else once per session
         }
+        if (mode === 'every') return !lget('annNever_' + id);        // only "Don't show again" stops it
         if (mode === 'acknowledge') {
             if (lget('annAck_' + id)) return false;                  // already acknowledged for good
             return !sget('annDismiss_' + id);                        // else once per session until acknowledged
@@ -87,6 +92,7 @@
         if (mode === 'once') lset('annSeen_' + id);
         else if (mode === 'acknowledge') { if (acknowledged) lset('annAck_' + id); else sset('annDismiss_' + id); }
         else if (mode === 'untilDate') sset('annDismiss_' + id);
+        else if (mode === 'every') { if (acknowledged) lset('annNever_' + id); }
         // "always" remembers nothing
     }
 
@@ -290,7 +296,7 @@
             if (isHero) link.innerHTML = GALLERY;
             link.appendChild(document.createTextNode(a.linkLabel || 'Learn More'));
             if (/^https?:/i.test(a.linkUrl)) { link.target = '_blank'; link.rel = 'noopener'; }
-            link.addEventListener('click', function () { dismiss(true); });   // engaging with the CTA counts as received
+            link.addEventListener('click', function () { dismiss(mode !== 'every'); });   // engaging with the CTA counts as received (not in "every" mode)
             actions.appendChild(link);
         }
         var got = document.createElement('button'); got.type = 'button'; got.className = 'ann-btn ' + (isHero ? 'ann-btn--text' : 'ann-btn--ghost');
@@ -332,7 +338,7 @@
         x.addEventListener('click', function () { dismiss(false); });
         got.addEventListener('click', function () { dismiss(true); });
         if (later) later.addEventListener('click', function () { dismiss(false); });
-        if (heroLink && a.linkUrl) heroLink.addEventListener('click', function () { dismiss(true); });
+        if (heroLink && a.linkUrl) heroLink.addEventListener('click', function () { dismiss(mode !== 'every'); });
         back.addEventListener('click', function (e) { if (e.target === back) dismiss(false); });
         document.addEventListener('keydown', onKey);
     }
@@ -610,8 +616,9 @@
         x.addEventListener('click', function () { dismiss(false); });
         [].forEach.call(card.querySelectorAll('.annb-later'), function (el) { el.addEventListener('click', function () { dismiss(false); }); });
         [].forEach.call(card.querySelectorAll('.annb-got'), function (el) { el.addEventListener('click', function () { dismiss(true); }); });
-        // going to the photos counts as having seen it
-        [].forEach.call(card.querySelectorAll('.annb-cta, a.annb-shot'), function (el) { el.addEventListener('click', function () { dismiss(true); }); });
+        // going to the photos counts as having seen it, except in "every" mode,
+        // where only "Don't show again" stops the pop-up
+        [].forEach.call(card.querySelectorAll('.annb-cta, a.annb-shot'), function (el) { el.addEventListener('click', function () { dismiss(mode !== 'every'); }); });
         back.addEventListener('click', function (e) { if (e.target === back) dismiss(false); });
         document.addEventListener('keydown', onKey);
     }
