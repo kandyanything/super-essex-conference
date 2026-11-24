@@ -1,35 +1,91 @@
 {
-  "_comment": "Site-wide pop-up. mode 'acknowledge' shows it each visit until the visitor clicks 'Don't show this again'; closing with X or Esc dismisses for that session only. Change 'id' for a NEW message. Other modes: 'once', 'untilDate' (with endDate), 'always'. A message can also run for a set time: \"until\" (YYYY-MM-DD) ends it and \"then\" holds the announcement that takes over. layout 'hero' is the big-photo card: hero.photo/alt/tag, 'logo' badge, 'laterLabel' (this visit) and 'dismissLabel' (for good).",
+  "_comment": "Site-wide pop-up. mode 'acknowledge' shows it each visit until the visitor clicks 'Don't show this again'; closing with X or Esc dismisses for that session only. Change 'id' for a NEW message. Other modes: 'once', 'untilDate' (with endDate), 'always'. A message can also run for a set time: \"until\" (YYYY-MM-DD) ends it and \"then\" holds the announcement that takes over. layout 'hero' is the big-photo card: hero.photo/alt/tag, 'logo' badge, 'laterLabel' (this visit) and 'dismissLabel' (for good). layout 'build' is the blueprint card: build.kicker (big gold word), build.headline, and build.items (up to four: photo, alt, school, sport, note, logo); the photos print in one by one, then a spotlight moves from team to team.",
   "active": true,
-  "id": "championship-photos-2026-fall",
-  "layout": "hero",
-  "hero": {
-    "photo": "images/championship-photos/2026-fall/popup-hero.jpg",
-    "alt": "Caldwell football players' hands raising the North I Group II sectional championship plaque",
-    "tag": "2026 Fall Champions",
-    "chip": "Photo Gallery"
+  "id": "we-build-champions-2026-fall",
+  "layout": "build",
+  "build": {
+    "kicker": "SEC",
+    "headline": "We Build Champions",
+    "meta": "SEC · 2026 Fall · Sheet 01",
+    "items": [
+      {
+        "photo": "images/championship-photos/2026-fall/popup/09.jpg",
+        "alt": "Verona girls soccer team holding the state championship trophy and an NJSIAA Girls Soccer State Champions banner",
+        "school": "Verona",
+        "sport": "Girls Soccer",
+        "note": "First state title in program history · Group I State Champions",
+        "logo": "images/logos/optimized/verona.png"
+      },
+      {
+        "photo": "images/championship-photos/2026-fall/popup/10.jpg",
+        "alt": "Caldwell football players celebrating around their coach after a night game",
+        "school": "Caldwell",
+        "sport": "Football",
+        "note": "11-1 · Group 2 State Final vs. Glassboro, Sat. Nov. 28",
+        "logo": "images/logos/optimized/james-caldwell.png"
+      },
+      {
+        "photo": "images/championship-photos/2026-fall/popup/11.jpg",
+        "alt": "Glen Ridge boys soccer team with an NJSIAA Boys Soccer State Champions banner and trophy",
+        "school": "Glen Ridge",
+        "sport": "Boys Soccer",
+        "note": "Group I State Champions",
+        "logo": "images/logos/optimized/glen-ridge.png"
+      },
+      {
+        "photo": "images/championship-photos/2026-fall/popup/12.jpg",
+        "alt": "West Orange boys soccer team celebrating at night with an NJSIAA Boys Soccer State Champions banner and trophy",
+        "school": "West Orange",
+        "sport": "Boys Soccer",
+        "note": "Group IV State Champions",
+        "logo": "images/logos/optimized/west-orange.png"
+      }
+    ]
   },
   "logo": "images/sec-mark.png",
   "logoAlt": "Super Essex Conference",
-  "eyebrow": "Now on the SEC Site",
-  "title": "Championship Photos",
-  "body": "Sectional and state champions from across the Super Essex Conference. See the photos!",
+  "eyebrow": "2026 Fall · State Championships",
+  "title": "SEC — We Build Champions",
+  "body": "This fall's state champions — and a state finalist — from across the Super Essex Conference.",
   "linkUrl": "championship-photos.html",
-  "linkLabel": "View the Photos",
+  "linkLabel": "See the Champions",
   "laterLabel": "Maybe later",
   "dismissLabel": "Don't show again",
   "mode": "acknowledge",
   "endDate": "",
-  "until": "2026-12-15",
+  "until": "2026-12-10",
   "then": {
     "active": true,
-    "id": "welcome-2026",
-    "eyebrow": "Announcement",
-    "title": "Welcome to the New Super Essex Site",
-    "body": "Browse every school's schedule, follow standings, and watch SEC Vision — all season long.",
-    "linkUrl": "#member-schools",
-    "linkLabel": "View Schedules",
+    "id": "championship-photos-2026-fall",
+    "layout": "hero",
+    "hero": {
+      "photo": "images/championship-photos/2026-fall/popup-hero.jpg",
+      "alt": "Caldwell football players' hands raising the North I Group II sectional championship plaque",
+      "tag": "2026 Fall Champions",
+      "chip": "Photo Gallery"
+    },
+    "logo": "images/sec-mark.png",
+    "logoAlt": "Super Essex Conference",
+    "eyebrow": "Now on the SEC Site",
+    "title": "Championship Photos",
+    "body": "Sectional and state champions from across the Super Essex Conference. See the photos!",
+    "linkUrl": "championship-photos.html",
+    "linkLabel": "View the Photos",
+    "laterLabel": "Maybe later",
+    "dismissLabel": "Don't show again",
     "mode": "acknowledge",
-    "endDate": ""
+    "endDate": "",
+    "until": "2026-12-15",
+    "then": {
+      "active": true,
+      "id": "welcome-2026",
+      "eyebrow": "Announcement",
+      "title": "Welcome to the New Super Essex Site",
+      "body": "Browse every school's schedule, follow standings, and watch SEC Vision — all season long.",
+      "linkUrl": "#member-schools",
+      "linkLabel": "View Schedules",
+      "mode": "acknowledge",
+      "endDate": ""
+    }
   }
 }
