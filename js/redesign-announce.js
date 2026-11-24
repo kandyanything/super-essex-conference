@@ -27,6 +27,13 @@
 // "linkUrl" like the main button. Under the button: "Maybe later" (this visit
 // only) and "dismissLabel" ("Don't show again" - for good, with mode
 // "acknowledge").
+//
+// Blueprint: "layout": "build" with "build": { "kicker": "SEC", "headline":
+// "We Build Champions", "items": [{ "photo", "alt", "school", "sport", "note",
+// "logo" }] } draws a blueprint-style card: the headline assembles letter by
+// letter, each team photo "prints" into its frame one after another, then a
+// gold spotlight moves from team to team while the line under the photos spells
+// out that team's achievement ("note"). The photos link to "linkUrl".
 (function () {
     'use strict';
 
@@ -40,7 +47,7 @@
                 var mode = a.mode || (a.frequency === 'always' ? 'always' : 'once');
                 var force = /[?&#]announce\b/i.test(location.search + location.hash);
                 if (!force && !shouldShow(mode, id, a.endDate)) return;
-                waitForIntro(function () { render(a, id, mode, force); });
+                waitForIntro(function () { (a.layout === 'build' && a.build && (a.build.items || []).length ? renderBuild : render)(a, id, mode, force); });
             })
             .catch(function () { /* no announcement, no problem */ });
     });
@@ -326,6 +333,285 @@
         got.addEventListener('click', function () { dismiss(true); });
         if (later) later.addEventListener('click', function () { dismiss(false); });
         if (heroLink && a.linkUrl) heroLink.addEventListener('click', function () { dismiss(true); });
+        back.addEventListener('click', function (e) { if (e.target === back) dismiss(false); });
+        document.addEventListener('keydown', onKey);
+    }
+
+    // ---- "build" blueprint layout -------------------------------------------
+    var BUILD_CSS =
+        '.annb{position:relative;width:100%;max-width:960px;max-height:calc(100vh - 32px);overflow:auto;border-radius:18px;color:#fff;isolation:isolate;' +
+        'display:grid;grid-template-columns:300px minmax(0,1fr);gap:30px;padding:34px 34px 30px;' +
+        'background:radial-gradient(120% 90% at 0% 0%,rgba(243,199,90,.16),transparent 45%),linear-gradient(160deg,#0b1d36 0%,#0e2a50 60%,#0b1d36 100%);' +
+        'box-shadow:0 0 0 1px rgba(160,195,255,.18),0 40px 90px rgba(0,0,0,.6);transform:translateY(16px) scale(.97);transition:transform .45s cubic-bezier(.2,.8,.3,1.15);' +
+        'font-family:var(--font-body,system-ui,-apple-system,"Segoe UI",sans-serif);}' +
+        '.ann-backdrop.is-open .annb{transform:none;}' +
+        /* blueprint grid that draws itself in from the left */
+        '.annb-grid{position:absolute;inset:0;z-index:-1;pointer-events:none;' +
+        'background-image:linear-gradient(rgba(150,190,255,.13) 1px,transparent 1px),linear-gradient(90deg,rgba(150,190,255,.13) 1px,transparent 1px),' +
+        'linear-gradient(rgba(150,190,255,.06) 1px,transparent 1px),linear-gradient(90deg,rgba(150,190,255,.06) 1px,transparent 1px);' +
+        'background-size:120px 120px,120px 120px,24px 24px,24px 24px;background-position:-1px -1px;clip-path:inset(0 100% 0 0);}' +
+        '.ann-backdrop.is-open .annb-grid{animation:annbWipe 1.1s cubic-bezier(.6,0,.2,1) .1s forwards;}' +
+        '@keyframes annbWipe{to{clip-path:inset(0 0 0 0);}}' +
+        '.annb-crop{position:absolute;width:22px;height:22px;border:2px solid #f3c75a;opacity:.85;pointer-events:none;}' +
+        '.annb-crop.tl{top:12px;left:12px;border-right:0;border-bottom:0;}.annb-crop.tr{top:12px;right:12px;border-left:0;border-bottom:0;}' +
+        '.annb-crop.bl{bottom:12px;left:12px;border-right:0;border-top:0;}.annb-crop.br{bottom:12px;right:12px;border-left:0;border-top:0;}' +
+        '.annb-meta{position:absolute;right:42px;bottom:14px;font:600 .6rem/1 var(--font-display,system-ui);letter-spacing:.22em;color:rgba(160,195,255,.55);text-transform:uppercase;pointer-events:none;}' +
+        '.annb-x{position:absolute;top:14px;right:16px;z-index:5;width:38px;height:38px;border:0;border-radius:50%;display:grid;place-items:center;' +
+        'background:rgba(255,255,255,.1);color:#fff;font-size:26px;line-height:1;cursor:pointer;}' +
+        '.annb-x:hover{background:rgba(255,255,255,.2);}.annb-x:focus-visible{outline:2px solid #f3c75a;outline-offset:2px;}' +
+        /* left column */
+        '.annb-side{display:flex;flex-direction:column;min-width:0;}' +
+        '.annb-logo{width:86px;height:auto;margin:0 0 16px;filter:drop-shadow(0 6px 14px rgba(0,0,0,.4));}' +
+        '.annb-eyebrow{font:700 .72rem/1.2 var(--font-body,system-ui);letter-spacing:.18em;text-transform:uppercase;color:#f3c75a;margin:0 0 10px;}' +
+        '.annb-title{margin:0 0 14px;font-family:var(--font-display,inherit);font-weight:700;text-transform:uppercase;line-height:.92;letter-spacing:.01em;}' +
+        '.annb-title>span{display:block;}' +
+        '.annb-kicker{font-size:4.6rem;letter-spacing:.03em;line-height:.95;}' +
+        '.annb-kicker .annb-ch{background:linear-gradient(160deg,#fbe3a0,#f3c75a 40%,#c99212 75%,#a37204);-webkit-background-clip:text;background-clip:text;color:transparent;filter:drop-shadow(0 4px 12px rgba(243,199,90,.25));}' +
+        '.annb-row{font-size:2.55rem;color:#fff;}' +
+        '.annb-ch{display:inline-block;opacity:0;transform:translateY(-28px) rotate(-6deg);}' +
+        '.ann-backdrop.is-open .annb-ch{animation:annbDrop .55s cubic-bezier(.2,.9,.3,1.35) calc(.35s + var(--i) * .045s) forwards;}' +
+        '@keyframes annbDrop{to{opacity:1;transform:none;}}' +
+        '.annb-build{position:relative;display:inline-block;color:#f3c75a;}' +
+        '.annb-dim{position:absolute;left:0;bottom:-11px;width:100%;height:10px;overflow:visible;}' +
+        '.annb-row+.annb-row{margin-top:14px;}' +
+        '.annb-dim path{fill:none;stroke:#f3c75a;stroke-width:1.6;stroke-dasharray:240;stroke-dashoffset:240;}' +
+        '.ann-backdrop.is-open .annb-dim path{animation:annbDraw .9s ease 1.1s forwards;}' +
+        '@keyframes annbDraw{to{stroke-dashoffset:0;}}' +
+        '.annb-body{margin:10px 0 22px;color:#c9d6ea;font-size:.95rem;line-height:1.55;}' +
+        '.annb-actions{margin-top:auto;display:flex;flex-direction:column;gap:4px;}' +
+        '.annb-cta{display:flex;align-items:center;justify-content:center;gap:10px;padding:14px 18px;border-radius:10px;text-decoration:none;color:#14181c;' +
+        'font-family:var(--font-display,inherit);font-weight:600;font-size:1.02rem;letter-spacing:.09em;text-transform:uppercase;' +
+        'background:linear-gradient(135deg,#f6d27a,#c99212 55%,#a37204);box-shadow:0 10px 24px rgba(163,114,4,.35);transition:filter .15s,transform .15s;}' +
+        '.annb-cta:hover{filter:brightness(1.07);transform:translateY(-1px);}.annb-cta:focus-visible{outline:2px solid #fff;outline-offset:3px;}' +
+        '.annb-cta svg{width:20px;height:20px;flex:none;}' +
+        '.annb-sub{display:flex;justify-content:center;align-items:center;gap:2px;margin-top:4px;}' +
+        '.annb-sub span{color:rgba(201,214,234,.5);font-size:.8rem;}' +
+        '.annb-link{background:none;border:0;color:#c9d6ea;font:inherit;font-size:.86rem;padding:8px;cursor:pointer;border-radius:6px;}' +
+        '.annb-link:hover{color:#fff;text-decoration:underline;}.annb-link:focus-visible{outline:2px solid #f3c75a;outline-offset:1px;}' +
+        /* the board of four */
+        '.annb-board{min-width:0;display:flex;flex-direction:column;justify-content:center;padding-top:22px;}' +
+        '.annb-tiles{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:1fr 1fr;gap:16px 18px;}' +
+        '.annb-tile{margin:0;min-width:0;transition:opacity .45s ease,filter .45s ease;}' +
+        '.annb-shot{position:relative;display:block;aspect-ratio:3/2;border-radius:8px;overflow:hidden;background:rgba(10,24,46,.6);' +
+        'outline:1.5px dashed rgba(160,195,255,.45);outline-offset:-1px;transition:transform .45s cubic-bezier(.2,.8,.3,1.2),outline-color .4s;}' +
+        '.annb-num{position:absolute;inset:0;display:grid;place-items:center;font:700 1.6rem/1 var(--font-display,system-ui);letter-spacing:.12em;color:rgba(160,195,255,.5);}' +
+        '.annb-shot img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block;clip-path:inset(100% 0 0 0);}' +
+        '.annb-scan{position:absolute;left:-2%;right:-2%;bottom:0;height:3px;background:#f3c75a;box-shadow:0 0 12px 3px rgba(243,199,90,.75),0 0 30px 8px rgba(243,199,90,.35);opacity:0;}' +
+        '.ann-backdrop.is-open .annb-shot img{animation:annbPrint 1.15s cubic-bezier(.5,0,.25,1) calc(1s + var(--i) * .32s) forwards;}' +
+        '.ann-backdrop.is-open .annb-scan{animation:annbScan 1.15s cubic-bezier(.5,0,.25,1) calc(1s + var(--i) * .32s) forwards;}' +
+        '@keyframes annbPrint{to{clip-path:inset(0 0 0 0);}}' +
+        '@keyframes annbScan{0%{bottom:0;opacity:1;}88%{bottom:calc(100% - 3px);opacity:1;}100%{bottom:calc(100% - 3px);opacity:0;}}' +
+        '.annb-tile.is-built .annb-shot{outline-color:rgba(160,195,255,.18);outline-style:solid;}' +
+        /* gold corner brackets on the team in the spotlight */
+        '.annb-corners{position:absolute;inset:6px;pointer-events:none;opacity:0;transform:scale(1.08);transition:opacity .35s,transform .45s cubic-bezier(.2,.8,.3,1.3);' +
+        'background:linear-gradient(#f3c75a,#f3c75a) 0 0/20px 3px no-repeat,linear-gradient(#f3c75a,#f3c75a) 0 0/3px 20px no-repeat,' +
+        'linear-gradient(#f3c75a,#f3c75a) 100% 0/20px 3px no-repeat,linear-gradient(#f3c75a,#f3c75a) 100% 0/3px 20px no-repeat,' +
+        'linear-gradient(#f3c75a,#f3c75a) 0 100%/20px 3px no-repeat,linear-gradient(#f3c75a,#f3c75a) 0 100%/3px 20px no-repeat,' +
+        'linear-gradient(#f3c75a,#f3c75a) 100% 100%/20px 3px no-repeat,linear-gradient(#f3c75a,#f3c75a) 100% 100%/3px 20px no-repeat;' +
+        'filter:drop-shadow(0 0 6px rgba(243,199,90,.7));}' +
+        '.annb-tiles.is-cycling .annb-tile{opacity:.5;filter:saturate(.55);}' +
+        '.annb-tiles.is-cycling .annb-tile.is-spot{opacity:1;filter:none;}' +
+        '.annb-tile.is-spot .annb-shot{transform:scale(1.035);}' +
+        '.annb-tile.is-spot .annb-corners{opacity:1;transform:none;}' +
+        '.annb-shot:focus-visible{outline:3px solid #f3c75a;outline-offset:2px;}' +
+        /* name tag under each photo */
+        '.annb-tag{display:flex;align-items:center;gap:9px;margin-top:9px;min-width:0;opacity:0;transform:translateY(6px);}' +
+        '.ann-backdrop.is-open .annb-tag{animation:annbTag .5s ease calc(1.9s + var(--i) * .32s) forwards;}' +
+        '@keyframes annbTag{to{opacity:1;transform:none;}}' +
+        '.annb-crest{width:34px;height:34px;flex:none;border-radius:50%;background:#fff;display:grid;place-items:center;box-shadow:0 0 0 2px rgba(243,199,90,.8);}' +
+        '.annb-crest img{width:28px;height:28px;object-fit:contain;}' +
+        '.annb-tag strong{display:block;font-family:var(--font-display,inherit);font-weight:600;font-size:1.05rem;line-height:1.05;letter-spacing:.04em;text-transform:uppercase;color:#fff;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}' +
+        '.annb-tag small{display:block;font-size:.74rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#f3c75a;margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}' +
+        '.annb-tag span{min-width:0;}' +
+        /* the spec line that spells out the team in the spotlight */
+        '.annb-spec{display:flex;align-items:center;gap:12px;min-height:44px;margin-top:16px;padding:10px 14px;border-radius:8px;' +
+        'border:1px solid rgba(160,195,255,.22);background:rgba(8,20,40,.55);font-size:.9rem;color:#e6edf8;opacity:0;}' +
+        '.ann-backdrop.is-open .annb-spec{animation:annbTag .5s ease 3.2s forwards;}' +
+        '.annb-spec-no{flex:none;font:700 .78rem/1 var(--font-display,system-ui);letter-spacing:.16em;color:#14181c;background:#f3c75a;border-radius:4px;padding:5px 7px;}' +
+        '.annb-spec-text{min-width:0;}' +
+        '.annb-spec-text.is-typing{animation:annbType .55s steps(24,end);}' +
+        '@keyframes annbType{from{clip-path:inset(0 100% 0 0);}to{clip-path:inset(0 0 0 0);}}' +
+        '@media (max-width:860px){' +
+        '.annb{grid-template-columns:1fr;gap:18px;padding:26px 18px 22px;max-width:560px;text-align:center;}' +
+        '.annb-side{align-items:center;}.annb-logo{display:none;}.annb-eyebrow{margin-bottom:8px;padding:0 40px;font-size:.66rem;}' +
+        '.annb-kicker{font-size:3rem;}.annb-row{font-size:1.75rem;}.annb-row+.annb-row{margin-top:12px;}' +
+        '.annb-body{margin:8px 0 0;font-size:.86rem;line-height:1.45;}' +
+        '.annb-board{padding-top:0;order:2;}.annb-actions{order:3;width:100%;margin-top:4px;}' +
+        '.annb-tiles{gap:12px 10px;}.annb-tag{gap:7px;text-align:left;}.annb-crest{width:28px;height:28px;}.annb-crest img{width:23px;height:23px;}' +
+        '.annb-tag strong{font-size:.92rem;}.annb-tag small{font-size:.64rem;letter-spacing:.1em;}' +
+        '.annb-spec{font-size:.82rem;text-align:left;}.annb-meta{display:none;}' +
+        '.annb-side-actions{display:none;}' +
+        '}' +
+        '@media (min-width:861px){.annb-foot-actions{display:none;}}' +
+        '@media (prefers-reduced-motion:reduce){' +
+        '.annb,.annb-tile,.annb-shot,.annb-corners{transition:none;}' +
+        '.annb-grid,.annb-ch,.annb-dim path,.annb-shot img,.annb-scan,.annb-tag,.annb-spec,.annb-spec-text.is-typing{animation:none !important;}' +
+        '.annb-grid{clip-path:none;}.annb-ch,.annb-tag,.annb-spec{opacity:1;transform:none;}.annb-dim path{stroke-dashoffset:0;}' +
+        '.annb-shot img{clip-path:none;}.annb-scan{display:none;}' +
+        '}';
+
+    function letters(text, start) {
+        var out = document.createDocumentFragment();
+        String(text).split('').forEach(function (c, k) {
+            if (c === ' ') { out.appendChild(document.createTextNode(' ')); return; }
+            var sp = document.createElement('span'); sp.className = 'annb-ch'; sp.style.setProperty('--i', start + k); sp.textContent = c;
+            out.appendChild(sp);
+        });
+        return out;
+    }
+
+    function renderBuild(a, id, mode, force) {
+        if (document.getElementById('sec-announce')) return;
+        if (!document.getElementById('ann-css')) {
+            var st = document.createElement('style'); st.id = 'ann-css'; st.textContent = CSS; document.head.appendChild(st);
+        }
+        if (!document.getElementById('ann-build-css')) {
+            var st2 = document.createElement('style'); st2.id = 'ann-build-css'; st2.textContent = BUILD_CSS; document.head.appendChild(st2);
+        }
+        var b = a.build, items = (b.items || []).slice(0, 4);
+        var kicker = b.kicker || 'SEC';
+        var headline = b.headline || a.title || '';
+        var reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+        var back = document.createElement('div');
+        back.id = 'sec-announce'; back.className = 'ann-backdrop';
+        back.setAttribute('role', 'dialog'); back.setAttribute('aria-modal', 'true'); back.setAttribute('aria-labelledby', 'ann-title');
+
+        var card = document.createElement('div'); card.className = 'annb';
+        card.innerHTML = '<div class="annb-grid" aria-hidden="true"></div>' +
+            '<span class="annb-crop tl" aria-hidden="true"></span>' +
+            '<span class="annb-crop bl" aria-hidden="true"></span><span class="annb-crop br" aria-hidden="true"></span>' +
+            (b.meta ? '<span class="annb-meta" aria-hidden="true"></span>' : '');
+        if (b.meta) card.querySelector('.annb-meta').textContent = b.meta;
+        var x = document.createElement('button'); x.className = 'annb-x'; x.type = 'button'; x.setAttribute('aria-label', 'Close'); x.innerHTML = '&times;';
+        card.appendChild(x);
+
+        // ---- left: logo, eyebrow, headline, body, buttons
+        var side = document.createElement('div'); side.className = 'annb-side';
+        if (a.logo) { var lg = document.createElement('img'); lg.className = 'annb-logo'; lg.src = a.logo; lg.alt = a.logoAlt || ''; side.appendChild(lg); }
+        if (a.eyebrow) { var ey = document.createElement('div'); ey.className = 'annb-eyebrow'; ey.textContent = a.eyebrow; side.appendChild(ey); }
+        var h = document.createElement('h2'); h.id = 'ann-title'; h.className = 'annb-title';
+        h.setAttribute('aria-label', kicker + ' — ' + headline);
+        var k1 = document.createElement('span'); k1.className = 'annb-kicker'; k1.setAttribute('aria-hidden', 'true'); k1.appendChild(letters(kicker, 0)); h.appendChild(k1);
+        // the word "Build" gets the gold blueprint dimension line under it
+        var words = headline.split(' '), n = kicker.length, rows = [[], []];
+        var split = Math.max(1, words.length - 1);
+        words.forEach(function (w, i) { rows[i < split ? 0 : 1].push(w); });
+        rows.forEach(function (row) {
+            if (!row.length) return;
+            var r = document.createElement('span'); r.className = 'annb-row'; r.setAttribute('aria-hidden', 'true');
+            row.forEach(function (w, j) {
+                if (j) r.appendChild(document.createTextNode(' '));
+                if (/^build$/i.test(w)) {
+                    var bw = document.createElement('span'); bw.className = 'annb-build'; bw.appendChild(letters(w, n)); n += w.length;
+                    bw.insertAdjacentHTML('beforeend', '<svg class="annb-dim" viewBox="0 0 100 12" preserveAspectRatio="none" aria-hidden="true"><path d="M1 1v10M99 1v10M1 6h98M1 6l5-3M1 6l5 3M99 6l-5-3M99 6l-5 3" vector-effect="non-scaling-stroke"/></svg>');
+                    r.appendChild(bw);
+                } else { r.appendChild(letters(w, n)); n += w.length; }
+            });
+            h.appendChild(r);
+        });
+        side.appendChild(h);
+        if (a.body) { var p = document.createElement('p'); p.className = 'annb-body'; p.textContent = a.body; side.appendChild(p); }
+
+        function actionsBlock(cls) {
+            var box = document.createElement('div'); box.className = 'annb-actions ' + cls;
+            if (a.linkUrl) {
+                var link = document.createElement('a'); link.className = 'annb-cta'; link.href = a.linkUrl;
+                link.innerHTML = GALLERY; link.appendChild(document.createTextNode(a.linkLabel || 'See the Champions'));
+                box.appendChild(link);
+            }
+            var sub = document.createElement('div'); sub.className = 'annb-sub';
+            var lt = document.createElement('button'); lt.type = 'button'; lt.className = 'annb-link annb-later'; lt.textContent = a.laterLabel || 'Maybe later';
+            var dot = document.createElement('span'); dot.setAttribute('aria-hidden', 'true'); dot.textContent = '•';
+            var gt = document.createElement('button'); gt.type = 'button'; gt.className = 'annb-link annb-got'; gt.textContent = a.dismissLabel || "Don't show again";
+            sub.appendChild(lt); sub.appendChild(dot); sub.appendChild(gt); box.appendChild(sub);
+            return box;
+        }
+        // buttons sit under the headline on wide screens and under the photos on phones
+        side.appendChild(actionsBlock('annb-side-actions'));
+        card.appendChild(side);
+
+        // ---- right: the four photos and the spec line
+        var board = document.createElement('div'); board.className = 'annb-board';
+        var ol = document.createElement('ol'); ol.className = 'annb-tiles';
+        var tiles = [];
+        items.forEach(function (it, i) {
+            var li = document.createElement('li'); li.className = 'annb-tile'; li.style.setProperty('--i', i);
+            var shot = document.createElement(a.linkUrl ? 'a' : 'div'); shot.className = 'annb-shot';
+            if (a.linkUrl) { shot.href = a.linkUrl; shot.setAttribute('aria-label', [it.school, it.sport, it.note].filter(Boolean).join(', ') + ' - ' + (a.linkLabel || 'See the photos')); }
+            var num = document.createElement('span'); num.className = 'annb-num'; num.setAttribute('aria-hidden', 'true'); num.textContent = ('0' + (i + 1)).slice(-2); shot.appendChild(num);
+            var img = document.createElement('img'); img.src = it.photo; img.alt = it.alt || ''; img.loading = 'eager'; img.decoding = 'async'; shot.appendChild(img);
+            var scan = document.createElement('span'); scan.className = 'annb-scan'; scan.setAttribute('aria-hidden', 'true'); shot.appendChild(scan);
+            var cor = document.createElement('span'); cor.className = 'annb-corners'; cor.setAttribute('aria-hidden', 'true'); shot.appendChild(cor);
+            li.appendChild(shot);
+            var tag = document.createElement('div'); tag.className = 'annb-tag';
+            if (it.logo) { var cr = document.createElement('span'); cr.className = 'annb-crest'; var ci = document.createElement('img'); ci.src = it.logo; ci.alt = ''; cr.appendChild(ci); tag.appendChild(cr); }
+            var tx = document.createElement('span');
+            var sn = document.createElement('strong'); sn.textContent = it.school || ''; tx.appendChild(sn);
+            var sp = document.createElement('small'); sp.textContent = it.sport || ''; tx.appendChild(sp);
+            tag.appendChild(tx); li.appendChild(tag);
+            ol.appendChild(li); tiles.push(li);
+        });
+        board.appendChild(ol);
+        var spec = document.createElement('div'); spec.className = 'annb-spec'; spec.setAttribute('aria-hidden', 'true');
+        var specNo = document.createElement('span'); specNo.className = 'annb-spec-no';
+        var specText = document.createElement('span'); specText.className = 'annb-spec-text';
+        spec.appendChild(specNo); spec.appendChild(specText); board.appendChild(spec);
+        board.appendChild(actionsBlock('annb-foot-actions'));
+        card.appendChild(board);
+
+        back.appendChild(card);
+        document.body.appendChild(back);
+        requestAnimationFrame(function () { back.classList.add('is-open'); });
+        setTimeout(function () { x.focus(); }, 60);
+
+        // ---- spotlight: once every photo is built, move from team to team
+        var spot = -1, timer = null, hold = false;
+        function show(i) {
+            spot = (i + tiles.length) % tiles.length;
+            tiles.forEach(function (t, k) { t.classList.toggle('is-spot', k === spot); });
+            var it = items[spot];
+            specNo.textContent = 'No. ' + ('0' + (spot + 1)).slice(-2);
+            specText.textContent = [it.school, it.sport].filter(Boolean).join(' ') + (it.note ? ' — ' + it.note : '');
+            specText.classList.remove('is-typing'); void specText.offsetWidth; specText.classList.add('is-typing');
+        }
+        function tick() { if (!hold) show(spot + 1); }
+        var buildDone = reduced ? 0 : 1000 + (tiles.length - 1) * 320 + 1200;
+        setTimeout(function () { tiles.forEach(function (t) { t.classList.add('is-built'); }); }, buildDone);
+        var startT = setTimeout(function () {
+            ol.classList.add('is-cycling'); show(0);
+            if (!reduced) timer = setInterval(tick, 3200);
+        }, reduced ? 0 : buildDone + 300);
+        tiles.forEach(function (t, k) {
+            var s = t.querySelector('.annb-shot');
+            function on() { hold = true; if (ol.classList.contains('is-cycling')) show(k); }
+            function off() { hold = false; }
+            s.addEventListener('mouseenter', on); s.addEventListener('focus', on);
+            s.addEventListener('mouseleave', off); s.addEventListener('blur', off);
+        });
+
+        function dismiss(acknowledged) {
+            clearTimeout(startT); clearInterval(timer);
+            back.classList.remove('is-open');
+            setTimeout(function () { if (back.parentNode) back.parentNode.removeChild(back); }, 260);
+            document.removeEventListener('keydown', onKey);
+            if (!force) remember(mode, id, acknowledged);
+        }
+        function onKey(e) {
+            if (e.key === 'Escape') dismiss(false);
+            if (e.key === 'Tab') {
+                var f = [].filter.call(back.querySelectorAll('button, a[href]'), function (el) { return el.offsetParent !== null; });
+                if (!f.length) return;
+                var first = f[0], last = f[f.length - 1];
+                if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+                else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+            }
+        }
+        x.addEventListener('click', function () { dismiss(false); });
+        [].forEach.call(card.querySelectorAll('.annb-later'), function (el) { el.addEventListener('click', function () { dismiss(false); }); });
+        [].forEach.call(card.querySelectorAll('.annb-got'), function (el) { el.addEventListener('click', function () { dismiss(true); }); });
+        // going to the photos counts as having seen it
+        [].forEach.call(card.querySelectorAll('.annb-cta, a.annb-shot'), function (el) { el.addEventListener('click', function () { dismiss(true); }); });
         back.addEventListener('click', function (e) { if (e.target === back) dismiss(false); });
         document.addEventListener('keydown', onKey);
     }
