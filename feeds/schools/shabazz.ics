@@ -1028,18 +1028,29 @@ UID:arb:104241281@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T100000
 DTEND;TZID=America/New_York:20261219T120000
-SUMMARY:Malcolm X Shabazz High School vs North Star Academy (Freshman Boy
- s Boys Basketball)
+SUMMARY:[Canceled] Malcolm X Shabazz High School vs North Star Academy (F
+ reshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105815404@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T113000
+DTEND;TZID=America/New_York:20261219T133000
+SUMMARY:Barringer High School at Malcolm X Shabazz High School (Varsity G
+ irls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104241271@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T113000
 DTEND;TZID=America/New_York:20261219T133000
-SUMMARY:Malcolm X Shabazz High School vs North Star Academy (Junior Varsi
- ty Boys Boys Basketball)
+SUMMARY:[Canceled] Malcolm X Shabazz High School vs North Star Academy (J
+ unior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:30 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104241264@super-essex-conference

@@ -2333,8 +2333,7 @@ UID:arb:105019779@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261202T154500
 DTEND;TZID=America/New_York:20261202T174500
-SUMMARY:Nutley High School vs Bloomfield High School (Varsity Girls Girls
-  Bowling)
+SUMMARY:Nutley High School vs TBD (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2960,6 +2959,15 @@ SUMMARY:Bloomfield High School at Morristown High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 8:45 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105653850@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261227T113000
+DTEND;TZID=America/New_York:20261227T133000
+SUMMARY:Nutley High School at Bergenfield High School (Varsity Girls Girl
+ s Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103899815@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261227T183000
@@ -2967,15 +2975,6 @@ DTEND;TZID=America/New_York:20261227T203000
 SUMMARY:Nutley High School at Oratory Prep School (Varsity Boys Boys Ice 
  Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105068881@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
-SUMMARY:Nutley High School at Bergenfield High School (Varsity Girls Girl
- s Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102737574@super-essex-conference
@@ -2987,13 +2986,12 @@ SUMMARY:Bloomfield High School at Morristown High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105068908@super-essex-conference
+UID:arb:105814563@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261228
-DTEND;VALUE=DATE:20261229
-SUMMARY:Nutley High School at Bergenfield High School (Varsity Girls Girl
- s Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away
+DTSTART;TZID=America/New_York:20261228T113000
+DTEND;TZID=America/New_York:20261228T133000
+SUMMARY:Nutley High School at TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105200438@super-essex-conference
@@ -3021,6 +3019,15 @@ SUMMARY:Nutley High School at TBD (Varsity Coed Track & Field - Indoor)
 DESCRIPTION:Varsity Coed Track & Field - Indoor - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105068915@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261230T100000
+DTEND;TZID=America/New_York:20261230T120000
+SUMMARY:Nutley High School at Dwight Englewood High School (Varsity Girls
+  Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103169999@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261230T200000
@@ -3037,14 +3044,6 @@ DTEND;VALUE=DATE:20261231
 SUMMARY:Nutley High School at Kearny High School (Varsity Boys Boys Baske
  tball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105068915@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:Nutley High School at TBD (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105697789@super-essex-conference
@@ -3161,6 +3160,15 @@ DTEND;TZID=America/New_York:20270106T210000
 SUMMARY:Nutley High School at Saint Benedict's Prep (Varsity Boys Boys Wr
  estling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105814107@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T163000
+DTEND;TZID=America/New_York:20270107T183000
+SUMMARY:Montclair High School vs Nutley High School (Junior Varsity Boys 
+ Boys Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104251692@super-essex-conference
@@ -3541,7 +3549,8 @@ UID:arb:103170029@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T194500
 DTEND;TZID=America/New_York:20270116T214500
-SUMMARY:Nutley High School vs TBD (Varsity Boys Boys Ice Hockey)
+SUMMARY:Nutley High School vs Montclair High School (Varsity Boys Boys Ic
+ e Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 7:45 PM
 END:VEVENT
 BEGIN:VEVENT

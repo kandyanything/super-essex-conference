@@ -70,6 +70,15 @@ DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 3:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105814422@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T150000
+DTEND;TZID=America/New_York:20261216T170000
+SUMMARY:Montclair High School vs Roxbury High School (Junior Varsity Boys
+  Boys Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103169982@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T180000
@@ -77,6 +86,23 @@ DTEND;TZID=America/New_York:20261216T200000
 SUMMARY:Nutley High School vs Montclair High School (Varsity Boys Boys Ic
  e Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104902638@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T163000
+DTEND;TZID=America/New_York:20261217T183000
+SUMMARY:Montclair High School at TBD (Junior Varsity Boys Boys Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105815047@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T163000
+DTEND;TZID=America/New_York:20261218T183000
+SUMMARY:Montclair High School vs Hillsborough High School (Junior Varsity
+  Boys Boys Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104841882@super-essex-conference
@@ -106,6 +132,15 @@ SUMMARY:Montclair High School at Arthur L. Johnson High School (Varsity B
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105814107@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T163000
+DTEND;TZID=America/New_York:20270107T183000
+SUMMARY:Montclair High School vs Nutley High School (Junior Varsity Boys 
+ Boys Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023908@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T204500
@@ -131,6 +166,15 @@ DTEND;TZID=America/New_York:20270114T180000
 SUMMARY:Montclair High School at Montclair Kimberley Academy (Varsity Boy
  s Boys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103170029@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T194500
+DTEND;TZID=America/New_York:20270116T214500
+SUMMARY:Nutley High School vs Montclair High School (Varsity Boys Boys Ic
+ e Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 7:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105651727@super-essex-conference
