@@ -52,6 +52,15 @@ DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105805311@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T170000
+DTEND;TZID=America/New_York:20261210T190000
+SUMMARY:Golda Och Academy at American History High School (Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100553250@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T174500
@@ -91,11 +100,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ds:42244:7752489@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T173000
-DTEND;TZID=America/New_York:20261217T193000
+DTSTART;TZID=America/New_York:20261217T174500
+DTEND;TZID=America/New_York:20261217T194500
 SUMMARY:West Caldwell Tech at American History High School (Junior Varsit
  y Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553856@super-essex-conference

@@ -114,11 +114,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ds:42244:7752489@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T173000
-DTEND;TZID=America/New_York:20261217T193000
+DTSTART;TZID=America/New_York:20261217T174500
+DTEND;TZID=America/New_York:20261217T194500
 SUMMARY:West Caldwell Tech at American History High School (Junior Varsit
  y Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553602@super-essex-conference
@@ -328,15 +328,6 @@ SUMMARY:West Caldwell Tech vs Morris Catholic High School (Varsity Boys B
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7752498@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T112800
-DTEND;TZID=America/New_York:20270126T132800
-SUMMARY:West Caldwell Tech vs Nutley High School (Junior Varsity Boys Boy
- s Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:28 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:42244:7566538@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T160000
@@ -346,13 +337,13 @@ SUMMARY:West Caldwell Tech vs Nutley High School (Varsity Boys Boys Baske
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100552360@super-essex-conference
+UID:ds:42244:7752498@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T173000
 DTEND;TZID=America/New_York:20270126T193000
-SUMMARY:Nutley High School at West Caldwell Tech (Junior Varsity Boys Boy
+SUMMARY:West Caldwell Tech vs Nutley High School (Junior Varsity Boys Boy
  s Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:42244:7566540@super-essex-conference
@@ -362,6 +353,15 @@ DTEND;TZID=America/New_York:20270202T180000
 SUMMARY:West Caldwell Tech vs University High School (Varsity Boys Boys B
  asketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:42244:7785638@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T171500
+DTEND;TZID=America/New_York:20270202T191500
+SUMMARY:West Caldwell Tech vs University High School (Junior Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:42244:7752499@super-essex-conference

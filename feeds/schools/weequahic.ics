@@ -760,6 +760,24 @@ SUMMARY:Weequahic High School at John F. Kennedy High School - Paterson (
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105805316@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T200000
+DTEND;TZID=America/New_York:20261210T220000
+SUMMARY:Orange High School at Weequahic High School (Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 8:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105805419@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261213T100000
+DTEND;TZID=America/New_York:20261213T120000
+SUMMARY:Orange High School at Weequahic High School (Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100553030@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T160000

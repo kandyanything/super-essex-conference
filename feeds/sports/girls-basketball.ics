@@ -554,6 +554,15 @@ SUMMARY:Newark School of Global Studies vs Gateway Academy (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105805328@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T170000
+DTEND;TZID=America/New_York:20261211T190000
+SUMMARY:Science Park High School vs Lincoln High School (Varsity Girls Gi
+ rls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105121230@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T173000
@@ -590,6 +599,15 @@ SUMMARY:Newark Academy vs Passaic Valley High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105805340@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T100000
+DTEND;TZID=America/New_York:20261212T120000
+SUMMARY:North Star Academy vs Murry Bergtraum High School (Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103883016@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T100000
@@ -606,6 +624,15 @@ DTEND;TZID=America/New_York:20261212T133000
 SUMMARY:Cedar Grove High School at Lakeland Regional High School (Junior 
  Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105805351@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T113000
+DTEND;TZID=America/New_York:20261212T133000
+SUMMARY:University High School vs Union Catholic Regional High School (Va
+ rsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103883027@super-essex-conference
@@ -669,6 +696,15 @@ DTEND;VALUE=DATE:20261213
 SUMMARY:Mount Saint Dominic Academy at The Pingry School (Varsity Girls G
  irls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105805419@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261213T100000
+DTEND;TZID=America/New_York:20261213T120000
+SUMMARY:Orange High School at Weequahic High School (Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104581530@super-essex-conference
@@ -1435,6 +1471,15 @@ SUMMARY:Mount Saint Dominic Academy vs Mountain Lakes High School (Varsit
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100569365@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T120000
+DTEND;TZID=America/New_York:20261219T140000
+SUMMARY:Golda Och Academy at West Caldwell Tech (Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100563496@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T120000
@@ -1477,15 +1522,6 @@ DTEND;TZID=America/New_York:20261219T150000
 SUMMARY:Newark Collegiate Academy at Weequahic High School (Varsity Girls
   Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:42244:7567378@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T130000
-DTEND;TZID=America/New_York:20261219T150000
-SUMMARY:West Caldwell Tech vs Golda Och Academy (Varsity Girls Girls Bask
- etball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103740080@super-essex-conference
@@ -2995,15 +3031,6 @@ SUMMARY:Verona High School at James Caldwell High School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7591855@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T113000
-DTEND;TZID=America/New_York:20270109T133000
-SUMMARY:West Caldwell Tech at Science Park High School (Junior Varsity Gi
- rls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100562654@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T120000
@@ -3221,6 +3248,15 @@ DTEND;TZID=America/New_York:20270111T183000
 SUMMARY:Belleville High School vs Lumen Gentium Academy (Varsity Girls Gi
  rls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:42244:7795906@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T163000
+DTEND;TZID=America/New_York:20270111T183000
+SUMMARY:West Caldwell Tech at Bergen County Technical High School (Varsit
+ y Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100563503@super-essex-conference

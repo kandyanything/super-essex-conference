@@ -934,6 +934,15 @@ SUMMARY:Golda Och Academy vs Gottesman RTW Academy (Middle School Boys Bo
 DESCRIPTION:Middle School Boys Boys Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105805311@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T170000
+DTEND;TZID=America/New_York:20261210T190000
+SUMMARY:Golda Och Academy at American History High School (Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100553250@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T174500
@@ -998,13 +1007,13 @@ SUMMARY:Golda Och Academy vs Saint Vincent Academy (Varsity Girls Girls B
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7567378@super-essex-conference
+UID:arb:100569365@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T130000
-DTEND;TZID=America/New_York:20261219T150000
-SUMMARY:West Caldwell Tech vs Golda Och Academy (Varsity Girls Girls Bask
+DTSTART;TZID=America/New_York:20261219T120000
+DTEND;TZID=America/New_York:20261219T140000
+SUMMARY:Golda Och Academy at West Caldwell Tech (Varsity Girls Girls Bask
  etball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100569732@super-essex-conference

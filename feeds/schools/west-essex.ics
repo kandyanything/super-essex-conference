@@ -5325,6 +5325,15 @@ SUMMARY:Montclair High School vs West Essex High School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105800221@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T161500
+DTEND;TZID=America/New_York:20270211T181500
+SUMMARY:West Essex High School at Waldwick High School (Freshman Boys Boy
+ s Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100560650@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T173000
@@ -5334,6 +5343,15 @@ SUMMARY:Verona High School at West Essex High School (Junior Varsity Girl
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105800228@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T173000
+DTEND;TZID=America/New_York:20270211T193000
+SUMMARY:West Essex High School at Waldwick High School (Junior Varsity Bo
+ ys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100560601@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T190000
@@ -5341,6 +5359,15 @@ DTEND;TZID=America/New_York:20270211T210000
 SUMMARY:Verona High School at West Essex High School (Varsity Girls Girls
   Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105800233@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T190000
+DTEND;TZID=America/New_York:20270211T210000
+SUMMARY:West Essex High School at Waldwick High School (Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101726552@super-essex-conference
@@ -6177,6 +6204,15 @@ DTSTART;TZID=America/New_York:20270503T160000
 DTEND;TZID=America/New_York:20270503T180000
 SUMMARY:Seton Hall Prep at West Essex High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105797014@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270503T161500
+DTEND;TZID=America/New_York:20270503T181500
+SUMMARY:West Essex High School at Wayne Valley High School (Varsity Boys 
+ Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102440910@super-essex-conference

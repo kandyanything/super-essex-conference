@@ -1008,15 +1008,6 @@ SUMMARY:West Caldwell Tech vs West Orange High School (Varsity Coed Coed
 DESCRIPTION:Varsity Coed Coed Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7741740@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261207T163000
-DTEND;TZID=America/New_York:20261207T183000
-SUMMARY:West Caldwell Tech vs Saint Mary High School (Varsity Girls Girls
-  Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:42244:7569412@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T163000
@@ -1024,6 +1015,15 @@ DTEND;TZID=America/New_York:20261207T183000
 SUMMARY:West Caldwell Tech at Henry Snyder High School (Varsity Boys Boys
   Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:42244:7741740@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T163000
+DTEND;TZID=America/New_York:20261207T183000
+SUMMARY:West Caldwell Tech vs Saint Mary High School (Varsity Girls Girls
+  Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:42244:7752501@super-essex-conference
@@ -1170,11 +1170,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ds:42244:7752489@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T173000
-DTEND;TZID=America/New_York:20261217T193000
+DTSTART;TZID=America/New_York:20261217T174500
+DTEND;TZID=America/New_York:20261217T194500
 SUMMARY:West Caldwell Tech at American History High School (Junior Varsit
  y Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553602@super-essex-conference
@@ -1186,6 +1186,15 @@ SUMMARY:Barringer High School vs West Caldwell Tech (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100569365@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T120000
+DTEND;TZID=America/New_York:20261219T140000
+SUMMARY:Golda Och Academy at West Caldwell Tech (Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100553580@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T130000
@@ -1193,15 +1202,6 @@ DTEND;TZID=America/New_York:20261219T150000
 SUMMARY:Barringer High School vs West Caldwell Tech (Varsity Boys Boys Ba
  sketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:42244:7567378@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T130000
-DTEND;TZID=America/New_York:20261219T150000
-SUMMARY:West Caldwell Tech vs Golda Och Academy (Varsity Girls Girls Bask
- etball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:42244:7684982@super-essex-conference
@@ -1355,15 +1355,6 @@ SUMMARY:Nutley High School vs West Caldwell Tech (Varsity Boys Boys Baske
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7591855@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T113000
-DTEND;TZID=America/New_York:20270109T133000
-SUMMARY:West Caldwell Tech at Science Park High School (Junior Varsity Gi
- rls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100568129@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T130000
@@ -1407,6 +1398,15 @@ DTEND;TZID=America/New_York:20270111T174500
 SUMMARY:West Caldwell Tech vs West Orange High School (Varsity Coed Coed 
  Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:42244:7795906@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T163000
+DTEND;TZID=America/New_York:20270111T183000
+SUMMARY:West Caldwell Tech at Bergen County Technical High School (Varsit
+ y Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100553310@super-essex-conference
@@ -1578,15 +1578,6 @@ SUMMARY:West Caldwell Tech vs Millburn High School (Varsity Coed Coed Bow
 DESCRIPTION:Varsity Coed Coed Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7752498@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T112800
-DTEND;TZID=America/New_York:20270126T132800
-SUMMARY:West Caldwell Tech vs Nutley High School (Junior Varsity Boys Boy
- s Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:28 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100568611@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T160000
@@ -1614,13 +1605,13 @@ SUMMARY:Belleville High School at West Caldwell Tech (Junior Varsity Girl
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100552360@super-essex-conference
+UID:ds:42244:7752498@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T173000
 DTEND;TZID=America/New_York:20270126T193000
-SUMMARY:Nutley High School at West Caldwell Tech (Junior Varsity Boys Boy
+SUMMARY:West Caldwell Tech vs Nutley High School (Junior Varsity Boys Boy
  s Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:42244:7685058@super-essex-conference
@@ -1666,6 +1657,15 @@ DTEND;TZID=America/New_York:20270202T180000
 SUMMARY:West Caldwell Tech vs University High School (Varsity Boys Boys B
  asketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:42244:7785638@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T171500
+DTEND;TZID=America/New_York:20270202T191500
+SUMMARY:West Caldwell Tech vs University High School (Junior Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:42244:7752499@super-essex-conference

@@ -532,6 +532,15 @@ SUMMARY:Technology High School at Mountain Lakes High School (Varsity Boy
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105805311@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T170000
+DTEND;TZID=America/New_York:20261210T190000
+SUMMARY:Golda Och Academy at American History High School (Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105529581@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T170000
@@ -548,6 +557,15 @@ DTEND;TZID=America/New_York:20261210T193000
 SUMMARY:West Essex High School at North Arlington High School (Varsity Bo
  ys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105805316@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T200000
+DTEND;TZID=America/New_York:20261210T220000
+SUMMARY:Orange High School at Weequahic High School (Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105038711@super-essex-conference
@@ -619,6 +637,15 @@ DTEND;TZID=America/New_York:20261211T220000
 SUMMARY:Seton Hall Prep at Montgomery High School (Varsity Boys Boys Bask
  etball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 8:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105805325@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T200000
+DTEND;TZID=America/New_York:20261211T220000
+SUMMARY:West Side High School vs Canarsie High School (Varsity Boys Boys 
+ Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104444131@super-essex-conference
@@ -702,6 +729,15 @@ SUMMARY:Glen Ridge High School vs James Caldwell High School (Varsity Boy
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105805361@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T130000
+DTEND;TZID=America/New_York:20261212T150000
+SUMMARY:Irvington High School at College Achieve Central Charter School (
+ Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102154846@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T130000
@@ -745,6 +781,15 @@ DTEND;TZID=America/New_York:20261213T150000
 SUMMARY:Irvington High School at Hillside High School (Varsity Boys Boys 
  Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105805428@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261213T130000
+DTEND;TZID=America/New_York:20261213T150000
+SUMMARY:Newark Collegiate Academy vs Piscataway High School (Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103069163@super-essex-conference
@@ -1394,7 +1439,7 @@ SUMMARY:Glen Ridge High School vs Verona High School (Varsity Boys Boys B
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7692153@super-essex-conference
+UID:ds:43483:7783056@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T161500
 DTEND;TZID=America/New_York:20261221T181500
@@ -1554,6 +1599,15 @@ SUMMARY:[Canceled] Montclair High School vs Newark Collegiate Academy (Va
  rsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105806823@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T190000
+DTEND;TZID=America/New_York:20261222T210000
+SUMMARY:Newark Collegiate Academy vs The Patrick School (Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104899358@super-essex-conference
@@ -3423,10 +3477,9 @@ UID:arb:100539165@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T130000
 DTEND;TZID=America/New_York:20270123T150000
-SUMMARY:[Canceled] Newark Collegiate Academy vs Saint Benedict's Prep (Va
- rsity Boys Boys Basketball)
+SUMMARY:Newark Collegiate Academy vs Saint Benedict's Prep (Varsity Boys 
+ Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:42244:7569921@super-essex-conference
@@ -4432,6 +4485,15 @@ DTEND;TZID=America/New_York:20270211T210000
 SUMMARY:Weequahic High School vs American History High School (Varsity Bo
  ys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105800233@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T190000
+DTEND;TZID=America/New_York:20270211T210000
+SUMMARY:West Essex High School at Waldwick High School (Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104207817@super-essex-conference

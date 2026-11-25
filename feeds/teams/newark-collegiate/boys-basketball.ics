@@ -42,6 +42,15 @@ SUMMARY:Newark Collegiate Academy vs William L. Dickinson High School (Va
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105805428@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261213T130000
+DTEND;TZID=America/New_York:20261213T150000
+SUMMARY:Newark Collegiate Academy vs Piscataway High School (Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100539527@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T160000
@@ -149,6 +158,15 @@ SUMMARY:[Canceled] Montclair High School vs Newark Collegiate Academy (Va
  rsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105806823@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T190000
+DTEND;TZID=America/New_York:20261222T210000
+SUMMARY:Newark Collegiate Academy vs The Patrick School (Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104205687@super-essex-conference
@@ -336,10 +354,9 @@ UID:arb:100539165@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T130000
 DTEND;TZID=America/New_York:20270123T150000
-SUMMARY:[Canceled] Newark Collegiate Academy vs Saint Benedict's Prep (Va
- rsity Boys Boys Basketball)
+SUMMARY:Newark Collegiate Academy vs Saint Benedict's Prep (Varsity Boys 
+ Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104857143@super-essex-conference
