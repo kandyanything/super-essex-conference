@@ -41229,21 +41229,21 @@ SUMMARY:Montclair High School at Rutherford High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100164740@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261126T100000
+DTEND;TZID=America/New_York:20261126T120000
+SUMMARY:Malcolm X Shabazz High School vs Weequahic High School (Varsity B
+ oys Football)
+DESCRIPTION:Varsity Boys Football - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100384867@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261126T103000
 DTEND;TZID=America/New_York:20261126T123000
 SUMMARY:Barringer High School vs East Orange Campus High School (Varsity 
  Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 10:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100164740@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261126T103000
-DTEND;TZID=America/New_York:20261126T123000
-SUMMARY:Malcolm X Shabazz High School vs Weequahic High School (Varsity B
- oys Football)
 DESCRIPTION:Varsity Boys Football - Home - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -44580,7 +44580,7 @@ SUMMARY:Newark Tech at American History High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7756286@super-essex-conference
+UID:ds:43483:7818108@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T161500
 DTEND;TZID=America/New_York:20261214T181500
@@ -44616,7 +44616,7 @@ SUMMARY:Golda Och Academy vs Morristown-Beard School (Varsity Boys Boys B
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7813239@super-essex-conference
+UID:ds:43483:7638699@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T163000
 DTEND;TZID=America/New_York:20261214T183000
@@ -45297,7 +45297,7 @@ SUMMARY:Science Park High School at West Orange High School (Junior Varsi
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7818145@super-essex-conference
+UID:ds:43483:7638468@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T173000
 DTEND;TZID=America/New_York:20261215T193000
@@ -48863,7 +48863,7 @@ SUMMARY:West Essex High School at West Orange High School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7818318@super-essex-conference
+UID:ds:43483:7655844@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T173000
 DTEND;TZID=America/New_York:20261222T193000
@@ -51669,7 +51669,7 @@ SUMMARY:Newark Academy vs Rutgers Prep School (7/8th Boys Basketball)
 DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7818439@super-essex-conference
+UID:ds:42244:7667485@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T154500
 DTEND;TZID=America/New_York:20270107T174500
@@ -51945,7 +51945,7 @@ SUMMARY:West Side High School vs Columbia High School (Freshman Boys Boys
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7626784@super-essex-conference
+UID:ds:43483:7818452@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T160000
 DTEND;TZID=America/New_York:20270107T180000
@@ -52339,7 +52339,7 @@ SUMMARY:West Side High School vs Columbia High School (Junior Varsity Boy
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7818479@super-essex-conference
+UID:ds:43483:7694624@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T173000
 DTEND;TZID=America/New_York:20270107T193000
@@ -53657,7 +53657,7 @@ SUMMARY:Verona High School at James Caldwell High School (Varsity Girls G
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7566492@super-essex-conference
+UID:ds:43483:7818538@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T130000
 DTEND;TZID=America/New_York:20270109T150000
@@ -60618,7 +60618,7 @@ SUMMARY:Saint Benedict's Prep at Lawrenceville Prep (Varsity Boys Boys Fe
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7818896@super-essex-conference
+UID:ds:43483:7665009@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T133000
 DTEND;TZID=America/New_York:20270123T153000
@@ -62314,6 +62314,15 @@ SUMMARY:Livingston High School vs James Caldwell High School (Varsity Boy
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104717296@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T151500
+DTEND;TZID=America/New_York:20270128T171500
+SUMMARY:Seton Hall Prep at Bergen Catholic High School (Varsity Boys Boys
+  Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 3:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105560085@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T153000
@@ -62436,15 +62445,6 @@ DTEND;TZID=America/New_York:20270128T180000
 SUMMARY:Saint Benedict's Prep at West Essex High School (Freshman Boys Bo
  ys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104717296@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T160000
-DTEND;TZID=America/New_York:20270128T180000
-SUMMARY:Seton Hall Prep at Bergen Catholic High School (Varsity Boys Boys
-  Ice Hockey)
-DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100806582@super-essex-conference
