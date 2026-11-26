@@ -3109,7 +3109,7 @@ SUMMARY:Columbia High School vs Payne Tech (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7569492@super-essex-conference
+UID:ds:42244:7818333@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261223T190000
 DTEND;TZID=America/New_York:20261223T210000
@@ -3922,6 +3922,24 @@ DTEND;TZID=America/New_York:20270318T181500
 SUMMARY:Columbia High School at De Paul Catholic High School (Varsity Boy
  s Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105825376@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270319T160000
+DTEND;TZID=America/New_York:20270319T180000
+SUMMARY:Columbia High School at Morristown High School (Junior Varsity Bo
+ ys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105825129@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270319T160000
+DTEND;TZID=America/New_York:20270319T180000
+SUMMARY:Columbia High School at Morristown High School (Varsity Boys Base
+ ball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103009561@super-essex-conference

@@ -1310,9 +1310,10 @@ UID:arb:102089072@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T180000
 DTEND;TZID=America/New_York:20261216T200000
-SUMMARY:Saint Benedict's Prep at Governor Livingston High School (Varsity
-  Boys Boys Fencing)
+SUMMARY:[Canceled] Saint Benedict's Prep at Governor Livingston High Scho
+ ol (Varsity Boys Boys Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 6:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104457174@super-essex-conference
@@ -1450,13 +1451,32 @@ SUMMARY:Saint Benedict's Prep at Delbarton School (Junior Varsity Boys Bo
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105828191@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T163000
+DTEND;TZID=America/New_York:20261221T183000
+SUMMARY:Saint Benedict's Prep vs Governor Livingston High School (Varsity
+  Girls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105828180@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T163000
+DTEND;TZID=America/New_York:20261221T183000
+SUMMARY:Saint Benedict's Prep vs Governor Livingston High School (Varsity
+  Boys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105173353@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T180000
 DTEND;TZID=America/New_York:20261221T200000
-SUMMARY:Saint Benedict's Prep at Governor Livingston High School (Varsity
-  Girls Girls Fencing)
+SUMMARY:[Canceled] Saint Benedict's Prep at Governor Livingston High Scho
+ ol (Varsity Girls Girls Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105525925@super-essex-conference

@@ -564,14 +564,6 @@ SUMMARY:Verona High School at West Orange High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104902638@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T163000
-DTEND;TZID=America/New_York:20261217T183000
-SUMMARY:Montclair High School at TBD (Junior Varsity Boys Boys Ice Hockey)
-DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104964053@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T163000
@@ -579,6 +571,15 @@ DTEND;TZID=America/New_York:20261217T183000
 SUMMARY:East Side High School vs Morris Catholic High School (Varsity Boy
  s Boys Ice Hockey)
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104902638@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T163000
+DTEND;TZID=America/New_York:20261217T183000
+SUMMARY:Montclair High School vs Ridgewood High School (Junior Varsity Bo
+ ys Boys Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104222953@super-essex-conference

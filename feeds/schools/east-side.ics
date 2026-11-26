@@ -1770,15 +1770,6 @@ SUMMARY:East Side High School vs Orange High School (Varsity Boys Boys Wr
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105813795@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270103T163000
-DTEND;TZID=America/New_York:20270103T183000
-SUMMARY:East Side High School vs Randolph High School (Varsity Girls Girl
- s Ice Hockey)
-DESCRIPTION:Varsity Girls Girls Ice Hockey - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102651295@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T161500
@@ -2392,6 +2383,15 @@ SUMMARY:Bard Early College vs East Side High School (Freshman Boys Boys B
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105813795@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T163000
+DTEND;TZID=America/New_York:20270203T183000
+SUMMARY:East Side High School vs Randolph High School (Varsity Girls Girl
+ s Ice Hockey)
+DESCRIPTION:Varsity Girls Girls Ice Hockey - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105624815@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T173000
@@ -2587,6 +2587,15 @@ DTEND;TZID=America/New_York:20270326T191500
 SUMMARY:East Side High School at Montclair High School (Junior Varsity Bo
  ys Boys Volleyball)
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105825173@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270327T110000
+DTEND;TZID=America/New_York:20270327T130000
+SUMMARY:East Side High School at Morristown High School (Varsity Boys Bas
+ eball)
+DESCRIPTION:Varsity Boys Baseball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102583512@super-essex-conference

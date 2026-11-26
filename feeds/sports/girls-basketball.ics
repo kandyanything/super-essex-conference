@@ -572,7 +572,7 @@ SUMMARY:Livingston High School vs Passaic High School (Junior Varsity Gir
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7638584@super-essex-conference
+UID:ds:42244:7787215@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T090000
 DTEND;TZID=America/New_York:20261212T110000
@@ -673,11 +673,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105795474@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T130000
-DTEND;TZID=America/New_York:20261212T150000
+DTSTART;TZID=America/New_York:20261212T123000
+DTEND;TZID=America/New_York:20261212T143000
 SUMMARY:Technology High School vs Pioneer Academy (Varsity Girls Girls Ba
  sketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104827723@super-essex-conference
@@ -779,7 +779,7 @@ SUMMARY:Barringer High School at Dwight Morrow High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7638699@super-essex-conference
+UID:ds:43483:7813239@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T163000
 DTEND;TZID=America/New_York:20261214T183000
@@ -905,7 +905,7 @@ SUMMARY:Nutley High School vs Hoboken High School (Varsity Girls Girls Ba
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7579073@super-essex-conference
+UID:ds:42244:7818138@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T163000
 DTEND;TZID=America/New_York:20261215T183000
@@ -932,7 +932,7 @@ SUMMARY:Montclair High School vs Payne Tech (Junior Varsity Girls Girls B
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7638468@super-essex-conference
+UID:ds:43483:7818145@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T173000
 DTEND;TZID=America/New_York:20261215T193000
@@ -2040,7 +2040,7 @@ SUMMARY:Livingston High School vs TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7659345@super-essex-conference
+UID:ds:42244:7813774@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261229T093000
 DTEND;TZID=America/New_York:20261229T113000
@@ -2127,6 +2127,14 @@ DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:42244:7747916@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:West Caldwell Tech vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:42244:7818354@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
@@ -2809,7 +2817,7 @@ SUMMARY:Newark Collegiate Academy at Newark Tech (Junior Varsity Girls Gi
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7694624@super-essex-conference
+UID:ds:43483:7818479@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T173000
 DTEND;TZID=America/New_York:20270107T193000
@@ -3386,7 +3394,7 @@ SUMMARY:Newark School of Global Studies vs Science Park High School (Vars
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7567392@super-essex-conference
+UID:ds:42244:7818582@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T160000
 DTEND;TZID=America/New_York:20270112T180000
@@ -4141,7 +4149,7 @@ DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 2:30 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7664933@super-essex-conference
+UID:ds:43483:7818737@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T153000
 DTEND;TZID=America/New_York:20270116T173000
@@ -4933,7 +4941,7 @@ SUMMARY:Glen Ridge High School vs Montclair High School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7567452@super-essex-conference
+UID:ds:42244:7818879@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T110000
 DTEND;TZID=America/New_York:20270123T130000
@@ -5095,7 +5103,7 @@ SUMMARY:Weequahic High School vs Secaucus High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7665009@super-essex-conference
+UID:ds:43483:7818896@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T133000
 DTEND;TZID=America/New_York:20270123T153000

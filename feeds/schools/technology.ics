@@ -1233,11 +1233,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105795474@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T130000
-DTEND;TZID=America/New_York:20261212T150000
+DTSTART;TZID=America/New_York:20261212T123000
+DTEND;TZID=America/New_York:20261212T143000
 SUMMARY:Technology High School vs Pioneer Academy (Varsity Girls Girls Ba
  sketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100568590@super-essex-conference
@@ -1482,9 +1482,10 @@ UID:arb:104793341@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T100000
 DTEND;TZID=America/New_York:20270109T120000
-SUMMARY:Technology High School at Kittatinny Regional High School (Freshm
- an Boys Boys Basketball)
+SUMMARY:[Canceled] Technology High School at Kittatinny Regional High Sch
+ ool (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104793362@super-essex-conference
@@ -2097,7 +2098,7 @@ SUMMARY:Newark School of Global Studies at Technology High School (Varsit
 DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7763053@super-essex-conference
+UID:ds:43483:7819435@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270413T173000
 DTEND;TZID=America/New_York:20270413T193000

@@ -141,6 +141,15 @@ SUMMARY:West Essex High School at Kinnelon High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Fencing - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105828191@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T163000
+DTEND;TZID=America/New_York:20261221T183000
+SUMMARY:Saint Benedict's Prep vs Governor Livingston High School (Varsity
+  Girls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105266176@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T163000
@@ -154,9 +163,10 @@ UID:arb:105173353@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T180000
 DTEND;TZID=America/New_York:20261221T200000
-SUMMARY:Saint Benedict's Prep at Governor Livingston High School (Varsity
-  Girls Girls Fencing)
+SUMMARY:[Canceled] Saint Benedict's Prep at Governor Livingston High Scho
+ ol (Varsity Girls Girls Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Away - 6:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104978994@super-essex-conference

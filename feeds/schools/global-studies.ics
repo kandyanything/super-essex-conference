@@ -693,7 +693,7 @@ SUMMARY:Newark School of Global Studies vs TBD (Varsity Boys Boys Basketb
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7638699@super-essex-conference
+UID:ds:43483:7813239@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T163000
 DTEND;TZID=America/New_York:20261214T183000
@@ -738,7 +738,7 @@ SUMMARY:Newark Academy vs Newark School of Global Studies (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7638468@super-essex-conference
+UID:ds:43483:7818145@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T173000
 DTEND;TZID=America/New_York:20261215T193000
@@ -792,7 +792,7 @@ SUMMARY:Newark School of Global Studies at Bard Early College (Junior Var
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7699401@super-essex-conference
+UID:ds:43483:7818232@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T160000
 DTEND;TZID=America/New_York:20261218T180000
@@ -828,7 +828,7 @@ SUMMARY:Nutley High School at Newark School of Global Studies (Junior Var
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7692153@super-essex-conference
+UID:ds:43483:7783056@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T161500
 DTEND;TZID=America/New_York:20261221T181500
@@ -882,7 +882,7 @@ SUMMARY:Malcolm X Shabazz High School vs Newark School of Global Studies
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7655844@super-essex-conference
+UID:ds:43483:7818318@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T173000
 DTEND;TZID=America/New_York:20261222T193000
@@ -927,7 +927,7 @@ SUMMARY:Newark School of Global Studies vs Weequahic High School (Varsity
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7694624@super-essex-conference
+UID:ds:43483:7818479@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T173000
 DTEND;TZID=America/New_York:20270107T193000
@@ -954,7 +954,7 @@ SUMMARY:Newark School of Global Studies vs West Caldwell Tech (Varsity Bo
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7752494@super-essex-conference
+UID:ds:43483:7818552@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T143000
 DTEND;TZID=America/New_York:20270109T163000
@@ -1045,7 +1045,7 @@ DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 2:30 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7664933@super-essex-conference
+UID:ds:43483:7818737@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T153000
 DTEND;TZID=America/New_York:20270116T173000
@@ -1090,15 +1090,6 @@ SUMMARY:Newark Lab High School vs Newark School of Global Studies (Varsit
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7664947@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270121T173000
-DTEND;TZID=America/New_York:20270121T193000
-SUMMARY:Newark School of Global Studies at Newark Lab High School (Varsit
- y Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:43483:7658084@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T173000
@@ -1106,6 +1097,15 @@ DTEND;TZID=America/New_York:20270121T193000
 SUMMARY:Newark School of Global Studies vs Verona High School (Junior Var
  sity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43483:7664947@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T173000
+DTEND;TZID=America/New_York:20270121T193000
+SUMMARY:Newark School of Global Studies at Newark Lab High School (Varsit
+ y Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100552407@super-essex-conference
@@ -1117,7 +1117,7 @@ SUMMARY:Weequahic High School vs Newark School of Global Studies (Junior
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7665009@super-essex-conference
+UID:ds:43483:7818896@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T133000
 DTEND;TZID=America/New_York:20270123T153000
@@ -1576,7 +1576,7 @@ SUMMARY:Newark School of Global Studies at Technology High School (Varsit
 DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7763053@super-essex-conference
+UID:ds:43483:7819435@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270413T173000
 DTEND;TZID=America/New_York:20270413T193000

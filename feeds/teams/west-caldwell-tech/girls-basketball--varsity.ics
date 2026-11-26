@@ -42,7 +42,7 @@ SUMMARY:West Caldwell Tech vs Elmwood Park Memorial High School (Varsity
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7638584@super-essex-conference
+UID:ds:42244:7787215@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T090000
 DTEND;TZID=America/New_York:20261212T110000
@@ -51,7 +51,7 @@ SUMMARY:West Caldwell Tech vs Wallington High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7579073@super-essex-conference
+UID:ds:42244:7818138@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T163000
 DTEND;TZID=America/New_York:20261215T183000
@@ -79,7 +79,7 @@ DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7659345@super-essex-conference
+UID:ds:42244:7813774@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261229T093000
 DTEND;TZID=America/New_York:20261229T113000
@@ -89,6 +89,14 @@ DESCRIPTION:Varsity Girls Girls Basketball - Home - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:42244:7747916@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:West Caldwell Tech vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:42244:7818354@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
@@ -141,7 +149,7 @@ SUMMARY:West Caldwell Tech at Bergen County Technical High School (Varsit
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7567392@super-essex-conference
+UID:ds:42244:7818582@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T160000
 DTEND;TZID=America/New_York:20270112T180000
@@ -186,7 +194,7 @@ SUMMARY:West Caldwell Tech vs Irvington High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7567452@super-essex-conference
+UID:ds:42244:7818879@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T110000
 DTEND;TZID=America/New_York:20270123T130000
