@@ -23,6 +23,24 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:105068040@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Nutley High School at Kearny High School (Varsity Girls Girls Bas
+ ketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105068209@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T163000
+DTEND;TZID=America/New_York:20261209T183000
+SUMMARY:Nutley High School at North Arlington High School (Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102764122@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T163000
@@ -30,6 +48,33 @@ DTEND;TZID=America/New_York:20261209T183000
 SUMMARY:Nutley High School at North Arlington High School (Junior Varsity
   Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105068248@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T160000
+DTEND;TZID=America/New_York:20261210T180000
+SUMMARY:Nutley High School at Ridgefield Memorial High School (Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105068297@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T163000
+DTEND;TZID=America/New_York:20261215T183000
+SUMMARY:Nutley High School vs Hoboken High School (Varsity Girls Girls Ba
+ sketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105071320@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T180000
+DTEND;TZID=America/New_York:20261215T200000
+SUMMARY:Nutley High School vs Hoboken High School (Junior Varsity Girls G
+ irls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100567177@super-essex-conference
@@ -77,6 +122,32 @@ SUMMARY:East Side High School at Nutley High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105068881@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Nutley High School at Bergenfield High School (Varsity Girls Girl
+ s Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105068908@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Nutley High School at Bergenfield High School (Varsity Girls Girl
+ s Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105068915@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Nutley High School at TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100566993@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T160000
@@ -113,14 +184,22 @@ SUMMARY:Nutley High School at McNair-Academic High School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100563069@super-essex-conference
+UID:arb:105071434@super-essex-conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T130000
-DTEND;TZID=America/New_York:20270109T150000
-SUMMARY:[Canceled] Arts High School vs Nutley High School (Varsity Girls 
- Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
-STATUS:CANCELLED
+DTSTART;TZID=America/New_York:20270109T093000
+DTEND;TZID=America/New_York:20270109T113000
+SUMMARY:Nutley High School at Montville Township High School (Junior Vars
+ ity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105071193@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T110000
+DTEND;TZID=America/New_York:20270109T130000
+SUMMARY:Nutley High School at Montville Township High School (Varsity Gir
+ ls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100563184@super-essex-conference
@@ -204,6 +283,15 @@ SUMMARY:Cedar Grove High School at Nutley High School (Junior Varsity Gir
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105068985@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T163000
+DTEND;TZID=America/New_York:20270125T183000
+SUMMARY:Nutley High School at Henry P. Becton Regional High School (Varsi
+ ty Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100566924@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T160000
@@ -249,6 +337,15 @@ SUMMARY:Bloomfield High School at Nutley High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105069042@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T170000
+DTEND;TZID=America/New_York:20270206T190000
+SUMMARY:Nutley High School vs Pompton Lakes High School (Varsity Girls Gi
+ rls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100564921@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T160000
@@ -284,12 +381,39 @@ SUMMARY:Newark Tech at Nutley High School (Junior Varsity Girls Girls Bas
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100564691@super-essex-conference
+UID:arb:105069094@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T160000
+DTEND;TZID=America/New_York:20270212T180000
+SUMMARY:Nutley High School vs Lyndhurst High School (Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105069621@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Nutley High School vs Lyndhurst High School (Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105069706@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270216T160000
 DTEND;TZID=America/New_York:20270216T180000
 SUMMARY:Nutley High School vs American History High School (Varsity Girls
   Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105069723@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270218T163000
+DTEND;TZID=America/New_York:20270218T183000
+SUMMARY:Nutley High School at Ridge High School (Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 END:VCALENDAR

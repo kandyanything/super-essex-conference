@@ -32,6 +32,15 @@ SUMMARY:Bloomfield High School vs Memorial High School (Junior Varsity Bo
 DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105046938@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270317T160000
+DTEND;TZID=America/New_York:20270317T180000
+SUMMARY:Cedar Grove High School at Verona High School (Junior Varsity Boy
+ s Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104367356@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270317T163000
@@ -86,6 +95,24 @@ SUMMARY:Bloomfield High School vs Hoboken High School (Junior Varsity Boy
 DESCRIPTION:Junior Varsity Boys Baseball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105046944@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270320T110000
+DTEND;TZID=America/New_York:20270320T130000
+SUMMARY:Verona High School vs Hackensack High School (Varsity Boys Baseba
+ ll)
+DESCRIPTION:Varsity Boys Baseball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105046939@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270320T110000
+DTEND;TZID=America/New_York:20270320T130000
+SUMMARY:Verona High School vs Hackensack High School (Junior Varsity Boys
+  Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104104538@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270320T130000
@@ -104,6 +131,24 @@ SUMMARY:Bloomfield High School vs Wayne Hills High School (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105046983@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270323T160000
+DTEND;TZID=America/New_York:20270323T180000
+SUMMARY:Verona High School vs Hanover Park High School (Junior Varsity Bo
+ ys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105046947@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270323T160000
+DTEND;TZID=America/New_York:20270323T180000
+SUMMARY:Verona High School vs Hanover Park High School (Varsity Boys Base
+ ball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104104654@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270324T161500
@@ -111,6 +156,24 @@ DTEND;TZID=America/New_York:20270324T181500
 SUMMARY:Bloomfield High School vs Lyndhurst High School (Freshman Boys Ba
  seball)
 DESCRIPTION:Freshman Boys Baseball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105046980@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270325T160000
+DTEND;TZID=America/New_York:20270325T180000
+SUMMARY:Belleville High School at Verona High School (Junior Varsity Boys
+  Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105046951@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270325T160000
+DTEND;TZID=America/New_York:20270325T180000
+SUMMARY:Belleville High School at Verona High School (Varsity Boys Baseba
+ ll)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102568314@super-essex-conference
@@ -260,6 +323,15 @@ DTEND;TZID=America/New_York:20270330T180000
 SUMMARY:Nutley High School vs Saint Benedict's Prep (Varsity Boys Basebal
  l)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105046972@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270330T160000
+DTEND;TZID=America/New_York:20270330T180000
+SUMMARY:Verona High School vs West Orange High School (Junior Varsity Boy
+ s Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102566785@super-essex-conference
@@ -763,6 +835,15 @@ SUMMARY:Montclair Kimberley Academy vs West Orange High School (Varsity B
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105046995@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270407T160000
+DTEND;TZID=America/New_York:20270407T180000
+SUMMARY:Nutley High School at Verona High School (Junior Varsity Boys Bas
+ eball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102566452@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T160000
@@ -910,6 +991,15 @@ DTSTART;TZID=America/New_York:20270412T160000
 DTEND;TZID=America/New_York:20270412T180000
 SUMMARY:Livingston High School at Seton Hall Prep (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105047001@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T160000
+DTEND;TZID=America/New_York:20270412T180000
+SUMMARY:Millburn High School at Verona High School (Junior Varsity Boys B
+ aseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102566266@super-essex-conference
@@ -1190,6 +1280,15 @@ DTEND;TZID=America/New_York:20270416T181500
 SUMMARY:Montclair High School at Morris Hills High School (Varsity Boys B
  aseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105047003@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270417T090000
+DTEND;TZID=America/New_York:20270417T110000
+SUMMARY:Verona High School vs West Essex High School (Junior Varsity Boys
+  Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104335674@super-essex-conference
@@ -1668,6 +1767,24 @@ SUMMARY:West Essex High School at Mount Olive Township School District (M
 DESCRIPTION:Middle School Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105047018@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270424T090000
+DTEND;TZID=America/New_York:20270424T110000
+SUMMARY:James Caldwell High School at Verona High School (Junior Varsity 
+ Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105047068@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270424T120000
+DTEND;TZID=America/New_York:20270424T140000
+SUMMARY:James Caldwell High School at Verona High School (Varsity Boys Ba
+ seball)
+DESCRIPTION:Varsity Boys Baseball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102568923@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T160000
@@ -2026,6 +2143,24 @@ SUMMARY:West Essex High School at Pequannock Valley Middle School (Middle
 DESCRIPTION:Middle School Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105047049@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270501T120000
+DTEND;TZID=America/New_York:20270501T140000
+SUMMARY:Verona High School vs Mountain Lakes High School (Varsity Boys Ba
+ seball)
+DESCRIPTION:Varsity Boys Baseball - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105047025@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270501T120000
+DTEND;TZID=America/New_York:20270501T140000
+SUMMARY:Verona High School vs Mountain Lakes High School (Junior Varsity 
+ Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104335982@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270501T160000
@@ -2367,6 +2502,15 @@ SUMMARY:James Caldwell High School at Montclair Kimberley Academy (Varsit
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105047027@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270518T160000
+DTEND;TZID=America/New_York:20270518T180000
+SUMMARY:Livingston High School at Verona High School (Junior Varsity Boys
+  Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102566916@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270518T160000
@@ -2463,5 +2607,23 @@ DTEND;TZID=America/New_York:20270521T180000
 SUMMARY:Bloomfield High School vs Clifton High School (Varsity Boys Baseb
  all)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105047036@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270521T161500
+DTEND;TZID=America/New_York:20270521T181500
+SUMMARY:Verona High School vs Kittatinny Regional High School (Varsity Bo
+ ys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105047031@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270521T161500
+DTEND;TZID=America/New_York:20270521T181500
+SUMMARY:Verona High School vs Kittatinny Regional High School (Junior Var
+ sity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 END:VCALENDAR
