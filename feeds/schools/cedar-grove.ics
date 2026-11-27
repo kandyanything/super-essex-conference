@@ -2623,7 +2623,7 @@ SUMMARY:Cedar Grove High School vs East Side High School (Varsity Girls G
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7818653@super-essex-conference
+UID:ds:43483:7519636@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T160000
 DTEND;TZID=America/New_York:20270114T180000
@@ -3568,6 +3568,15 @@ SUMMARY:Cedar Grove High School at Nutley High School (Varsity Boys Baseb
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105840242@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270424T100000
+DTEND;TZID=America/New_York:20270424T120000
+SUMMARY:Cedar Grove High School at Hackettstown High School (Varsity Boys
+  Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103248103@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270424T110000
@@ -3575,6 +3584,15 @@ DTEND;TZID=America/New_York:20270424T130000
 SUMMARY:Cedar Grove High School vs Arthur L. Johnson High School (Varsity
   Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105840265@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270424T113000
+DTEND;TZID=America/New_York:20270424T133000
+SUMMARY:Cedar Grove High School at Hackettstown High School (Junior Varsi
+ ty Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102569765@super-essex-conference
