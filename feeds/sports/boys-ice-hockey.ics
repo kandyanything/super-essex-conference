@@ -58,22 +58,13 @@ SUMMARY:James Caldwell High School vs Howell High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105766467@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261130T194500
-DTEND;TZID=America/New_York:20261130T214500
-SUMMARY:Millburn High School vs TBD (Varsity Boys Boys Ice Hockey)
-DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 7:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105718923@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261130T194500
 DTEND;TZID=America/New_York:20261130T214500
-SUMMARY:[Canceled] Nutley High School at Millburn High School (Varsity Bo
- ys Boys Ice Hockey)
-DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 7:45 PM
-STATUS:CANCELLED
+SUMMARY:Millburn High School vs Nutley High School (Varsity Boys Boys Ice
+  Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 7:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103044912@super-essex-conference
@@ -577,9 +568,9 @@ UID:arb:104902638@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T163000
 DTEND;TZID=America/New_York:20261217T183000
-SUMMARY:Montclair High School at Ridgewood High School (Junior Varsity Bo
+SUMMARY:Montclair High School vs Ridgewood High School (Junior Varsity Bo
  ys Boys Ice Hockey)
-DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Away - 4:30 PM
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104222953@super-essex-conference
@@ -1816,5 +1807,25 @@ DTEND;TZID=America/New_York:20270205T201500
 SUMMARY:Montclair High School at Central High School (Junior Varsity Boys
   Boys Ice Hockey)
 DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Away - 6:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105848082@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270323T163000
+DTEND;TZID=America/New_York:20270323T183000
+SUMMARY:[Canceled] Verona High School at Cranford High School (Varsity Bo
+ ys Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 4:30 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105848083@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270325T163000
+DTEND;TZID=America/New_York:20270325T183000
+SUMMARY:[Canceled] James Caldwell High School at Cranford High School (Va
+ rsity Boys Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 END:VCALENDAR

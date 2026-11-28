@@ -41300,22 +41300,13 @@ SUMMARY:James Caldwell High School vs Howell High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105766467@super-essex-conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261130T194500
-DTEND;TZID=America/New_York:20261130T214500
-SUMMARY:Millburn High School vs TBD (Varsity Boys Boys Ice Hockey)
-DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 7:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105718923@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261130T194500
 DTEND;TZID=America/New_York:20261130T214500
-SUMMARY:[Canceled] Nutley High School at Millburn High School (Varsity Bo
- ys Boys Ice Hockey)
-DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 7:45 PM
-STATUS:CANCELLED
+SUMMARY:Millburn High School vs Nutley High School (Varsity Boys Boys Ice
+  Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Home - 7:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104520431@super-essex-conference
@@ -43160,7 +43151,7 @@ SUMMARY:West Essex High School at North Arlington High School (Freshman B
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7638357@super-essex-conference
+UID:ds:43483:7818058@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T160000
 DTEND;TZID=America/New_York:20261210T180000
@@ -43376,7 +43367,7 @@ SUMMARY:West Essex High School at North Arlington High School (Varsity Bo
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7638362@super-essex-conference
+UID:ds:43483:7818063@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T173000
 DTEND;TZID=America/New_York:20261210T193000
@@ -45306,7 +45297,7 @@ SUMMARY:Science Park High School at West Orange High School (Junior Varsi
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7818145@super-essex-conference
+UID:ds:43483:7638468@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T173000
 DTEND;TZID=America/New_York:20261215T193000
@@ -46350,9 +46341,9 @@ UID:arb:104902638@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T163000
 DTEND;TZID=America/New_York:20261217T183000
-SUMMARY:Montclair High School at Ridgewood High School (Junior Varsity Bo
+SUMMARY:Montclair High School vs Ridgewood High School (Junior Varsity Bo
  ys Boys Ice Hockey)
-DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Away - 4:30 PM
+DESCRIPTION:Junior Varsity Boys Boys Ice Hockey - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104222953@super-essex-conference
@@ -48190,7 +48181,7 @@ SUMMARY:West Essex High School at Kinnelon High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7692153@super-essex-conference
+UID:ds:43483:7783056@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T161500
 DTEND;TZID=America/New_York:20261221T181500
@@ -50257,7 +50248,7 @@ SUMMARY:Verona High School at Glen Rock High School (Varsity Boys Boys Ic
 DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 8:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7684998@super-essex-conference
+UID:ds:42244:7818370@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T154500
 DTEND;TZID=America/New_York:20270104T174500
@@ -51687,7 +51678,7 @@ SUMMARY:Newark Academy vs Rutgers Prep School (7/8th Boys Basketball)
 DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7818439@super-essex-conference
+UID:ds:42244:7667485@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T154500
 DTEND;TZID=America/New_York:20270107T174500
@@ -51963,7 +51954,7 @@ SUMMARY:West Side High School vs Columbia High School (Freshman Boys Boys
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7626784@super-essex-conference
+UID:ds:43483:7818452@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T160000
 DTEND;TZID=America/New_York:20270107T180000
@@ -52357,7 +52348,7 @@ SUMMARY:West Side High School vs Columbia High School (Junior Varsity Boy
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7818479@super-essex-conference
+UID:ds:43483:7694624@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T173000
 DTEND;TZID=America/New_York:20270107T193000
@@ -55020,7 +55011,7 @@ SUMMARY:West Side High School at James Caldwell High School (Junior Varsi
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7591860@super-essex-conference
+UID:ds:43483:7818608@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T173000
 DTEND;TZID=America/New_York:20270112T193000
@@ -55912,7 +55903,7 @@ SUMMARY:West Orange High School vs James Caldwell High School (Varsity Gi
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43483:7519636@super-essex-conference
+UID:ds:43483:7818653@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T160000
 DTEND;TZID=America/New_York:20270114T180000
@@ -61488,7 +61479,7 @@ SUMMARY:Weequahic High School vs Newark School of Global Studies (Varsity
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7566538@super-essex-conference
+UID:ds:42244:7818917@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T160000
 DTEND;TZID=America/New_York:20270126T180000
@@ -61857,7 +61848,7 @@ SUMMARY:Newark School of Global Studies vs University High School (Junior
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7818954@super-essex-conference
+UID:ds:42244:7752498@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T173000
 DTEND;TZID=America/New_York:20270126T193000
@@ -62359,7 +62350,7 @@ SUMMARY:Newark Academy vs Frelinghuysen Middle School (7/8th Boys Basketb
 DESCRIPTION:7/8th Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7685058@super-essex-conference
+UID:ds:42244:7818981@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T154500
 DTEND;TZID=America/New_York:20270128T174500
@@ -62921,7 +62912,7 @@ SUMMARY:Cedar Grove High School vs New Providence High School (Varsity Bo
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:42244:7819001@super-essex-conference
+UID:ds:42244:7747906@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T100000
 DTEND;TZID=America/New_York:20270130T120000
@@ -69000,6 +68991,15 @@ SUMMARY:Cedar Grove High School vs Morris Hills High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105843505@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270317T163000
+DTEND;TZID=America/New_York:20270317T183000
+SUMMARY:James Caldwell High School vs Rumson-Fair Haven Regional High Sch
+ ool (Varsity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104297611@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270317T163000
@@ -69016,6 +69016,15 @@ DTEND;TZID=America/New_York:20270317T193000
 SUMMARY:Newark School of Global Studies at Newark School of Data Science 
  and Technology (Junior Varsity Boys Boys Volleyball)
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105843564@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270317T180000
+DTEND;TZID=America/New_York:20270317T200000
+SUMMARY:James Caldwell High School vs Rumson-Fair Haven Regional High Sch
+ ool (Junior Varsity Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104615579@super-essex-conference
@@ -69149,6 +69158,15 @@ DTEND;TZID=America/New_York:20270320T120000
 SUMMARY:Glen Ridge High School at Saint Joseph High School - Metuchen (Va
  rsity Boys Boys Lacrosse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105843509@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270320T110000
+DTEND;TZID=America/New_York:20270320T130000
+SUMMARY:James Caldwell High School vs Manasquan High School (Varsity Boys
+  Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105046944@super-essex-conference
@@ -69337,6 +69355,16 @@ DTEND;TZID=America/New_York:20270323T183000
 SUMMARY:Cedar Grove High School at James Caldwell High School (Varsity Gi
  rls Girls Lacrosse)
 DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105848082@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270323T163000
+DTEND;TZID=America/New_York:20270323T183000
+SUMMARY:[Canceled] Verona High School at Cranford High School (Varsity Bo
+ ys Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 4:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105815312@super-essex-conference
@@ -69661,6 +69689,16 @@ SUMMARY:East Side High School vs American History High School (Varsity Gi
 DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105848083@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270325T163000
+DTEND;TZID=America/New_York:20270325T183000
+SUMMARY:[Canceled] James Caldwell High School at Cranford High School (Va
+ rsity Boys Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 4:30 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105815325@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270325T163000
@@ -69931,6 +69969,24 @@ SUMMARY:East Side High School at Morristown High School (Varsity Boys Bas
 DESCRIPTION:Varsity Boys Baseball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105843553@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270327T110000
+DTEND;TZID=America/New_York:20270327T130000
+SUMMARY:James Caldwell High School vs Madison High School (Varsity Boys B
+ oys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105843796@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270327T110000
+DTEND;TZID=America/New_York:20270327T130000
+SUMMARY:West Essex High School vs Morris Knolls High School (Varsity Boys
+  Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105290691@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270327T113000
@@ -69947,6 +70003,24 @@ DTEND;TZID=America/New_York:20270327T133000
 SUMMARY:Nutley High School at Bergen County Technical High School (Junior
   Varsity Boys Boys Lacrosse)
 DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105843636@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270327T123000
+DTEND;TZID=America/New_York:20270327T143000
+SUMMARY:James Caldwell High School vs Madison High School (Junior Varsity
+  Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105843817@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270327T123000
+DTEND;TZID=America/New_York:20270327T143000
+SUMMARY:West Essex High School vs Morris Knolls High School (Junior Varsi
+ ty Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105138481@super-essex-conference
@@ -70629,6 +70703,24 @@ DTEND;TZID=America/New_York:20270331T060000
 SUMMARY:Belleville High School at Nutley High School (Varsity Boys Boys T
  ennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105843798@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270331T110000
+DTEND;TZID=America/New_York:20270331T130000
+SUMMARY:West Essex High School vs Kinnelon High School (Varsity Boys Boys
+  Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105843820@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270331T123000
+DTEND;TZID=America/New_York:20270331T143000
+SUMMARY:West Essex High School vs Kinnelon High School (Junior Varsity Bo
+ ys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102474707@super-essex-conference
@@ -71681,6 +71773,15 @@ SUMMARY:Cedar Grove High School vs Vernon Township High School (Varsity B
 DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105843557@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270403T110000
+DTEND;TZID=America/New_York:20270403T130000
+SUMMARY:James Caldwell High School vs Glen Rock High School (Varsity Boys
+  Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105288897@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270403T113000
@@ -71688,6 +71789,15 @@ DTEND;TZID=America/New_York:20270403T133000
 SUMMARY:Malcolm X Shabazz High School at Newark School of Global Studies 
  (Junior Varsity Boys Boys Volleyball)
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105843637@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270403T123000
+DTEND;TZID=America/New_York:20270403T143000
+SUMMARY:James Caldwell High School vs Glen Rock High School (Junior Varsi
+ ty Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104335415@super-essex-conference
@@ -72319,6 +72429,15 @@ SUMMARY:Verona High School at Jefferson Township High School (Varsity Gir
 DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105843660@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T163000
+DTEND;TZID=America/New_York:20270406T183000
+SUMMARY:James Caldwell High School vs Pope John XXIII High School (Varsit
+ y Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105653317@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270406T163000
@@ -72335,6 +72454,15 @@ DTEND;TZID=America/New_York:20270406T193000
 SUMMARY:Verona High School at Jefferson Township High School (Junior Vars
  ity Girls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105843641@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T180000
+DTEND;TZID=America/New_York:20270406T200000
+SUMMARY:James Caldwell High School vs Pope John XXIII High School (Junior
+  Varsity Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105652864@super-essex-conference
@@ -73543,6 +73671,24 @@ SUMMARY:Belleville High School at Hoboken High School (Varsity Boys Baseb
 DESCRIPTION:Varsity Boys Baseball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105843800@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270410T140000
+DTEND;TZID=America/New_York:20270410T160000
+SUMMARY:West Essex High School vs West Morris Central High School (Varsit
+ y Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105843823@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270410T153000
+DTEND;TZID=America/New_York:20270410T173000
+SUMMARY:West Essex High School vs West Morris Central High School (Junior
+  Varsity Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105144832@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270411T080000
@@ -74010,6 +74156,15 @@ SUMMARY:James Caldwell High School at Scotch Plains-Fanwood High School (
 DESCRIPTION:Freshman Boys Boys Lacrosse - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105843802@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T163000
+DTEND;TZID=America/New_York:20270412T183000
+SUMMARY:West Essex High School vs Saint Peter's Prep High School (Varsity
+  Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102593222@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T163000
@@ -74163,6 +74318,15 @@ SUMMARY:West Orange High School at Arthur L. Johnson High School (Junior
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105843828@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T180000
+DTEND;TZID=America/New_York:20270412T200000
+SUMMARY:West Essex High School vs Saint Peter's Prep High School (Junior 
+ Varsity Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105168346@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270413T040000
@@ -74304,6 +74468,15 @@ SUMMARY:Glen Ridge High School at West Morris Central High School (Varsit
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105843566@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270413T163000
+DTEND;TZID=America/New_York:20270413T183000
+SUMMARY:James Caldwell High School vs Cranford High School (Varsity Boys 
+ Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104755052@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270413T163000
@@ -74337,6 +74510,15 @@ DTEND;TZID=America/New_York:20270413T193000
 SUMMARY:Newark School of Global Studies at Technology High School (Junior
   Varsity Boys Boys Volleyball)
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105843643@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270413T180000
+DTEND;TZID=America/New_York:20270413T200000
+SUMMARY:James Caldwell High School vs Cranford High School (Junior Varsit
+ y Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103984136@super-essex-conference
@@ -74816,6 +74998,15 @@ SUMMARY:Bloomfield High School vs Paramus High School (Freshman Boys Base
 DESCRIPTION:Freshman Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105843579@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270415T163000
+DTEND;TZID=America/New_York:20270415T183000
+SUMMARY:James Caldwell High School vs West Morris Central High School (Va
+ rsity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104627907@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270415T170000
@@ -74823,6 +75014,15 @@ DTEND;TZID=America/New_York:20270415T190000
 SUMMARY:Cedar Grove High School vs Ramapo High School (Varsity Girls Soft
  ball)
 DESCRIPTION:Varsity Girls Softball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105843645@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270415T180000
+DTEND;TZID=America/New_York:20270415T200000
+SUMMARY:James Caldwell High School vs West Morris Central High School (Ju
+ nior Varsity Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105451057@super-essex-conference
@@ -75621,6 +75821,15 @@ SUMMARY:Science Park High School vs Technology High School (Varsity Girls
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105843803@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270420T163000
+DTEND;TZID=America/New_York:20270420T183000
+SUMMARY:Columbia High School at West Essex High School (Varsity Boys Boys
+  Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104297624@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270420T163000
@@ -75628,6 +75837,15 @@ DTEND;TZID=America/New_York:20270420T183000
 SUMMARY:James Caldwell High School at Seton Hall Prep (Varsity Boys Boys 
  Lacrosse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105843831@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270420T180000
+DTEND;TZID=America/New_York:20270420T200000
+SUMMARY:Columbia High School at West Essex High School (Junior Varsity Bo
+ ys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103844899@super-essex-conference
@@ -76044,6 +76262,15 @@ SUMMARY:Glen Ridge High School at Ramsey High School (Varsity Boys Boys L
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105843571@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T163000
+DTEND;TZID=America/New_York:20270422T183000
+SUMMARY:James Caldwell High School vs Bernards High School (Varsity Boys 
+ Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105452817@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270422T163000
@@ -76060,6 +76287,15 @@ DTEND;TZID=America/New_York:20270422T200000
 SUMMARY:Glen Ridge High School at Ramsey High School (Junior Varsity Boys
   Boys Lacrosse)
 DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105843647@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T180000
+DTEND;TZID=America/New_York:20270422T200000
+SUMMARY:James Caldwell High School vs Bernards High School (Junior Varsit
+ y Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102566669@super-essex-conference
@@ -80168,6 +80404,15 @@ SUMMARY:West Orange High School vs Columbia High School (Varsity Boys Bas
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105843574@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270518T163000
+DTEND;TZID=America/New_York:20270518T183000
+SUMMARY:James Caldwell High School vs West Essex High School (Varsity Boy
+ s Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104297647@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270518T163000
@@ -80194,6 +80439,15 @@ DTEND;TZID=America/New_York:20270518T193000
 SUMMARY:Millburn High School at Verona High School (Junior Varsity Boys B
  oys Lacrosse)
 DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105843648@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270518T180000
+DTEND;TZID=America/New_York:20270518T200000
+SUMMARY:James Caldwell High School vs West Essex High School (Junior Vars
+ ity Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105478016@super-essex-conference

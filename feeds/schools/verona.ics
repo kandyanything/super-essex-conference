@@ -3889,6 +3889,16 @@ SUMMARY:Verona High School vs Hanover Park High School (Varsity Boys Base
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105848082@super-essex-conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270323T163000
+DTEND;TZID=America/New_York:20270323T183000
+SUMMARY:[Canceled] Verona High School at Cranford High School (Varsity Bo
+ ys Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Boys Ice Hockey - Away - 4:30 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105815312@super-essex-conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270323T163000
